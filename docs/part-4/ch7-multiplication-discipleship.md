@@ -28,7 +28,7 @@ Create and implement opportunities for leadership development with regard to spi
 Define, set benchmarks, and implement strategies for local church health in consultation with district superintendents.
 
 ### ¶2310:6 {#p2310-6}
-In consultation with district superintendents and pastors who are involved in urban church ministry, develop and refine, as needed, specific criteria for designating urban missional churches from among those who apply (523).
+In consultation with district superintendents and pastors who are involved in urban church ministry, develop and refine, as needed, specific criteria for designating urban missional churches from among those who apply ([¶523](/part-2/ch1-organization.md#p523)).
 
 ### ¶2310:7 {#p2310-7}
 Design and implement relevant ministries with and for women.

@@ -18,7 +18,7 @@
  The secretary of the district board of ministerial development shall keep suitable and permanent records which shall be the property of the district and shall be preserved as directed by the district superintendent and the district board of administration. The secretary of the board shall keep:
 
 ### ¶1387.1 {#p1387-1}
-A correct and complete journal of the proceedings of the board meetings, an official copy of which shall be submitted to the district secretary for permanent filing (1332:7).
+A correct and complete journal of the proceedings of the board meetings, an official copy of which shall be submitted to the district secretary for permanent filing ([¶1332:7](/part-3/ch5-administration.md#p1332-7)).
 
 ### ¶1387.2 {#p1387-2}
 A record of the ministerial studies and training of each licentiate and ministerial student, including the work done in a university, college, theological school, or by correspondence with the Ministerial Study Course Agency. A record of all credits earned shall be recorded at least once each year in cooperation with the Ministerial Study Course Agency as set forth in 2388:1, and shall be available to the board in considering its recommendations to the district conference.
@@ -46,19 +46,19 @@ Evidence of having the qualifications for the ministry to which the candidate fe
 The examination shall result in recommendations to the district conference for those whom the district board of ministerial development judges to be qualified for said ministry ([¶1381](#p1381); [¶1390:5](#p1390-5)).
 
 ### ¶1390.2 {#p1390-2}
-Consider each person recommended by a local church conference (655:7) or circuit conference (528:2) or local board of administration (655:7) for the granting of a license as a ministerial student (1240:4; 3015:1) and to recommend to the district conference for such license those who are deemed worthy (1180:27b, c; 3350:2); to encourage all such ministerial students to enroll for ministerial training in an approved school of The Wesleyan Church (2365; 2382); to supervise and counsel them, keeping a record of their ministerial studies (1387:2) and cooperating with the director of the Ministerial Study Course Agency in supervising those enrolled in courses under the Agency (2388; 3170-3210).
+Consider each person recommended by a local church conference ([¶655:7](/part-2/ch3-conference.md#p655-7)) or circuit conference ([¶528:2](/part-2/ch1-organization.md#p528-2)) or local board of administration ([¶655:7](/part-2/ch3-conference.md#p655-7)) for the granting of a license as a ministerial student ([¶1240:4](/part-3/ch3-board.md#p1240-4); [¶3015:1](/part-6/ch1-ministerial-orders.md#p3015-1)) and to recommend to the district conference for such license those who are deemed worthy (1180:27b, c; [¶3350:2](/part-6/ch3-ministerial-appointments.md#p3350-2)); to encourage all such ministerial students to enroll for ministerial training in an approved school of The Wesleyan Church ([¶2365](/part-4/ch8-education-clergy.md#p2365); [¶2382](/part-4/ch8-education-clergy.md#p2382)); to supervise and counsel them, keeping a record of their ministerial studies ([¶1387:2](#p1387-2)) and cooperating with the director of the Ministerial Study Course Agency in supervising those enrolled in courses under the Agency ([¶2388](/part-4/ch8-education-clergy.md#p2388); 3170-3210).
 
 ### ¶1390:3 {#p1390-3}
-Consider and examine any person who desires to be received into the district from another denomination, and to be recognized as an ordained, commissioned or licensed minister, or commissioned special worker, and to recommend to the district conference for reception as in process of transfer, and subsequently for recognition as in full standing, only such a person as it deems properly qualified according to The Discipline (3104; 3470); and, in the interim of district conference sessions, to make such recommendation to the district board of administration (1233:33).
+Consider and examine any person who desires to be received into the district from another denomination, and to be recognized as an ordained, commissioned or licensed minister, or commissioned special worker, and to recommend to the district conference for reception as in process of transfer, and subsequently for recognition as in full standing, only such a person as it deems properly qualified according to The Discipline ([¶3104](/part-6/ch1-ministerial-orders.md#p3104); [¶3470](/part-6/ch4-special-lay-ministries.md#p3470)); and, in the interim of district conference sessions, to make such recommendation to the district board of administration ([¶1233:33](/part-3/ch3-board.md#p1233-33)).
 
 ### ¶1390:4 {#p1390-4}
 Consider and examine any person applying for reinstatement or restoration of ordination, commission, or license and to recommend to the district conference only such a person as it deems properly qualified according to The Discipline (3120-3124; Gen. Bd. Policy on Ch. Disc. 5230-5248).
 
 ### ¶1390:5 {#p1390-5}
-Present to the district conference, as a separate report, a recommendation for the election of a candidate to ordination as an ordained minister (1180:28; 3070:5), or commission as a minister (3059), or the reinstatement or restoration of ministerial credentials (3120-3124; Gen. Bd. Policy on Ch. Disc. 5230-5248); and to present to the district conference a combined report of all other recommendations concerning the commissioning, licensing, and recognition of ministers and special workers, and the licensing of ministerial students (1180:27; 3015:1).
+Present to the district conference, as a separate report, a recommendation for the election of a candidate to ordination as an ordained minister ([¶1180:28](/part-3/ch2-conference.md#p1180-28); [¶3070:5](/part-6/ch1-ministerial-orders.md#p3070-5)), or commission as a minister ([¶3059](/part-6/ch1-ministerial-orders.md#p3059)), or the reinstatement or restoration of ministerial credentials (3120-3124; Gen. Bd. Policy on Ch. Disc. 5230-5248); and to present to the district conference a combined report of all other recommendations concerning the commissioning, licensing, and recognition of ministers and special workers, and the licensing of ministerial students ([¶1180:27](/part-3/ch2-conference.md#p1180-27); [¶3015:1](/part-6/ch1-ministerial-orders.md#p3015-1)).
 
 ### ¶1390:6 {#p1390-6}
-Serve, with the exception of the lay members as a Council of Ordination (1405); and to perform such other duties as may be assigned by the district conference.
+Serve, with the exception of the lay members as a Council of Ordination ([¶1405](#p1405)); and to perform such other duties as may be assigned by the district conference.
 
 ### Related to the Annual Service Reports
 
@@ -66,26 +66,26 @@ Serve, with the exception of the lay members as a Council of Ordination (1405); 
  Receive, on behalf of the district conference, an annual service report ([¶1402](#p1402)) from each ordained, commissioned, or licensed minister, ministerial student, and commissioned or licensed special worker; to review such reports and pass on each one as follows ([¶1180:28](/part-3/ch2-conference.md#p1180-28)):
 
 #### ¶1390:7a {#p1390-7a}
-A report which shows that the work has been done according to The Discipline and that the annual statistical report (1352:1) has been properly submitted shall be marked as approved and returned to the person submitting it (1390:9).
+A report which shows that the work has been done according to The Discipline and that the annual statistical report (1352:1) has been properly submitted shall be marked as approved and returned to the person submitting it ([¶1390:9](#p1390-9)).
 
 #### ¶1390:7b {#p1390-7b}
-A report in which there are unsatisfactory answers, or which shows that the work has not been done according to The Discipline, or that the annual statistical report (1352:1) has not been properly submitted, shall be reviewed with the person submitting the report. If reasons for such irregularities are not satisfactory to the district board of ministerial development, the report shall be marked as unsatisfactory and returned to the person submitting it (1390:9).
+A report in which there are unsatisfactory answers, or which shows that the work has not been done according to The Discipline, or that the annual statistical report (1352:1) has not been properly submitted, shall be reviewed with the person submitting the report. If reasons for such irregularities are not satisfactory to the district board of ministerial development, the report shall be marked as unsatisfactory and returned to the person submitting it ([¶1390:9](#p1390-9)).
 
 ### ¶1390:8 {#p1390-8}
-Investigate the reason for the failure to submit an annual service report on the part of those persons required to do so (1402; 3015:4), and to take appropriate action as set forth in 3040:1; 3059:4c; 3089:3; 3460; and 3470.
+Investigate the reason for the failure to submit an annual service report on the part of those persons required to do so ([¶1402](#p1402); [¶3015:4](/part-6/ch1-ministerial-orders.md#p3015-4)), and to take appropriate action as set forth in 3040:1; 3059:4c; 3089:3; 3460; and 3470.
 
 ### ¶1390:9 {#p1390-9}
-Present a report (1381) to the district conference concerning the results of the examination of the annual service reports, listing all members of the district responsible to submit such reports as to whether their reports were approved, unsatisfactory, or not received. The district board of ministerial development shall report to the district conference concerning a person whose annual service report has been found unsatisfactory (1390:7b) and it shall require a two-thirds vote of confidence by the district conference to approve such a person for continued appointment.
+Present a report ([¶1381](#p1381)) to the district conference concerning the results of the examination of the annual service reports, listing all members of the district responsible to submit such reports as to whether their reports were approved, unsatisfactory, or not received. The district board of ministerial development shall report to the district conference concerning a person whose annual service report has been found unsatisfactory (1390:7b) and it shall require a two-thirds vote of confidence by the district conference to approve such a person for continued appointment.
 
 ### Related to Appointments and District Conference Relations
 
 ### ¶1390:10 {#p1390-10}
-Submit reports to the district board of administration concerning the following matters related to district conference appointments and relations: the results of the examination of the annual service reports (1390:8-9); the availability for appointment, and any desired changes in appointment or district conference relations, as recorded on the annual service reports; those persons qualified for a district ministerial license, the granting of which shall become effective upon their appointment (1180:24c, 27b; 1233:10; 3033:7; 3040:3); those other persons qualified for a license, commission, reception from another district or denomination, or restoration (1180:24, 27; 1233:10).
+Submit reports to the district board of administration concerning the following matters related to district conference appointments and relations: the results of the examination of the annual service reports (1390:8-9); the availability for appointment, and any desired changes in appointment or district conference relations, as recorded on the annual service reports; those persons qualified for a district ministerial license, the granting of which shall become effective upon their appointment (1180:24c, 27b; [¶1233:10](/part-3/ch3-board.md#p1233-10); [¶3033:7](/part-6/ch1-ministerial-orders.md#p3033-7); [¶3040:3](/part-6/ch1-ministerial-orders.md#p3040-3)); those other persons qualified for a license, commission, reception from another district or denomination, or restoration (1180:24, 27; [¶1233:10](/part-3/ch3-board.md#p1233-10)).
 
 ### Related to Ministerial Development
 
 ### ¶1390.11 {#p1390-11}
-Cooperate with the district superintendent (1310:24) and the district board of administration (1233:25) in providing opportunities for the personal and professional growth of ministers within the district. The activities of the district boards of ministerial development may include individual or group interviews, assessments, growth contracts, seminars, or other means of assisting ministers to achieve their full potential for ministry.
+Cooperate with the district superintendent ([¶1310:24](/part-3/ch5-administration.md#p1310-24)) and the district board of administration ([¶1233:25](/part-3/ch3-board.md#p1233-25)) in providing opportunities for the personal and professional growth of ministers within the district. The activities of the district boards of ministerial development may include individual or group interviews, assessments, growth contracts, seminars, or other means of assisting ministers to achieve their full potential for ministry.
 
 ## B. Annual Service Reports
 

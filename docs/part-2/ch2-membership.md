@@ -23,7 +23,7 @@
 Membership in The Wesleyan Church is the entry-level, basic relationship with the Church for believers who are willing to participate in the common life of the Church and enter into the process of discipleship through the local church. The Wesleyan Church also makes provision for young believers to be a part of the Church through student membership.
 
 ### ¶552.2 {#p552-2}
-Leadership. Membership is the basic standard required for designated leadership positions in The Wesleyan Church at local, district, and General Church levels, as well as for all credentialed ministers (552:3). Leaders are expected to live exemplary lives and to serve as models for others to follow. Persons who are elected to serve the Church in leadership positions are annually required to affirm and follow the Articles of Religion, the Guides and Helps to Holy Living, and the Elementary Principles; be faithful in local church attendance; practice biblical stewardship; participate in active witness and service for Christ; maintain unity in the church; and agree to give proper accountability to those who are assigned spiritual authority over them by The Discipline.
+Leadership. Membership is the basic standard required for designated leadership positions in The Wesleyan Church at local, district, and General Church levels, as well as for all credentialed ministers ([¶552:3](#p552-3)). Leaders are expected to live exemplary lives and to serve as models for others to follow. Persons who are elected to serve the Church in leadership positions are annually required to affirm and follow the Articles of Religion, the Guides and Helps to Holy Living, and the Elementary Principles; be faithful in local church attendance; practice biblical stewardship; participate in active witness and service for Christ; maintain unity in the church; and agree to give proper accountability to those who are assigned spiritual authority over them by The Discipline.
 
 ## ¶552.3 {#p552-3}
  Leadership positions in the local church that require a person to be a member who meets the qualifications ([¶260-268](#p260-268); [¶558](#p558)) include:
@@ -32,7 +32,7 @@ Leadership. Membership is the basic standard required for designated leadership 
 any person in a credentialed ministry (3250–3490)
 
 #### ¶552.3.b {#p552-3-b}
-local board of administration member (752)
+local board of administration member ([¶752](/part-2/ch5-local-board.md#p752))
 
 #### ¶552.3.c {#p552-3-c}
 trustee (850)
@@ -66,16 +66,16 @@ Sunday school superintendent or spiritual formation director (if any)
  Persons to be admitted to membership in The Wesleyan Church shall be those who meet the conditions set forth in the Constitution (297:1-4).
 
 ### ¶553.1 {#p553-1}
-Candidates for membership shall be examined by the local board of administration (782:8; 835-837), to determine whether they meet the requirements of the Constitution concerning their experience of regeneration, Christian baptism, their willingness to be instructed in and acceptance of the Articles of Religion, Elementary Principles, and the authority of The Discipline in matters of church government, and their willingness to enter into a membership and discipleship relationship with The Wesleyan Church through the local church.
+Candidates for membership shall be examined by the local board of administration ([¶782:8](/part-2/ch5-local-board.md#p782-8); 835-837), to determine whether they meet the requirements of the Constitution concerning their experience of regeneration, Christian baptism, their willingness to be instructed in and acceptance of the Articles of Religion, Elementary Principles, and the authority of The Discipline in matters of church government, and their willingness to enter into a membership and discipleship relationship with The Wesleyan Church through the local church.
 
 ### ¶553.2 {#p553-2}
-Candidates for membership who have satisfactorily passed the examination by the local board of administration, shall be voted upon by the local church conference unless the local church conference has delegated this responsibility to the local board of administration (567; 655:1). In either case, it shall require a majority vote of those present and voting to receive; and if objections are urged against the reception of a member, it shall require a two- thirds vote of those present and voting.
+Candidates for membership who have satisfactorily passed the examination by the local board of administration, shall be voted upon by the local church conference unless the local church conference has delegated this responsibility to the local board of administration ([¶567](#p567); [¶655:1](/part-2/ch3-conference.md#p655-1)). In either case, it shall require a majority vote of those present and voting to receive; and if objections are urged against the reception of a member, it shall require a two- thirds vote of those present and voting.
 
 ### ¶553.3 {#p553-3}
 Candidates for membership will be asked to affirm their commitment to their experience of regeneration, Christian baptism, their acceptance of the Articles of Religion, Elementary Principles, and the authority of The Wesleyan Church in matters of church government, and their willingness to continue a membership and discipleship accountability relationship with The Wesleyan Church.
 
 ### ¶553.4 {#p553-4}
-Persons who have been duly accepted for membership as explained in 553:2, should be received into membership in a public service, in which they shall make their confession and vows public, (5565), and be given the right hand of fellowship by the pastor or the representative of the pastor.
+Persons who have been duly accepted for membership as explained in 553:2, should be received into membership in a public service, in which they shall make their confession and vows public, ([¶5565](/part-10/ch2-reception.md#p5565)), and be given the right hand of fellowship by the pastor or the representative of the pastor.
 
 ## ¶555 {#p555}
  The rights of membership are set forth in the Constitution ([¶302](/part-1/ch4-constitution.md#p302)). The judicial process for dealing with any member charged with failure to uphold the Articles of Religion are located in the Judiciary section of *The Discipline* ([¶5000-5004](#p5000-5004)) and in the *General Board Policy on Church Discipline and Ministerial Restoration*.

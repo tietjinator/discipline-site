@@ -9,7 +9,7 @@
   The district shall have the following officers and personnel, elected by the district conference:
 administration, board of ([¶1200-1233](#p1200-1233))
 delegates to General Conference ([¶1032](#p1032); [¶1180:4](/part-3/ch2-conference.md#p1180-4); [¶1503-1526](#p1503-1526))
-district secretary ([¶1330-1332](#p1330-1332))—or this office may be combined as district secretary-treasurer (1180:33)
+district secretary ([¶1330-1332](#p1330-1332))—or this office may be combined as district secretary-treasurer ([¶1180:33](/part-3/ch2-conference.md#p1180-33))
 district superintendent ([¶1300–1310](#p1300–1310))
 trustees, district board of (if any, subject to [¶1180:20](/part-3/ch2-conference.md#p1180-20); [¶1360](/part-3/ch5-administration.md#p1360); [¶1365](/part-3/ch5-administration.md#p1365); [¶4855](/part-8/ch3-district-property.md#p4855))
 

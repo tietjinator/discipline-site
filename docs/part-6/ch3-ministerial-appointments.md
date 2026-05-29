@@ -14,19 +14,19 @@
  A district conference ([¶503](/part-2/ch1-organization.md#p503); 1180:24b; 1240:5:E), or, in the interim of its sessions, the district superintendent and the district board of administration ([¶1233:29](/part-3/ch3-board.md#p1233-29), [¶36](/part-3/ch3-board.md#p1233-36); 1310:20-21) shall have the power to appoint a supply pastor, who shall serve subject to the following regulations:
 
 ### ¶3260:1 {#p3260-1}
-A supply pastor may be a Wesleyan ordained minister or commissioned or licensed minister serving under some other appointment or an ordained minister on loan from one district to another (503; 1240:1:A:2b; 3100:2); a licensed special or commissioned worker (3460–3470); a minister in process of transfer from another denomination (3104); a minister who belongs to another denomination, a ministerial student, a lay minister, or a lay member.
+A supply pastor may be a Wesleyan ordained minister or commissioned or licensed minister serving under some other appointment or an ordained minister on loan from one district to another ([¶503](/part-2/ch1-organization.md#p503); 1240:1:A:2b; [¶3100:2](/part-6/ch1-ministerial-orders.md#p3100-2)); a licensed special or commissioned worker (3460–3470); a minister in process of transfer from another denomination ([¶3104](/part-6/ch1-ministerial-orders.md#p3104)); a minister who belongs to another denomination, a ministerial student, a lay minister, or a lay member.
 
 ### ¶3260:2 {#p3260-2}
-A supply pastor shall be appointed temporarily to fill the pulpit and to provide a spiritual ministry, but shall not have authority to administer the sacraments or to perform marriages unless that authority adheres on some other basis, and shall not perform the administrative function of the pastor except in filing of reports unless authorized to do so by the district superintendent (1310:8, 25). If a supply pastor is serving a congregation isolated from Wesleyan ministers, making it difficult to provide for administration of the sacraments (725:6), the district superintendent may grant the supply pastor special authorization to administer them.
+A supply pastor shall be appointed temporarily to fill the pulpit and to provide a spiritual ministry, but shall not have authority to administer the sacraments or to perform marriages unless that authority adheres on some other basis, and shall not perform the administrative function of the pastor except in filing of reports unless authorized to do so by the district superintendent (1310:8, 25). If a supply pastor is serving a congregation isolated from Wesleyan ministers, making it difficult to provide for administration of the sacraments ([¶725:6](/part-2/ch4-pastors.md#p725-6)), the district superintendent may grant the supply pastor special authorization to administer them.
 
 ### ¶3260:3 {#p3260-3}
 A supply pastor’s church membership shall not be automatically transferred to the church of service.
 
 ### ¶3260:4 {#p3260-4}
-A supply pastor shall be granted a certificate of authorization to supply on the form provided in 6240, and shall be a nonvoting member of the district conference unless qualifying as a voting member by some other right (1090:7).
+A supply pastor shall be granted a certificate of authorization to supply on the form provided in 6240, and shall be a nonvoting member of the district conference unless qualifying as a voting member by some other right ([¶1090:7](/part-3/ch2-conference.md#p1090-7)).
 
 ### ¶3260:5 {#p3260-5}
-A supply pastor may be removed or replaced at any time by the district board of administration (1233:36; 1310:20-21; Gen. Bd. Policy on Ch. Disc. 5200:4; 5215:1).
+A supply pastor may be removed or replaced at any time by the district board of administration ([¶1233:36](/part-3/ch3-board.md#p1233-36); 1310:20-21; Gen. Bd. Policy on Ch. Disc. 5200:4; 5215:1).
 
 ## ¶3261 {#p3261}
  A district conference ([¶503](/part-2/ch1-organization.md#p503); 1180:24b), or, in the interim of its sessions, the district superintendent and the district board of administration ([¶1233:29](/part-3/ch3-board.md#p1233-29), [¶36](/part-3/ch3-board.md#p1233-36); 1310:20-21) shall have the power to appoint an interim pastor, who shall serve subject to the following regulations:
@@ -35,16 +35,16 @@ A supply pastor may be removed or replaced at any time by the district board of 
 A pastoral charge receiving an interim pastor must participate in an assessment process led by the district superintendent or a representative designated by the district superintendent to evaluate local church health and pastoral leadership needs.
 
 ### ¶3261:2 {#p3261-2}
-An interim pastor shall be appointed for a specific period mutually agreed upon by the pastor, the local board of administration, and the district superintendent (usually not more than 24 months). This period may be modified based upon the recommendation of the district superintendent and the approval of the district board of administration. An interim pastor may be removed or replaced at any time by a majority vote of the district board of administration (1233:36; 1310:20-21; Gen. Bd. Policy on Ch. Disc. 5200:5; 5215:1).
+An interim pastor shall be appointed for a specific period mutually agreed upon by the pastor, the local board of administration, and the district superintendent (usually not more than 24 months). This period may be modified based upon the recommendation of the district superintendent and the approval of the district board of administration. An interim pastor may be removed or replaced at any time by a majority vote of the district board of administration ([¶1233:36](/part-3/ch3-board.md#p1233-36); 1310:20-21; Gen. Bd. Policy on Ch. Disc. 5200:5; 5215:1).
 
 ### ¶3261:3 {#p3261-3}
-An interim pastor may be fully empowered to exercise administrative authority in the local church, if a Wesleyan ordained, commissioned, or licensed minister, and shall fulfill all the functions of the pastor or senior pastor of a pastoral charge or circuit (725), which may include presiding as chair of the local church conference and the local board of administration (except as provided in 635 and 770-773).
+An interim pastor may be fully empowered to exercise administrative authority in the local church, if a Wesleyan ordained, commissioned, or licensed minister, and shall fulfill all the functions of the pastor or senior pastor of a pastoral charge or circuit ([¶725](/part-2/ch4-pastors.md#p725)), which may include presiding as chair of the local church conference and the local board of administration (except as provided in 635 and 770-773).
 
 ### ¶3261:4 {#p3261-4}
 An interim pastor’s local church membership and district ministerial membership shall not be automatically transferred to the church of service, given the temporary nature of the appointment. However, an interim pastor may personally request transfer of local church membership and district ministerial membership if desired.
 
 ### ¶3261:1 {#p3261-1-x2}
-An interim pastor may be a nonvoting member of the district conference if ministerial membership is maintained in another district (1090), or unless qualifying as a voting member by some other right (1083).
+An interim pastor may be a nonvoting member of the district conference if ministerial membership is maintained in another district ([¶1090](/part-3/ch2-conference.md#p1090)), or unless qualifying as a voting member by some other right ([¶1083](/part-3/ch2-conference.md#p1083)).
 
 ### 2. Evangelists
 
@@ -83,10 +83,10 @@ Appointment and certification as a general evangelist shall only be continued in
  Ordained, commissioned, or licensed ministers may serve as educators in educational institutions, or itinerant Bible teaching ministers to local churches and districts, and be appointed as follows:
 
 ### ¶3310:1 {#p3310-1}
-When an ordained, commissioned, or licensed minister has been employed to serve in a ministerial capacity on the administrative staff or faculty of one of the educational institutions of The Wesleyan Church, or of one of the seminaries approved by The Wesleyan Seminary Foundation, the district conference shall list the minister as if it had made the appointment. An ordained minister so serving shall be placed upon the appointed list (1240:1:A:4d) and shall be a voting member of the district conference (1083:1). A commissioned or licensed minister so serving shall be a nonvoting member of the district conference (1090:3).
+When an ordained, commissioned, or licensed minister has been employed to serve in a ministerial capacity on the administrative staff or faculty of one of the educational institutions of The Wesleyan Church, or of one of the seminaries approved by The Wesleyan Seminary Foundation, the district conference shall list the minister as if it had made the appointment. An ordained minister so serving shall be placed upon the appointed list (1240:1:A:4d) and shall be a voting member of the district conference ([¶1083:1](/part-3/ch2-conference.md#p1083-1)). A commissioned or licensed minister so serving shall be a nonvoting member of the district conference ([¶1090:3](/part-3/ch2-conference.md#p1090-3)).
 
 ### ¶3310:2 {#p3310-2}
-An ordained, commissioned, or licensed minister may be employed in a ministerial capacity in spiritual formation or a special Christian education program of a local Wesleyan church, subject to review by the district board of administration and appointment by the district conference (1180:24; 1233:10). An ordained minister so appointed shall be placed upon the appointed list (1240:1:A:2c) and shall be a voting member of the district conference (1083:1). A commissioned or licensed minister so serving shall be a nonvoting member of the district conference and shall be listed under “Other Appointments” (1090:3; 1240:2:B; 1240:3:B).
+An ordained, commissioned, or licensed minister may be employed in a ministerial capacity in spiritual formation or a special Christian education program of a local Wesleyan church, subject to review by the district board of administration and appointment by the district conference ([¶1180:24](/part-3/ch2-conference.md#p1180-24); [¶1233:10](/part-3/ch3-board.md#p1233-10)). An ordained minister so appointed shall be placed upon the appointed list (1240:1:A:2c) and shall be a voting member of the district conference ([¶1083:1](/part-3/ch2-conference.md#p1083-1)). A commissioned or licensed minister so serving shall be a nonvoting member of the district conference and shall be listed under “Other Appointments” ([¶1090:3](/part-3/ch2-conference.md#p1090-3); 1240:2:B; 1240:3:B).
 
 ### ¶3310:3 {#p3310-3}
 When an ordained, commissioned, or licensed minister devotes time to traveling and teaching in local churches and districts without a specific or pastoral assignment, the minister shall be recognized as an itinerant Bible teacher subject to recommendation and appointment by the district conference of which the minister is a member. An ordained minister so appointed shall be placed on the appointed list (1240:1:A:4e) and shall be a voting member of the district conference. A commissioned or licensed minister so appointed shall be a non-voting member of the district conference and shall be listed under “Other Appointments” (1240:2:B or 1240:3:B) as is appropriate.
@@ -124,10 +124,10 @@ When an ordained, commissioned, or licensed minister devotes time to traveling a
  The district conference may list ordained ministers and others pursuing ministerial studies in keeping with these regulations:
 
 ### ¶3350:1 {#p3350-1}
-An ordained minister without other appointment who enrolls in a seminary or other graduate school for advanced training for church service shall be listed as an “ordained minister on educational leave” (1240:1:D). An ordained minister so appointed shall be a voting member of the district conference (1083:1).
+An ordained minister without other appointment who enrolls in a seminary or other graduate school for advanced training for church service shall be listed as an “ordained minister on educational leave” (1240:1:D). An ordained minister so appointed shall be a voting member of the district conference ([¶1083:1](/part-3/ch2-conference.md#p1083-1)).
 
 ### ¶3350:2 {#p3350-2}
-A student engaged in full-time study in preparation for ordination, either by enrolling in the four-year or five-year ministerial or pre-ministerial course of a Wesleyan educational institution, or in an approved theological seminary or other approved graduate-level program of theological education, or by pursuing full-time study in the Ministerial Study Course Agency either by correspondence or by work in a college along with correspondence, and who meets all other qualifications (3015:1), may be granted a license and appointed by the district conference as a ministerial student (3015:1). The ministerial student shall be a nonvoting member of the district conference (1090:4).
+A student engaged in full-time study in preparation for ordination, either by enrolling in the four-year or five-year ministerial or pre-ministerial course of a Wesleyan educational institution, or in an approved theological seminary or other approved graduate-level program of theological education, or by pursuing full-time study in the Ministerial Study Course Agency either by correspondence or by work in a college along with correspondence, and who meets all other qualifications ([¶3015:1](/part-6/ch1-ministerial-orders.md#p3015-1)), may be granted a license and appointed by the district conference as a ministerial student ([¶3015:1](/part-6/ch1-ministerial-orders.md#p3015-1)). The ministerial student shall be a nonvoting member of the district conference ([¶1090:4](/part-3/ch2-conference.md#p1090-4)).
 
 ### 2. Reserve Ministers
 

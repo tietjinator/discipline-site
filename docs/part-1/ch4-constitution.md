@@ -379,7 +379,7 @@ The access to the sacraments and ordinances of the Church.
 The right to participate in any vote being taken by the local church conference.
 
 ### ¶302.4 {#p302-4}
-The eligibility to hold leadership positions (552:2-3), providing the qualifications are met (260-268; 558) and if not under discipline.
+The eligibility to hold leadership positions (552:2-3), providing the qualifications are met (260-268; [¶558](/part-2/ch2-membership.md#p558)) and if not under discipline.
 
 ### ¶302.5 {#p302-5}
 The right to hearing and appeal if charged with failure to maintain the conditions of membership, with the specific provision that joining another religious body shall of itself sever membership in the Church.
@@ -420,7 +420,7 @@ Preach the gospel, and in the case of ordained ministers, to administer baptism 
 Be eligible, in the case of ordained ministers, for election to any office in the Church for which ordained ministers are eligible.
 
 ### ¶313.3 {#p313-3}
-Contract the pastoral relationship with local Wesleyan churches subject to the other provisions of this Constitution (313:6; 323:1-2).
+Contract the pastoral relationship with local Wesleyan churches subject to the other provisions of this Constitution ([¶313:6](#p313-6); 323:1-2).
 
 ### ¶313.4 {#p313-4}
 Enjoy the use for religious meetings of the church building or buildings of the pastoral charge to which appointment has been made by the district conference.
@@ -442,13 +442,13 @@ Have recourse, even if under discipline, to a proper court of jurisdiction in an
  The members of the denomination shall be grouped into local churches, one or more of which shall constitute a pastoral charge. Each pastoral charge has the constitutional right to:
 
 ### ¶315.1 {#p315-1}
-Receive and expel or discontinue members subject to the provisions of The Discipline. This right vests severally in each local church. (365).
+Receive and expel or discontinue members subject to the provisions of The Discipline. This right vests severally in each local church. ([¶365](#p365)).
 
 ### ¶315.2 {#p315-2}
 Call its own pastor, subject to confirmation by the district conference.
 
 ### ¶315.3 {#p315-3}
-Grant or revoke local licenses for various ministries as provided in The Discipline. This right may be delegated to the church board. (365).
+Grant or revoke local licenses for various ministries as provided in The Discipline. This right may be delegated to the church board. ([¶365](#p365)).
 
 ### ¶315.4 {#p315-4}
 Recommend persons for various ministries to the district conference. This right may be delegated to the church board.
@@ -498,7 +498,7 @@ Take such actions and adopt such rules as it shall judge necessary to promote th
 Elect its own officers as outlined in The Discipline and to dismiss them for cause.
 
 ### ¶323.8 {#p323-8}
-Elect in the manner prescribed by The Discipline its own board of trustees and through them to receive, hold, encumber, and dispose of all district property within the bounds of the district, including local property held by the district, according to the provisions of The Discipline and the laws of the state. All properties held by the district shall be held in trust for the use and benefit of the ministry and members of The Wesleyan Church and subject to its regulations and appointments as from time to time legislated and declared (4610).
+Elect in the manner prescribed by The Discipline its own board of trustees and through them to receive, hold, encumber, and dispose of all district property within the bounds of the district, including local property held by the district, according to the provisions of The Discipline and the laws of the state. All properties held by the district shall be held in trust for the use and benefit of the ministry and members of The Wesleyan Church and subject to its regulations and appointments as from time to time legislated and declared ([¶4610](/part-9/ch1-general-regulations.md#p4610)).
 
 ### ¶323.9 {#p323-9}
 Be represented in the lay and ministerial voting membership of the General Conference, if not under discipline.

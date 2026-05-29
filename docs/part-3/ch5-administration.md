@@ -49,7 +49,7 @@ Or, prior to the vote on renewing the call, the district board of administration
 Have the oversight of the Church within the district, endeavoring to lead the district forward in the fulfillment of the mission of The Wesleyan Church (100-105).
 
 ### ¶1310.2 {#p1310-2}
-Give special attention to the initiation and promotion of an aggressive program of evangelism and church growth, as approved by the district conference or the district board of administration (537; 510; 518; 1233:3, 20; 1413; 4840:6).
+Give special attention to the initiation and promotion of an aggressive program of evangelism and church growth, as approved by the district conference or the district board of administration ([¶537](/part-2/ch1-organization.md#p537); [¶510](/part-2/ch1-organization.md#p510); [¶518](/part-2/ch1-organization.md#p518); 1233:3, 20; [¶1413](/part-3/ch7-missions.md#p1413); [¶4840:6](/part-8/ch3-district-property.md#p4840-6)).
 
 ### ¶1310.3 {#p1310-3}
 Carry on a spiritual and inspirational ministry, teaching the people concerning the doctrines, purposes, and programs of The Wesleyan Church.
@@ -58,18 +58,18 @@ Carry on a spiritual and inspirational ministry, teaching the people concerning 
 Cooperate with the General Superintendent and the General Board in the oversight of the district work.
 
 ### ¶1310:5 {#p1310-5}
-Assist the General Superintendent in presiding over the district conference. If the General Superintendent is not present, it is the duty of the district superintendent to preside (350:3; 1120).
+Assist the General Superintendent in presiding over the district conference. If the General Superintendent is not present, it is the duty of the district superintendent to preside ([¶350:3](/part-1/ch4-constitution.md#p350-3); [¶1120](/part-3/ch2-conference.md#p1120)).
 
 ### District Administration
 
 ### ¶1310:6 {#p1310-6}
-Be the chair of the district board of administration (1203; 1221), and to submit recommendations to the district board of administration that will provide for a more efficient administration, and advancement of the district work.
+Be the chair of the district board of administration ([¶1203](/part-3/ch3-board.md#p1203); [¶1221](/part-3/ch3-board.md#p1221)), and to submit recommendations to the district board of administration that will provide for a more efficient administration, and advancement of the district work.
 
 ### ¶1310:7 {#p1310-7}
-Be the chair of the district board of ministerial development, or to appoint another to serve instead, subject to ratification by the district board of administration (1381); and to be the chair of the district conference nominating committee (1172).
+Be the chair of the district board of ministerial development, or to appoint another to serve instead, subject to ratification by the district board of administration ([¶1381](/part-3/ch6-ministerial.md#p1381)); and to be the chair of the district conference nominating committee ([¶1172](/part-3/ch2-conference.md#p1172)).
 
 ### ¶1310.8 {#p1310-8}
-Exercise administrative supervision over all district officials, boards, leadership teams, committees, auxiliary organizations, missions, developing churches, churches, ministers, and other workers (3260:2) of the district with the exception of those who are amenable to the General Board (323:1; 1180:11), and to see that the plans and policies of the General Church and district are carried out.
+Exercise administrative supervision over all district officials, boards, leadership teams, committees, auxiliary organizations, missions, developing churches, churches, ministers, and other workers ([¶3260:2](/part-6/ch3-ministerial-appointments.md#p3260-2)) of the district with the exception of those who are amenable to the General Board ([¶323:1](/part-1/ch4-constitution.md#p323-1); [¶1180:11](/part-3/ch2-conference.md#p1180-11)), and to see that the plans and policies of the General Church and district are carried out.
 
 ### ¶1310.9 {#p1310-9}
 Meet with any district committee, or other district entity at the discretion of the district superintendent, and make such recommendations as deemed advisable.
@@ -78,7 +78,7 @@ Meet with any district committee, or other district entity at the discretion of 
 Cooperate with the district board of administration and General Superintendent in evaluating the health of the district; establishing policies, goals, and objectives for more effectively fulfilling the mission of the district; pursuing the goals and objectives within the established policies and through the district’s pastors and members; and periodically providing performance reports regarding progress.
 
 ### ¶1310:11 {#p1310-11}
-Examine all written instruments and legal papers for the conveyance of property acquired by local churches (4700:5) or the district and to approve them as to their conformity with the requirements of The Discipline (4590-4880; 4000-4070), the inclusion of the proper trust clause (4610), and conformity to local laws (4510); and to have the custody, under the direction of the district board of administration, of property and legal records for both the district and the local churches as provided for in 4760.
+Examine all written instruments and legal papers for the conveyance of property acquired by local churches ([¶4700:5](/part-8/ch2-local-church-property.md#p4700-5)) or the district and to approve them as to their conformity with the requirements of The Discipline (4590-4880; 4000-4070), the inclusion of the proper trust clause ([¶4610](/part-9/ch1-general-regulations.md#p4610)), and conformity to local laws ([¶4510](/part-9/ch1-general-regulations.md#p4510)); and to have the custody, under the direction of the district board of administration, of property and legal records for both the district and the local churches as provided for in 4760.
 
 ### Local Churches
 
@@ -89,28 +89,28 @@ Visit, or to appoint an assistant district superintendent or other representativ
 Investigate carefully concerning the support of pastors and to advise and encourage the local churches to provide for their adequate support.
 
 ### ¶1310:14 {#p1310-14}
-Recommend that the district board of administration authorize the establishment of a mission (537), a developing church (510), a church (518), the reclassification of a church (518:7); and to preside over the organization of an established church or appoint a representative to do so (520); and to report the organization of new churches to the district board of administration and to the district conference (520:6).
+Recommend that the district board of administration authorize the establishment of a mission ([¶537](/part-2/ch1-organization.md#p537)), a developing church ([¶510](/part-2/ch1-organization.md#p510)), a church ([¶518](/part-2/ch1-organization.md#p518)), the reclassification of a church ([¶518:7](/part-2/ch1-organization.md#p518-7)); and to preside over the organization of an established church or appoint a representative to do so ([¶520](/part-2/ch1-organization.md#p520)); and to report the organization of new churches to the district board of administration and to the district conference ([¶520:6](/part-2/ch1-organization.md#p520-6)).
 
 ### ¶1310:15 {#p1310-15}
-Supervise and promote the process of a developing church, approving the reception of members (510:2; Gen. Bd. Policy on Ch. Disc. 5105), appointing the local advisory council in cooperation with the pastor (510:3), and approving the plans of the pastor and the local advisory council in the interim of sessions of the district board of administration (510:3).
+Supervise and promote the process of a developing church, approving the reception of members ([¶510:2](/part-2/ch1-organization.md#p510-2); Gen. Bd. Policy on Ch. Disc. 5105), appointing the local advisory council in cooperation with the pastor ([¶510:3](/part-2/ch1-organization.md#p510-3)), and approving the plans of the pastor and the local advisory council in the interim of sessions of the district board of administration ([¶510:3](/part-2/ch1-organization.md#p510-3)).
 
 ### ¶1310:16 {#p1310-16}
-Approve the date for the regular session of a local church conference (630:1), to preside over a local church conference whenever present (635); to convene, when deemed advisable, a local board of administration or a local church conference and preside over the same (633:1; 712; 722:2-3; 773); and carry out any other provisions for a local board of administration or conference as prescribed in The Discipline.
+Approve the date for the regular session of a local church conference (630:1), to preside over a local church conference whenever present ([¶635](/part-2/ch3-conference.md#p635)); to convene, when deemed advisable, a local board of administration or a local church conference and preside over the same ([¶633:1](/part-2/ch3-conference.md#p633-1); [¶712](/part-2/ch4-pastors.md#p712); 722:2-3; [¶773](/part-2/ch5-local-board.md#p773)); and carry out any other provisions for a local board of administration or conference as prescribed in The Discipline.
 
 ### ¶1310.17 {#p1310-17}
-Counsel with a local board of administration for the securing of a pastor (705:1-3), proactively assessing the needs of the church and providing it with specific recommendations and names of potential pastors who best fit the profile to help meet those needs. The local board of administration and the district superintendent shall approve a pastoral candidate before that person is recommended to the church for a vote. The district superintendent shall also carry out the provisions of The Discipline concerning the call, the review and termination of a call, the resignation and release of a pastor from the pastoral agreement, and other matters pertaining to pastoral relations for the pastoral charges under district care (633:2; 692:2; 705:1-3; 710; 712; 720-722; 773).
+Counsel with a local board of administration for the securing of a pastor (705:1-3), proactively assessing the needs of the church and providing it with specific recommendations and names of potential pastors who best fit the profile to help meet those needs. The local board of administration and the district superintendent shall approve a pastoral candidate before that person is recommended to the church for a vote. The district superintendent shall also carry out the provisions of The Discipline concerning the call, the review and termination of a call, the resignation and release of a pastor from the pastoral agreement, and other matters pertaining to pastoral relations for the pastoral charges under district care ([¶633:2](/part-2/ch3-conference.md#p633-2); [¶692:2](/part-2/ch4-pastors.md#p692-2); 705:1-3; [¶710](/part-2/ch4-pastors.md#p710); [¶712](/part-2/ch4-pastors.md#p712); 720-722; [¶773](/part-2/ch5-local-board.md#p773)).
 
 ### ¶1310:18 {#p1310-18}
 Work directly with the pastors and leaders of local churches in setting goals and objectives, or appoint another district leader to do so. The district superintendent, in consultation with the district board of administration, may advise a pastor and local board of administration to consider a pastoral change if goal progress remains unsatisfactory.
 
 ### ¶1310.19 {#p1310-19}
-Approve the transfer of any ordained minister or commissioned or licensed minister from another district, in concurrence with the General Superintendent (313:6; 705:2; 3100:1) and, when objecting to such a transfer, to state any reasons if requested to do so.
+Approve the transfer of any ordained minister or commissioned or licensed minister from another district, in concurrence with the General Superintendent ([¶313:6](/part-1/ch4-constitution.md#p313-6); [¶705:2](/part-2/ch4-pastors.md#p705-2); [¶3100:1](/part-6/ch1-ministerial-orders.md#p3100-1)) and, when objecting to such a transfer, to state any reasons if requested to do so.
 
 ### ¶1310:20 {#p1310-20}
-Recommend the removal of a pastor to the district board of administration, whenever the best interests of the church involved demand it, and to recommend to the district board of administration the appointment of a supply or interim, if necessary, until another pastor has been obtained (712; 715; 722:3; 1233:29).
+Recommend the removal of a pastor to the district board of administration, whenever the best interests of the church involved demand it, and to recommend to the district board of administration the appointment of a supply or interim, if necessary, until another pastor has been obtained ([¶712](/part-2/ch4-pastors.md#p712); [¶715](/part-2/ch4-pastors.md#p715); [¶722:3](/part-2/ch4-pastors.md#p722-3); [¶1233:29](/part-3/ch3-board.md#p1233-29)).
 
 ### ¶1310:21 {#p1310-21}
-Perform all the functions of a pastor for a local church within the district when such church is without a pastor, or to recommend to the district board of administration the appointment of a supply pastor or interim pastor until the local church obtains a pastor (1233:29, 36; 3260:2; 3261:2).
+Perform all the functions of a pastor for a local church within the district when such church is without a pastor, or to recommend to the district board of administration the appointment of a supply pastor or interim pastor until the local church obtains a pastor (1233:29, 36; [¶3260:2](/part-6/ch3-ministerial-appointments.md#p3260-2); [¶3261:2](/part-6/ch3-ministerial-appointments.md#p3261-2)).
 
 ### Ministers
 
@@ -118,7 +118,7 @@ Perform all the functions of a pastor for a local church within the district whe
 Counsel with the ministers and special workers under district care, giving special attention to the encouragement and guidance of candidates for the ministry.
 
 ### ¶1310:23 {#p1310-23}
-Be responsible, if the General Superintendent is absent, for leading the Council of Ordination (3091; 1405) in conducting the ritual of ordination (3070:6; 5750-5792), and the ritual of commissioning a minister (5800-5845), a special worker (3470; 5855), or a lay missionary (3490; 5855); to sign, with the district secretary, such certificates, licenses, or other official forms as are required of this office and issued to such persons as are authorized by the district conference; to have charge of services for the installation of pastors (5905).
+Be responsible, if the General Superintendent is absent, for leading the Council of Ordination ([¶3091](/part-6/ch1-ministerial-orders.md#p3091); [¶1405](/part-3/ch6-ministerial.md#p1405)) in conducting the ritual of ordination ([¶3070:6](/part-6/ch1-ministerial-orders.md#p3070-6); 5750-5792), and the ritual of commissioning a minister (5800-5845), a special worker ([¶3470](/part-6/ch4-special-lay-ministries.md#p3470); [¶5855](/part-10/ch8-commissioning-lay.md#p5855)), or a lay missionary ([¶3490](/part-6/ch4-special-lay-ministries.md#p3490); [¶5855](/part-10/ch8-commissioning-lay.md#p5855)); to sign, with the district secretary, such certificates, licenses, or other official forms as are required of this office and issued to such persons as are authorized by the district conference; to have charge of services for the installation of pastors ([¶5905](/part-10/ch9-installation.md#p5905)).
 
 ### ¶1310.24 {#p1310-24}
 Provide or promote the ongoing personal and professional development of all ministerial personnel.
@@ -127,12 +127,12 @@ Provide or promote the ongoing personal and professional development of all mini
 Request any special reports from the pastors, ministers, and churches that will facilitate oversight of the district.
 
 ### ¶1310:26 {#p1310-26}
-Approve in writing the temporary service of an ordained minister in a district other than the one in which membership is held (3100:2); to grant a letter of transfer or standing to any ordained, licensed, or commissioned worker in good standing of the district (6440; 6460); to instruct the district secretary to enroll as a member of the district a minister who transfers from another district in the manner prescribed by The Discipline (313:6; 3100:1; 6440-6450), and to order the enrollment of a ministerial student or special worker so transferring (3015:3c, 5d; 3480; 6440-6450); to guide a minister or special worker from another denomination seeking recognition and membership in The Wesleyan Church (3104; 3470; 3117); and to provide oversight for the restoration of ministers (Gen. Bd. Policy on Ch. Disc. 5230).
+Approve in writing the temporary service of an ordained minister in a district other than the one in which membership is held ([¶3100:2](/part-6/ch1-ministerial-orders.md#p3100-2)); to grant a letter of transfer or standing to any ordained, licensed, or commissioned worker in good standing of the district (6440; 6460); to instruct the district secretary to enroll as a member of the district a minister who transfers from another district in the manner prescribed by The Discipline ([¶313:6](/part-1/ch4-constitution.md#p313-6); [¶3100:1](/part-6/ch1-ministerial-orders.md#p3100-1); 6440-6450), and to order the enrollment of a ministerial student or special worker so transferring (3015:3c, 5d; [¶3480](/part-6/ch4-special-lay-ministries.md#p3480); 6440-6450); to guide a minister or special worker from another denomination seeking recognition and membership in The Wesleyan Church ([¶3104](/part-6/ch1-ministerial-orders.md#p3104); [¶3470](/part-6/ch4-special-lay-ministries.md#p3470); [¶3117](/part-6/ch1-ministerial-orders.md#p3117)); and to provide oversight for the restoration of ministers (Gen. Bd. Policy on Ch. Disc. 5230).
 
 ### Reports
 
 ### ¶1310:27 {#p1310-27}
-Report annually to the district conference concerning official duties and personal ministry (1180:12), and to submit other reports to the General Board, the General Superintendent and the district board of administration as required; to counsel with the General Superintendent at least once a year concerning the plans and objectives for the district, reporting to the General Superintendent on the activities of the district and progress toward its objectives during the past year.
+Report annually to the district conference concerning official duties and personal ministry ([¶1180:12](/part-3/ch2-conference.md#p1180-12)), and to submit other reports to the General Board, the General Superintendent and the district board of administration as required; to counsel with the General Superintendent at least once a year concerning the plans and objectives for the district, reporting to the General Superintendent on the activities of the district and progress toward its objectives during the past year.
 
 ### Judicial
 
@@ -140,7 +140,7 @@ Report annually to the district conference concerning official duties and person
 Receive any complaint or accusation against any person or local unit under the jurisdiction of the district (Gen. Bd. Policy on Ch. Disc. 5200:1-7; 5206; 5300-5320), and to give such complaint or accusation prompt and careful attention as required in the General Board Policy on Church Discipline (5206:2; 5300-5320), and to refer any matter requiring official investigation or judicial proceedings to the district board of administration for disposition (1233:33, 37]; Gen. Bd. Policy on Ch. Disc. 5212:2; 5320).
 
 ### ¶1310:29 {#p1310-29}
-Forward to the Executive Director of Communication and Administration the credentials of a minister when such have been surrendered or removed by judicial process (3100:4; Gen. Bd. Policy on Ch. Disc. 5212:2; 5230).
+Forward to the Executive Director of Communication and Administration the credentials of a minister when such have been surrendered or removed by judicial process ([¶3100:4](/part-6/ch1-ministerial-orders.md#p3100-4); Gen. Bd. Policy on Ch. Disc. 5212:2; 5230).
 
 ## B. Assistant District Superintendent(s)
 
@@ -151,10 +151,10 @@ Forward to the Executive Director of Communication and Administration the creden
  The duties of the assistant district superintendent(s) are to:
 
 ### ¶1323:1 {#p1323-1}
-Serve as member and vice-chair (cf.1320) of the district board of administration, presiding over the board whenever the district superintendent is not present or when appointed to do so by the district superintendent (1221).
+Serve as member and vice-chair (cf.1320) of the district board of administration, presiding over the board whenever the district superintendent is not present or when appointed to do so by the district superintendent ([¶1221](/part-3/ch3-board.md#p1221)).
 
 ### ¶1323.2 {#p1323-2}
-Convene the district board of administration in times of emergency when the district superintendent is not able to act (1215; 1320).
+Convene the district board of administration in times of emergency when the district superintendent is not able to act ([¶1215](/part-3/ch3-board.md#p1215); [¶1320](#p1320)).
 
 ### ¶1323.3 {#p1323-3}
 Assist the district superintendent and to serve as a representative of the district superintendent to local churches or district organizations as the superintendent may request.
@@ -163,7 +163,7 @@ Assist the district superintendent and to serve as a representative of the distr
 Perform such other duties as may be required by the district conference or the district board of administration.
 
 ### ¶1323:5 {#p1323-5}
-Report annually to the district conference concerning all official duties (1180:12), and to the district board of administration as required.
+Report annually to the district conference concerning all official duties ([¶1180:12](/part-3/ch2-conference.md#p1180-12)), and to the district board of administration as required.
 
 ## ¶1327 {#p1327}
  A district conference may choose to have one or more assistant district superintendent(s) as full-time district official(s), and shall further define the duties of the assistant district superintendent(s) in addition to those set forth in *The Discipline*.
@@ -177,31 +177,31 @@ Report annually to the district conference concerning all official duties (1180:
  The duties of the district secretary are to:
 
 ### ¶1332:1 {#p1332-1}
-Be the secretary of the district conference, recording accurately and completely the proceedings of each session and forwarding the same to the Executive Director of Communication and Administration for distribution to the general offices and divisions (1178:4).
+Be the secretary of the district conference, recording accurately and completely the proceedings of each session and forwarding the same to the Executive Director of Communication and Administration for distribution to the general offices and divisions ([¶1178:4](/part-3/ch2-conference.md#p1178-4)).
 
 ### ¶1332.2 {#p1332-2}
-Serve as a member and as the secretary of the district board of administration (1203; 1224), recording accurately and completely the proceedings of each session and preserving them in permanent form, forwarding a copy of the minutes of each session to each member of the board and to the General Superintendent.
+Serve as a member and as the secretary of the district board of administration ([¶1203](/part-3/ch3-board.md#p1203); [¶1224](/part-3/ch3-board.md#p1224)), recording accurately and completely the proceedings of each session and preserving them in permanent form, forwarding a copy of the minutes of each session to each member of the board and to the General Superintendent.
 
 ### ¶1332:3 {#p1332-3}
 Issue official notices and communications from the district conference and from the district board of administration; and to keep permanent file copies of all correspondence, reports, and other records.
 
 ### ¶1332:4 {#p1332-4}
-Issue and sign all certificates, licenses, and other official forms as properly authorized by the district and as prescribed for a district secretary by the General Conference or General Board (1310:23).
+Issue and sign all certificates, licenses, and other official forms as properly authorized by the district and as prescribed for a district secretary by the General Conference or General Board ([¶1310:23](#p1310-23)).
 
 ### ¶1332:5 {#p1332-5}
-Forward promptly to the Executive Director of Communication and Administration the statistical and financial reports of the district conference as may be required by the General Board; a certified list of the General Conference delegates, and the certification of an alternate when a delegate is unable to attend (1512-1518); a copy of each memorial adopted for presentation to the General Conference; a copy of the official district directory for inclusion in the denominational directory, and of each change in the directory as it occurs (1332:8); and to cooperate in forwarding other information requested by the Executive Director of Communication and Administration.
+Forward promptly to the Executive Director of Communication and Administration the statistical and financial reports of the district conference as may be required by the General Board; a certified list of the General Conference delegates, and the certification of an alternate when a delegate is unable to attend (1512-1518); a copy of each memorial adopted for presentation to the General Conference; a copy of the official district directory for inclusion in the denominational directory, and of each change in the directory as it occurs ([¶1332:8](#p1332-8)); and to cooperate in forwarding other information requested by the Executive Director of Communication and Administration.
 
 ### ¶1332:6 {#p1332-6}
-Be the custodian of the official district records and archives, except as otherwise provided for in The Discipline (1387; 4760), and to be instructed by the district board of administration as to the exercise of such custody (1233:15).
+Be the custodian of the official district records and archives, except as otherwise provided for in The Discipline ([¶1387](/part-3/ch6-ministerial.md#p1387); [¶4760](/part-8/ch2-local-church-property.md#p4760)), and to be instructed by the district board of administration as to the exercise of such custody ([¶1233:15](/part-3/ch3-board.md#p1233-15)).
 
 ### ¶1332:7 {#p1332-7}
 Receive an official copy of the minutes of each board, committee, auxiliary organization or other district agency, and to preserve them in the district archives.
 
 ### ¶1332:8 {#p1332-8}
-Maintain a complete and current district directory, listing the district ministers and officers, the address of each mission, developing church, church, circuit, and parsonage within the bounds of the district, and other information as desired (1240).
+Maintain a complete and current district directory, listing the district ministers and officers, the address of each mission, developing church, church, circuit, and parsonage within the bounds of the district, and other information as desired ([¶1240](/part-3/ch3-board.md#p1240)).
 
 ### ¶1332:9 {#p1332-9}
-Notify all churches and ministerial members of the district of the time and place of the next regular session of the district conference at least sixty days in advance (1112), and to notify them of any reconvened sessions as directed by the district board of administration (1115).
+Notify all churches and ministerial members of the district of the time and place of the next regular session of the district conference at least sixty days in advance ([¶1112](/part-3/ch2-conference.md#p1112)), and to notify them of any reconvened sessions as directed by the district board of administration ([¶1115](/part-3/ch2-conference.md#p1115)).
 
 ### ¶1332:10 {#p1332-10}
 Perform such other duties as may be required by the district conference or the district board of administration and as pertain to this office.
@@ -215,22 +215,22 @@ Perform such other duties as may be required by the district conference or the d
  The duties of a district treasurer are to:
 
 ### ¶1337:1 {#p1337-1}
-Serve as a member of the district board of administration (1203).
+Serve as a member of the district board of administration ([¶1203](/part-3/ch3-board.md#p1203)).
 
 ### ¶1337:2 {#p1337-2}
-Be bonded to the amount set by the district board of administration, the cost of which shall be paid by the district (1233:17).
+Be bonded to the amount set by the district board of administration, the cost of which shall be paid by the district ([¶1233:17](/part-3/ch3-board.md#p1233-17)).
 
-**(3)** Have custody of all district funds, unless otherwise provided for by *The Discipline*; to receive, record, hold, and disburse such funds in keeping with the financial plans of the General Conference and the district conference and as directed by the district board of administration.
-**(4)** Receive, record, and hold all USF funds for the General Church raised within the district and to remit such funds monthly to the General Treasurer/ Chief Financial Officer on the approved forms.
+**([¶3](/part-1/ch1-history.md#p3))** Have custody of all district funds, unless otherwise provided for by *The Discipline*; to receive, record, hold, and disburse such funds in keeping with the financial plans of the General Conference and the district conference and as directed by the district board of administration.
+**([¶4](/part-1/ch1-history.md#p4))** Receive, record, and hold all USF funds for the General Church raised within the district and to remit such funds monthly to the General Treasurer/ Chief Financial Officer on the approved forms.
 **(5)** Serve as a district director of stewardship, promoting stewardship and storehouse tithing on the district level, in cooperation with the General Superintendent.
 
 ### ¶1337.6 {#p1337-6}
-Prepare and submit to the district board of administration a recommended plan to provide for the raising of the district obligation to the United Stewardship Fund, designating the amount to be assigned to each local church as its share of the district obligation, in accord with the regulations for the United Stewardship Fund (2015); which plan, as approved, shall be presented to the district conference for adoption (1180:15; 1233:11); and to promptly notify the General Treasurer/Chief Financial Officer of the district USF obligation on forms provided by the General Treasurer/Chief Financial Officer (2015:2).
+Prepare and submit to the district board of administration a recommended plan to provide for the raising of the district obligation to the United Stewardship Fund, designating the amount to be assigned to each local church as its share of the district obligation, in accord with the regulations for the United Stewardship Fund ([¶2015](/part-4/ch4-general-administration.md#p2015)); which plan, as approved, shall be presented to the district conference for adoption ([¶1180:15](/part-3/ch2-conference.md#p1180-15); [¶1233:11](/part-3/ch3-board.md#p1233-11)); and to promptly notify the General Treasurer/Chief Financial Officer of the district USF obligation on forms provided by the General Treasurer/Chief Financial Officer ([¶2015:2](/part-4/ch4-general-administration.md#p2015-2)).
 
 ### ¶1337:7 {#p1337-7}
-Submit all records and funds for an annual audit after the close of the fiscal year, as provided for in 1340, and at any other time as may be requested by the district board of administration (1233:18).
+Submit all records and funds for an annual audit after the close of the fiscal year, as provided for in 1340, and at any other time as may be requested by the district board of administration ([¶1233:18](/part-3/ch3-board.md#p1233-18)).
 
-**(8)** Submit a complete financial report of all funds administered or attended to by the district treasurer, to each regular session of the district conference ([¶1180:12](/part-3/ch2-conference.md#p1180-12)); to submit reports to the district board of administration ([¶1233:12](/part-3/ch3-board.md#p1233-12)), the district superintendent, and the General Treasurer/Chief Financial Officer as they may require.
+**([¶8](/part-1/ch1-history.md#p8))** Submit a complete financial report of all funds administered or attended to by the district treasurer, to each regular session of the district conference ([¶1180:12](/part-3/ch2-conference.md#p1180-12)); to submit reports to the district board of administration ([¶1233:12](/part-3/ch3-board.md#p1233-12)), the district superintendent, and the General Treasurer/Chief Financial Officer as they may require.
 
 ### ¶1337:9 {#p1337-9}
 Perform such other duties as may be required by the district conference or the district board of administration and as pertain to this office.
@@ -249,10 +249,10 @@ Perform such other duties as may be required by the district conference or the d
  The district board of trustees shall administer its duties in accord with *The Discipline* ([¶4500-4630](#p4500-4630); [¶4830-4880](#p4830-4880)) and as directed by the district board of administration. Its duties are to:
 
 ### ¶1365:1 {#p1365-1}
-Hold all district property, and such local property as may be held by the district (4660; 4680), in trust for The Wesleyan Church as set forth in 4830 (323:8).
+Hold all district property, and such local property as may be held by the district ([¶4660](/part-8/ch2-local-church-property.md#p4660); [¶4680](/part-8/ch2-local-church-property.md#p4680)), in trust for The Wesleyan Church as set forth in 4830 ([¶323:8](/part-1/ch4-constitution.md#p323-8)).
 
 ### ¶1365:2 {#p1365-2}
-Attend to all legal matters pertaining to the district transactions for the purchase, sale, encumbrance, transfer, or other disposal of property, as ordered by the district board of administration (4840).
+Attend to all legal matters pertaining to the district transactions for the purchase, sale, encumbrance, transfer, or other disposal of property, as ordered by the district board of administration ([¶4840](/part-8/ch3-district-property.md#p4840)).
 
 ### ¶1365:3 {#p1365-3}
 Fulfill such other duties as pertain to their office as trustees and as may be assigned to them by the district board of administration.

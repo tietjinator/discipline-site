@@ -86,7 +86,7 @@ a. Definition ]
 , which shall provide support for General Church administration, general benevolent institutions, ministerial training, and other General Church ministries.
 
 ### ¶2000:2 {#p2000-2}
-, which shall provide support for the approved general educational institutions as listed in 2365 and in a manner as set forth in 2040 (2377).
+, which shall provide support for the approved general educational institutions as listed in 2365 and in a manner as set forth in 2040 ([¶2377](/part-4/ch8-education-clergy.md#p2377)).
 
 ### ¶2000:3 {#p2000-3}
 , which shall provide continuing support for the planting of new churches, including the development of the leaders needed to serve in the new churches. The implementation of this fund shall be according to the General Board Policy for the Church Multiplication Fund. These funds shall be designated for church multiplication in accordance with this policy, which allows for the discretion of the district where the funds were given.
@@ -102,10 +102,10 @@ b. Basis ]
 ### ¶2005:2 Fund Allocations. {#p2005-2}
 
 #### ¶2005:2a {#p2005-2a}
-The percentages for determining the General Fund, the Education Fund, and the Church Multiplication Fund shall be fixed by the General Conference (1590:8). The percentage in each case shall be applied to the assessable income as defined in 2005:1 except as provided for in 2005:3, 4.
+The percentages for determining the General Fund, the Education Fund, and the Church Multiplication Fund shall be fixed by the General Conference ([¶1590:8](/part-4/ch1-general-conference.md#p1590-8)). The percentage in each case shall be applied to the assessable income as defined in 2005:1 except as provided for in 2005:3, 4.
 
 #### ¶2005:2b {#p2005-2b}
-In the event of an emergency during the interim of General Conference sessions, the General Board may alter the percentages of the General Fund by a two-thirds majority vote of all its members (1655:23).
+In the event of an emergency during the interim of General Conference sessions, the General Board may alter the percentages of the General Fund by a two-thirds majority vote of all its members ([¶1655:23](/part-4/ch2-general-board.md#p1655-23)).
 
 ### ¶2005:3 Limits for Capped Churches. {#p2005-3}
 
@@ -128,13 +128,13 @@ c. District and Local Regulations ]
   Each district and developing district, with the exception of the work under the Global Partners Division, shall be responsible to raise its share of the United Stewardship Fund, including the General Fund, the Education Fund, and the Church Multiplication Fund in accordance with the following regulations:
 
 ### ¶2015:1 {#p2015-1}
-The obligation of a district or developing district shall be an amount equal to the designated percentage of the total base income, as defined in 2005:1-2, of all developing churches and churches of the district, subject to such exceptions and adjustments as are indicated in 2005:3. When this amount has been paid in full to the General Treasurer/Chief Financial Officer, for the General Fund, the Education Fund, and designated monies set aside in the district Church Multiplication Fund a district has met its obligation to the United Stewardship Fund. The computations for the district obligation shall be based on the financial reports of the local churches as compiled by the district statistical committee (1337:6) prior to the annual district conference.
+The obligation of a district or developing district shall be an amount equal to the designated percentage of the total base income, as defined in 2005:1-2, of all developing churches and churches of the district, subject to such exceptions and adjustments as are indicated in 2005:3. When this amount has been paid in full to the General Treasurer/Chief Financial Officer, for the General Fund, the Education Fund, and designated monies set aside in the district Church Multiplication Fund a district has met its obligation to the United Stewardship Fund. The computations for the district obligation shall be based on the financial reports of the local churches as compiled by the district statistical committee ([¶1337:6](/part-3/ch5-administration.md#p1337-6)) prior to the annual district conference.
 
 ### ¶2015:2 {#p2015-2}
-The district conference shall apportion its total obligation among the local churches under its jurisdiction by assigning an amount to each as its share of the General Fund, the Education Fund, and the Church Multiplication Fund respectively, under whatever plan the district conference shall adopt after receiving a recommendation from the district board of administration (1233:11; 1337:6). Each local church shall be promptly notified of the amount assigned by the district by the person appointed by the district superintendent. The district treasurer shall promptly notify the General Treasurer/Chief Financial Officer of the district obligation on forms provided by the General Treasurer/Chief Financial Officer (1337:6).
+The district conference shall apportion its total obligation among the local churches under its jurisdiction by assigning an amount to each as its share of the General Fund, the Education Fund, and the Church Multiplication Fund respectively, under whatever plan the district conference shall adopt after receiving a recommendation from the district board of administration ([¶1233:11](/part-3/ch3-board.md#p1233-11); [¶1337:6](/part-3/ch5-administration.md#p1337-6)). Each local church shall be promptly notified of the amount assigned by the district by the person appointed by the district superintendent. The district treasurer shall promptly notify the General Treasurer/Chief Financial Officer of the district obligation on forms provided by the General Treasurer/Chief Financial Officer ([¶1337:6](/part-3/ch5-administration.md#p1337-6)).
 
 ### ¶2015:3 {#p2015-3}
-The district board of administration shall be responsible to administer the district plan for raising the United Stewardship Fund and shall be responsible to see that the district obligation is paid in full for the General Fund, Education Fund, and the Church Multiplication Fund (1233:10). All General and Education Fund monies received by the district treasurer shall be remitted monthly to the General Treasurer/Chief Financial Officer via the approved process.
+The district board of administration shall be responsible to administer the district plan for raising the United Stewardship Fund and shall be responsible to see that the district obligation is paid in full for the General Fund, Education Fund, and the Church Multiplication Fund ([¶1233:10](/part-3/ch3-board.md#p1233-10)). All General and Education Fund monies received by the district treasurer shall be remitted monthly to the General Treasurer/Chief Financial Officer via the approved process.
 
 ## ¶2025 {#p2025}
  The pastor and the local board of administration shall be responsible for the faithful collection of the amount assigned by the district to their church, and shall raise it on the undivided plan. The local church treasurer shall forward all money received for the General Fund, the Education Fund, and the Church Multiplication Fund monthly to the district treasurer ([¶842:4](#p842-4)). A local church has met its obligation to the United Stewardship Fund when it has paid in full to the district treasurer the amounts assigned to it by the district for the General Fund, the Education Fund, and the Church Multiplication Fund. In a developing church, the pastor and the local advisory council shall have the responsibility for raising the United Stewardship Fund.
@@ -151,13 +151,13 @@ d. General Church Regulations ]
 The designated beneficiaries to receive support from the USF-General Fund are: the administrative offices of the General Superintendent and the General Treasurer/Chief Financial Officer; the Executive Director of the Communication and Administration Division, the Executive Director of the Education and Clergy Development Division, the Executive Director of the Church Multiplication and Discipleship Division, and the Executive Director of the Global Partners Division, and such other benevolent institutions, offices, or agencies of the General Church as the General Conference or the General Board shall designate from time to time.
 
 ### ¶2035:2 {#p2035-2}
-The apportioning of the General Fund among the designated beneficiaries (2035:1) shall be determined annually by the General Board.
+The apportioning of the General Fund among the designated beneficiaries ([¶2035:1](#p2035-1)) shall be determined annually by the General Board.
 
 ## ¶2040 {#p2040}
  The Education Fund shall provide support for educational institutions and general ministerial education, and shall be apportioned among them as follows:
 
 ### ¶2040:1 {#p2040-1}
-The beneficiaries receiving support from the Education Fund shall include the educational institutions (2365); approved programs for subsidizing ministerial training; the Wesleyan Seminary Foundation (2382); and the Ministerial Study Course Agency (2385-2388).
+The beneficiaries receiving support from the Education Fund shall include the educational institutions ([¶2365](/part-4/ch8-education-clergy.md#p2365)); approved programs for subsidizing ministerial training; the Wesleyan Seminary Foundation ([¶2382](/part-4/ch8-education-clergy.md#p2382)); and the Ministerial Study Course Agency (2385-2388).
 
 ### ¶2040:2 {#p2040-2}
 The General Board shall determine the apportionment of the Education Fund among the beneficiaries listed in 2040:1.
@@ -191,18 +191,18 @@ Other offerings, contributions, bequests, and donations shall be used as specifi
  Official rulings are formal clarifications of Church law and authoritative interpretations of *The Discipline of The Wesleyan Church* that become the temporary law of the Church, subject to being overruled or sustained by the next session of the General Conference. The General Superintendent shall prepare or may instruct the Executive Director of Communication and Administration to research and write initial drafts of official rulings when such are properly requested or whenever the General Superintendent deems necessary for the proper administration of the Church:
 
 ### ¶2061:1 {#p2061-1}
-A request for an official ruling shall be submitted to the General Superintendent, in writing, by the following: the General Board, the Executive Board (1785), a general official, the governing board of an institution or subsidiary corporation, a district conference (1180:35), or a district board of administration (1233:23).
+A request for an official ruling shall be submitted to the General Superintendent, in writing, by the following: the General Board, the Executive Board ([¶1785](/part-4/ch2-general-board.md#p1785)), a general official, the governing board of an institution or subsidiary corporation, a district conference ([¶1180:35](/part-3/ch2-conference.md#p1180-35)), or a district board of administration ([¶1233:23](/part-3/ch3-board.md#p1233-23)).
 
 ### ¶2061:2 {#p2061-2}
 The General Superintendent shall consult with the Executive Board of the General Board prior to giving final approval to and signing all official rulings or interpretations.
 
 ### ¶2061:3 {#p2061-3}
-A ruling may be appealed to the Board of Review by the party submitting the original request or by the General Board (370; 375:2; 1180:37; 1233:23; Gen. Bd. Policy on Ch. Disc. 5445:2). All appeals must be filed with the Executive Director of Communication and Administration within sixty days after the date the official ruling is published by the General Superintendent. An official ruling that is not upheld by the Board of Review shall be null and void, unless the action of the Board of Review is overruled by the General Conference (375:2; 380).
+A ruling may be appealed to the Board of Review by the party submitting the original request or by the General Board ([¶370](/part-1/ch4-constitution.md#p370); [¶375:2](/part-1/ch4-constitution.md#p375-2); [¶1180:37](/part-3/ch2-conference.md#p1180-37); [¶1233:23](/part-3/ch3-board.md#p1233-23); Gen. Bd. Policy on Ch. Disc. 5445:2). All appeals must be filed with the Executive Director of Communication and Administration within sixty days after the date the official ruling is published by the General Superintendent. An official ruling that is not upheld by the Board of Review shall be null and void, unless the action of the Board of Review is overruled by the General Conference ([¶375:2](/part-1/ch4-constitution.md#p375-2); [¶380](/part-1/ch4-constitution.md#p380)).
 
 ## ¶2062 {#p2062}
  The General Superintendent shall submit a report of all official rulings on points of law, interpretations of *The Discipline*, or other formal judicial acts, to the next session of the General Board or its Executive Board for their information, and to the next session of the General Conference for final review and approval ([¶1590:22](/part-4/ch1-general-conference.md#p1590-22)). Upon approval by the General Conference, such rulings become the law of the Church and shall be incorporated into the appropriate section(s) of *The Discipline*. A record of such rulings shall be inserted in a special appendix of the next issue of *The Discipline* as follows:
 
-The General Superintendent on (date) officially interpreted (identify item) and the General Conference on (date) sustained (GC- ), thereby authorizing this provision to mean: (insert the ruling).
+The General Superintendent on (date) officially interpreted (identify item) and the General Conference on (date) sustained (GC-), thereby authorizing this provision to mean: (insert the ruling).
 
 ## ¶2064 {#p2064}
  The General Superintendent shall
@@ -226,7 +226,7 @@ Their term of office shall be for four years. They shall serve from the close of
 A member of the General Board of Review may not at the same time be a member of the General Board.
 
 ### ¶2070:3 {#p2070-3}
-The General Conference shall elect by majority vote the members of the General Board of Review, from nominations presented by the Committee on Special Nominations. Additional nominations may be made from the floor of the General Conference (1580:2; 1590:18).
+The General Conference shall elect by majority vote the members of the General Board of Review, from nominations presented by the Committee on Special Nominations. Additional nominations may be made from the floor of the General Conference ([¶1580:2](/part-4/ch1-general-conference.md#p1580-2); [¶1590:18](/part-4/ch1-general-conference.md#p1590-18)).
 
 Members of the General Board of Review shall recuse themselves in the case of conflict of interest. Whenever a member is disqualified, the chair shall appoint an alternate for the hearing of that particular case (*Gen. Bd. Policy on Ch. Disc.* [¶5405](#p5405)), provided that such appointment shall maintain the membership of the Board as five ordained ministers and four lay members who meet the leadership qualifications.
 

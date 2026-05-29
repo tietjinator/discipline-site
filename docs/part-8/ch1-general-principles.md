@@ -14,7 +14,7 @@
 A prayerful and Christlike spirit shall be maintained at all times by all parties.1
 
 ### ¶5002:2 {#p5002-2}
-Every effort shall be made to bring back to the Lord any who have wandered from Him (268).2
+Every effort shall be made to bring back to the Lord any who have wandered from Him ([¶268](/part-1/ch4-constitution.md#p268)).2
 
 ### ¶5002:3 {#p5002-3}
 A sincere and reasonable effort shall be made to resolve an accusation or to deal with an offending person in keeping with scriptural admonitions.3

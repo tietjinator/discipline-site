@@ -6,10 +6,10 @@
  The regulations concerning property within the bounds of a developing district shall be set forth in the *General Board Policy for the Church Multiplication and Discipleship Division* in accord with the following:
 
 ### ¶4800:1 {#p4800-1}
-The authority for the purchase, sale, encumbrance, transfer, or other disposal of real property within a developing district shall be vested in the General Board (1655:35; 4810).
+The authority for the purchase, sale, encumbrance, transfer, or other disposal of real property within a developing district shall be vested in the General Board ([¶1655:35](/part-4/ch2-general-board.md#p1655-35); [¶4810](#p4810)).
 
 ### ¶4800:2 {#p4800-2}
-All property shall be held by and/or conveyed to The Wesleyan Church Corporation and shall be General Church property (4920), except when otherwise required by local laws or otherwise directed by the General Board (1655:39), in which case it shall be held in trust for the benefit and use of the members and ministers of The Wesleyan Church and shall contain the appropriate trust clause as set forth in 4610 (4590–4630).
+All property shall be held by and/or conveyed to The Wesleyan Church Corporation and shall be General Church property ([¶4920](/part-8/ch4-general-church-property.md#p4920)), except when otherwise required by local laws or otherwise directed by the General Board ([¶1655:39](/part-4/ch2-general-board.md#p1655-39)), in which case it shall be held in trust for the benefit and use of the members and ministers of The Wesleyan Church and shall contain the appropriate trust clause as set forth in 4610 (4590–4630).
 
 ### ¶4800:3 {#p4800-3}
 The superintendent and any other workers of the developing district shall supervise, control, and maintain the property under their care in accord with The Discipline, the General Board Policy for the Church Multiplication and Discipleship Division, and other directives, and as supervised by the Executive Director of Church Multiplication and Discipleship.
@@ -38,10 +38,10 @@ All legal and property records shall be in the custody of the Executive Director
  The district board of administration shall have the following duties and powers concerning the district property and such local property as may be held by the district ([¶4660](/part-8/ch2-local-church-property.md#p4660); [¶4680](/part-8/ch2-local-church-property.md#p4680)):
 
 ### ¶4840:1 {#p4840-1}
-Carry out the directions of the district conference (1180:19–20; 1233:14–15) and, in the interim of its sessions, have power to act on its own resolution to acquire, purchase, sell, exchange, mortgage, deed in trust, pledge, rent, lease, and convey any property, real, personal, or mixed, as may be deemed necessary or convenient for the purpose of the district and so to order the district board of trustees (1360–1365; 4855), provided that in transactions concerning real property used for district purposes, such as a district parsonage, headquarters, or campground, the district board of administration shall consult with the General Superintendent (1935), and further provided that said district board of administration shall be subject to the general regulations concerning property as set forth in 4500–4630.
+Carry out the directions of the district conference (1180:19–20; 1233:14–15) and, in the interim of its sessions, have power to act on its own resolution to acquire, purchase, sell, exchange, mortgage, deed in trust, pledge, rent, lease, and convey any property, real, personal, or mixed, as may be deemed necessary or convenient for the purpose of the district and so to order the district board of trustees (1360–1365; [¶4855](#p4855)), provided that in transactions concerning real property used for district purposes, such as a district parsonage, headquarters, or campground, the district board of administration shall consult with the General Superintendent ([¶1935](/part-4/ch4-general-administration.md#p1935)), and further provided that said district board of administration shall be subject to the general regulations concerning property as set forth in 4500–4630.
 
 ### ¶4840:2 {#p4840-2}
-Carry out the directions of the district conference (1180:19–20; 1233:14–15), and in the interim of its sessions, direct the district board of trustees (1360–1365; 4855) concerning any and all donations, bequests, and devises of any kind or character, real or personal, that may be given, devised, bequeathed, or conveyed to the district, or to the district board of trustees as such, for any benevolent, charitable, or religious purpose, and direct the board of trustees in the administration of such in accordance with the directions of the donor, trustor, or testator, and in the interest of the church, institution, organization, or agency contemplated by such donor, trustor, or testator.
+Carry out the directions of the district conference (1180:19–20; 1233:14–15), and in the interim of its sessions, direct the district board of trustees (1360–1365; [¶4855](#p4855)) concerning any and all donations, bequests, and devises of any kind or character, real or personal, that may be given, devised, bequeathed, or conveyed to the district, or to the district board of trustees as such, for any benevolent, charitable, or religious purpose, and direct the board of trustees in the administration of such in accordance with the directions of the donor, trustor, or testator, and in the interest of the church, institution, organization, or agency contemplated by such donor, trustor, or testator.
 
 ### ¶4840:3 {#p4840-3}
 Supervise, control, and maintain all district property.
@@ -59,7 +59,7 @@ When district property is sold, the district board of administration may approve
 Intervene and institute all necessary legal and equitable actions to safeguard and protect the rights and interests of the district and of The Wesleyan Church, including all matters relating to the property and rights to property, including any property held by a local church, circuit, or other organization within the district, whether arising by gift, devise, or otherwise, or where held in trust for the benefit and use of the members and ministers of the district and The Wesleyan Church (4770–4790).
 
 ### ¶4840:8 {#p4840-8}
-Direct the district superintendent in the care and preservation of all legal and property records for the local churches and the district (4760).
+Direct the district superintendent in the care and preservation of all legal and property records for the local churches and the district ([¶4760](/part-8/ch2-local-church-property.md#p4760)).
 
 ### 3. District Board of Trustees
 

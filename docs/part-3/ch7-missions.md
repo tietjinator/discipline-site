@@ -61,7 +61,7 @@ To promote membership in the Church Builders’ Club.
 To keep a record of activities, reports, and correspondence and to submit it to the successor in office.
 
 ### ¶1426:8 {#p1426-8}
-To submit an annual report of official activities to the district conference (1180:13), including a financial report of expenses and a report of what has been accomplished in the district for general and district evangelism and church growth, a copy of which shall be forwarded to the Executive Director of Church Multiplication and Discipleship; and to submit other reports as may be requested (cf. 1288).
+To submit an annual report of official activities to the district conference ([¶1180:13](/part-3/ch2-conference.md#p1180-13)), including a financial report of expenses and a report of what has been accomplished in the district for general and district evangelism and church growth, a copy of which shall be forwarded to the Executive Director of Church Multiplication and Discipleship; and to submit other reports as may be requested (cf. 1288).
 
 ### ¶1426:9 {#p1426-9}
 To perform other duties in the interest of general and district evangelism and church growth as may be required by the district conference, the district board of administration or the district board of evangelism and church growth.
@@ -90,7 +90,7 @@ To assist pastors in planning for world missions conventions and in promoting wo
 To keep a record of all activities, reports, and correspondence and to submit this to the successor in office.
 
 ### ¶1429:7 {#p1429-7}
-To submit an annual report of official activities to the district conference (1180:13), including a financial report of expenses and a report of what has been accomplished by the district for world missions, a copy of which shall be forwarded to the Executive Director of Global Partners; and to submit other reports as may be requested (cf. 1288).
+To submit an annual report of official activities to the district conference ([¶1180:13](/part-3/ch2-conference.md#p1180-13)), including a financial report of expenses and a report of what has been accomplished by the district for world missions, a copy of which shall be forwarded to the Executive Director of Global Partners; and to submit other reports as may be requested (cf. 1288).
 
 ### ¶1429:8 {#p1429-8}
 To perform other duties in the interest of world missions outreach as may be requested by the district conference or the district board of administration.

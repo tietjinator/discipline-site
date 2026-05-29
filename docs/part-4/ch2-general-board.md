@@ -84,22 +84,22 @@ Establish policies, goals, and objectives for more effectively fulfilling the mi
 ### Related to the General Conference
 
 ### ¶1655.4 {#p1655-4}
-Select the place and determine the day and the hour at which regular sessions of the General Conference shall convene, provided that the day and the hour are within the spring season (330:1; 1528).
+Select the place and determine the day and the hour at which regular sessions of the General Conference shall convene, provided that the day and the hour are within the spring season ([¶330:1](/part-1/ch4-constitution.md#p330-1); [¶1528](/part-4/ch1-general-conference.md#p1528)).
 
 ### ¶1655.5 {#p1655-5}
-Declare that an emergency exists requiring a change in the time of the General Conference, and subsequently to alter the same (330:1; 1530).
+Declare that an emergency exists requiring a change in the time of the General Conference, and subsequently to alter the same ([¶330:1](/part-1/ch4-constitution.md#p330-1); [¶1530](/part-4/ch1-general-conference.md#p1530)).
 
 ### ¶1655.6 {#p1655-6}
-Authorize by a two-thirds vote a special session of the General Conference, and to set by majority vote the time and place of such special session (330:2; 1532).
+Authorize by a two-thirds vote a special session of the General Conference, and to set by majority vote the time and place of such special session ([¶330:2](/part-1/ch4-constitution.md#p330-2); [¶1532](/part-4/ch1-general-conference.md#p1532)).
 
 ### ¶1655.7 {#p1655-7}
-Serve as the General Conference Committee on Memorials (1565) and the Committee on Special Nominations (1580).
+Serve as the General Conference Committee on Memorials ([¶1565](/part-4/ch1-general-conference.md#p1565)) and the Committee on Special Nominations ([¶1580](/part-4/ch1-general-conference.md#p1580)).
 
 ### ¶1655.8 {#p1655-8}
 Originate recommendations and memorials to the General Conference, including proposed amendments to the Constitution (1557-1560).
 
 ### ¶1655.9 {#p1655-9}
-Instruct the General Conference Editing Committee concerning the dedication (if any) of the General Conference Journal (1585).
+Instruct the General Conference Editing Committee concerning the dedication (if any) of the General Conference Journal ([¶1585](/part-4/ch1-general-conference.md#p1585)).
 
 ### ¶1655.10 {#p1655-10}
 Care for any business delegated to the General Board by the General Conference.
@@ -107,23 +107,23 @@ Care for any business delegated to the General Board by the General Conference.
 ### Related to the General Board
 
 ### ¶1655.11 {#p1655-11}
-Fill, for the unexpired term, vacancies occurring among the general officials elected by the General Conference (1800; 1850) or the area representatives of the General Board (1605:2), by a two-thirds majority of the members of the General Board present and voting or by a majority of all the members of the General Board, whichever is greater (1850); and to fill vacancies occurring among the general officials elected by the General Board by majority vote; all in such a manner as to fulfill all the requirements for such offices and positions (1605:2; 1800-1810; 1903).
+Fill, for the unexpired term, vacancies occurring among the general officials elected by the General Conference ([¶1800](/part-4/ch3-general-officials.md#p1800); [¶1850](/part-4/ch3-general-officials.md#p1850)) or the area representatives of the General Board ([¶1605:2](#p1605-2)), by a two-thirds majority of the members of the General Board present and voting or by a majority of all the members of the General Board, whichever is greater ([¶1850](/part-4/ch3-general-officials.md#p1850)); and to fill vacancies occurring among the general officials elected by the General Board by majority vote; all in such a manner as to fulfill all the requirements for such offices and positions ([¶1605:2](#p1605-2); 1800-1810; [¶1903](/part-4/ch4-general-administration.md#p1903)).
 
 ### ¶1655.12 {#p1655-12}
 Elect by majority vote, from among the area representatives of its own membership, three ordained ministers and three lay members to be members of the Executive Board and an ordained minister as vice-chair of the General Board (cf. 1755), who will also serve as vice-chair of the Executive Board.
 
 ### ¶1655.13 {#p1655-13}
-Refer such matters to the Executive Board as shall be deemed wise (1785); to review such actions of the Executive Board as are not final (1785:2, 6); and to receive and act upon its recommendations.
+Refer such matters to the Executive Board as shall be deemed wise ([¶1785](#p1785)); to review such actions of the Executive Board as are not final (1785:2, 6); and to receive and act upon its recommendations.
 
 ### Related to the Church in General
 
 ### ¶1655.14 {#p1655-14}
-Recommend to the General Conference the number of representative areas and the boundaries of such areas for the election of representatives to the General Board (1590:12); and in the interim of General Conference sessions to assign new districts to the proper area.
+Recommend to the General Conference the number of representative areas and the boundaries of such areas for the election of representatives to the General Board ([¶1590:12](/part-4/ch1-general-conference.md#p1590-12)); and in the interim of General Conference sessions to assign new districts to the proper area.
 
 ### Related to Corporations
 
 ### ¶1655.15 {#p1655-15}
-Serve as the board of directors of The Wesleyan Church Corporation and its precedent corporations (4230); to appoint committees from among its own members and to delegate to such committees the exercise of such powers in the interim of its sessions as it shall deem wise.
+Serve as the board of directors of The Wesleyan Church Corporation and its precedent corporations ([¶4230](/part-7/ch3-twc-corporation.md#p4230)); to appoint committees from among its own members and to delegate to such committees the exercise of such powers in the interim of its sessions as it shall deem wise.
 
 ### ¶1655.16 {#p1655-16}
 Buy, own, hold, manage, mortgage, sell, convey, donate or otherwise acquire, encumber, and dispose of any General Church property, whether real, personal, or mixed, in keeping with the trust provisions given in 4920; and to buy, sell, or lease any denominational headquarters site (by whatever name it shall be called) by a two-thirds majority of the members of the General Board present and voting, except that property for which other provision is made in the articles and bylaws of subsidiary corporations, and to provide for the proper care and maintenance of such property.
@@ -132,13 +132,13 @@ Buy, own, hold, manage, mortgage, sell, convey, donate or otherwise acquire, enc
 Space reserved.
 
 ### ¶1655.18 {#p1655-18}
-Carry out the instructions of the General Conference relative to the incorporation of any agency, institution, board organization, or other similar body (1590:6); or, in the interim of General Conference sessions, to authorize the establishment of such a corporation by a two-thirds majority vote and to care for such corporation matters as the approval and amendment of articles and bylaws, all in keeping with the provisions of The Discipline (cf.2358-2362; 4300-4320; 4425).
+Carry out the instructions of the General Conference relative to the incorporation of any agency, institution, board organization, or other similar body ([¶1590:6](/part-4/ch1-general-conference.md#p1590-6)); or, in the interim of General Conference sessions, to authorize the establishment of such a corporation by a two-thirds majority vote and to care for such corporation matters as the approval and amendment of articles and bylaws, all in keeping with the provisions of The Discipline (cf.2358-2362; 4300-4320; [¶4425](/part-7/ch5-pension-corporation.md#p4425)).
 
 ### ¶1655.19 {#p1655-19}
 Elect by majority vote all except the ex officio members of all other General Church boards; to be or to elect all boards of trustees, directors, or managers of subsidiary corporations, including all approved benevolent institutions, and to exercise such control and direction of said subsidiary corporations and related agencies as is provided for in The Discipline (2358-2362; 4300-4320) and in their several articles of incorporation and bylaws; and to remove a member of any such board, for cause or when the best interests of the Church so require, by a majority vote of all the members of the General Board (Gen. Bd. Policy on Ch. Disc. 5270:4; 5282; 5288), and to fill all vacancies.
 
 ### ¶1655.20 {#p1655-20}
-Direct an annual audit, and at other times as deemed necessary, of all corporations, general offices, divisions, agencies, auxiliaries, and institutions of the Church, and to take any action required by the findings of such audit (4320:7).
+Direct an annual audit, and at other times as deemed necessary, of all corporations, general offices, divisions, agencies, auxiliaries, and institutions of the Church, and to take any action required by the findings of such audit ([¶4320:7](/part-7/ch4-subsidiary-corporations.md#p4320-7)).
 
 ### ¶1655.21 {#p1655-21}
 Have the authority to negotiate and arbitrate legal and temporal matters in cases of dispute involving the General Church without resort to the courts when the General Board, by a two-thirds vote, deems such procedure necessary; provided, however, that the emergency authority hereby granted shall not be construed to modify or rescind any of the provisions of The Discipline of The Wesleyan Church with reference to the prescribed conveyance of church property; and further provided that this authority to negotiate and arbitrate shall not be a limit on the power or authority to resort to litigation in the courts when such procedure is deemed advisable.
@@ -146,25 +146,25 @@ Have the authority to negotiate and arbitrate legal and temporal matters in case
 ### Related to General Offices and Divisions
 
 ### ¶1655.22 {#p1655-22}
-Direct the general officials and those elected by the General Board in their work, in keeping with the provisions of The Discipline (1830), and assigning to them such special duties as shall be deemed necessary (1590:9); to receive reports annually and as needed from the general officials and such others as The Discipline or the General Board shall require (1840; 4320:8); and to set the salaries and allowances of all general officials (1800) and of those elected by the General Board.
+Direct the general officials and those elected by the General Board in their work, in keeping with the provisions of The Discipline ([¶1830](/part-4/ch3-general-officials.md#p1830)), and assigning to them such special duties as shall be deemed necessary ([¶1590:9](/part-4/ch1-general-conference.md#p1590-9)); to receive reports annually and as needed from the general officials and such others as The Discipline or the General Board shall require ([¶1840](/part-4/ch3-general-officials.md#p1840); [¶4320:8](/part-7/ch4-subsidiary-corporations.md#p4320-8)); and to set the salaries and allowances of all general officials ([¶1800](/part-4/ch3-general-officials.md#p1800)) and of those elected by the General Board.
 
 ### ¶1655.23 {#p1655-23}
-Adopt a comprehensive budget for each of the general offices, divisions, agencies, and auxiliaries (1880) and apportion the USF-Educational Institutions Fund among the general educational interests; to determine the obligation to the United Stewardship Fund of churches within developing districts; and, in the interim of General Conference sessions, to designate those interests which will share in the benefits of the USF-General Fund, and to alter the percentage of the USF-General Fund, in case of emergency, by a two-thirds majority vote of all the members of the General Board (2005:2).
+Adopt a comprehensive budget for each of the general offices, divisions, agencies, and auxiliaries (1880) and apportion the USF-Educational Institutions Fund among the general educational interests; to determine the obligation to the United Stewardship Fund of churches within developing districts; and, in the interim of General Conference sessions, to designate those interests which will share in the benefits of the USF-General Fund, and to alter the percentage of the USF-General Fund, in case of emergency, by a two-thirds majority vote of all the members of the General Board ([¶2005:2](/part-4/ch4-general-administration.md#p2005-2)).
 
 ### ¶1655.24 {#p1655-24}
-Request the General Superintendent to rule on points of Church law and interpretations of The Discipline as set forth in 2061; to receive reports from the General Superintendent on all such rulings as a matter of information; and to appeal any such ruling to the Board of Review (375:2; Gen. Bd. Policy on Ch. Disc. 5445:2). All appeals must be filed with the Executive Director of Communication and Administration within sixty days after the date of the official decision on the matter.
+Request the General Superintendent to rule on points of Church law and interpretations of The Discipline as set forth in 2061; to receive reports from the General Superintendent on all such rulings as a matter of information; and to appeal any such ruling to the Board of Review ([¶375:2](/part-1/ch4-constitution.md#p375-2); Gen. Bd. Policy on Ch. Disc. 5445:2). All appeals must be filed with the Executive Director of Communication and Administration within sixty days after the date of the official decision on the matter.
 
 ### ¶1655.25 {#p1655-25}
 Receive and act upon the recommendations of the General Superintendent.
 
 ### ¶1655.26 {#p1655-26}
-Recommend at the discretion of the General Board that the General Conference confer the title General Superintendent Emeritus or Emerita upon a former General Superintendent (1590:19; 1945).
+Recommend at the discretion of the General Board that the General Conference confer the title General Superintendent Emeritus or Emerita upon a former General Superintendent ([¶1590:19](/part-4/ch1-general-conference.md#p1590-19); [¶1945](/part-4/ch4-general-administration.md#p1945)).
 
 ### ¶1655.27 {#p1655-27}
 Adopt official policies for the general offices, divisions, agencies, auxiliaries, and institutions of the Church, in keeping with the provisions of The Discipline, defining the duties of the various executive officers.
 
 ### ¶1655.28 {#p1655-28}
-Elect the General Treasurer/Chief Financial Officer (1970); to receive, hold, borrow for, loan, and appropriate all General Church funds, in accordance with the financial plans adopted by the General Conference, through the General Treasurer, in the execution of its lawful purpose, subject to the limitations imposed by The Discipline, the articles and bylaws of the several corporations, and the specific provisions of trust agreements; to have the General Treasurer/Chief Financial Officer bonded, and to set the amount of such bond (1976).
+Elect the General Treasurer/Chief Financial Officer ([¶1970](/part-4/ch4-general-administration.md#p1970)); to receive, hold, borrow for, loan, and appropriate all General Church funds, in accordance with the financial plans adopted by the General Conference, through the General Treasurer, in the execution of its lawful purpose, subject to the limitations imposed by The Discipline, the articles and bylaws of the several corporations, and the specific provisions of trust agreements; to have the General Treasurer/Chief Financial Officer bonded, and to set the amount of such bond ([¶1976](/part-4/ch4-general-administration.md#p1976)).
 
 ### ¶1655.29 {#p1655-29}
 Receive a report from the Executive Board regarding its annual review of all general officers based on mutually agreed goals and objectives.
@@ -173,10 +173,10 @@ Receive a report from the Executive Board regarding its annual review of all gen
 Elect content experts to the Executive Cabinet.
 
 ### ¶1655.31 {#p1655-31}
-Define the duties of the Executive Cabinet (1990).
+Define the duties of the Executive Cabinet ([¶1990](/part-4/ch4-general-administration.md#p1990)).
 
 ### ¶1655.32 {#p1655-32}
-Authorize adaptation of the church name for units of The Wesleyan Church when necessary (80; 205; 340:2); to approve a discipline for each unit under the Global Partners Division in keeping with 340:2; and to recommend to the International Board the advancement to Established National/Regional Conference status of qualified mission units under the Global Partners Division (6516).
+Authorize adaptation of the church name for units of The Wesleyan Church when necessary ([¶80](/part-1/ch1-history.md#p80); [¶205](/part-1/ch4-constitution.md#p205); [¶340:2](/part-1/ch4-constitution.md#p340-2)); to approve a discipline for each unit under the Global Partners Division in keeping with 340:2; and to recommend to the International Board the advancement to Established National/Regional Conference status of qualified mission units under the Global Partners Division (6516).
 
 ### ¶1655.33 {#p1655-33}
 Space reserved.
@@ -184,18 +184,18 @@ Space reserved.
 ### Related to Districts
 
 ### ¶1655.34 {#p1655-34}
-Make recommendation to the General Conference for the establishment or alteration of district boundaries (1590:10); and to approve the merger, division, or other realignment of districts when each district conference involved has approved the plan (1065).
+Make recommendation to the General Conference for the establishment or alteration of district boundaries ([¶1590:10](/part-4/ch1-general-conference.md#p1590-10)); and to approve the merger, division, or other realignment of districts when each district conference involved has approved the plan ([¶1065](/part-3/ch1-organization.md#p1065)).
 
 ### ¶1655.35 {#p1655-35}
-Authorize the incorporation of a developing district (4105); to approve the articles of incorporation and bylaws for the incorporation of a district, and all amendments to the same (4110); and to exercise such control and direction of said district corporations as is set forth in 4120:3, 6, 9; 4250; 4870.
+Authorize the incorporation of a developing district ([¶4105](/part-7/ch2-district-corporations.md#p4105)); to approve the articles of incorporation and bylaws for the incorporation of a district, and all amendments to the same ([¶4110](/part-7/ch2-district-corporations.md#p4110)); and to exercise such control and direction of said district corporations as is set forth in 4120:3, 6, 9; 4250; 4870.
 
 ### ¶1655.36 {#p1655-36}
-Grant in concurrence with the respective district conference prior approval to a local church conference for post-secondary education in terms of an institute or of junior college or college-level programs (655:17; 1180:25).
+Grant in concurrence with the respective district conference prior approval to a local church conference for post-secondary education in terms of an institute or of junior college or college-level programs ([¶655:17](/part-2/ch3-conference.md#p655-17); [¶1180:25](/part-3/ch2-conference.md#p1180-25)).
 
 ### Related to Judiciary
 
 ### ¶1655.37 {#p1655-37}
-Exercise administrative and judicial discipline in accordance with the Constitution and as set forth in the General Board Policy on Church Discipline over officers elected by the General Conference including the general officials of the Church (360:2) and the area representatives of the General Board (340:1), over those elected or employed by the General Board (323:1), over districts (360:3c), and over district superintendents (323:1; Gen. Bd. Policy on Ch. Disc. 5270-5288; 5350-5385).
+Exercise administrative and judicial discipline in accordance with the Constitution and as set forth in the General Board Policy on Church Discipline over officers elected by the General Conference including the general officials of the Church ([¶360:2](/part-1/ch4-constitution.md#p360-2)) and the area representatives of the General Board ([¶340:1](/part-1/ch4-constitution.md#p340-1)), over those elected or employed by the General Board ([¶323:1](/part-1/ch4-constitution.md#p323-1)), over districts (360:3c), and over district superintendents ([¶323:1](/part-1/ch4-constitution.md#p323-1); Gen. Bd. Policy on Ch. Disc. 5270-5288; 5350-5385).
 
 ### ¶1655.38 {#p1655-38}
 Hear and determine charges against the moral character of a minister or a lay member under its jurisdiction in keeping with the provisions of the General Board Policy on Church Discipline (Gen. Bd. Policy on Ch. Disc. 5270; 5279; 5282).
@@ -210,10 +210,10 @@ Hear and determine any charges alleging an administrative offense in relation to
 Remove from office a general official elected by the General Conference (1800:1a, b), or to remove from General Board membership an area representative, or to remove from office a district superintendent shall require a two-thirds majority vote of all the members of the General Board (Gen. Bd. Policy on Ch. Disc. 5279).
 
 #### ¶1655.40.b {#p1655-40-b}
-Remove from office a person elected or employed by the General Board (1800:2) shall require a majority vote of all the members of the General Board (Gen. Bd. Policy on Ch. Disc. 5282).
+Remove from office a person elected or employed by the General Board ([¶1800:2](/part-4/ch3-general-officials.md#p1800-2)) shall require a majority vote of all the members of the General Board (Gen. Bd. Policy on Ch. Disc. 5282).
 
 ### ¶1655.41 {#p1655-41}
-To hear and determine charges against a district for an offense as set forth in 5010 (375:6; Gen. Bd. Policy on Ch. Disc. 5350-5370).
+To hear and determine charges against a district for an offense as set forth in 5010 ([¶375:6](/part-1/ch4-constitution.md#p375-6); Gen. Bd. Policy on Ch. Disc. 5350-5370).
 
 ### ¶1655.42 {#p1655-42}
 Administer discipline to a district which has been found guilty by the proper judicatory as set forth in the Judiciary (Gen. Bd. Policy on Ch. Disc.
@@ -275,10 +275,10 @@ the call of the chair.
  In the interim of General Board sessions, the Executive Board shall exercise such powers and have such duties as may be assigned to it by *The Discipline* or by the General Board, including the power to:
 
 ### ¶1785.1 {#p1785-1}
-Transact all business referred to it by the General Board; to change the time and place of a regular session of the General Board if circumstances require it (1615); and to order a special session of the General Board if deemed necessary (1620).
+Transact all business referred to it by the General Board; to change the time and place of a regular session of the General Board if circumstances require it ([¶1615](#p1615)); and to order a special session of the General Board if deemed necessary ([¶1620](#p1620)).
 
 ### ¶1785.2 {#p1785-2}
-Transact any and all other business the General Board may transact except that the Executive Board shall not make recommendations directly to the General Conference, nor take final action on the adoption of the annual budgets (1655:3), nor the amending of General Board policies (1655), nor transact any business which requires more than a simple majority vote of the General Board (1530; 1532; 1655:6, 11, 16, 18, 21, 23, 40a; 4300; Gen. Bd. Policy on Ch. Disc. 5279; 5365).
+Transact any and all other business the General Board may transact except that the Executive Board shall not make recommendations directly to the General Conference, nor take final action on the adoption of the annual budgets ([¶1655:3](#p1655-3)), nor the amending of General Board policies ([¶1655](#p1655)), nor transact any business which requires more than a simple majority vote of the General Board ([¶1530](/part-4/ch1-general-conference.md#p1530); [¶1532](/part-4/ch1-general-conference.md#p1532); 1655:6, 11, 16, 18, 21, 23, 40a; [¶4300](/part-7/ch4-subsidiary-corporations.md#p4300); Gen. Bd. Policy on Ch. Disc. 5279; 5365).
 
 ### ¶1785.3 {#p1785-3}
 Provide overall correlation of corporate entities, divisions, agencies, auxiliaries, and institutions in planning and carrying out programs adopted by the General Conference and the General Board.
@@ -290,10 +290,10 @@ Serve as the members of the budget committee with the General Treasurer/ Chief F
 Require reports from all such officers as it shall designate and consult with and give direction to the same.
 
 ### ¶1785.6 {#p1785-6}
-Receive a report from the General Superintendent regarding the annual review of all general officers based on mutually agreed goals and objectives and issue a report of the same to the General Board (1655:29).
+Receive a report from the General Superintendent regarding the annual review of all general officers based on mutually agreed goals and objectives and issue a report of the same to the General Board ([¶1655:29](#p1655-29)).
 
 ### ¶1785.7 {#p1785-7}
-Take emergency action by a two-thirds majority vote of all the members of the Executive Board, suspending from office a person under the jurisdiction of the General Board (1655:37), pending the action of the General Board. In the case of a general official (1800), no more than thirty days shall elapse from the time such suspension is effected until the General Board shall review the matter, either through a regular or special session.
+Take emergency action by a two-thirds majority vote of all the members of the Executive Board, suspending from office a person under the jurisdiction of the General Board ([¶1655:37](#p1655-37)), pending the action of the General Board. In the case of a general official ([¶1800](/part-4/ch3-general-officials.md#p1800)), no more than thirty days shall elapse from the time such suspension is effected until the General Board shall review the matter, either through a regular or special session.
 
 ### ¶1785.8 {#p1785-8}
 Appoint such subcommittees as it shall deem wise, and to delegate duties and powers to the same.
@@ -307,7 +307,7 @@ Appoint such subcommittees as it shall deem wise, and to delegate duties and pow
  In the event of a conflict between provisions of The Discipline relating to church administration at the local, district, or general level and applicable local laws, such provisions of *The Discipline* may be modified to the extent deemed necessary to comply with such local laws, by utilizing the approval process hereinafter specified; provided, however, that this clause shall not be construed to give the consent of The Wesleyan Church (or any component part or affiliated entity thereof) to the regulation of its affairs by any civil authority where such regulation would violate:
 
 ### ¶1796.1 {#p1796-1}
-Any of the Essentials of the Church (2500:3);
+Any of the Essentials of the Church ([¶2500:3](/part-5/ch1-basic-principles.md#p2500-3));
 
 ### ¶1796.2 {#p1796-2}
 The rights of the Church or its members to freedom of religion, freedom of association, freedom of speech, or other civil rights;

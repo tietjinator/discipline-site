@@ -77,7 +77,7 @@ To serve as director of the summer camping program to the extent recommended by 
 ) To promote the interests of the general educational institutions within the area, helping to recruit students and to promote the raising of funds.
 
 ### ¶1463:7 {#p1463-7}
-To submit an annual report of official activities to the district conference (1180:13), including a financial report of expenses and a report of what has been accomplished by the district for spiritual formation, a copy of which shall be forwarded to the Executive Directors of Church Multiplication and Discipleship and Education and Clergy Development; and to submit other reports as may be requested (cf. 1288).
+To submit an annual report of official activities to the district conference ([¶1180:13](/part-3/ch2-conference.md#p1180-13)), including a financial report of expenses and a report of what has been accomplished by the district for spiritual formation, a copy of which shall be forwarded to the Executive Directors of Church Multiplication and Discipleship and Education and Clergy Development; and to submit other reports as may be requested (cf. 1288).
 
 ### ¶1463:8 {#p1463-8}
 To keep a file of correspondence and other records, and to submit the same to the successor in office.
@@ -150,7 +150,7 @@ To cooperate with and assist the pastors and local Sunday school superintendents
 To keep a file of correspondence and other records and to submit it to the successor in office.
 
 ### ¶1483:5 {#p1483-5}
-To submit an annual report to the district conference (1180:13) concerning official activities, and a complete statistical report for the Sunday schools; and to submit other reports as may be requested (cf. 1288).
+To submit an annual report to the district conference ([¶1180:13](/part-3/ch2-conference.md#p1180-13)) concerning official activities, and a complete statistical report for the Sunday schools; and to submit other reports as may be requested (cf. 1288).
 
 ### ¶1483:6 {#p1483-6}
 To increase the personal qualifications and capacity for Sunday school and spiritual formation work by attending denominational and other approved spiritual formation conventions, conferences, and seminars, and through correspondence courses, and periodicals as time permits and opportunity affords.
@@ -176,7 +176,7 @@ To be responsible for the district program of leadership training under the Chur
 To be certified as a director of leadership training.
 
 ### ¶1486:3 {#p1486-3}
-To formulate plans with the district spiritual formation leadership team for leadership training rallies, institutes, conventions or seminars on a district, zone or local church level; and to submit such plans to the district spiritual formation leadership team for review and coordination (1455:1) and subsequently to the district board of administration for approval (cf. 1452).
+To formulate plans with the district spiritual formation leadership team for leadership training rallies, institutes, conventions or seminars on a district, zone or local church level; and to submit such plans to the district spiritual formation leadership team for review and coordination ([¶1455:1](#p1455-1)) and subsequently to the district board of administration for approval (cf. 1452).
 
 ### ¶1486:4 {#p1486-4}
 To assist pastors and local church directors of Christian education in conducting classes or setting up effective programs of leadership training in the local church.
@@ -188,7 +188,7 @@ To keep a permanent record of correspondence and other plans and to submit them 
 To conduct any special services or to arrange for promotional displays on leadership training at the district conference, camp meeting, and other district gatherings.
 
 ### ¶1486:7 {#p1486-7}
-To submit an annual report to the district conference (1180:13) regarding all official activities and the progress of leadership training within the district, including a statistical report; and to submit other reports as may be requested (cf. 1288).
+To submit an annual report to the district conference ([¶1180:13](/part-3/ch2-conference.md#p1180-13)) regarding all official activities and the progress of leadership training within the district, including a statistical report; and to submit other reports as may be requested (cf. 1288).
 
 ### ¶1486:8 {#p1486-8}
 To perform such other duties, in harmony with the other responsibilities of this office, as may be assigned by the district conference, the district board of administration or the district spiritual formation leadership team.
@@ -202,7 +202,7 @@ To perform such other duties, in harmony with the other responsibilities of this
 To promptly report the election to the Executive Director of Church Multiplication and Discipleship, and to cooperate with the same to promote, highlight and resource local churches within the district.
 
 ### ¶1489:2 {#p1489-2}
-To serve as a member of the district spiritual formation leadership team and to work with that team for a coordinated program of all the various phases of spiritual formation throughout the district (cf.1452; 1455:1).
+To serve as a member of the district spiritual formation leadership team and to work with that team for a coordinated program of all the various phases of spiritual formation throughout the district (cf.1452; [¶1455:1](#p1455-1)).
 
 ### ¶1489:3 {#p1489-3}
 To work with pastors and local children’s ministries directors in establishing and maintaining effective children’s ministries.
@@ -211,7 +211,7 @@ To work with pastors and local children’s ministries directors in establishing
 To be responsible for district children’s ministries events or activities and to arrange for informational displays at the district conference, camp meeting, summer camps, and other district gatherings.
 
 ### ¶1489:5 {#p1489-5}
-To submit an annual report to the district conference (1180:13) regarding official activities and progress of children’s ministries within the district and to submit other reports as may be requested (cf.1288).
+To submit an annual report to the district conference ([¶1180:13](/part-3/ch2-conference.md#p1180-13)) regarding official activities and progress of children’s ministries within the district and to submit other reports as may be requested (cf.1288).
 
 ### ¶1489:6 {#p1489-6}
 To perform such other duties related to children’s ministries as may be assigned by the district conference, the district board of administration, or the district spiritual formation leadership team.
@@ -230,7 +230,7 @@ To perform such other duties related to children’s ministries as may be assign
 To promptly report the election to the Executive Director of Church Multiplication and Discipleship, and to cooperate with the same to promote, highlight and resource local churches within the district.
 
 ### ¶1494:2 {#p1494-2}
-To serve as a member of the district spiritual formation leadership team and to work with that team for a coordinated program of all the various phases of spiritual formation throughout the district (cf. 1452; 1455:1).
+To serve as a member of the district spiritual formation leadership team and to work with that team for a coordinated program of all the various phases of spiritual formation throughout the district (cf. 1452; [¶1455:1](#p1455-1)).
 
 ### ¶1494:3 {#p1494-3}
 To work with pastors and local adult ministries directors in establishing and maintaining effective adult ministries.
@@ -239,7 +239,7 @@ To work with pastors and local adult ministries directors in establishing and ma
 To be responsible for district adult ministries events or activities and to arrange for informational displays at the district conference, camp meeting, summer camps, and other district gatherings.
 
 ### ¶1494:5 {#p1494-5}
-To submit an annual report to the district conference (1180:13) regarding official activities and progress of adult ministries within the district and to submit other reports as may be requested (cf.1288).
+To submit an annual report to the district conference ([¶1180:13](/part-3/ch2-conference.md#p1180-13)) regarding official activities and progress of adult ministries within the district and to submit other reports as may be requested (cf.1288).
 
 ### ¶1494:6 {#p1494-6}
 To perform such other duties related to adult ministries as may be assigned by the district conference, the district board of administration, or the district spiritual formation leadership team.
@@ -265,7 +265,7 @@ To assist the district superintendent in planning and conducting special service
 To encourage young people to attend the schools of The Wesleyan Church, notifying such institutions of any prospective students and encouraging all pastors to do the same.
 
 ### ¶1496:6 {#p1496-6}
-To submit an annual report to the district conference (1180:13) concerning all official activities and the support given by the district for the general educational institutions, including the number of students enrolled in the educational institutions of The Wesleyan Church; and to submit other reports as may be requested (cf. 1288).
+To submit an annual report to the district conference ([¶1180:13](/part-3/ch2-conference.md#p1180-13)) concerning all official activities and the support given by the district for the general educational institutions, including the number of students enrolled in the educational institutions of The Wesleyan Church; and to submit other reports as may be requested (cf. 1288).
 
 ### ¶1496:7 {#p1496-7}
 To perform such other duties in harmony with the other responsibilities of this office, as may be assigned by the district conference, the district board of administration or the district spiritual formation leadership team.

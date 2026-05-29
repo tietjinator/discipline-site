@@ -15,13 +15,13 @@
  A person holding a lay minister’s license shall be responsible to:
 
 ### ¶3430:1 {#p3430-1}
-Enroll in the course of study for lay ministers under the Ministerial Study Course Agency (3210:4), and to pursue it with all diligence until completed, either through a program of ministerial training at one of the Wesleyan educational institutions or through correspondence courses from the Ministerial Study Course Agency. Any training taken outside The Wesleyan Church shall be carefully evaluated by the Ministerial Study Course Agency which shall have authority to determine to what extent it may be credited toward the prescribed study course (3170:4).
+Enroll in the course of study for lay ministers under the Ministerial Study Course Agency ([¶3210:4](/part-6/ch2-ministerial-education.md#p3210-4)), and to pursue it with all diligence until completed, either through a program of ministerial training at one of the Wesleyan educational institutions or through correspondence courses from the Ministerial Study Course Agency. Any training taken outside The Wesleyan Church shall be carefully evaluated by the Ministerial Study Course Agency which shall have authority to determine to what extent it may be credited toward the prescribed study course ([¶3170:4](/part-6/ch2-ministerial-education.md#p3170-4)).
 
 ### ¶3430:2 {#p3430-2}
-Assist the pastor as directed (725:26), preaching as often as opportunity affords, including the holding of evangelistic services in neighboring churches with the pastor’s approval or serving in other ways befitting the lay minister’s gifts and local needs.
+Assist the pastor as directed ([¶725:26](/part-2/ch4-pastors.md#p725-26)), preaching as often as opportunity affords, including the holding of evangelistic services in neighboring churches with the pastor’s approval or serving in other ways befitting the lay minister’s gifts and local needs.
 
 ### ¶3430:3 {#p3430-3}
-Report the progress of studies and the nature and extent of labors to the pastor and the local board of administration as they shall require (782:5) and to the local church conference annually (650:5; 655:4).
+Report the progress of studies and the nature and extent of labors to the pastor and the local board of administration as they shall require ([¶782:5](/part-2/ch5-local-board.md#p782-5)) and to the local church conference annually ([¶650:5](/part-2/ch3-conference.md#p650-5); [¶655:4](/part-2/ch3-conference.md#p655-4)).
 
 ## ¶3440 {#p3440}
 
@@ -29,7 +29,7 @@ Report the progress of studies and the nature and extent of labors to the pastor
 A lay minister has no authority to solemnize marriages or to administer the sacraments, except as provided for in 3260:2, nor any vote in the local board of administration nor in the district conference unless elected thereto.
 
 ### ¶3440:2 {#p3440-2}
-A lay minister is amenable to the local church conference, and the license may be revoked by the authorized body for cause or when the best interests of the church so require (655:6; 782:18).
+A lay minister is amenable to the local church conference, and the license may be revoked by the authorized body for cause or when the best interests of the church so require ([¶655:6](/part-2/ch3-conference.md#p655-6); [¶782:18](/part-2/ch5-local-board.md#p782-18)).
 
 ### ¶3440:3 {#p3440-3}
 A lay minister who transfers membership may also ask for a letter of standing as a lay minister (6220) and present it to the pastor of the church to which transfer is sought, for consideration by the local board of administration there in issuing a new license.

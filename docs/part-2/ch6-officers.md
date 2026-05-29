@@ -4,23 +4,23 @@
 
 **800.** The following summarizes for quick reference the various officers, boards, and committees of the local church:
 
-**(1)** The church shall have the following officers and personnel, elected by the local church conference:
+**([¶1](/part-1/ch1-history.md#p1))** The church shall have the following officers and personnel, elected by the local church conference:
 board of administration, local ([¶750-782](#p750-782))
 church secretary ([¶830](#p830))
 church treasurer or business manager ([¶842](#p842))—appointment may be delegated to the local board of administration
 delegates to district conference ([¶965](#p965); [¶1086](/part-3/ch2-conference.md#p1086); [¶1100-1109](#p1100-1109))
 pastor ([¶675-725](#p675-725))
 trustees ([¶850-859](#p850-859)), unless delegated to the local board of administration
-**(2)** The church shall have the following officers and personnel, elected by the local board of administration:
+**([¶2](/part-1/ch1-history.md#p2))** The church shall have the following officers and personnel, elected by the local board of administration:
 auditor or auditing committee ([¶863](#p863))
 offering teller ([¶845:3](#p845-3))
 vice-chair of local board of administration ([¶773](/part-2/ch5-local-board.md#p773))
-**(3)** The church may have additional ministry leaders and personnel, as it deems necessary, elected by the local church conference, such as:
+**([¶3](/part-1/ch1-history.md#p3))** The church may have additional ministry leaders and personnel, as it deems necessary, elected by the local church conference, such as:
 associate pastor ([¶738](/part-2/ch4-pastors.md#p738))—elected by the local church conference
 lay leader ([¶833](#p833))—elected by the local church conference
 spiritual formation director or Sunday school superintendent ([¶887-890](#p887-890))
 nominating committee ([¶820-823](#p820-823)) —up to four additional committee members who are not local board of administration members to serve with the pastor and two members elected by the local board of administration from among its membership
-**(4)** The church may have additional ministry leaders and personnel, as it deems necessary, elected by the local board of administration, such as:
+**([¶4](/part-1/ch1-history.md#p4))** The church may have additional ministry leaders and personnel, as it deems necessary, elected by the local board of administration, such as:
 adult ministry director, staff and team ([¶924](#p924))
 assistant treasurer ([¶845:1](#p845-1))
 assistant pastor ([¶741](/part-2/ch4-pastors.md#p741))
@@ -62,10 +62,10 @@ Wesleyan Youth adult leader, officers, and committees ([¶922](#p922))
 
 **815.** The church officers shall include all members of the local board of administration, and delegates to district conference who shall serve subject to the following regulations: 
 
-**(1)** They must be members of the local Wesleyan church electing them ([¶302:4](/part-1/ch4-constitution.md#p302-4); [¶558](/part-2/ch2-membership.md#p558)) and members who meet the leadership qualifications ([¶260-268](#p260-268); [¶558](/part-2/ch2-membership.md#p558)).
-**(2)** They shall be elected by the local church conference at its annual session (315:5-7; [¶820-823](#p820-823)). Vacancies occurring between annual sessions of the local church conference shall be filled for the unexpired term by the local board of administration.
-**(3)** They shall carry out their duties as given in *The Discipline* and as further defined by the local church conference and the local board of administration.
-**(4)** They shall be under the general supervision of the pastor, shall be amenable to the local church conference, and may be removed for cause or when the best interests of the church so require, by a majority vote of the local board of administration ([¶752:1](/part-2/ch5-local-board.md#p752-1); [¶815:2](#p815-2); [¶825:4](#p825-4)).
+**([¶1](/part-1/ch1-history.md#p1))** They must be members of the local Wesleyan church electing them ([¶302:4](/part-1/ch4-constitution.md#p302-4); [¶558](/part-2/ch2-membership.md#p558)) and members who meet the leadership qualifications ([¶260-268](#p260-268); [¶558](/part-2/ch2-membership.md#p558)).
+**([¶2](/part-1/ch1-history.md#p2))** They shall be elected by the local church conference at its annual session (315:5-7; [¶820-823](#p820-823)). Vacancies occurring between annual sessions of the local church conference shall be filled for the unexpired term by the local board of administration.
+**([¶3](/part-1/ch1-history.md#p3))** They shall carry out their duties as given in *The Discipline* and as further defined by the local church conference and the local board of administration.
+**([¶4](/part-1/ch1-history.md#p4))** They shall be under the general supervision of the pastor, shall be amenable to the local church conference, and may be removed for cause or when the best interests of the church so require, by a majority vote of the local board of administration ([¶752:1](/part-2/ch5-local-board.md#p752-1); [¶815:2](#p815-2); [¶825:4](#p825-4)).
 
 ### Nominating Committee
 
@@ -77,10 +77,10 @@ Wesleyan Youth adult leader, officers, and committees ([¶922](#p922))
 
 **825.** Persons holding positions of service within the local church, other than those specifically designated as church officers in [¶815](#p815), and including membership on committees, shall be governed by the following regulations:
 
-**(1)** They shall be members of the local Wesleyan church electing them.
-**(2)** They shall be elected annually by the local board of administration (782:22-23), or as otherwise provided.
-**(3)** They shall carry out their duties as given in The *Discipline* and as further defined by the local church conference and local board of administration.
-**(4)** They shall be under the general supervision of the pastor, shall be amenable to the local board of administration, and may be removed for cause or when the best interests of the church so require, by a majority vote of the local board of administration.
+**([¶1](/part-1/ch1-history.md#p1))** They shall be members of the local Wesleyan church electing them.
+**([¶2](/part-1/ch1-history.md#p2))** They shall be elected annually by the local board of administration (782:22-23), or as otherwise provided.
+**([¶3](/part-1/ch1-history.md#p3))** They shall carry out their duties as given in The *Discipline* and as further defined by the local church conference and local board of administration.
+**([¶4](/part-1/ch1-history.md#p4))** They shall be under the general supervision of the pastor, shall be amenable to the local board of administration, and may be removed for cause or when the best interests of the church so require, by a majority vote of the local board of administration.
 **(5)** Vacancies shall be filled for the unexpired term by the local board of administration.
 
 ### General Regulations for Installation Service
@@ -93,10 +93,10 @@ Wesleyan Youth adult leader, officers, and committees ([¶922](#p922))
 
 **830.** The local church conference, at its annual session, shall elect by ballot, from among its members who meet the leadership qualifications ([¶260-268](#p260-268); [¶558](/part-2/ch2-membership.md#p558)), a church secretary ([¶820-823](#p820-823)), to serve for one year or until a successor is elected. The church secretary shall be an ex officio member of the local board of administration ([¶775](/part-2/ch5-local-board.md#p775)). General regulations covering this office are given in [¶815](#p815). The duties and powers of the local church secretary shall be to:
 
-**(1)** Record correctly and to preserve faithfully the minutes of all sessions of the local church conference and the local board of administration.
-**(2)** Maintain the local church’s record of membership, record of baptisms, marriages, and pastoral terms, and other information essential to a permanent written record of the life and ministry of the church ([¶610](/part-2/ch2-membership.md#p610)).
-**(3)** Issue, in conjunction with the pastor, all letters of transfer, recommendation, and withdrawal ([¶575](/part-2/ch2-membership.md#p575); [¶590-592](#p590-592); [¶6000-6040](#p6000-6040)); and to sign, in conjunction with the pastor ([¶725:26](/part-2/ch4-pastors.md#p725-26)), licenses for lay ministers granted by the local church conference ([¶655:7](/part-2/ch3-conference.md#p655-7); [¶782:18](/part-2/ch5-local-board.md#p782-18)).
-**(4)** Send to the district secretary a certified list of lay delegates to the district conference duly elected by the local church conference, immediately upon their election, and subsequently to certify an alternate delegate ([¶965](#p965); [¶1100-1109](#p1100-1109)).
+**([¶1](/part-1/ch1-history.md#p1))** Record correctly and to preserve faithfully the minutes of all sessions of the local church conference and the local board of administration.
+**([¶2](/part-1/ch1-history.md#p2))** Maintain the local church’s record of membership, record of baptisms, marriages, and pastoral terms, and other information essential to a permanent written record of the life and ministry of the church ([¶610](/part-2/ch2-membership.md#p610)).
+**([¶3](/part-1/ch1-history.md#p3))** Issue, in conjunction with the pastor, all letters of transfer, recommendation, and withdrawal ([¶575](/part-2/ch2-membership.md#p575); [¶590-592](#p590-592); [¶6000-6040](#p6000-6040)); and to sign, in conjunction with the pastor ([¶725:26](/part-2/ch4-pastors.md#p725-26)), licenses for lay ministers granted by the local church conference ([¶655:7](/part-2/ch3-conference.md#p655-7); [¶782:18](/part-2/ch5-local-board.md#p782-18)).
+**([¶4](/part-1/ch1-history.md#p4))** Send to the district secretary a certified list of lay delegates to the district conference duly elected by the local church conference, immediately upon their election, and subsequently to certify an alternate delegate ([¶965](#p965); [¶1100-1109](#p1100-1109)).
 **(5)** Have custody of all records, and take whatever steps are necessary to preserve them and other historical records and materials, as directed by the pastor and the local board of administration.
 
 ### 2. Lay Leader
@@ -109,10 +109,10 @@ Wesleyan Youth adult leader, officers, and committees ([¶922](#p922))
 
 **837.** The local board of administration shall assign such duties to the committee on witness and membership as it deems best, including any or all of the following:
 
-**(1)** To conduct the examination of candidates for membership; to counsel with members concerning any failure to observe the Membership Commitments ([¶265](/part-1/ch4-constitution.md#p265)); to have initial responsibility in the annual revision of the membership roll; to assist the pastor in any attempts to restore members who have ceased to attend or support the church; and to make recommendations concerning all these matters to the local board of administration in accordance with the principles of Christian discipline ([¶268](/part-1/ch4-constitution.md#p268); 782:8-13).
-**(2)** To make recommendations to the local board of administration concerning revivals and other evangelistic efforts.
-**(3)** To alert the local church to its responsibilities in the area of community social and political reform, recommending courses of action it deems necessary to the local board of administration (cf. [¶410](/part-1/ch5-special-directions.md#p410)).
-**(4)** To nominate, for election by the local board of administration, such standing or special subcommittees as the local board of administration shall approve, with a member of the committee as chair of each.
+**([¶1](/part-1/ch1-history.md#p1))** To conduct the examination of candidates for membership; to counsel with members concerning any failure to observe the Membership Commitments ([¶265](/part-1/ch4-constitution.md#p265)); to have initial responsibility in the annual revision of the membership roll; to assist the pastor in any attempts to restore members who have ceased to attend or support the church; and to make recommendations concerning all these matters to the local board of administration in accordance with the principles of Christian discipline ([¶268](/part-1/ch4-constitution.md#p268); 782:8-13).
+**([¶2](/part-1/ch1-history.md#p2))** To make recommendations to the local board of administration concerning revivals and other evangelistic efforts.
+**([¶3](/part-1/ch1-history.md#p3))** To alert the local church to its responsibilities in the area of community social and political reform, recommending courses of action it deems necessary to the local board of administration (cf. [¶410](/part-1/ch5-special-directions.md#p410)).
+**([¶4](/part-1/ch1-history.md#p4))** To nominate, for election by the local board of administration, such standing or special subcommittees as the local board of administration shall approve, with a member of the committee as chair of each.
 
 ## D. Finance and Stewardship
 
@@ -120,18 +120,18 @@ Wesleyan Youth adult leader, officers, and committees ([¶922](#p922))
 
 **842.** The local church shall have either a local church treasurer or a business manager. If there is a church treasurer, that officer shall be elected by the local church conference at its annual election, by ballot, from among the members who meet the leadership qualifications ([¶260–268](#p260–268); [¶558](/part-2/ch2-membership.md#p558)), to serve for one year or until a successor is elected. Or the local church conference may authorize the local board of administration to appoint a treasurer or to appoint or employ a business manager who will assume the duties of the treasurer. The duties and powers of the person charged with the local church treasury are to:
 
-**(1)** Receive, hold, and disburse, as ordered by the local church conference or the local board of administration, all moneys of the local church, including such of the departments and auxiliary organizations as the local board of administration shall order.
-**(2)** Keep complete and accurate records of all moneys raised and of the manner in which they are disbursed, and provide the pastor with information concerning the same as the pastor shall require.
-**(3)** Make monthly reports to the local board of administration, which shall be available upon request to any member of the local church, and make reports to all regular sessions of the local church conference.
-**(4)** Make monthly remittances of all USF and district funds to the district treasurer or directly to the general department for which the funds are intended.
+**([¶1](/part-1/ch1-history.md#p1))** Receive, hold, and disburse, as ordered by the local church conference or the local board of administration, all moneys of the local church, including such of the departments and auxiliary organizations as the local board of administration shall order.
+**([¶2](/part-1/ch1-history.md#p2))** Keep complete and accurate records of all moneys raised and of the manner in which they are disbursed, and provide the pastor with information concerning the same as the pastor shall require.
+**([¶3](/part-1/ch1-history.md#p3))** Make monthly reports to the local board of administration, which shall be available upon request to any member of the local church, and make reports to all regular sessions of the local church conference.
+**([¶4](/part-1/ch1-history.md#p4))** Make monthly remittances of all USF and district funds to the district treasurer or directly to the general department for which the funds are intended.
 **(5)** Issue receipts annually to all contributors showing their total tithes and offerings and the various items of giving, and issue other receipts as requested or by order of the local board of administration.
-**(6)** Submit all books for audit by the auditing committee annually ([¶863](#p863)), or as ordered by the local board of administration, and submit to the local board of administration the complete treasurer’s records at such time as the person shall cease to hold the office of treasurer.
+**([¶6](/part-1/ch1-history.md#p6))** Submit all books for audit by the auditing committee annually ([¶863](#p863)), or as ordered by the local board of administration, and submit to the local board of administration the complete treasurer’s records at such time as the person shall cease to hold the office of treasurer.
 
 **845.** Assistants for the local church treasurer are provided for as follows:
 
-**(1)** An assistant treasurer may be elected by the local board of administration, with authority to sign checks when the treasurer is unable to do so.
-**(2)** A financial secretary or tithing secretary may be elected by the local board of administration to assist the treasurer in keeping the record of individual tithes and offerings ([¶842:5](#p842-5)).
-**(3)** One or more tellers shall be elected by the local board of administration to assist the treasurer in the counting of all tithes and offerings, all moneys being counted by two or more persons and recorded as to date of reception, purpose of the offering, and amount. These records shall be preserved and made available to the auditor or auditing committee.
+**([¶1](/part-1/ch1-history.md#p1))** An assistant treasurer may be elected by the local board of administration, with authority to sign checks when the treasurer is unable to do so.
+**([¶2](/part-1/ch1-history.md#p2))** A financial secretary or tithing secretary may be elected by the local board of administration to assist the treasurer in keeping the record of individual tithes and offerings ([¶842:5](#p842-5)).
+**([¶3](/part-1/ch1-history.md#p3))** One or more tellers shall be elected by the local board of administration to assist the treasurer in the counting of all tithes and offerings, all moneys being counted by two or more persons and recorded as to date of reception, purpose of the offering, and amount. These records shall be preserved and made available to the auditor or auditing committee.
 
 ### 2. Board of Trustees
 
@@ -141,22 +141,22 @@ Wesleyan Youth adult leader, officers, and committees ([¶922](#p922))
 
 **856. Duties and Powers.** The local board of trustees shall carry out their duties as required by *The Discipline* ([¶4500–4780](#p4500–4780)) and shall be responsible to:
 
-**(1)** Carry out the instructions of the local church conference and the local board of administration in supervising, controlling, maintaining, and improving all church property ([¶315:6](/part-1/ch4-constitution.md#p315-6); [¶655:13](/part-2/ch3-conference.md#p655-13); [¶782:25](/part-2/ch5-local-board.md#p782-25)).
-**(2)** Supervise such expenditures as have been approved by the local church conference or the local board of administration for repairs, improvements, and alterations.
-**(3)** Attend to all legal matters regarding the acquisition, purchase, sale, mortgage, transfer, or other disposition of property as properly authorized ([¶4700–4728](#p4700–4728)); to see that titles are correct, contain the proper trust clause ([¶4610](/part-9/ch1-general-regulations.md#p4610)), are approved by the district superintendent ([¶1310:11](/part-3/ch5-administration.md#p1310-11); [¶4700:5](/part-8/ch2-local-church-property.md#p4700-5)), and are recorded ([¶4540](/part-9/ch1-general-regulations.md#p4540)); and to see that property and legal records are properly stored ([¶4760](/part-8/ch2-local-church-property.md#p4760)).
-**(4)** Attend to all other legal matters pertaining to the local church, as authorized and directed by the local church conference or the local board of administration, including renting property, borrowing money, and receiving and administering bequests and trusts.
+**([¶1](/part-1/ch1-history.md#p1))** Carry out the instructions of the local church conference and the local board of administration in supervising, controlling, maintaining, and improving all church property ([¶315:6](/part-1/ch4-constitution.md#p315-6); [¶655:13](/part-2/ch3-conference.md#p655-13); [¶782:25](/part-2/ch5-local-board.md#p782-25)).
+**([¶2](/part-1/ch1-history.md#p2))** Supervise such expenditures as have been approved by the local church conference or the local board of administration for repairs, improvements, and alterations.
+**([¶3](/part-1/ch1-history.md#p3))** Attend to all legal matters regarding the acquisition, purchase, sale, mortgage, transfer, or other disposition of property as properly authorized ([¶4700–4728](#p4700–4728)); to see that titles are correct, contain the proper trust clause ([¶4610](/part-9/ch1-general-regulations.md#p4610)), are approved by the district superintendent ([¶1310:11](/part-3/ch5-administration.md#p1310-11); [¶4700:5](/part-8/ch2-local-church-property.md#p4700-5)), and are recorded ([¶4540](/part-9/ch1-general-regulations.md#p4540)); and to see that property and legal records are properly stored ([¶4760](/part-8/ch2-local-church-property.md#p4760)).
+**([¶4](/part-1/ch1-history.md#p4))** Attend to all other legal matters pertaining to the local church, as authorized and directed by the local church conference or the local board of administration, including renting property, borrowing money, and receiving and administering bequests and trusts.
 **(5)** Carry out the directions of the local church conference or local board of administration concerning the purchase, sale, mortgage, transfer, or other disposition of property, provided that such transactions have been approved by the district board of administration as set forth in [¶4700–4790](#p4700–4790).
-**(6)** Make recommendations to the local board of administration concerning sufficient property and liability insurance on the property and for any vehicles owned and operated by the local church, and to carry out the instructions of the local board of administration in securing such insurance ([¶782:26](/part-2/ch5-local-board.md#p782-26)).
-**(7)** Make such reports as are requested by the local church conference or the local board of administration.
-**(8)** To make recommendations to the local board of administration concerning sufficient property and liability insurance on the property and for any vehicles owned and operated by the local church, and to carry out the instructions of the local board of administration in securing such insurance ([¶782:29](/part-2/ch5-local-board.md#p782-29)).
+**([¶6](/part-1/ch1-history.md#p6))** Make recommendations to the local board of administration concerning sufficient property and liability insurance on the property and for any vehicles owned and operated by the local church, and to carry out the instructions of the local board of administration in securing such insurance ([¶782:26](/part-2/ch5-local-board.md#p782-26)).
+**([¶7](/part-1/ch1-history.md#p7))** Make such reports as are requested by the local church conference or the local board of administration.
+**([¶8](/part-1/ch1-history.md#p8))** To make recommendations to the local board of administration concerning sufficient property and liability insurance on the property and for any vehicles owned and operated by the local church, and to carry out the instructions of the local board of administration in securing such insurance ([¶782:29](/part-2/ch5-local-board.md#p782-29)).
 **(9)** To make such reports as are requested by the local church conference or the local board of administration.
 
 **859. Restrictions.** The local board of trustees shall be subject to the following restrictions:
 
-**(1)** The local board of trustees must carry out the instructions of the local board of administration, the local church conference, and the district board of administration. If a local trustee refuses to carry out such instructions when the instructions meet all the requirements of local laws and of *The Discipline*, the trustee may be removed from office as given in [¶815:4](#p815-4) ([¶4530](/part-9/ch1-general-regulations.md#p4530)).
-**(2)** The local board of trustees cannot mortgage or otherwise encumber local church property without the express authorization of the local church conference and the approval of the district board of administration as set forth in [¶4700–4720](#p4700–4720).
-**(3)** The local board of trustees cannot deny the use of the parsonage, church building or other local church buildings, to the pastor who has been duly appointed by the district conference or district board of administration, nor the use of the church building to the membership of the local church and duly elected officials of The Wesleyan Church (cf. [¶4770](/part-8/ch2-local-church-property.md#p4770)).
-**(4)** The local board of trustees cannot divert church property from The Wesleyan Church ([¶4550](/part-9/ch1-general-regulations.md#p4550); [¶4780](/part-8/ch2-local-church-property.md#p4780)).
+**([¶1](/part-1/ch1-history.md#p1))** The local board of trustees must carry out the instructions of the local board of administration, the local church conference, and the district board of administration. If a local trustee refuses to carry out such instructions when the instructions meet all the requirements of local laws and of *The Discipline*, the trustee may be removed from office as given in [¶815:4](#p815-4) ([¶4530](/part-9/ch1-general-regulations.md#p4530)).
+**([¶2](/part-1/ch1-history.md#p2))** The local board of trustees cannot mortgage or otherwise encumber local church property without the express authorization of the local church conference and the approval of the district board of administration as set forth in [¶4700–4720](#p4700–4720).
+**([¶3](/part-1/ch1-history.md#p3))** The local board of trustees cannot deny the use of the parsonage, church building or other local church buildings, to the pastor who has been duly appointed by the district conference or district board of administration, nor the use of the church building to the membership of the local church and duly elected officials of The Wesleyan Church (cf. [¶4770](/part-8/ch2-local-church-property.md#p4770)).
+**([¶4](/part-1/ch1-history.md#p4))** The local board of trustees cannot divert church property from The Wesleyan Church ([¶4550](/part-9/ch1-general-regulations.md#p4550); [¶4780](/part-8/ch2-local-church-property.md#p4780)).
 **(5)** When a church is reclassified as a developing church (cf. [¶518:7](/part-2/ch1-organization.md#p518-7); [¶1233:30](/part-3/ch3-board.md#p1233-30)), the office and power of the local board of trustees shall cease, and all property shall pass directly under the control of the district board of administration ([¶4670](/part-8/ch2-local-church-property.md#p4670)).
 
 ### 3. Auditing Committee
@@ -185,24 +185,24 @@ Wesleyan Youth adult leader, officers, and committees ([¶922](#p922))
 
 **880. Duties and Powers.** The duties and powers of the local spiritual formation leadership team shall be:
 
-**(1)** To study, organize, promote, and conduct, under the leadership of the pastor, and subject to the direction of the local board of administration, the total program of spiritual formation for the local church, in keeping with the denominational objectives for spiritual formation ([¶2306](/part-4/ch7-multiplication-discipleship.md#p2306)), and the standards established by the General Board and promoted through the Church Multiplication and Discipleship and the Education and Clergy Development Divisions.
-**(2)** To establish, structure, and supervise, in keeping with The Discipline, and the standards adopted by the General Board, such spiritual formation agencies as are authorized by the local board of administration, including the Sunday school, Wesleyan Youth, Wesleyan Kids for Missions, children’s church, weekday church school, released time classes, and vacation Bible school.
-**(3)** To coordinate all spiritual formation agencies (cf. [¶880:2](#p880-2)), activities and functions of the local church, setting goals, evaluating procedures, exploring new areas of need, and assigning responsibilities to the various departments and auxiliaries.
-**(4)** To determine, in keeping with The Discipline and the standards adopted by the General Board, the curricula of the various agencies, always using curriculum materials approved by the General Board and secured from the Wesleyan Publishing House.
+**([¶1](/part-1/ch1-history.md#p1))** To study, organize, promote, and conduct, under the leadership of the pastor, and subject to the direction of the local board of administration, the total program of spiritual formation for the local church, in keeping with the denominational objectives for spiritual formation ([¶2306](/part-4/ch7-multiplication-discipleship.md#p2306)), and the standards established by the General Board and promoted through the Church Multiplication and Discipleship and the Education and Clergy Development Divisions.
+**([¶2](/part-1/ch1-history.md#p2))** To establish, structure, and supervise, in keeping with The Discipline, and the standards adopted by the General Board, such spiritual formation agencies as are authorized by the local board of administration, including the Sunday school, Wesleyan Youth, Wesleyan Kids for Missions, children’s church, weekday church school, released time classes, and vacation Bible school.
+**([¶3](/part-1/ch1-history.md#p3))** To coordinate all spiritual formation agencies (cf. [¶880:2](#p880-2)), activities and functions of the local church, setting goals, evaluating procedures, exploring new areas of need, and assigning responsibilities to the various departments and auxiliaries.
+**([¶4](/part-1/ch1-history.md#p4))** To determine, in keeping with The Discipline and the standards adopted by the General Board, the curricula of the various agencies, always using curriculum materials approved by the General Board and secured from the Wesleyan Publishing House.
 **(5)** To recommend to the local board of administration for the consideration of the local church conference the appointment and/or the employment of a minister or director of spiritual formation, and to advise the pastor and the local board of administration in defining all duties. Such a person must be a member who meets the leadership qualifications ([¶260–268](#p260–268); [¶558](/part-2/ch2-membership.md#p558)) of the local church appointing and/or employing the person (cf. [¶738–744](#p738–744)).
-**(6)** To enlist and train administrators and teachers for all phases of the local church’s spiritual formation task, in keeping with the leadership training program adopted by the General Board.
-**(7)** To submit nominations, or to appoint a committee of its membership to submit nominations, to the local board of administration for all members of the spiritual formation leadership team other than the Sunday school superintendent, all teachers, and to elect all other officers and teachers except the officers of Wesleyan Youth and WKFM unless the local board of administration instructs the church nominating committee to fulfill these duties ([¶820–823](#p820–823)).
-**(8)** To appoint administrative committees for each educational agency other than WY or WKFM, including in each such committee the executive officer involved and other workers or advisors as shall be deemed best (cf. [¶903](#p903); [¶913](#p913)).
+**([¶6](/part-1/ch1-history.md#p6))** To enlist and train administrators and teachers for all phases of the local church’s spiritual formation task, in keeping with the leadership training program adopted by the General Board.
+**([¶7](/part-1/ch1-history.md#p7))** To submit nominations, or to appoint a committee of its membership to submit nominations, to the local board of administration for all members of the spiritual formation leadership team other than the Sunday school superintendent, all teachers, and to elect all other officers and teachers except the officers of Wesleyan Youth and WKFM unless the local board of administration instructs the church nominating committee to fulfill these duties ([¶820–823](#p820–823)).
+**([¶8](/part-1/ch1-history.md#p8))** To appoint administrative committees for each educational agency other than WY or WKFM, including in each such committee the executive officer involved and other workers or advisors as shall be deemed best (cf. [¶903](#p903); [¶913](#p913)).
 **(9)** To remove from office by majority vote any worker elected by the local church spiritual formation leadership team when such is in the best interest of the work, and to recommend to the local board of administration the removal of any officer or teacher in local spiritual formation ([¶875–928](#p875–928)) elected by the local board of administration.
 **(10)** To organize a training hour, providing for all age levels, selecting the necessary leaders and instructors, and assigning responsibilities to the appropriate agencies (cf. 880:2-3).
-**(11)** To assist the pastor and the local board of administration in conducting classes in membership preparation (cf. [¶566–570](#p566–570); [¶725:11](/part-2/ch4-pastors.md#p725-11); [¶782:8](/part-2/ch5-local-board.md#p782-8); [¶2310:3](/part-4/ch7-multiplication-discipleship.md#p2310-3)).
-**(12)** To conduct or assign responsibility for conducting workers’ conferences.
-**(13)** To recommend to the local board of administration modifications or enlargement of educational facilities, and the purchase of educational equipment including audiovisuals; to allocate space for various schools and agencies, both for assemblies and classes; and to supervise the storage and use of all equipment.
+**([¶11](/part-1/ch1-history.md#p11))** To assist the pastor and the local board of administration in conducting classes in membership preparation (cf. [¶566–570](#p566–570); [¶725:11](/part-2/ch4-pastors.md#p725-11); [¶782:8](/part-2/ch5-local-board.md#p782-8); [¶2310:3](/part-4/ch7-multiplication-discipleship.md#p2310-3)).
+**([¶12](/part-1/ch1-history.md#p12))** To conduct or assign responsibility for conducting workers’ conferences.
+**([¶13](/part-1/ch1-history.md#p13))** To recommend to the local board of administration modifications or enlargement of educational facilities, and the purchase of educational equipment including audiovisuals; to allocate space for various schools and agencies, both for assemblies and classes; and to supervise the storage and use of all equipment.
 **(14)** To promote the interests of The Wesleyan Church educational institutions in cooperation with the General Director of Education and the Ministry, the officials of the general educational institutions within the area, and the district educational director.
 **(15)** To conduct extension classes, small group Bible studies, and branch Sunday schools when such are properly authorized (cf. [¶655:16](/part-2/ch3-conference.md#p655-16); [¶782:6](/part-2/ch5-local-board.md#p782-6)).
-**(16)** To minister to persons on nearby college campuses and military bases in keeping with the programs promoted by the Church Multiplication and Discipleship Division.
-**(17)** To observe such special days as shall be designated by the General Board and promoted by the Church Multiplication and Discipleship and Education and Clergy Development Divisions, and as shall be designated by district agencies.
-**(18)** To be responsible for special programs, such as Christmas and vacation Bible school, assigning responsibilities as it deems best, with all plans subject to the approval of the pastor and the local board of administration.
+**([¶16](/part-1/ch1-history.md#p16))** To minister to persons on nearby college campuses and military bases in keeping with the programs promoted by the Church Multiplication and Discipleship Division.
+**([¶17](/part-1/ch1-history.md#p17))** To observe such special days as shall be designated by the General Board and promoted by the Church Multiplication and Discipleship and Education and Clergy Development Divisions, and as shall be designated by district agencies.
+**([¶18](/part-1/ch1-history.md#p18))** To be responsible for special programs, such as Christmas and vacation Bible school, assigning responsibilities as it deems best, with all plans subject to the approval of the pastor and the local board of administration.
 **(19)** To serve as a committee on fellowship, or to nominate a subcommittee on fellowship for election by the local board of administration.
 **(20)** To encourage and direct ministries of Christian family life in order to enrich the quality of homes and families within the local church constituency.
 **(21)** To nominate, for election by the local board of administration, such standing or special subcommittees as the local board of administration shall approve, with a member of the local spiritual formation leadership team as chair of each.
@@ -220,12 +220,12 @@ B. Administration ]
 
 **889. Spiritual Formation Director or Sunday School Superintendent.** The local church conference, at its annual session, may elect by ballot, from among its members who meet the leadership qualifications ([¶260–268](#p260–268); [¶558](/part-2/ch2-membership.md#p558)), a spiritual formation director or Sunday school superintendent (cf. [¶820–823](#p820–823)), to serve for one year or until a successor is elected. The director or superintendent shall be an ex officio member of the local board of administration ([¶752](/part-2/ch5-local-board.md#p752)), unless the local church conference by prior action has voted to eliminate the spiritual formation director or Sunday school superintendent as an ex officio member of the local board of administration. General regulations concerning this office are given in [¶815](#p815). The duties and powers of the spiritual formation director or Sunday school superintendent shall be:
 
-**(1)** To have executive supervision of the spiritual formation of the local church, administering its affairs in keeping with the provisions of [¶887](#p887).
-**(2)** To consult with the pastor and the spiritual formation leadership team, if there is such ([¶903](#p903)), on all major decisions.
-**(3)** To promote interest in and attendance in all spiritual formation endeavors.
-**(4)** To have immediate supervision of each spiritual formation session seeing that each age division and class has the necessary leaders and that order is maintained.
+**([¶1](/part-1/ch1-history.md#p1))** To have executive supervision of the spiritual formation of the local church, administering its affairs in keeping with the provisions of [¶887](#p887).
+**([¶2](/part-1/ch1-history.md#p2))** To consult with the pastor and the spiritual formation leadership team, if there is such ([¶903](#p903)), on all major decisions.
+**([¶3](/part-1/ch1-history.md#p3))** To promote interest in and attendance in all spiritual formation endeavors.
+**([¶4](/part-1/ch1-history.md#p4))** To have immediate supervision of each spiritual formation session seeing that each age division and class has the necessary leaders and that order is maintained.
 **(5)** To counsel with the spiritual formation leaders and teachers about their work.
-**(6)** To make a full report of statistics and general information to the local board of administration quarterly, to the local church conference at each regular session, and to the Church Multiplication and Discipleship Division and the district spiritual formation director as required (cf. [¶895](#p895)).
+**([¶6](/part-1/ch1-history.md#p6))** To make a full report of statistics and general information to the local board of administration quarterly, to the local church conference at each regular session, and to the Church Multiplication and Discipleship Division and the district spiritual formation director as required (cf. [¶895](#p895)).
 
 **890. Director of Spiritual Formation.** If a church seeks to provide a comprehensive approach to discipleship, including both Sunday school and small groups, upon vote of the local church conference it may elect a director of spiritual formation in place of a Sunday school superintendent. The director of spiritual formation will assume the Sunday school superintendent’s responsibilities as outlined in [¶889](#p889), plus assume full responsibility to administer and coordinate weekday small groups under the direction of the pastor and local board of administration, seeking to provide a fully coordinated approach in local church spiritual formation.
 
@@ -289,23 +289,23 @@ C. Organization ]
 
 **958.** The local board of administration shall assign such duties to the committee on missions as it deems best, including any or all of the following:
 
-**(1)** To promote the interests of Wesleyan world missions, in keeping with the programs of the Global Partners Division and the district director of world missions.
-**(2)** To coordinate all missionary promotion and fund raising of the local church and its various departments and auxiliaries.
-**(3)** To carry out all programs of missionary education authorized and assigned by the local board of Christian education.
-**(4)** To make recommendations to the local board of administration concerning missionary conventions and services.
+**([¶1](/part-1/ch1-history.md#p1))** To promote the interests of Wesleyan world missions, in keeping with the programs of the Global Partners Division and the district director of world missions.
+**([¶2](/part-1/ch1-history.md#p2))** To coordinate all missionary promotion and fund raising of the local church and its various departments and auxiliaries.
+**([¶3](/part-1/ch1-history.md#p3))** To carry out all programs of missionary education authorized and assigned by the local board of Christian education.
+**([¶4](/part-1/ch1-history.md#p4))** To make recommendations to the local board of administration concerning missionary conventions and services.
 **(5)** To nominate, for election by the local board of administration, such standing or special subcommittees as the local board of administration shall approve, with a member of the committee as chair of each.
 
 ### 6. Committee on Evangelism
 
 **960.** The local board of administration may establish a committee on evangelism, composed of the pastor, the local director of evangelism, and such other members as the local board of administration shall elect. General regulations concerning membership on the committee are given in [¶825](#p825). The local board of administration shall assign such duties to the committee on evangelism as it deems best, including any or all of the following:
 
-**(1)** To promote the work of evangelism through the local church in accordance with the mission of The Wesleyan Church ([¶100](/part-1/ch2-mission.md#p100)).
-**(2)** To organize, in cooperation with the pastor, the calling and visitation programs of the church.
-**(3)** To organize, in cooperation with the pastor, follow-up and discipleship programs for new converts.
-**(4)** To provide for and oversee, in cooperation with the local spiritual formation leadership team, the training of workers for outreach evangelism and discipleship ministries.
+**([¶1](/part-1/ch1-history.md#p1))** To promote the work of evangelism through the local church in accordance with the mission of The Wesleyan Church ([¶100](/part-1/ch2-mission.md#p100)).
+**([¶2](/part-1/ch1-history.md#p2))** To organize, in cooperation with the pastor, the calling and visitation programs of the church.
+**([¶3](/part-1/ch1-history.md#p3))** To organize, in cooperation with the pastor, follow-up and discipleship programs for new converts.
+**([¶4](/part-1/ch1-history.md#p4))** To provide for and oversee, in cooperation with the local spiritual formation leadership team, the training of workers for outreach evangelism and discipleship ministries.
 **(5)** To make recommendations to the local board of administration concerning evangelistic services and to assist in promotion and conducting of such efforts.
-**(6)** To alert the church to its wider responsibilities in meeting social and material needs of its community as such needs are discovered through its calling and discipling ministries.
-**(7)** To promote extension projects carried on by the local church.
+**([¶6](/part-1/ch1-history.md#p6))** To alert the church to its wider responsibilities in meeting social and material needs of its community as such needs are discovered through its calling and discipling ministries.
+**([¶7](/part-1/ch1-history.md#p7))** To promote extension projects carried on by the local church.
 
 ## H. Lay Delegates to District Conference
 

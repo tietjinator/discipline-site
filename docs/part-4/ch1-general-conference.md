@@ -29,7 +29,7 @@ The general officials of the Church as defined in 1800, the General Superintende
 Nonvoting Members ]
 
 ### ¶1503:2 {#p1503-2}
-The following, when they are not voting members by some other right, shall be seated as nonvoting members when present at the General Conference session: former General Superintendents and superintendents of developing districts (1015).
+The following, when they are not voting members by some other right, shall be seated as nonvoting members when present at the General Conference session: former General Superintendents and superintendents of developing districts ([¶1015](/part-3/ch1-organization.md#p1015)).
 
 ### ¶1503:3 {#p1503-3}
 The General Board shall designate the number of nonvoting members from mission units under the Global Partners Division, upon recommendation of the Executive Director of Global Partners.
@@ -47,7 +47,7 @@ a. Delegates-at-Large ]
  The election of delegates-at-large shall be arranged for by the recommendation of the Executive Director of Communication and Administration and the approval of the General Board in accordance with the following regulations:
 
 ### ¶1508:1 {#p1508-1}
-The parity of equal ministerial and lay membership in the General Conference shall be maintained (325; 360:3b).
+The parity of equal ministerial and lay membership in the General Conference shall be maintained ([¶325](/part-1/ch4-constitution.md#p325); 360:3b).
 
 ### ¶1508:2 {#p1508-2}
 The established districts shall be considered in alphabetical order, and each eligible district in turn shall be appointed to elect one delegate-at-large. A developing district shall not be eligible to elect a delegate-at-large.
@@ -171,10 +171,10 @@ c. Committee on Special Nominations ]
  The General Board shall serve as the Committee on Special Nominations ([¶1655:7](/part-4/ch2-general-board.md#p1655-7)). The duties of this committee shall be to:
 
 ### ¶1580.1 {#p1580-1}
-Receive from the General Superintendent recommendations from which to present to the General Conference one or more nominations for each of the general officials elected by the General Conference. In the event an incumbent is not nominated, the committee shall normally present two or more nominations for that office. The general officials involved are: the Executive Director of the Communication and Administration Division, the Executive Director of the Education and Clergy Development Division, the Executive Director of the Church Multiplication and Discipleship Division, and the Executive Director of the Global Partners Division (1590:16).
+Receive from the General Superintendent recommendations from which to present to the General Conference one or more nominations for each of the general officials elected by the General Conference. In the event an incumbent is not nominated, the committee shall normally present two or more nominations for that office. The general officials involved are: the Executive Director of the Communication and Administration Division, the Executive Director of the Education and Clergy Development Division, the Executive Director of the Church Multiplication and Discipleship Division, and the Executive Director of the Global Partners Division ([¶1590:16](#p1590-16)).
 
 ### ¶1580.2 {#p1580-2}
-Present nominations for the members of the Board of Review (1590:18; Gen. Bd. Policy on Ch. Disc. 5400:3; 5405).
+Present nominations for the members of the Board of Review ([¶1590:18](#p1590-18); Gen. Bd. Policy on Ch. Disc. 5400:3; 5405).
 
 ### ¶1580.3 {#p1580-3}
 Present such other nominations or fulfill such duties as may be assigned to them by the General Conference.
@@ -192,48 +192,48 @@ e. Duties and Powers ]
 The Essentials and the Constitution ]
 
 ### ¶1590.1 {#p1590-1}
-Vote on an amendment to the Essentials (125; 6765:1).
+Vote on an amendment to the Essentials ([¶125](/part-1/ch3-church-law.md#p125); 6765:1).
 
 ### ¶1590.2 {#p1590-2}
-Propose an amendment to the Constitution (200-385) by a two-thirds vote, subject to ratification by two-thirds of all the members of the district conferences, present and voting (385; 1180:1; 1560); to ratify, by a two-thirds vote, an amendment to the Constitution, which has originated in a district conference and has been approved by a two-thirds vote of all the members of the district conferences, present and voting (385; 1180:2; 1560). When the voting is completed, the General Superintendent shall canvass the vote; and when the amendment has received the required majority, it shall be declared effective as constitutional law (385).
+Propose an amendment to the Constitution (200-385) by a two-thirds vote, subject to ratification by two-thirds of all the members of the district conferences, present and voting ([¶385](/part-1/ch4-constitution.md#p385); [¶1180:1](/part-3/ch2-conference.md#p1180-1); [¶1560](#p1560)); to ratify, by a two-thirds vote, an amendment to the Constitution, which has originated in a district conference and has been approved by a two-thirds vote of all the members of the district conferences, present and voting ([¶385](/part-1/ch4-constitution.md#p385); [¶1180:2](/part-3/ch2-conference.md#p1180-2); [¶1560](#p1560)). When the voting is completed, the General Superintendent shall canvass the vote; and when the amendment has received the required majority, it shall be declared effective as constitutional law ([¶385](/part-1/ch4-constitution.md#p385)).
 
 ### ¶1590.3 {#p1590-3}
-Request, by a vote of one-fifth of its members, present and voting, a judgment from the Board of Review as to the constitutionality of an action of the General Conference (375:1); and to overrule such a judgment by a two-thirds majority of those present and voting (380).
+Request, by a vote of one-fifth of its members, present and voting, a judgment from the Board of Review as to the constitutionality of an action of the General Conference ([¶375:1](/part-1/ch4-constitution.md#p375-1)); and to overrule such a judgment by a two-thirds majority of those present and voting ([¶380](/part-1/ch4-constitution.md#p380)).
 
 General Legislation ]
 
 ### ¶1590.4 {#p1590-4}
-Have full power in keeping with the Constitution (135; 145) and by majority vote to enact statutory law (155), and to adopt ritual (175) for The Discipline, and to adopt other rules and regulations for the Church, all of which shall be the chief authority for the North American General Conference of The Wesleyan Church and its subordinate units (2550); to ratify amendments to the Charter of The International Conference of The Wesleyan Church (see Appendix A) or to authorize the General Board to approve such amendments in the interim of General Conferences.
+Have full power in keeping with the Constitution ([¶135](/part-1/ch3-church-law.md#p135); [¶145](/part-1/ch3-church-law.md#p145)) and by majority vote to enact statutory law ([¶155](/part-1/ch3-church-law.md#p155)), and to adopt ritual ([¶175](/part-1/ch3-church-law.md#p175)) for The Discipline, and to adopt other rules and regulations for the Church, all of which shall be the chief authority for the North American General Conference of The Wesleyan Church and its subordinate units ([¶2550](/part-5/ch2-conferences.md#p2550)); to ratify amendments to the Charter of The International Conference of The Wesleyan Church (see Appendix A) or to authorize the General Board to approve such amendments in the interim of General Conferences.
 
 ### ¶1590.5 {#p1590-5}
-Authorize a corporation to be formed and maintained for The Wesleyan Church to facilitate the management of its legal and corporate affairs (4200); and to approve its articles of incorporation and bylaws and any or all amendments thereto, by a two-thirds vote (4270).
+Authorize a corporation to be formed and maintained for The Wesleyan Church to facilitate the management of its legal and corporate affairs ([¶4200](/part-7/ch3-twc-corporation.md#p4200)); and to approve its articles of incorporation and bylaws and any or all amendments thereto, by a two-thirds vote ([¶4270](/part-7/ch3-twc-corporation.md#p4270)).
 
 ### ¶1590.6 {#p1590-6}
-Authorize the incorporation of any agency, institution, board organization, or other similar body, as a subsidiary corporation of The Wesleyan Church (4300), and to approve the articles of incorporation and bylaws, and any amendments thereto, for such a subsidiary corporation (4300-4320). In the interim of General Conferences, this authority shall be vested in the General Board (1655:35; 4300; 2362).
+Authorize the incorporation of any agency, institution, board organization, or other similar body, as a subsidiary corporation of The Wesleyan Church ([¶4300](/part-7/ch4-subsidiary-corporations.md#p4300)), and to approve the articles of incorporation and bylaws, and any amendments thereto, for such a subsidiary corporation (4300-4320). In the interim of General Conferences, this authority shall be vested in the General Board ([¶1655:35](/part-4/ch2-general-board.md#p1655-35); [¶4300](/part-7/ch4-subsidiary-corporations.md#p4300); [¶2362](/part-4/ch8-education-clergy.md#p2362)).
 
 ### ¶1590.7 {#p1590-7}
-Receive reports of the spiritual, numerical, and financial condition of The Wesleyan Church, worldwide, including reports concerning their official duties from the general officials and others designated by the General Conference (1800; 1840).
+Receive reports of the spiritual, numerical, and financial condition of The Wesleyan Church, worldwide, including reports concerning their official duties from the general officials and others designated by the General Conference ([¶1800](/part-4/ch3-general-officials.md#p1800); [¶1840](/part-4/ch3-general-officials.md#p1840)).
 
 ### ¶1590.8 {#p1590-8}
 Adopt plans for the advancement of the Church in all phases of its ministry, including the financial plans for the General Church (1995-2050).
 
 ### ¶1590.9 {#p1590-9}
-Define in a general way the duties of the general officials, subject to the additional definition of their duties by the General Board in the interim of General Conference sessions (1845).
+Define in a general way the duties of the general officials, subject to the additional definition of their duties by the General Board in the interim of General Conference sessions ([¶1845](/part-4/ch3-general-officials.md#p1845)).
 
 ### ¶1590.10 {#p1590-10}
-Organize the work in the United States and Canada into districts and to determine their boundaries, for which a recommendation shall be received from the General Board (317; 1036; 1655:34; 2400-2403); to authorize the establishing of an established national conference as set forth in 2610:10; and to authorize the establishing of a General Conference as set forth in 2620.
+Organize the work in the United States and Canada into districts and to determine their boundaries, for which a recommendation shall be received from the General Board ([¶317](/part-1/ch4-constitution.md#p317); [¶1036](/part-3/ch1-organization.md#p1036); [¶1655:34](/part-4/ch2-general-board.md#p1655-34); 2400-2403); to authorize the establishing of an established national conference as set forth in 2610:10; and to authorize the establishing of a General Conference as set forth in 2620.
 
 ### ¶1590.11 {#p1590-11}
-Authorize the establishing of a developing district (1006); or to reclassify an established district (1042; 1045).
+Authorize the establishing of a developing district ([¶1006](/part-3/ch1-organization.md#p1006)); or to reclassify an established district ([¶1042](/part-3/ch1-organization.md#p1042); [¶1045](/part-3/ch1-organization.md#p1045)).
 
-### ¶1590.12'' {#p1590-12''}
-Group the districts into representative areas (2430-2445) to serve for the election of area representatives to the General Board and as the area divisions of Wesleyan Youth, for which a recommendation shall be received from the General Board (1655:14).
+### ¶1590.12'' {#p1590-12}
+Group the districts into representative areas (2430-2445) to serve for the election of area representatives to the General Board and as the area divisions of Wesleyan Youth, for which a recommendation shall be received from the General Board ([¶1655:14](/part-4/ch2-general-board.md#p1655-14)).
 
 ### ¶1590.13 {#p1590-13}
-Authorize the establishment, merger, or dissolution of any educational or benevolent institution for the General Church or an area of the same; to define the purpose and adopt any regulations deemed necessary for the government of such institutions (2362).
+Authorize the establishment, merger, or dissolution of any educational or benevolent institution for the General Church or an area of the same; to define the purpose and adopt any regulations deemed necessary for the government of such institutions ([¶2362](/part-4/ch8-education-clergy.md#p2362)).
 
 ### ¶1590.14 {#p1590-14}
-Designate a criterion of parliamentary procedure for itself and other representative or official bodies of The Wesleyan Church as desired (360:1).
+Designate a criterion of parliamentary procedure for itself and other representative or official bodies of The Wesleyan Church as desired ([¶360:1](/part-1/ch4-constitution.md#p360-1)).
 
 ### ¶1590.15 {#p1590-15}
 Elect by ballot and by majority vote, from among the ordained ministers of The Wesleyan Church, one General Superintendent. When an incumbent General Superintendent’s term of office is expiring and the General Superintendent is available for continued service, the reelection vote shall be a “yes/no” ballot. In the event of a vacancy, the General Board shall determine a process for the identification of eligible candidates for the office of General Superintendent. The General Board shall evaluate candidates to determine their availability for election. The General Board shall provide one or more nominations to the General Conference for election.
@@ -241,16 +241,16 @@ Elect by ballot and by majority vote, from among the ordained ministers of The W
 Elections ]
 
 ### ¶1590.16 {#p1590-16}
-Elect the following general officials by ballot and by majority vote, from one or more nominees for each office presented by the Committee on Special Nominations (1580:1) and any additional nominations from the floor of the General Conference: the Executive Director of the Communication and Administration Division, the Executive Director of the Education and Clergy Development Division, the Executive Director of the Church Multiplication and Discipleship Division, and the Executive Director of the Global Partners Division.
+Elect the following general officials by ballot and by majority vote, from one or more nominees for each office presented by the Committee on Special Nominations ([¶1580:1](#p1580-1)) and any additional nominations from the floor of the General Conference: the Executive Director of the Communication and Administration Division, the Executive Director of the Education and Clergy Development Division, the Executive Director of the Church Multiplication and Discipleship Division, and the Executive Director of the Global Partners Division.
 
 ### ¶1590.17 {#p1590-17}
-Elect by majority vote three ordained ministers and three lay members from each of the representative areas (2430-2445) as members of the General Board (1605:2), who shall be nominated by an area caucus. Area caucuses shall be held simultaneously at a time decided upon by the General Conference, for each of which a chair shall be appointed by the presiding officer. In an area caucus, the delegates of each district and developing district which comprise the representative area shall nominate three ordained ministers and three lay members of that area, by ballot and by majority vote, as their area representatives on the General Board.
+Elect by majority vote three ordained ministers and three lay members from each of the representative areas (2430-2445) as members of the General Board ([¶1605:2](/part-4/ch2-general-board.md#p1605-2)), who shall be nominated by an area caucus. Area caucuses shall be held simultaneously at a time decided upon by the General Conference, for each of which a chair shall be appointed by the presiding officer. In an area caucus, the delegates of each district and developing district which comprise the representative area shall nominate three ordained ministers and three lay members of that area, by ballot and by majority vote, as their area representatives on the General Board.
 
 ### ¶1590.18 {#p1590-18}
-Elect by majority vote, from nominees submitted by the Committee on Special Nominations or made from the floor, five ordained ministers and four lay members as members of the Board of Review, and four ordained ministers and three lay members as alternate members (1580:2; Gen. Bd. Policy on Ch. Disc. 5400:3; 5405).
+Elect by majority vote, from nominees submitted by the Committee on Special Nominations or made from the floor, five ordained ministers and four lay members as members of the Board of Review, and four ordained ministers and three lay members as alternate members ([¶1580:2](#p1580-2); Gen. Bd. Policy on Ch. Disc. 5400:3; 5405).
 
 ### ¶1590:19 {#p1590-19}
-Confer the title General Superintendent Emeritus or Emerita upon a former General Superintendent when recommended by the General Board (1945).
+Confer the title General Superintendent Emeritus or Emerita upon a former General Superintendent when recommended by the General Board ([¶1945](/part-4/ch4-general-administration.md#p1945)).
 
 ### ¶1590:20 {#p1590-20}
 Space reserved.
@@ -258,7 +258,7 @@ Space reserved.
 Judiciary ]
 
 ### ¶1590.21 {#p1590-21}
-Hear and determine appeals from decisions of the Board of Review, and to overrule such decisions by a two-thirds majority vote (380; also Gen. Bd. Policy on Ch. Disc. 5450).
+Hear and determine appeals from decisions of the Board of Review, and to overrule such decisions by a two-thirds majority vote ([¶380](/part-1/ch4-constitution.md#p380); also Gen. Bd. Policy on Ch. Disc. 5450).
 
 ### ¶1590.22 {#p1590-22}
 Receive a report from the General Superintendent of official rulings on points of Church law, interpretations of The Discipline, and rulings on the legality of district actions; to sustain, modify, or annul such rulings, in whole or in part (2061-2064).

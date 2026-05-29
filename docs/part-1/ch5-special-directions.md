@@ -33,7 +33,7 @@ These statements of collective conscience do not speak to every issue and must p
  On the basis of a careful study of the Scriptures, and in keeping with its Guides and Helps to Holy Living ([¶265:6](/part-1/ch4-constitution.md#p265-6)), The Wesleyan Church teaches the following with reference to divorce and remarriage after divorce:
 
 #### ¶410:6.a {#p410-6-a}
-To obtain a divorce on other than scriptural grounds is a sin against God and humanity. Such putting asunder of what God has joined is a direct and deliberate act of disobedience against both the law and the gospel. It separates one from God and may subject a member to Church discipline (222).
+To obtain a divorce on other than scriptural grounds is a sin against God and humanity. Such putting asunder of what God has joined is a direct and deliberate act of disobedience against both the law and the gospel. It separates one from God and may subject a member to Church discipline ([¶222](/part-1/ch4-constitution.md#p222)).
 
 #### ¶410:6.b {#p410-6-b}
 However, recognizing the fallen state of humanity, divorce has been recognized in the Scriptures as a valid and permanent dissolution of marriage with all its rights and responsibilities. Divorce is not reversible. There is no way to “restore” a dissolved marriage. The divorced (unmarried) status can be changed only by a new marriage to the same person or another person. No divorced and remarried person has two spouses, only a former spouse and a present spouse, as in Deuteronomy 24:1-4 and 1 Corinthians 7.

@@ -15,7 +15,7 @@ The district board of administration shall be vested with power and authority to
 The pastor and local advisory council of a developing church shall be responsible to supervise, control, and maintain the property under their care as directed by the district superintendent and the district board of administration (510:3–4; 1233:1, 30).
 
 ### ¶4660:3 {#p4660-3}
-All property of a developing church shall be held by the district in trust for the use and benefit of the members and ministers of The Wesleyan Church as required in 323:8 and shall contain the trust clause as given in 4610 (4140; 4590–4630; 4830).
+All property of a developing church shall be held by the district in trust for the use and benefit of the members and ministers of The Wesleyan Church as required in 323:8 and shall contain the trust clause as given in 4610 ([¶4140](/part-7/ch2-district-corporations.md#p4140); 4590–4630; [¶4830](/part-8/ch3-district-property.md#p4830)).
 
 ### ¶4660:4 {#p4660-4}
 Whenever a developing church has been organized as an established church (518–520), the district board of trustees may transfer the property to the local board of trustees as set forth in 4680, provided that the property is free of debt.
@@ -36,10 +36,10 @@ Whenever a developing church has been organized as an established church (518–
  All written instruments of conveyance by which property is held or hereafter acquired by any local church, whether incorporated or unincorporated, shall contain the trust clause in [¶4610](/part-9/ch1-general-regulations.md#p4610), and release therefrom shall be as follows:
 
 ### ¶4690:1 {#p4690-1}
-Whenever the real property of a local church acquired by a conveyance containing the trust clause as set forth in 4610 is sold in conformity with the provisions of The Discipline (4700–4728), the written approval of the district board of administration (4700:3) shall constitute a release and discharge of the real property so sold and conveyed from the trust clause (4620).
+Whenever the real property of a local church acquired by a conveyance containing the trust clause as set forth in 4610 is sold in conformity with the provisions of The Discipline (4700–4728), the written approval of the district board of administration ([¶4700:3](#p4700-3)) shall constitute a release and discharge of the real property so sold and conveyed from the trust clause ([¶4620](/part-9/ch1-general-regulations.md#p4620)).
 
 ### ¶4690:2 {#p4690-2}
-Whenever the real property of a local church acquired by a conveyance containing the trust clause in 4610 is mortgaged or encumbered, as provided for in The Discipline (4700–4728), the written approval of the district board of administration for such mortgage or encumbrance (4700:3) shall constitute a formal recognition of the priority of such mortgage lien and the subordination of the trust clause thereto (4630).
+Whenever the real property of a local church acquired by a conveyance containing the trust clause in 4610 is mortgaged or encumbered, as provided for in The Discipline (4700–4728), the written approval of the district board of administration for such mortgage or encumbrance ([¶4700:3](#p4700-3)) shall constitute a formal recognition of the priority of such mortgage lien and the subordination of the trust clause thereto ([¶4630](/part-9/ch1-general-regulations.md#p4630)).
 
 ### 3. Acquisition, Sale, Mortgage, and Transfer of Property
 
@@ -47,16 +47,16 @@ Whenever the real property of a local church acquired by a conveyance containing
  An unincorporated local church within an established district may acquire, purchase, sell, mortgage, transfer, or otherwise dispose of real property in accord with the following authorization and conditions:
 
 ### ¶4700:1 {#p4700-1}
-A resolution authorizing such action shall be recommended by the local board of administration (782:27), and passed by the local church conference (655:11) by a majority of those present and voting, at any regular or special session duly called for such purpose, provided that notice of the intended action shall be given to the local church members by announcement from the pulpit in two regular services, the first of which shall be not less than one week before the date of the session of the local church conference at which the proposal shall be considered, and that such other notice shall be given as may be required by local laws (633:1).
+A resolution authorizing such action shall be recommended by the local board of administration ([¶782:27](/part-2/ch5-local-board.md#p782-27)), and passed by the local church conference ([¶655:11](/part-2/ch3-conference.md#p655-11)) by a majority of those present and voting, at any regular or special session duly called for such purpose, provided that notice of the intended action shall be given to the local church members by announcement from the pulpit in two regular services, the first of which shall be not less than one week before the date of the session of the local church conference at which the proposal shall be considered, and that such other notice shall be given as may be required by local laws ([¶633:1](/part-2/ch3-conference.md#p633-1)).
 
 ### ¶4700:2 {#p4700-2}
 Space reserved.
 
 ### ¶4700:3 {#p4700-3}
-The district board of administration, after receiving the recommendation of the district building committee (if any), shall approve the proposal of the local church in writing and such approval shall be affixed to the written instrument involved (1233:30).
+The district board of administration, after receiving the recommendation of the district building committee (if any), shall approve the proposal of the local church in writing and such approval shall be affixed to the written instrument involved ([¶1233:30](/part-3/ch3-board.md#p1233-30)).
 
 ### ¶4700:4 {#p4700-4}
-The resolution authorizing such action shall direct that any contract, deed, bill of sale, mortgage, or other necessary written instrument be executed by and on behalf of the local church by the proper officers of the local board of trustees, who thereupon shall be duly authorized to carry out the directions of the local church conference and the local board of administration in keeping with the requirements of The Discipline (850–859; 4500–4630; 4720); and any written instrument so executed shall be binding and effective as the action of the local church.
+The resolution authorizing such action shall direct that any contract, deed, bill of sale, mortgage, or other necessary written instrument be executed by and on behalf of the local church by the proper officers of the local board of trustees, who thereupon shall be duly authorized to carry out the directions of the local church conference and the local board of administration in keeping with the requirements of The Discipline (850–859; 4500–4630; [¶4720](#p4720)); and any written instrument so executed shall be binding and effective as the action of the local church.
 
 ### ¶4700:5 {#p4700-5}
 The chair of the local board of trustees, or other designated trustee, shall submit all written instruments of conveyance and title for the acquisition of property to the district superintendent for approval as to their conformity with The Discipline as stated in 1310:11 and shall see that permanent legal and property records are properly stored as set forth in 4760.
