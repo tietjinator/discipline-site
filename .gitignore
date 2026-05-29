@@ -3,3 +3,5 @@ dist
 .vitepress/dist
 .vitepress/cache
 .DS_Store
+BUILD-PLAN.md
+*.pdf
