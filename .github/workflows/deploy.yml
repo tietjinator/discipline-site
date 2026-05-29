@@ -1,0 +1,27 @@
+# GitHub Actions workflow for this VitePress site.
+# It builds the static docs on pushes to main and deploys the built output to the server via SCP.
+name: Build and Deploy
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm ci
+      - run: npm run docs:build
+      - name: Deploy to server
+        uses: appleboy/scp-action@v0.1.7
+        with:
+          host: ${{ secrets.SERVER_HOST }}
+          username: ${{ secrets.SERVER_USER }}
+          key: ${{ secrets.SERVER_SSH_KEY }}
+          source: docs/.vitepress/dist/*
+          target: /var/www/discipline/dist
+          strip_components: 3

@@ -1,1 +1,261 @@
-/* TWC Brand Theming — to be replaced by Claude Code */
+/* ============================================
+   WESLEYAN DISCIPLINE — THEME OVERRIDES
+   Brand: The Wesleyan Church (wesleyan.org)
+   ============================================ */
+
+/* --- Raleway TWC 2.0 self-hosted fonts --- */
+@font-face {
+  font-family: 'Raleway';
+  src: url('/fonts/RalewayTWC-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Raleway';
+  src: url('/fonts/RalewayTWC-Italic.woff2') format('woff2');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Raleway';
+  src: url('/fonts/RalewayTWC-SemiBold.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Raleway';
+  src: url('/fonts/RalewayTWC-SemiBoldItalic.woff2') format('woff2');
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Raleway';
+  src: url('/fonts/RalewayTWC-Bold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Raleway';
+  src: url('/fonts/RalewayTWC-BoldItalic.woff2') format('woff2');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Raleway';
+  src: url('/fonts/RalewayTWC-ExtraBold.woff2') format('woff2');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Raleway';
+  src: url('/fonts/RalewayTWC-ExtraBoldItalic.woff2') format('woff2');
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* --- Color tokens (TWC Brand Guide 2023) --- */
+:root {
+  /* Primary brand blues */
+  --vp-c-brand-1: #0B496F;   /* Dark Blue — primary */
+  --vp-c-brand-2: #39AAE1;   /* Light Blue — interactive */
+  --vp-c-brand-3: #03344D;   /* Blue-Black — deep */
+  --vp-c-brand-soft: rgba(11, 73, 111, 0.08);
+
+  /* Secondary / accent */
+  --twc-aqua: #40BCBC;
+  --twc-light-blue-bg: #BDE6FA;
+
+  /* Neutrals */
+  --twc-dark-gray: #333132;
+  --twc-mid-gray: #B8B9B9;
+  --twc-light-gray: #E7E7E7;
+
+  /* Typography — TWC brand fonts */
+  /* Raleway for UI/display, Open Sans for body */
+  --vp-font-family-base: 'Open Sans', system-ui, sans-serif;
+  --vp-font-family-mono: 'Courier New', monospace;
+
+  /* Content width — wider for a book-like feel */
+  --vp-layout-max-width: 1440px;
+
+  /* Line height for dense legal/church text */
+  --vp-doc-line-height: 1.8;
+}
+
+/* --- Dark mode brand colors --- */
+.dark {
+  --vp-c-brand-1: #39AAE1;   /* Light Blue becomes primary in dark mode */
+  --vp-c-brand-2: #40BCBC;   /* Aqua for secondary */
+  --vp-c-brand-3: #BDE6FA;
+  --vp-c-brand-soft: rgba(57, 170, 225, 0.12);
+}
+
+/* --- Nav bar --- */
+.VPNav {
+  border-bottom: 2px solid var(--vp-c-brand-1) !important;
+}
+
+.VPNavBarTitle .title {
+  font-family: 'Raleway', system-ui, sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  color: var(--vp-c-brand-1);
+  text-transform: uppercase;
+  font-size: 0.9rem;
+}
+
+/* --- Home hero --- */
+.VPHero .name {
+  font-family: 'Raleway', system-ui, sans-serif;
+  font-weight: 700;
+  color: var(--vp-c-brand-1) !important;
+  background: none !important;
+  -webkit-text-fill-color: var(--vp-c-brand-1) !important;
+  font-size: 3.5rem;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}
+
+.VPHero .text {
+  font-family: 'Raleway', system-ui, sans-serif;
+  font-weight: 400;
+  color: var(--twc-dark-gray) !important;
+}
+
+.VPHero .tagline {
+  font-family: 'Open Sans', system-ui, sans-serif;
+  color: #555 !important;
+}
+
+/* --- Sidebar --- */
+.VPSidebarItem .text {
+  font-family: 'Open Sans', system-ui, sans-serif;
+  font-size: 0.875rem;
+}
+
+.VPSidebarItem.is-active > .item .text {
+  color: var(--vp-c-brand-1);
+  font-weight: 600;
+}
+
+/* --- Document body --- */
+.vp-doc {
+  /* Open Sans per brand guide. Swap to a serif if preferred for long-form reading. */
+  font-family: 'Open Sans', system-ui, sans-serif;
+  font-size: 1.0rem;
+  line-height: 1.85;
+  color: var(--twc-dark-gray);
+}
+
+/* --- Paragraph headings --- */
+/* ¶125, ¶725:1, etc. */
+.vp-doc h2 {
+  font-family: 'Raleway', system-ui, sans-serif;
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: var(--vp-c-brand-1);
+  border-bottom: 1px solid var(--twc-mid-gray);
+  padding-bottom: 0.3em;
+  margin-top: 2.5em;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.vp-doc h3 {
+  font-family: 'Raleway', system-ui, sans-serif;
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: var(--vp-c-brand-3);
+  margin-top: 1.75em;
+}
+
+.vp-doc h4 {
+  font-family: 'Open Sans', system-ui, sans-serif;
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--twc-dark-gray);
+}
+
+/* Chapter/Part headings (h1) */
+.vp-doc h1 {
+  font-family: 'Raleway', system-ui, sans-serif;
+  font-size: 2rem;
+  font-weight: 800;
+  color: var(--vp-c-brand-1);
+  border-bottom: 3px solid var(--vp-c-brand-1);
+  padding-bottom: 0.4em;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+/* --- Cross-reference links --- */
+/* TWC Light Blue (#39AAE1) for interactive elements per brand guide */
+.vp-doc a[href*="#p"] {
+  color: #39AAE1;
+  text-decoration: none;
+  border-bottom: 1px dotted #39AAE1;
+  font-variant-numeric: tabular-nums;
+}
+
+.vp-doc a[href*="#p"]:hover {
+  color: var(--vp-c-brand-1);
+  border-bottom-style: solid;
+}
+
+/* --- Scripture references --- */
+/* Wrap scripture citations in <cite> for styling */
+.vp-doc cite {
+  font-style: italic;
+  color: #555;
+  font-size: 0.9em;
+  display: block;
+  margin: 0.5em 0 0.5em 1.5em;
+  border-left: 3px solid #dde3ec;
+  padding-left: 0.75em;
+}
+
+/* --- Outline (right-hand TOC) --- */
+.VPDocOutlineItem a {
+  font-size: 0.8rem;
+  color: #555;
+}
+
+.VPDocOutlineItem.active a {
+  color: var(--vp-c-brand-1);
+  font-weight: 600;
+}
+
+/* --- Feature cards on homepage --- */
+.VPFeature {
+  border: 1px solid var(--twc-mid-gray) !important;
+  border-top: 3px solid var(--vp-c-brand-2) !important;
+}
+
+.VPFeature .title {
+  font-family: 'Raleway', system-ui, sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  color: var(--vp-c-brand-1);
+}
+
+/* --- Footer --- */
+.VPFooter {
+  border-top: 2px solid var(--vp-c-brand-1);
+  font-family: 'Open Sans', system-ui, sans-serif;
+}
+
+/* --- Print styles --- */
+@media print {
+  .VPNav, .VPSidebar, .VPDocAside { display: none !important; }
+  .vp-doc { font-size: 11pt; line-height: 1.6; }
+  .vp-doc h2 { color: black; border-color: black; }
+  a[href]::after { content: " (" attr(href) ")"; font-size: 0.8em; color: #666; }
+}
