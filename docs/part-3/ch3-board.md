@@ -154,7 +154,7 @@ Request a ruling on a point of Church law or an interpretation of The Discipline
 #### ¶1233:24a {#p1233-24a}
 Any of its own members, with the exception of the district superintendent (1307), by a two-thirds majority vote of all members, and to fill such vacancies for the unexpired term (1206; 1265; 1272).
 
-#### ¶1180:27b {#p1180-27b}
+#### ¶1180:27b {#p1180-27b-x2}
 Any member of a board or other agency of the district by a majority vote and to fill such vacancies for the unexpired term (1292).
 
 ### Related to Churches and Ministers

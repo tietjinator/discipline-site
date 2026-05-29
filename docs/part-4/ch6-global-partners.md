@@ -3,7 +3,7 @@
 ## ¶2258 {#p2258}
  The ultimate objective of The Wesleyan Church is to fulfill the Great Commission of the Lord Jesus Christ by sharing with all people the good news and glorious experience of full salvation.
 
-## ¶2258 {#p2258}
+## ¶2258 {#p2258-x2}
  The Global Partners Division is responsible for carrying out the missionary objectives of The Wesleyan Church in those fields and areas beyond the national borders of the United States and Canada, and in such other places as shall be assigned to it as approved by the General Conference or the General Board.
 
 ## ¶2261 {#p2261}

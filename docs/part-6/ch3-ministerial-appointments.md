@@ -43,7 +43,7 @@ An interim pastor may be fully empowered to exercise administrative authority in
 ### ¶3261:4 {#p3261-4}
 An interim pastor’s local church membership and district ministerial membership shall not be automatically transferred to the church of service, given the temporary nature of the appointment. However, an interim pastor may personally request transfer of local church membership and district ministerial membership if desired.
 
-### ¶3261:1 {#p3261-1}
+### ¶3261:1 {#p3261-1-x2}
 An interim pastor may be a nonvoting member of the district conference if ministerial membership is maintained in another district (1090), or unless qualifying as a voting member by some other right (1083).
 
 ### 2. Evangelists

@@ -10,7 +10,7 @@
 ## ¶3003 {#p3003}
  While God, through the ministry of the Holy Spirit, assigns to each believer a part in the general or corporate ministry of the church, He also calls some to a specialized or representative type of ministry. As Christ called unto Him whom He would, chose and ordained His twelve apostles “that they should be with him, and that he might send them forth to preach” (Mark 3:14), so He still calls and sends forth His messengers to be servants of the servants who make up the whole church. And as the Holy Spirit impresses this call upon the individual involved, He also confirms the call through the Church. It is the responsibility of the Church both to recognize and endorse God’s call, providing for the training and employment of those He selects, and to respect the office of the specialized ministry by refusing its exercise to those not called of God. The Church’s endorsement may be limited to a probationary period, taking the form of a license, or it may be granted on a more permanent basis, taking the form of commissioning or ordination.
 
-## ¶3000 {#p3000}
+## ¶3000 {#p3000-x2}
  The Wesleyan Church believes that four marks will concur in the person whom God has called: grace, gifts, fruit, and an abiding sense of a divine call. All candidates for ministerial license, commission, or ordination shall be examined concerning each of these marks as to:
 
 ### ¶3006:1 {#p3006-1}

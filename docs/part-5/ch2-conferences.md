@@ -62,5 +62,5 @@ Approval of such status by The International Conference (6745:11).
 ## ¶2630 {#p2630}
  The relationships between general conferences shall be supervised by the International Board of Appeals (See Appendix A).
 
-## ¶2620 {#p2620}
+## ¶2620 {#p2620-x2}
  The unity of The Wesleyan Church worldwide is to be recognized and maintained through the relationships provided in the Charter of The International Conference of The Wesleyan Church (see Appendix A). The North American General Conference shall relate to all other general conferences as outlined in the Charter, including the recognition of the right of members and ministers to transfer membership and/or credentials between general conferences, subject to the same approval as that provided for transfers between its own local churches and districts ([¶325](#p325); [¶6730](#p6730)).

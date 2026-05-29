@@ -115,7 +115,7 @@ To develop yearly and long-range plans for the promotion of world missions withi
 ### ¶1435:3 {#p1435-3}
 To stimulate interest in and increase awareness of Global Partners throughout the district.
 
-### ¶1435.3 {#p1435-3}
+### ¶1435.3 {#p1435-3-x2}
 To build a strong prayer base for world missions.
 
 ### ¶1435.4 {#p1435-4}

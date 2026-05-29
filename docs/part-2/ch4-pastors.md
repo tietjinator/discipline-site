@@ -109,7 +109,7 @@ A vote for a four-year renewal of the call shall be taken. If the vote on a four
 #### ¶718:1b {#p718-1b}
 Or, prior to the vote on renewing the call, the local board of administration, after consultation with the pastor, shall recommend to the local church conference a specific call for four years, or an extended call.
 
-### ¶718:1 {#p718-1}
+### ¶718:1 {#p718-1-x2}
 A vote for a one or two-year renewal of the call may be authorized by the district superintendent upon the joint request of the pastor and the local board of administration when such is due to extenuating circumstances.
 
 ## ¶720 Regulations for Extended Call. {#p720}
