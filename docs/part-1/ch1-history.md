@@ -116,7 +116,7 @@ The Alliance of the Reformed Baptist Church of Canada was organized in 1888 as t
 ## H. Unit Names
 
 ## ¶80' {#p80'}
- The following is a representative list of the various units of The Wesleyan Church. Security issues prohibit a full list. Unit names, not representative of legal names, are printed for information only. Included are those whose adaptation of the name have been approved in keeping with the provisions of [¶205](#p205) and [¶340:2](#p340-2). These are printed for information only. Changes may be authorized when necessary by the General Board ([¶340:2](#p340-2); [¶1655:32](#p1655-32)).
+ The following is a representative list of the various units of The Wesleyan Church. Security issues prohibit a full list. Unit names, not representative of legal names, are printed for information only. Included are those whose adaptation of the name have been approved in keeping with the provisions of [¶205](/part-1/ch4-constitution.md#p205) and [¶340:2](/part-1/ch4-constitution.md#p340-2). These are printed for information only. Changes may be authorized when necessary by the General Board ([¶340:2](/part-1/ch4-constitution.md#p340-2); [¶1655:32](/part-4/ch2-general-board.md#p1655-32)).
 
 Australia: The Wesleyan Methodist Church of Australia
 
@@ -126,7 +126,7 @@ Brazil: Igreja Evangelica Wesleyana
 
 British Isles: The Wesleyan Holiness Church
 
-Caribbean: (cf. [¶2565](#p2565)) The Wesleyan Holiness Church of the Caribbean
+Caribbean: (cf. [¶2565](/part-5/ch2-conferences.md#p2565)) The Wesleyan Holiness Church of the Caribbean
 
 Chile: Ministerio Evangelistico y Misionero “Cristo es la Unica Respuesta”
 

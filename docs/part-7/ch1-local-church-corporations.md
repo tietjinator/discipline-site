@@ -3,7 +3,7 @@
 ## A. Authorization
 
 ## ¶4000 {#p4000}
- A local church within an established district may be incorporated ([¶655:13](#p655-13)) when so authorized by the district board of administration ([¶1233:30](#p1233-30)). The Wesleyan Church shall provide local churches with access to information to assist in the incorporation process. Each incorporated local church shall be responsible to ensure that it complies with all state reporting and filing requirements to remain in good standing. The incorporation of a local church within a developing district may be authorized when deemed necessary by the Executive Director of Church Multiplication and Discipleship.
+ A local church within an established district may be incorporated ([¶655:13](/part-2/ch3-conference.md#p655-13)) when so authorized by the district board of administration ([¶1233:30](/part-3/ch3-board.md#p1233-30)). The Wesleyan Church shall provide local churches with access to information to assist in the incorporation process. Each incorporated local church shall be responsible to ensure that it complies with all state reporting and filing requirements to remain in good standing. The incorporation of a local church within a developing district may be authorized when deemed necessary by the Executive Director of Church Multiplication and Discipleship.
 
 ## ¶4005 {#p4005}
  The articles of incorporation and bylaws for the incorporation of a local church shall be according to the standard provisions in [¶4010](#p4010), any other pertinent requirements of *The Discipline*, and the requirements of local laws as advised by competent legal authority, and shall be approved in writing by the authorizing district board of administration or official ([¶4000](#p4000)).
@@ -11,7 +11,7 @@
 ## B. Standard Provisions
 
 ## ¶4010 {#p4010}
- The standard provisions for the incorporation of a local Wesleyan church are as follows, provided that whenever such standard provisions shall conflict with the local laws under which the incorporation is effected, such provisions shall be deemed to be modified to the extent necessary to conform with such local laws ([¶4510](#p4510)).
+ The standard provisions for the incorporation of a local Wesleyan church are as follows, provided that whenever such standard provisions shall conflict with the local laws under which the incorporation is effected, such provisions shall be deemed to be modified to the extent necessary to conform with such local laws ([¶4510](/part-9/ch1-general-regulations.md#p4510)).
 
 ### ¶4010:1 {#p4010-1}
 The name of the corporation shall be: “___________ (name or place) Wesleyan Church, Inc.”
@@ -46,7 +46,7 @@ The members of the corporation shall be the members of the local church, or such
 ## C. Ownership
 
 ## ¶4030 {#p4030}
- All grants, conveyances, devises, gifts, transfers, and assignments made of any property, real, personal, or mixed, to or for an incorporated local church shall be held by and/or conveyed and transferred to the corporate body in its corporate name, in trust for the use and benefit of such local church and The Wesleyan Church, and subject to *The Discipline*, regulations, and appointments of said Church as from time to time legislated and declared. Every instrument or conveyance of real property shall contain the trust clause as set forth in [¶4610](#p4610) ([¶4690](#p4690)) and shall be approved by the district superintendent as being in conformity with the requirements of *The Discipline* ([¶1310:11](#p1310-11)).
+ All grants, conveyances, devises, gifts, transfers, and assignments made of any property, real, personal, or mixed, to or for an incorporated local church shall be held by and/or conveyed and transferred to the corporate body in its corporate name, in trust for the use and benefit of such local church and The Wesleyan Church, and subject to *The Discipline*, regulations, and appointments of said Church as from time to time legislated and declared. Every instrument or conveyance of real property shall contain the trust clause as set forth in [¶4610](/part-9/ch1-general-regulations.md#p4610) ([¶4690](/part-8/ch2-local-church-property.md#p4690)) and shall be approved by the district superintendent as being in conformity with the requirements of *The Discipline* ([¶1310:11](/part-3/ch5-administration.md#p1310-11)).
 
 ## D. Acquisition, Sale, Transfer or Mortgage of Property
 
@@ -77,4 +77,4 @@ The chair of the board of directors (4010:7), or another designated director sha
  An incorporated local church and/or its board of directors ([¶4010:7](#p4010-7)) may not divert property from the ownership and use of The Wesleyan Church and is subject to other regulations concerning local church property as set forth in *The Discipline* in [¶4500–4630](#p4500–4630), [¶4700–4780](#p4700–4780), and any other pertinent provisions.
 
 ## ¶4070 {#p4070}
- The proceeds from the sale of any real property by an incorporated local church shall only be used for the purchase or improvement of property for that local church, unless otherwise authorized by the district board of administration as set forth in [¶4720–4738](#p4720–4738) ([¶1233:30](#p1233-30)).
+ The proceeds from the sale of any real property by an incorporated local church shall only be used for the purchase or improvement of property for that local church, unless otherwise authorized by the district board of administration as set forth in [¶4720–4738](#p4720–4738) ([¶1233:30](/part-3/ch3-board.md#p1233-30)).

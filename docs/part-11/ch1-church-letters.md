@@ -16,7 +16,7 @@ _______________________
 
 ^(The member’s relationship at the church granting the letter continues until the member is duly received by the church to which the member is being transferred.)^
 
-**6010. Acknowledgment Sent by Receiving Church** ([¶575](#p575)).
+**6010. Acknowledgment Sent by Receiving Church** ([¶575](/part-2/ch2-membership.md#p575)).
 
 To the pastor and secretary of the _____________ Wesleyan Church. 
 
@@ -33,7 +33,7 @@ ________________________ Pastor ________________________ Local Church Secretary
 
 ## B. Letter of Recommendation for a Member
 
-**6030. Letter Given to Person Desiring to Transfer to Another Denomination** ([¶590](#p590)).
+**6030. Letter Given to Person Desiring to Transfer to Another Denomination** ([¶590](/part-2/ch2-membership.md#p590)).
 
 This certifies that ____________, the bearer, has been up to this date an acceptable member of the _______________ Wesleyan Church, and being desirous of removing from said Church, is hereby released and cordially recommended to the Christian confidence of those to whom this certificate may be presented.
 By authority and in behalf of the ______________ Wesleyan Church, this ______ day of __________, AD ________.
@@ -46,7 +46,7 @@ _______________________
 
 ## C. Letter of Membership Withdrawal
 
-**6040. Letter Given to Person Desiring to Withdraw from the Church** ([¶592](#p592); *Gen. Bd. Policy on Ch. Disc.* [¶5048](#p5048)).
+**6040. Letter Given to Person Desiring to Withdraw from the Church** ([¶592](/part-2/ch2-membership.md#p592); *Gen. Bd. Policy on Ch. Disc.* [¶5048](#p5048)).
 
 This certifies that ____________, the bearer, has been up to this date a
 member of the ______________ Wesleyan Church, and being desirous of withdrawing from said Church, is hereby declared to be withdrawn.
@@ -61,7 +61,7 @@ _______________________
 
 ## D. Member Certificates
 
-**6050. Membership Covenant** ([¶553](#p553))
+**6050. Membership Covenant** ([¶553](/part-2/ch2-membership.md#p553))
 
 In becoming a member of The Wesleyan Church, I affirm the following:
 
@@ -77,7 +77,7 @@ ________________________ Signature
 ________________________ Date
 ________________________ Local Church Name
 
-**6052. Certificate of Membership** ([¶553:4](#p553-4))
+**6052. Certificate of Membership** ([¶553:4](/part-2/ch2-membership.md#p553-4))
 
 This is to certify that ____________________________has publicly confessed Jesus Christ as Lord and Savior and has been received as a member of The Wesleyan Church and locally of the ______________ in ________________ on this _______________ day of _______________ in the year of our Lord _______________.
 

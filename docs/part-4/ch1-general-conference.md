@@ -15,7 +15,7 @@
 Voting Members ]
 
 ### ¶1503:1 {#p1503-1}
- The voting members shall consist of an equal number of ordained ministers and lay members of The Wesleyan Church ([¶325](#p325)):
+ The voting members shall consist of an equal number of ordained ministers and lay members of The Wesleyan Church ([¶325](/part-1/ch4-constitution.md#p325)):
 
 #### ¶1503:1a {#p1503-1a}
 The district superintendent of each district and developing district and a lay delegate elected at the same time and in the same manner as the other delegates (1512-1526).
@@ -37,7 +37,7 @@ The General Board shall designate the number of nonvoting members from mission u
 ### 2. Forfeiture of Representation
 
 ## ¶1506 {#p1506}
- A district or developing district which has been placed under discipline as provided for in the *General Board Policy on Church Discipline* ([¶5365-5370](#p5365-5370)) shall forfeit all rights to any representation in the General Conference ([¶323:9](#p323-9)). The delegates, including the district superintendent and any delegate-at-large from that district, shall not be recognized or seated until the district or developing district they represent is officially reinstated (*Gen. Bd. Policy on Ch. Disc.* [¶5365](#p5365)).
+ A district or developing district which has been placed under discipline as provided for in the *General Board Policy on Church Discipline* ([¶5365-5370](#p5365-5370)) shall forfeit all rights to any representation in the General Conference ([¶323:9](/part-1/ch4-constitution.md#p323-9)). The delegates, including the district superintendent and any delegate-at-large from that district, shall not be recognized or seated until the district or developing district they represent is officially reinstated (*Gen. Bd. Policy on Ch. Disc.* [¶5365](#p5365)).
 
 ### 3. Election of Delegates
 
@@ -58,7 +58,7 @@ The established districts shall be considered in alphabetical order, and each el
 b. Delegates ]
 
 ## ¶1512 {#p1512}
- The delegates to the General Conference shall be elected by the district conference, by ballot and by majority vote, at its last annual session preceding the General Conference. When the last annual session is within sixty days of the opening date of the General Conference, the district conference may elect its delegates at the previous annual session. The statistical report for the annual session of the district conference at which the delegates are elected shall be used for determining the number of members, and consequently, the number of General Conference delegates (1503:1b). A certified list of all delegates to the General Conference shall be promptly forwarded by the district secretary to the Executive Director of Communication and Administration ([¶1332:5](#p1332-5)).
+ The delegates to the General Conference shall be elected by the district conference, by ballot and by majority vote, at its last annual session preceding the General Conference. When the last annual session is within sixty days of the opening date of the General Conference, the district conference may elect its delegates at the previous annual session. The statistical report for the annual session of the district conference at which the delegates are elected shall be used for determining the number of members, and consequently, the number of General Conference delegates (1503:1b). A certified list of all delegates to the General Conference shall be promptly forwarded by the district secretary to the Executive Director of Communication and Administration ([¶1332:5](/part-3/ch5-administration.md#p1332-5)).
 
 ## ¶1514 {#p1514}
  A person accepting election as a delegate is obligated to attend faithfully the entire General Conference session, unless hindered by unforeseen and justifiable circumstances ([¶1541](#p1541)).
@@ -66,7 +66,7 @@ b. Delegates ]
 c. Alternate Delegates ]
 
 ## ¶1516 {#p1516}
- Alternate delegates shall be the remaining nominees not elected to serve as General Conference delegates and shall fill vacancies in the descending order of votes received ([¶1332:5](#p1332-5)).
+ Alternate delegates shall be the remaining nominees not elected to serve as General Conference delegates and shall fill vacancies in the descending order of votes received ([¶1332:5](/part-3/ch5-administration.md#p1332-5)).
 
 ## ¶1518 {#p1518}
  Whenever the district superintendent, who is an ex officio member of the General Conference (1503:1a), is unable to attend, the place of the district superintendent shall be filled by the assistant district superintendent (if any). If the assistant district superintendent is an elected delegate to the General Conference, the place of the assistant district superintendent shall then be filled like any other vacancy by an alternate ministerial delegate.
@@ -76,32 +76,32 @@ c. Alternate Delegates ]
 a. Ministerial Delegates ]
 
 ## ¶1520 {#p1520}
- A ministerial delegate must be an ordained minister who is a member of the district represented, both at the time of election and at the time of the General Conference ([¶327:2](#p327-2)).
+ A ministerial delegate must be an ordained minister who is a member of the district represented, both at the time of election and at the time of the General Conference ([¶327:2](/part-1/ch4-constitution.md#p327-2)).
 
-**1522.** Whenever a ministerial delegate-elect shall transfer membership to another district, the right to represent the district shall be vacated and an alternate ministerial delegate shall be certified ([¶1332:5](#p1332-5); [¶1516](#p1516)).
+**1522.** Whenever a ministerial delegate-elect shall transfer membership to another district, the right to represent the district shall be vacated and an alternate ministerial delegate shall be certified ([¶1332:5](/part-3/ch5-administration.md#p1332-5); [¶1516](#p1516)).
 
 b. Lay Delegates ]
 
 ## ¶1524 {#p1524}
- A lay delegate must be a lay person who is a member with the leadership qualifications ([¶260-268](#p260-268); [¶558](#p558)) of a local church in the district represented, both at the time of election and at the time of the General Conference ([¶327:3](#p327-3)).
+ A lay delegate must be a lay person who is a member with the leadership qualifications ([¶260-268](#p260-268); [¶558](/part-2/ch2-membership.md#p558)) of a local church in the district represented, both at the time of election and at the time of the General Conference ([¶327:3](/part-1/ch4-constitution.md#p327-3)).
 
 ## ¶1526 {#p1526}
- Whenever a lay delegate-elect shall cease to meet the requirements in [¶1524](#p1524), the right to represent the district shall be vacated and an alternate lay delegate shall be certified ([¶1332:5](#p1332-5); [¶1516](#p1516)).
+ Whenever a lay delegate-elect shall cease to meet the requirements in [¶1524](#p1524), the right to represent the district shall be vacated and an alternate lay delegate shall be certified ([¶1332:5](/part-3/ch5-administration.md#p1332-5); [¶1516](#p1516)).
 
 ## C. Sessions
 
 ### 1. Regular Sessions
 
 ## ¶1528 {#p1528}
- The General Conference shall meet quadrennially, in the spring season at a place, date, and hour determined by the General Board ([¶330:1](#p330-1); [¶1655:4](#p1655-4)).
+ The General Conference shall meet quadrennially, in the spring season at a place, date, and hour determined by the General Board ([¶330:1](/part-1/ch4-constitution.md#p330-1); [¶1655:4](/part-4/ch2-general-board.md#p1655-4)).
 
 ## ¶1530 {#p1530}
- Whenever an emergency shall require a change in the plans of the General Conference for the time of the next regular session, the General Board may, by a two-thirds vote, declare that such an emergency exists and authorize the necessary changes ([¶330:1](#p330-1); [¶1655:5](#p1655-5)).
+ Whenever an emergency shall require a change in the plans of the General Conference for the time of the next regular session, the General Board may, by a two-thirds vote, declare that such an emergency exists and authorize the necessary changes ([¶330:1](/part-1/ch4-constitution.md#p330-1); [¶1655:5](/part-4/ch2-general-board.md#p1655-5)).
 
 ### 2. Special Sessions
 
 ## ¶1532 {#p1532}
- A special session of the General Conference shall be called by the General Superintendent whenever authorized to do so by a two-thirds vote of the General Board ([¶1655:6](#p1655-6)), or when requested to do so by two-thirds of the established district conferences ([¶330:2](#p330-2); [¶1180:6](#p1180-6)). The time and place for the special session shall be decided by the General Board ([¶1655:5](#p1655-5)), or, in the interim of its sessions, by the Executive Board. The time shall always be later than the next session of each district conference ([¶330:2](#p330-2)).
+ A special session of the General Conference shall be called by the General Superintendent whenever authorized to do so by a two-thirds vote of the General Board ([¶1655:6](/part-4/ch2-general-board.md#p1655-6)), or when requested to do so by two-thirds of the established district conferences ([¶330:2](/part-1/ch4-constitution.md#p330-2); [¶1180:6](/part-3/ch2-conference.md#p1180-6)). The time and place for the special session shall be decided by the General Board ([¶1655:5](/part-4/ch2-general-board.md#p1655-5)), or, in the interim of its sessions, by the Executive Board. The time shall always be later than the next session of each district conference ([¶330:2](/part-1/ch4-constitution.md#p330-2)).
 
 ## ¶1534 {#p1534}
  Any duly called special session of the General Conference shall have full authority to transact any item of business which may be transacted at a regular session.
@@ -111,7 +111,7 @@ b. Lay Delegates ]
 ### 1. Officers
 
 ## ¶1536 The Presidency {#p1536}
- ([¶332](#p332)). The General Superintendent shall preside over the General Conference. When no General Superintendent is present, the General Conference shall elect by ballot an ordained minister as president pro tem.
+ ([¶332](/part-1/ch4-constitution.md#p332)). The General Superintendent shall preside over the General Conference. When no General Superintendent is present, the General Conference shall elect by ballot an ordained minister as president pro tem.
 
 ## ¶1539 The Secretary {#p1539}
 . The Executive Director of Communication and Administration shall be the secretary of the General Conference and shall accurately record the proceedings, preserve them in permanent form, and perform any other such duties as shall be required by the General Conference.
@@ -122,19 +122,19 @@ b. Lay Delegates ]
  Once a delegate has been seated at the General Conference, an alternate delegate cannot thereafter be seated in place of the seated delegate ([¶1514](#p1514)).
 
 ## ¶1543 Quorum {#p1543}
- ([¶336](#p336)). A majority of all the delegates elected by the districts shall constitute a quorum for the transaction of business. A smaller number shall have the authority to adjourn from time to time until a quorum is obtained.
+ ([¶336](/part-1/ch4-constitution.md#p336)). A majority of all the delegates elected by the districts shall constitute a quorum for the transaction of business. A smaller number shall have the authority to adjourn from time to time until a quorum is obtained.
 
 ## ¶1545 Voting {#p1545}
- ([¶338](#p338)). The ministerial and lay delegates shall deliberate in the sessions of the General Conference as one body. However, upon the final vote on any question, except proposed amendments to the Constitution ([¶200-385](#p200-385)), on a call of one-fourth of the members, the house shall divide so that ministerial and lay delegates shall vote separately. It shall require a majority vote of each branch to pass any question upon which the division has been called.
+ ([¶338](/part-1/ch4-constitution.md#p338)). The ministerial and lay delegates shall deliberate in the sessions of the General Conference as one body. However, upon the final vote on any question, except proposed amendments to the Constitution ([¶200-385](#p200-385)), on a call of one-fourth of the members, the house shall divide so that ministerial and lay delegates shall vote separately. It shall require a majority vote of each branch to pass any question upon which the division has been called.
 
 ## ¶1547 Rules of Order. {#p1547}
- General Conference business shall be conducted according to the current edition of Robert’s Rules of Order, Newly Revised, except when formally suspended by the General Conference or when other procedures are required by The Discipline ([¶360:1](#p360-1)).
+ General Conference business shall be conducted according to the current edition of Robert’s Rules of Order, Newly Revised, except when formally suspended by the General Conference or when other procedures are required by The Discipline ([¶360:1](/part-1/ch4-constitution.md#p360-1)).
 
 ## ¶1550 Appeals on Questions of Order. {#p1550}
  The chair shall decide all questions of order, subject to an appeal to the General Conference. In case of such an appeal, the vote shall be taken without debate, except that the chair may state the grounds of the decision, and the appellant may state the grounds of the appeal.
 
 ## ¶1553 Suspension of Rules. {#p1553}
- The General Conference may suspend for a particular session any statutory law ([¶155](#p155)) set forth in *The Discipline* governing the procedures of the General Conference, by a two-thirds majority vote.
+ The General Conference may suspend for a particular session any statutory law ([¶155](/part-1/ch3-church-law.md#p155)) set forth in *The Discipline* governing the procedures of the General Conference, by a two-thirds majority vote.
 
 ### 3. Memorials
 
@@ -142,7 +142,7 @@ b. Lay Delegates ]
  Memorials to the General Conference, including proposed changes to *The Discipline* other than the Constitution ([¶200-385](#p200-385)), may be submitted by a district conference, a district board of administration, the General Board, a General Conference committee, the governing board of an educational or benevolent institution, the governing board of a subsidiary corporation, the general executive committee of an auxiliary organization, or any ten members of the General Conference.
 
 ## ¶1560 {#p1560}
- Memorials proposing an amendment to the Constitution ([¶200–385](#p200–385)) may be submitted to the General Conference only by a district conference by a two-thirds vote ([¶1180:1](#p1180-1)), or by the General Board ([¶1655:8](#p1655-8)).
+ Memorials proposing an amendment to the Constitution ([¶200–385](#p200–385)) may be submitted to the General Conference only by a district conference by a two-thirds vote ([¶1180:1](/part-3/ch2-conference.md#p1180-1)), or by the General Board ([¶1655:8](/part-4/ch2-general-board.md#p1655-8)).
 
 ### 4. Committees
 
@@ -152,7 +152,7 @@ b. Lay Delegates ]
 a. Committee on Memorials ]
 
 ## ¶1565 {#p1565}
- The General Board shall serve as the Committee on Memorials. It shall be the duty of the Committee on Memorials to receive all memorials for the General Conference, classify them, pass on each of them, and submit such memorials to the General Conference, together with the committee’s recommendation, and in such order as the committee shall determine ([¶1655:7](#p1655-7)). All memorials received no later than November 1 of the year prior to the General Conference shall be classified and printed for distribution to the General Conference delegates no later than sixty days before the opening date of the General Conference. Any memorial received by the Committee on Memorials after November 1 shall only be presented to the General Conference if it is recommended for adoption by the Committee on Memorials and if the General Conference votes to hear it.
+ The General Board shall serve as the Committee on Memorials. It shall be the duty of the Committee on Memorials to receive all memorials for the General Conference, classify them, pass on each of them, and submit such memorials to the General Conference, together with the committee’s recommendation, and in such order as the committee shall determine ([¶1655:7](/part-4/ch2-general-board.md#p1655-7)). All memorials received no later than November 1 of the year prior to the General Conference shall be classified and printed for distribution to the General Conference delegates no later than sixty days before the opening date of the General Conference. Any memorial received by the Committee on Memorials after November 1 shall only be presented to the General Conference if it is recommended for adoption by the Committee on Memorials and if the General Conference votes to hear it.
 
 b. General Conference Planning Committee ]
 
@@ -168,7 +168,7 @@ b. General Conference Planning Committee ]
 c. Committee on Special Nominations ]
 
 ## ¶1580 {#p1580}
- The General Board shall serve as the Committee on Special Nominations ([¶1655:7](#p1655-7)). The duties of this committee shall be to:
+ The General Board shall serve as the Committee on Special Nominations ([¶1655:7](/part-4/ch2-general-board.md#p1655-7)). The duties of this committee shall be to:
 
 ### ¶1580.1 {#p1580-1}
 Receive from the General Superintendent recommendations from which to present to the General Conference one or more nominations for each of the general officials elected by the General Conference. In the event an incumbent is not nominated, the committee shall normally present two or more nominations for that office. The general officials involved are: the Executive Director of the Communication and Administration Division, the Executive Director of the Education and Clergy Development Division, the Executive Director of the Church Multiplication and Discipleship Division, and the Executive Director of the Global Partners Division (1590:16).

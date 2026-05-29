@@ -14,7 +14,7 @@ minister of a multiple pastoral staff. The pastor shall be expected to carry out
 ### 1. Jurisdiction in Pastoral Voting
 
 ## ¶690 {#p690}
- All matters related to voting on securing or retaining a pastor are the concern of a pastoral charge ([¶503](#p503)).
+ All matters related to voting on securing or retaining a pastor are the concern of a pastoral charge ([¶503](/part-2/ch1-organization.md#p503)).
 
 ### 2. Regulations for All Pastoral Voting
 
@@ -64,7 +64,7 @@ The local church secretary must certify the envelope as being submitted by a mem
 Envelopes containing such absentee ballots shall be opened at the session in which the vote is taken, by the secretary in the presence of the chair, prior to the tallying of the vote, and these ballots placed without inspection with the others for counting by the tellers.
 
 ## ¶697 District Approval of Pastoral Agreement. {#p697}
- A pastoral agreement must be reviewed and recommended by the district board of administration, and becomes final upon the approval of the district conference. Each year the district board of administration shall review those pastoral agreements before making its report to the district conference ([¶1180:24](#p1180-24); [¶1233:10](#p1233-10)).
+ A pastoral agreement must be reviewed and recommended by the district board of administration, and becomes final upon the approval of the district conference. Each year the district board of administration shall review those pastoral agreements before making its report to the district conference ([¶1180:24](/part-3/ch2-conference.md#p1180-24); [¶1233:10](/part-3/ch3-board.md#p1233-10)).
 
 ## ¶700 Time of Pastoral Changes. {#p700}
  Except for such emergencies as resignations, removals or deaths, pastoral changes shall take place on the Monday following the second Sunday of July.
@@ -90,15 +90,15 @@ When a candidate has been approved by a majority vote of the local board of admi
  If a pastor resigns during the call term of service to a church, the pastor must notify the local board of administration and the district superintendent sixty days in advance. If the district superintendent and the local board of administration deem it wise, the pastor may be released sooner.
 
 ## ¶712 Call Removal. {#p712}
- The district board of administration may remove the pastor by a two-thirds majority vote of all members, provided such has been requested by the local board of administration by a two-thirds majority vote in a meeting presided over by the district superintendent, or such has been recommended by the district superintendent ([¶1233:36](#p1233-36)).
+ The district board of administration may remove the pastor by a two-thirds majority vote of all members, provided such has been requested by the local board of administration by a two-thirds majority vote in a meeting presided over by the district superintendent, or such has been recommended by the district superintendent ([¶1233:36](/part-3/ch3-board.md#p1233-36)).
 
 ## ¶715 Ad Interim Procedures. {#p715}
- If a pastoral charge is left without a pastor between sessions of the district conference due to death, resignation, or removal, the local board of administration and the local church conference shall follow the regular procedures for securing a new pastor with all arrangements subject to the approval of the district board of administration ([¶1233:36](#p1233-36)).
+ If a pastoral charge is left without a pastor between sessions of the district conference due to death, resignation, or removal, the local board of administration and the local church conference shall follow the regular procedures for securing a new pastor with all arrangements subject to the approval of the district board of administration ([¶1233:36](/part-3/ch3-board.md#p1233-36)).
 
 ### 4. Regulations for Renewal of Call
 
 ## ¶718 Procedure for Renewal of Call. {#p718}
- Whenever a pastor’s term of service is expiring, unless the pastor shall give notice otherwise to the vice-chair of the local board of administration ([¶773](#p773)) and the district superintendent, in writing and at least sixty days prior to the convening of the district conference, the pastor shall be considered as available, and a vote on the renewal of the pastoral call shall be taken in keeping with the regulations governing all pastoral voting ([¶692](#p692)).
+ Whenever a pastor’s term of service is expiring, unless the pastor shall give notice otherwise to the vice-chair of the local board of administration ([¶773](/part-2/ch5-local-board.md#p773)) and the district superintendent, in writing and at least sixty days prior to the convening of the district conference, the pastor shall be considered as available, and a vote on the renewal of the pastoral call shall be taken in keeping with the regulations governing all pastoral voting ([¶692](#p692)).
 
 ### ¶718:1 {#p718-1}
  One of the following alternative procedures shall be followed:
@@ -251,7 +251,7 @@ Attend district conference sessions, and to participate in the life and work of 
  If a clergy couple is appointed to the pastoral staff, only one shall be designated as senior pastor, unless the local church conference
 should vote to call the persons as co-pastors. In such case, the district shall
 appoint them as co-pastors and they shall be listed as such in the district journal
-([¶1332:8](#p1332-8)).
+([¶1332:8](/part-3/ch5-administration.md#p1332-8)).
 
 ## ¶741 Assistant Pastor. {#p741}
  An assistant pastor is an ordained minister or a commissioned or licensed minister, who is called of God and appointed by the Church to serve under the direction of the senior pastor as assigned by the senior pastor and approved by the local board of administration; this assignment normally includes more limited and specific aspects of the pastoral ministry ([¶678](#p678)). The calling and assignment of the assistant pastor shall be subject to the following guidelines:

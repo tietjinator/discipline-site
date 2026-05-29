@@ -3,20 +3,20 @@
 ## A. Composition and Function
 
 ## ¶625 {#p625}
- The members of a local church, duly called and assembled together to do business, constitute the local church conference. It is the highest governing body of a local Wesleyan church, and exercises those powers granted to the local church by the Constitution ([¶315](#p315)), and other powers specifically granted to the local church conference by the General Conference as set forth in *The Discipline* ([¶302](#p302); [¶500](#p500); [¶555](#p555)).
+ The members of a local church, duly called and assembled together to do business, constitute the local church conference. It is the highest governing body of a local Wesleyan church, and exercises those powers granted to the local church by the Constitution ([¶315](/part-1/ch4-constitution.md#p315)), and other powers specifically granted to the local church conference by the General Conference as set forth in *The Discipline* ([¶302](/part-1/ch4-constitution.md#p302); [¶500](/part-2/ch1-organization.md#p500); [¶555](/part-2/ch2-membership.md#p555)).
 
 ## B. Sessions
 
 ## ¶630 Regular Sessions. {#p630}
- The local church conference shall meet annually within thirty days of the end of the district year ([¶1180:17](#p1180-17)). It shall be announced from the pulpit at least two weeks in advance ([¶625](#p625)). Reports shall be made; the officers and local board of administration shall be elected ([¶815](#p815); [¶823](#p823); [¶965](#p965); [¶1103](#p1103)); and such other business shall be transacted as necessary ([¶650](#p650)).
+ The local church conference shall meet annually within thirty days of the end of the district year ([¶1180:17](/part-3/ch2-conference.md#p1180-17)). It shall be announced from the pulpit at least two weeks in advance ([¶625](#p625)). Reports shall be made; the officers and local board of administration shall be elected ([¶815](#p815); [¶823](#p823); [¶965](#p965); [¶1103](/part-3/ch2-conference.md#p1103)); and such other business shall be transacted as necessary ([¶650](#p650)).
 
 ## ¶633 Special Session. {#p633}
 
 ## ¶633.1 General Business. {#p633-1}
- The local church conference may be called into special session by the pastor, or in times of emergency by the district superintendent, for the transaction of any business, with announcement from the pulpit in two regular services, the first of which shall be given not less than one week before the appointed time. The requirements for special sessions dealing with legal or property matters are set forth in [¶4040](#p4040) and [¶4700](#p4700).
+ The local church conference may be called into special session by the pastor, or in times of emergency by the district superintendent, for the transaction of any business, with announcement from the pulpit in two regular services, the first of which shall be given not less than one week before the appointed time. The requirements for special sessions dealing with legal or property matters are set forth in [¶4040](/part-7/ch1-local-church-corporations.md#p4040) and [¶4700](/part-8/ch2-local-church-property.md#p4700).
 
 ## ¶633.2 Pastoral Vote. {#p633-2}
- The vice-chair of the local board of administration ([¶635](#p635); [¶773](#p773)), when authorized to do so by the local board of administration, and having notified the district superintendent, may call a special session of the local church conference to conduct a pastoral vote, with announcement at least two weeks in advance of the appointed time. During negotiations for calling a new pastor, the announcement need be made only from the pulpit and in only one regular service in advance of the appointed time.
+ The vice-chair of the local board of administration ([¶635](#p635); [¶773](/part-2/ch5-local-board.md#p773)), when authorized to do so by the local board of administration, and having notified the district superintendent, may call a special session of the local church conference to conduct a pastoral vote, with announcement at least two weeks in advance of the appointed time. During negotiations for calling a new pastor, the announcement need be made only from the pulpit and in only one regular service in advance of the appointed time.
 
 ## C. Organization and Procedure
 
@@ -24,7 +24,7 @@
 
 ## ¶635 Chair. {#p635}
  The pastor shall preside over the local church conference except over sessions dealing with the securing or retaining of a pastor. The
-vice-chair of the local board of administration ([¶773](#p773)) shall preside over sessions dealing with the securing or retaining of a pastor, if the district superintendent, or a representative appointed by the district superintendent, is not present. The vice-chair may also preside, at the request of the pastor, over other sessions of the local church conference. In emergencies, when the pastor is absent or incapacitated, the vice-chair may preside over other sessions with the permission of the district superintendent.
+vice-chair of the local board of administration ([¶773](/part-2/ch5-local-board.md#p773)) shall preside over sessions dealing with the securing or retaining of a pastor, if the district superintendent, or a representative appointed by the district superintendent, is not present. The vice-chair may also preside, at the request of the pastor, over other sessions of the local church conference. In emergencies, when the pastor is absent or incapacitated, the vice-chair may preside over other sessions with the permission of the district superintendent.
 
 ## ¶638 Secretary. {#p638}
  The local church secretary, elected annually by the local church conference, shall serve as secretary of the local church conference by virtue of this office ([¶830:1](#p830-1)).

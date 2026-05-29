@@ -3,7 +3,7 @@
 ## A. Name and Function
 
 ## ¶1600 {#p1600}
- The General Board referred to in the Constitution shall in practice be referred to under the title “General Board.” The General Board carries out the will of the General Conference, promotes the interests of The Wesleyan Church, and serves as its chief governing body in the interim of General Conference sessions ([¶340](#p340)).
+ The General Board referred to in the Constitution shall in practice be referred to under the title “General Board.” The General Board carries out the will of the General Conference, promotes the interests of The Wesleyan Church, and serves as its chief governing body in the interim of General Conference sessions ([¶340](/part-1/ch4-constitution.md#p340)).
 
 ## B. Voting Membership
 
@@ -14,7 +14,7 @@
  The General Superintendent is a member of the General Board by virtue of office.
 
 ## ¶1605.2 Area Representatives. {#p1605-2}
- Three ordained ministers and three lay members shall be elected by the General Conference from each representative area to serve as members of the General Board ([¶340:1](#p340-1); [¶1590:17](#p1590-17); [¶2430-2445](#p2430-2445)). In order to accomplish broad representation when electing area representatives to the General Board, it is recommended that no more than two persons be elected from any one district. They shall serve from the close of the session at which they are elected until the close of the succeeding General Conference and until their successors are elected and qualified. Whenever an area representative shall transfer residence or membership outside the area represented, the General Board shall declare the office vacant and shall fill the vacancy in such a manner as to maintain the representation provided for herewith. An area representative who is not a voting member of the General Conference by some other right is a voting member of the General Conference by virtue of membership on the General Board (1503:1c).
+ Three ordained ministers and three lay members shall be elected by the General Conference from each representative area to serve as members of the General Board ([¶340:1](/part-1/ch4-constitution.md#p340-1); [¶1590:17](/part-4/ch1-general-conference.md#p1590-17); [¶2430-2445](#p2430-2445)). In order to accomplish broad representation when electing area representatives to the General Board, it is recommended that no more than two persons be elected from any one district. They shall serve from the close of the session at which they are elected until the close of the succeeding General Conference and until their successors are elected and qualified. Whenever an area representative shall transfer residence or membership outside the area represented, the General Board shall declare the office vacant and shall fill the vacancy in such a manner as to maintain the representation provided for herewith. An area representative who is not a voting member of the General Conference by some other right is a voting member of the General Conference by virtue of membership on the General Board (1503:1c).
 
 ## C. Nonvoting Participants
 
@@ -60,7 +60,7 @@ semiannually at a time and place it shall designate or as fixed in its bylaws. T
  A majority of all the members of the General Board shall constitute a quorum.
 
 ## ¶1645 Voting. {#p1645}
- A majority vote of those present and voting shall be sufficient except for those matters for which a larger majority is required by *The Discipline* ([¶1530](#p1530); [¶1532](#p1532); [¶1655:6](#p1655-6), [¶11](#p1655-11), [¶16](#p1655-16), [¶18](#p1655-18), [¶21](#p1655-21), [¶23](#p1655-23), 40a; [¶4300](#p4300); *Gen. Bd. Policy on Ch. Disc.* [¶5279](#p5279); [¶5365](#p5365)), by legal or corporate requirements, or by the policies and regulations of the General Board.
+ A majority vote of those present and voting shall be sufficient except for those matters for which a larger majority is required by *The Discipline* ([¶1530](/part-4/ch1-general-conference.md#p1530); [¶1532](/part-4/ch1-general-conference.md#p1532); [¶1655:6](#p1655-6), [¶11](#p1655-11), [¶16](#p1655-16), [¶18](#p1655-18), [¶21](#p1655-21), [¶23](#p1655-23), 40a; [¶4300](/part-7/ch4-subsidiary-corporations.md#p4300); *Gen. Bd. Policy on Ch. Disc.* [¶5279](#p5279); [¶5365](#p5365)), by legal or corporate requirements, or by the policies and regulations of the General Board.
 
 ## ¶1650 Bylaws. {#p1650}
  The General Board shall adopt its own bylaws and perfect all plans necessary for the performance of its own duties, in harmony with *The Discipline* and the instructions of the General Conference.
@@ -261,7 +261,7 @@ the call of the chair.
  The chair and vice-chair of the General Board shall serve as chair and vice-chair, respectively, of the Executive Board. 
 
 ## ¶1770 Secretary. {#p1770}
- The Executive Director of Communication and Administration of The Wesleyan Church ([¶2110](#p2110); [¶4220](#p4220)) shall serve as secretary of the Executive Board by virtue of office but shall not be a member nor have the right to vote.
+ The Executive Director of Communication and Administration of The Wesleyan Church ([¶2110](/part-4/ch5-communication-admin.md#p2110); [¶4220](/part-7/ch3-twc-corporation.md#p4220)) shall serve as secretary of the Executive Board by virtue of office but shall not be a member nor have the right to vote.
 
 ## ¶1775 Quorum. {#p1775}
  A majority of all members of the Executive Board shall constitute a quorum.

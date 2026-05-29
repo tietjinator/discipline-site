@@ -8,7 +8,7 @@
 ## B. Membership
 
 ## ¶1203 Composition. {#p1203}
- The district board of administration is composed of the district superintendent, the assistant district superintendent(s) ([¶1320](#p1320)), the district secretary, the district treasurer, and members-at-large:
+ The district board of administration is composed of the district superintendent, the assistant district superintendent(s) ([¶1320](/part-3/ch5-administration.md#p1320)), the district secretary, the district treasurer, and members-at-large:
 
 ### ¶1203:1 {#p1203-1}
 The district conference shall elect at least seven members-at-large to the district board of administration, making a total of not fewer than ten members elected so that at least four are lay members (1203:2).
@@ -17,7 +17,7 @@ The district conference shall elect at least seven members-at-large to the distr
 Whenever a district conference chooses to elect more than the minimum number of members-at-large to its district board of administration, due regard shall be given to elect a proportionate number of lay members.
 
 ## ¶1206 Regulations for a Member-at-Large. {#p1206}
- Each member-at-large of a district board of administration shall be a member who meets the leadership qualifications ([¶260-268](#p260-268); [¶558](#p558)) of a local Wesleyan church within the district of service, both at the time of election and throughout the tenure of membership. A ministerial member-at-large shall be chosen from among the ordained ministers of the district. The term of office shall be for one, two, or three years ([¶1282](#p1282)), and the member-at-large shall serve until a successor is elected and qualified. Regulations governing the amenability of a member-at-large of the district board of administration and the declaring and filling of a vacancy in such office are the same as those for district officials set forth in [¶1265](#p1265) and [¶1272](#p1272) (1233:24a).
+ Each member-at-large of a district board of administration shall be a member who meets the leadership qualifications ([¶260-268](#p260-268); [¶558](/part-2/ch2-membership.md#p558)) of a local Wesleyan church within the district of service, both at the time of election and throughout the tenure of membership. A ministerial member-at-large shall be chosen from among the ordained ministers of the district. The term of office shall be for one, two, or three years ([¶1282](/part-3/ch4-officers.md#p1282)), and the member-at-large shall serve until a successor is elected and qualified. Regulations governing the amenability of a member-at-large of the district board of administration and the declaring and filling of a vacancy in such office are the same as those for district officials set forth in [¶1265](/part-3/ch4-officers.md#p1265) and [¶1272](/part-3/ch4-officers.md#p1272) (1233:24a).
 
 ## C. Sessions
 
@@ -40,7 +40,7 @@ Make plans for the year and to care for any other business as deemed necessary.
  The district board of administration shall meet at such time and place as it shall determine, provided that it shall meet at least once each quarter.
 
 ## ¶1215 Special Sessions. {#p1215}
- The district board of administration may authorize special sessions as it deems necessary, or it may be called into special session by the district superintendent or in the event of an emergency, when the district superintendent is unable to act, by the assistant district superintendent ([¶1320](#p1320); [¶1323:2](#p1323-2)), or the General Superintendent, or the General Superintendent’s representative. A special session shall also be called when requested by the General Board or the General Superintendent. All members shall be notified at least one week in advance of a special session, except when all are able to meet on shorter notice.
+ The district board of administration may authorize special sessions as it deems necessary, or it may be called into special session by the district superintendent or in the event of an emergency, when the district superintendent is unable to act, by the assistant district superintendent ([¶1320](/part-3/ch5-administration.md#p1320); [¶1323:2](/part-3/ch5-administration.md#p1323-2)), or the General Superintendent, or the General Superintendent’s representative. A special session shall also be called when requested by the General Board or the General Superintendent. All members shall be notified at least one week in advance of a special session, except when all are able to meet on shorter notice.
 
 ## ¶1218 Evaluation Sessions. {#p1218}
  The General Superintendent shall, with the district board of administration, evaluate periodically the service of and financial provision for the district superintendent. The method and extent of such evaluation shall be determined by the General Superintendent with special attention focused on those responsibilities that are most likely to contribute to future outreach and growth to the glory of God.
@@ -48,7 +48,7 @@ Make plans for the year and to care for any other business as deemed necessary.
 ## D. Organization and Procedures
 
 ## ¶1221 Chair. {#p1221}
- The district superintendent shall preside as chair over the district board of administration. The designated assistant district superintendent, shall preside in the absence of the district superintendent or when requested to do so by the district superintendent ([¶1320](#p1320)). If neither is present, the board shall elect from among its members a chair pro tem.
+ The district superintendent shall preside as chair over the district board of administration. The designated assistant district superintendent, shall preside in the absence of the district superintendent or when requested to do so by the district superintendent ([¶1320](/part-3/ch5-administration.md#p1320)). If neither is present, the board shall elect from among its members a chair pro tem.
 
 ## ¶1224 Secretary. {#p1224}
  The district secretary is the secretary of the district board of administration by virtue of this office.
@@ -204,7 +204,7 @@ To appoint the desired number of ordained ministers as a council of ordination (
 ## F. The Listing of District Conference Relations and Appointments
 
 ## ¶1240 {#p1240}
- The ordained ministers, commissioned ministers, licensed ministers, ministerial students, commissioned special workers, licensed special workers, commissioned lay missionaries, and supply pastors of the district shall be listed in the following order as appointed by the district conference ([¶1180:24](#p1180-24); [¶1233:10](#p1233-10)). This listing shall be included in the district conference journal ([¶1178](#p1178)) as an official district directory and shall be used for that portion of the district conference roll call.
+ The ordained ministers, commissioned ministers, licensed ministers, ministerial students, commissioned special workers, licensed special workers, commissioned lay missionaries, and supply pastors of the district shall be listed in the following order as appointed by the district conference ([¶1180:24](/part-3/ch2-conference.md#p1180-24); [¶1233:10](#p1233-10)). This listing shall be included in the district conference journal ([¶1178](/part-3/ch2-conference.md#p1178)) as an official district directory and shall be used for that portion of the district conference roll call.
 
 ### 1. Ordained Ministers
 
@@ -212,7 +212,7 @@ A. APPOINTED ORDAINED MINISTERS ([¶3250-3390](#p3250-3390)). ]
 
 ## ¶1240.1 District Service. {#p1240-1}
 
-The district superintendent and other ordained ministers in full-time service of the district in a ministerial capacity ([¶3320](#p3320); [¶1327](#p1327); [¶1460](#p1460)).
+The district superintendent and other ordained ministers in full-time service of the district in a ministerial capacity ([¶3320](/part-6/ch3-ministerial-appointments.md#p3320); [¶1327](/part-3/ch5-administration.md#p1327); [¶1460](/part-3/ch8-education.md#p1460)).
 
 ### ¶1240:2 Pastoral and Local Service. {#p1240-2}
 
@@ -222,7 +222,7 @@ Ordained ministers appointed as pastors, assistant pastors, or interim pastors w
 #### ¶1240:2b {#p1240-2b}
 Ordained ministers on loan to other districts of The Wesleyan Church for service as supply pastors (3100:2; 3260:1).
 
-**c.** Ordained ministers appointed to serve in a local church spiritual formation or Christian education program ([¶3310:2](#p3310-2)).
+**c.** Ordained ministers appointed to serve in a local church spiritual formation or Christian education program ([¶3310:2](/part-6/ch3-ministerial-appointments.md#p3310-2)).
 
 ### ¶1240:3 Evangelistic Service. {#p1240-3}
 
@@ -253,33 +253,33 @@ Ordained ministers employed to serve in a ministerial capacity on the administra
 Ordained ministers traveling and teaching in local churches and districts without a specific or pastoral assignment as itinerant Bible teachers (3310:3).
 
 ### ¶1240:5 Chaplains {#p1240-5}
- ([¶3330](#p3330)).
+ ([¶3330](/part-6/ch3-ministerial-appointments.md#p3330)).
 Ordained ministers approved by the Committee on Chaplains and commissioned by the government as military chaplains, or employed as full-time professional institutional chaplains.
 
 ### ¶1240:6 Interchurch Service {#p1240-6}
- ([¶3335](#p3335)).
+ ([¶3335](/part-6/ch3-ministerial-appointments.md#p3335)).
 Ordained ministers employed in a ministerial capacity in interchurch service, serving with an educational, evangelistic, or missionary organization not directly related to The Wesleyan Church, provided such service is approved by the district conference.
 
 ### ¶1240:7 Special Service {#p1240-7}
- ([¶3345](#p3345)).
+ ([¶3345](/part-6/ch3-ministerial-appointments.md#p3345)).
 Ordained ministers serving in active ministry not otherwise provided for, if such service is approved by the district conference.
 
 ### ¶1240:8 Affiliate Church Pastor {#p1240-8}
- ([¶3346](#p3346); [¶7010](#p7010)).
+ ([¶3346](/part-6/ch3-ministerial-appointments.md#p3346); [¶7010](#p7010)).
 Ordained ministers appointed by the district conference to service on staff of an affiliate church.
-B. RETIRED ORDAINED MINISTERS ([¶3370](#p3370)) ]
+B. RETIRED ORDAINED MINISTERS ([¶3370](/part-6/ch3-ministerial-appointments.md#p3370)) ]
 
 Ordained ministers retired because of age or incapacitated by infirmity, provided they were either on the appointed list, on reserve, or on educational leave at the time of such incapacitation or retirement.
 
-C. RESERVE ORDAINED MINISTERS ([¶3360](#p3360)) ]
+C. RESERVE ORDAINED MINISTERS ([¶3360](/part-6/ch3-ministerial-appointments.md#p3360)) ]
 
 Ordained ministers available for but without appointment. An ordained minister who remains on reserve for two consecutive years shall be automatically transferred to the list of ordained ministers without appointment unless continued on reserve by vote of the district conference.
 
-D. ORDAINED MINISTERS ON EDUCATIONAL LEAVE ([¶3350:1](#p3350-1)) ]
+D. ORDAINED MINISTERS ON EDUCATIONAL LEAVE ([¶3350:1](/part-6/ch3-ministerial-appointments.md#p3350-1)) ]
 
 Ordained ministers enrolled in a seminary or other graduate school for advanced training for church service.
 
-E. ORDAINED MINISTERS WITHOUT APPOINTMENT ([¶3380](#p3380)) ]
+E. ORDAINED MINISTERS WITHOUT APPOINTMENT ([¶3380](/part-6/ch3-ministerial-appointments.md#p3380)) ]
 
 ### ¶E1 {#pE1}
 Ordained ministers not available for appointment.
@@ -300,21 +300,21 @@ The receiving district shall list the ordained minister under the appropriate ca
 ### ¶F.2 {#pF-2}
 The sending district shall list the ordained minister as having “Applied for District Transfer.” The ordained minister shall be a voting member of the sending district until completion of the district transfer (3100:1; 1083:5).
 
-G. ORDAINED MINISTERS IN PROCESS OF DENOMINATIONAL TRANSFER ([¶3104](#p3104); [¶3390](#p3390)) ]
+G. ORDAINED MINISTERS IN PROCESS OF DENOMINATIONAL TRANSFER ([¶3104](/part-6/ch1-ministerial-orders.md#p3104); [¶3390](/part-6/ch3-ministerial-appointments.md#p3390)) ]
 
-Ordained ministers from another denomination who have been granted recognition as ordained ministers in process of transfer (1180:29a; cf. [¶1390:3](#p1390-3); [¶3104](#p3104)).
+Ordained ministers from another denomination who have been granted recognition as ordained ministers in process of transfer (1180:29a; cf. [¶1390:3](/part-3/ch6-ministerial.md#p1390-3); [¶3104](/part-6/ch1-ministerial-orders.md#p3104)).
 
 ### 2. Commissioned Ministers
 
-A. PASTORS ([¶3255](#p3255)) ]
+A. PASTORS ([¶3255](/part-6/ch3-ministerial-appointments.md#p3255)) ]
 
-Commissioned ministers appointed as pastors or as full-time assistant pastors of Wesleyan churches in that district ([¶317](#p317); [¶1083:3](#p1083-3)).
+Commissioned ministers appointed as pastors or as full-time assistant pastors of Wesleyan churches in that district ([¶317](/part-1/ch4-constitution.md#p317); [¶1083:3](/part-3/ch2-conference.md#p1083-3)).
 
 B. OTHER APPOINTMENTS. ]
 
-Commissioned ministers appointed to service in a local church spiritual formation or Christian education program ([¶3310:2](#p3310-2)) or in a ministerial capacity to district, denominational, or interchurch service ([¶3250](#p3250); [¶3300](#p3300); [¶3320](#p3320); [¶3335](#p3335)); itinerant Bible teachers ([¶3310:3](#p3310-3)).
+Commissioned ministers appointed to service in a local church spiritual formation or Christian education program ([¶3310:2](/part-6/ch3-ministerial-appointments.md#p3310-2)) or in a ministerial capacity to district, denominational, or interchurch service ([¶3250](/part-6/ch3-ministerial-appointments.md#p3250); [¶3300](/part-6/ch3-ministerial-appointments.md#p3300); [¶3320](/part-6/ch3-ministerial-appointments.md#p3320); [¶3335](/part-6/ch3-ministerial-appointments.md#p3335)); itinerant Bible teachers ([¶3310:3](/part-6/ch3-ministerial-appointments.md#p3310-3)).
 
-C. COMMISSIONED MINISTERS WITHOUT APPOINTMENT ([¶3380](#p3380)). ]
+C. COMMISSIONED MINISTERS WITHOUT APPOINTMENT ([¶3380](/part-6/ch3-ministerial-appointments.md#p3380)). ]
 
 ### ¶1240.2.C.1 {#p1240-2-C-1}
 Commissioned ministers not available for appointment.
@@ -326,25 +326,25 @@ D. COMMISSIONED MINISTERS IN PROCESS OF DISTRICT TRANSFER. ]
 
 Commissioned ministers receiving appointment by the district conference to 1240:2:A or B but whose processes of transfer from another district of The Wesleyan Church are not yet completed.
 
-**1.** The receiving district shall list the commissioned minister under the appropriate category of service, followed by the notation, “Pending Completion of District Transfer.” The commissioned minister shall be a nonvoting member of this district until completion of the transfer ([¶3100:1](#p3100-1)).
-**2.** The sending district shall list the commissioned minister as having “Applied for District Transfer.” The commissioned minister shall remain a nonvoting member of the sending district until completion of the transfer ([¶1083:3](#p1083-3)).
+**1.** The receiving district shall list the commissioned minister under the appropriate category of service, followed by the notation, “Pending Completion of District Transfer.” The commissioned minister shall be a nonvoting member of this district until completion of the transfer ([¶3100:1](/part-6/ch1-ministerial-orders.md#p3100-1)).
+**2.** The sending district shall list the commissioned minister as having “Applied for District Transfer.” The commissioned minister shall remain a nonvoting member of the sending district until completion of the transfer ([¶1083:3](/part-3/ch2-conference.md#p1083-3)).
 E. COMMISSIONED MINISTERS IN PROCESS OF DENOMINATIONAL TRANSFER. ]
 
-Commissioned ministers or their equivalent from other denominations who have been granted recognition as commissioned ministers in process of transfer ([¶3104](#p3104)).
+Commissioned ministers or their equivalent from other denominations who have been granted recognition as commissioned ministers in process of transfer ([¶3104](/part-6/ch1-ministerial-orders.md#p3104)).
 
-F. RETIRED COMMISSIONED MINISTERS ([¶3371](#p3371)) ]
+F. RETIRED COMMISSIONED MINISTERS ([¶3371](/part-6/ch3-ministerial-appointments.md#p3371)) ]
 
 Commissioned ministers retired because of age or incapacitated by infirmity, provided they were either on the appointed list, on reserve, or on educational leave at the time of such incapacitation or retirement.
 
 ### 3. Licensed Ministers
 
-A. PASTORS ([¶3255](#p3255)). ]
+A. PASTORS ([¶3255](/part-6/ch3-ministerial-appointments.md#p3255)). ]
 
-Licensed ministers appointed as pastors, associate pastors or assistant pastors of Wesleyan churches in that district ([¶317](#p317); [¶1083:3](#p1083-3)).
+Licensed ministers appointed as pastors, associate pastors or assistant pastors of Wesleyan churches in that district ([¶317](/part-1/ch4-constitution.md#p317); [¶1083:3](/part-3/ch2-conference.md#p1083-3)).
 
 B. OTHER APPOINTMENTS. ]
 
-Licensed ministers appointed to service in a local church spiritual formation or Christian education program ([¶3310:2](#p3310-2)) or in a ministerial capacity to district, denominational, or interchurch service ([¶3250](#p3250); [¶3300](#p3300); [¶3320](#p3320); [¶3335](#p3335)); itinerant Bible teachers ([¶3310:3](#p3310-3)).
+Licensed ministers appointed to service in a local church spiritual formation or Christian education program ([¶3310:2](/part-6/ch3-ministerial-appointments.md#p3310-2)) or in a ministerial capacity to district, denominational, or interchurch service ([¶3250](/part-6/ch3-ministerial-appointments.md#p3250); [¶3300](/part-6/ch3-ministerial-appointments.md#p3300); [¶3320](/part-6/ch3-ministerial-appointments.md#p3320); [¶3335](/part-6/ch3-ministerial-appointments.md#p3335)); itinerant Bible teachers ([¶3310:3](/part-6/ch3-ministerial-appointments.md#p3310-3)).
 
 C. IN PROCESS OF DISTRICT TRANSFER. ]
 
@@ -358,31 +358,31 @@ The sending district shall list the licensed minister as “Applied for District
 
 D. IN PROCESS OF DENOMINATIONAL TRANSFER. ]
 
-Licensed ministers or their equivalent from other denominations who have been granted recognition as licensed ministers in process of transfer ([¶3104](#p3104)).
+Licensed ministers or their equivalent from other denominations who have been granted recognition as licensed ministers in process of transfer ([¶3104](/part-6/ch1-ministerial-orders.md#p3104)).
 
 ### 4. Ministerial Students
 
-Those approved by the district conference to be licensed as ministerial students as set forth in [¶3015:1](#p3015-1).
+Those approved by the district conference to be licensed as ministerial students as set forth in [¶3015:1](/part-6/ch1-ministerial-orders.md#p3015-1).
 
 ### 5. Lay Workers
 
-A. COMMISSIONED SPECIAL WORKERS ([¶3450](#p3450); [¶3470](#p3470)) ]
+A. COMMISSIONED SPECIAL WORKERS ([¶3450](/part-6/ch4-special-lay-ministries.md#p3450); [¶3470](/part-6/ch4-special-lay-ministries.md#p3470)) ]
 
 List by specific category such as director of music, director of spiritual formation or Christian education, youth director, song evangelist, children’s worker, lay evangelist, social worker, or spouse in ministry.
 
-B. COMMISSIONED SPECIAL WORKERS IN PROCESS OF TRANSFER ([¶3450](#p3450); [¶3470](#p3470)) ]
+B. COMMISSIONED SPECIAL WORKERS IN PROCESS OF TRANSFER ([¶3450](/part-6/ch4-special-lay-ministries.md#p3450); [¶3470](/part-6/ch4-special-lay-ministries.md#p3470)) ]
 
 List by specific category (refer to 1240:5:A).
 
-C. LICENSED SPECIAL WORKERS ([¶3450](#p3450); [¶3460](#p3460)) ]
+C. LICENSED SPECIAL WORKERS ([¶3450](/part-6/ch4-special-lay-ministries.md#p3450); [¶3460](/part-6/ch4-special-lay-ministries.md#p3460)) ]
 
 List by specific category (refer to 1240:5:A).
 
-D. COMMISSIONED LAY MISSIONARIES ([¶3490](#p3490)) ]
-E. SUPPLY PASTORS ([¶3260](#p3260)). ]
+D. COMMISSIONED LAY MISSIONARIES ([¶3490](/part-6/ch4-special-lay-ministries.md#p3490)) ]
+E. SUPPLY PASTORS ([¶3260](/part-6/ch3-ministerial-appointments.md#p3260)). ]
 
 ## G. Executive Committee
 
 ## ¶1245 {#p1245}
  A district board of administration may establish an executive
-committee consisting of the executive officers of the district board of administration ([¶1255](#p1255)). Additional members may be elected upon the recommendation of the district superintendent. The executive committee may act for the district board of administration as that board shall authorize.
+committee consisting of the executive officers of the district board of administration ([¶1255](/part-3/ch4-officers.md#p1255)). Additional members may be elected upon the recommendation of the district superintendent. The executive committee may act for the district board of administration as that board shall authorize.

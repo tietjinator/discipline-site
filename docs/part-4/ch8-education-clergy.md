@@ -7,7 +7,7 @@
  It is the division’s purpose to pursue this vision through serving the Church by coordinating the implementation of The Wesleyan Church’s objectives for Christian education as they relate to the training of Christian ministers, missionaries, and educators on the study course, college, and seminary levels, the development of youth in higher education for various fields of service, and continuing education and career development for the ministers of The Wesleyan Church; by assisting in identifying and clarifying God’s call to ministry; by providing the programs and resources for the training, credentialing, and continuing development of ministers; and by establishing the standards for credentialed ministry and tracking progress made toward meeting certification.
 
 ## ¶2340 {#p2340}
- The Executive Director of the Education and Clergy Development Division is elected by the General Conference from among the ordained ministers of The Wesleyan Church as a general official, is an ex officio member of the General Conference (1503:1c) and the Executive Cabinet ([¶1990](#p1990)), and is a member and the executive secretary of both the Committee on Chaplains (2395) and the Wesleyan Educational Council ([¶2355](#p2355)). The Executive Director of Education and Clergy Development is amenable to the General Board, serves as a nonvoting resource person to the board, and is under the supervision of the General Superintendent. The Executive Director of Education and Clergy Development shall exercise leadership in this division in keeping with *The Discipline*, the *General Board Policy for the Education and Clergy Development Division*, and other directives as may be given by the General Conference, the General Board, or its Executive Board. The term of service and other regulations for this office are provided in [¶1810-1870](#p1810-1870).
+ The Executive Director of the Education and Clergy Development Division is elected by the General Conference from among the ordained ministers of The Wesleyan Church as a general official, is an ex officio member of the General Conference (1503:1c) and the Executive Cabinet ([¶1990](/part-4/ch4-general-administration.md#p1990)), and is a member and the executive secretary of both the Committee on Chaplains (2395) and the Wesleyan Educational Council ([¶2355](#p2355)). The Executive Director of Education and Clergy Development is amenable to the General Board, serves as a nonvoting resource person to the board, and is under the supervision of the General Superintendent. The Executive Director of Education and Clergy Development shall exercise leadership in this division in keeping with *The Discipline*, the *General Board Policy for the Education and Clergy Development Division*, and other directives as may be given by the General Conference, the General Board, or its Executive Board. The term of service and other regulations for this office are provided in [¶1810-1870](#p1810-1870).
 
 ## ¶2341 {#p2341}
  The Education and Clergy Development Division and its executive director, shall:
@@ -95,7 +95,7 @@ In establishing its educational institutions, and in guiding their life and work
 b. Lines of Authority ]
 
 ## ¶2362 {#p2362}
- Ultimate authority over the educational institutions of The Wesleyan Church rests with the General Conference ([¶1590:13](#p1590-13)). In practice this authority is delegated to the General Board and consists of the following:
+ Ultimate authority over the educational institutions of The Wesleyan Church rests with the General Conference ([¶1590:13](/part-4/ch1-general-conference.md#p1590-13)). In practice this authority is delegated to the General Board and consists of the following:
 
 ### ¶2362:1 {#p2362-1}
 Authority, by two-thirds vote, to establish, merge or dissolve an educational institution, or to enter into a cooperative agreement with other persons/groups of like theological and behavioral commitment in the ownership and operation of an educational institution.
@@ -141,7 +141,7 @@ Southern Wesleyan University, Central, South Carolina.
 ### 3. Educational Areas
 
 ## ¶2371 {#p2371}
- The established districts, provisional districts, and developing districts of The Wesleyan Church in the United States and Canada shall be divided into four educational areas ([¶1590:14](#p1590-14)), corresponding in general with the four representative areas of the Church, and in general with the regional accreditation associations serving the area in which the schools are located. The boundaries of the educational areas are given in [¶2455–2470](#p2455–2470).
+ The established districts, provisional districts, and developing districts of The Wesleyan Church in the United States and Canada shall be divided into four educational areas ([¶1590:14](/part-4/ch1-general-conference.md#p1590-14)), corresponding in general with the four representative areas of the Church, and in general with the regional accreditation associations serving the area in which the schools are located. The boundaries of the educational areas are given in [¶2455–2470](#p2455–2470).
 
 ## ¶2374 {#p2374}
  Each general educational institution shall be considered as serving all the districts of the area or areas to which it is assigned.

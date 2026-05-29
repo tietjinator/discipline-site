@@ -3,7 +3,7 @@
 ## A. Authorization of Subsidiary Corporations
 
 ## ¶4300 {#p4300}
- The General Conference may authorize the incorporation of any agency, institution (for matters relative to a educational institution, [¶2362](#p2362)), board, organization, or similar body as a subsidiary corporation of The Wesleyan Church, and shall approve the articles of incorporation and bylaws and any amendments thereto ([¶1590:6](#p1590-6)). The General Board shall carry out the directions of the General Conference regarding such subsidiary corporations, assign each one to the supervision of the General Superintendent; and, in the interim of General Conference sessions, may authorize such an incorporation by a two-thirds majority vote of all its members, and may approve the articles of incorporation and bylaws and any amendments thereto for any subsidiary corporation except as otherwise restricted by the General Conference ([¶1655:18](#p1655-18)).
+ The General Conference may authorize the incorporation of any agency, institution (for matters relative to a educational institution, [¶2362](/part-4/ch8-education-clergy.md#p2362)), board, organization, or similar body as a subsidiary corporation of The Wesleyan Church, and shall approve the articles of incorporation and bylaws and any amendments thereto ([¶1590:6](/part-4/ch1-general-conference.md#p1590-6)). The General Board shall carry out the directions of the General Conference regarding such subsidiary corporations, assign each one to the supervision of the General Superintendent; and, in the interim of General Conference sessions, may authorize such an incorporation by a two-thirds majority vote of all its members, and may approve the articles of incorporation and bylaws and any amendments thereto for any subsidiary corporation except as otherwise restricted by the General Conference ([¶1655:18](/part-4/ch2-general-board.md#p1655-18)).
 
 ## B. Subsidiary Corporations
 
@@ -43,7 +43,7 @@ Other corporate units may be designated as subsidiary corporations by the Genera
 ## C. Basic Provisions of Subsidiary Corporations
 
 ## ¶4320 {#p4320}
- The articles of incorporation or charter for the incorporation of any agency, institution (other than a district, [¶1000–1405](#p1000–1405)), or a educational institution ([¶2362](#p2362)), board, organization, or similar body as a subsidiary corporation ([¶4300](#p4300); [¶4310:6](#p4310-6)), now established or hereafter created, and its bylaws, shall be in accord with the following basic provisions, provided that whenever such basic provisions shall conflict with the local laws under which the incorporation is effected, such provisions shall be modified to the extent required by local laws ([¶4510](#p4510)):
+ The articles of incorporation or charter for the incorporation of any agency, institution (other than a district, [¶1000–1405](#p1000–1405)), or a educational institution ([¶2362](/part-4/ch8-education-clergy.md#p2362)), board, organization, or similar body as a subsidiary corporation ([¶4300](#p4300); [¶4310:6](#p4310-6)), now established or hereafter created, and its bylaws, shall be in accord with the following basic provisions, provided that whenever such basic provisions shall conflict with the local laws under which the incorporation is effected, such provisions shall be modified to the extent required by local laws ([¶4510](/part-9/ch1-general-regulations.md#p4510)):
 
 ### ¶4320:1 {#p4320-1}
 The purposes of the subsidiary corporation shall be in keeping with the religious, charitable, benevolent, and educational purposes of The Wesleyan Church and consistent with its doctrines and principles as stated in The Discipline (100–105; 200; 2105; 2259; 2306); and pecuniary profit shall not accrue to the members of the corporation.
@@ -89,7 +89,7 @@ Notwithstanding any provision of The Discipline to the contrary, Wesleyan Invest
 ## E. Basic Provisions of Affiliate Corporations
 
 ## ¶4350 {#p4350}
- The articles of incorporation or charter for the incorporation of any affiliate corporation hereafter created (other than by an educational institution, ([¶2362](#p2362); [¶4320](#p4320)), and its bylaws, shall be in accord with the following basic provisions, provided that, whenever such basic provisions shall conflict with the local laws under which the incorporation is effected, such provisions shall be modified to the extent required by local laws:
+ The articles of incorporation or charter for the incorporation of any affiliate corporation hereafter created (other than by an educational institution, ([¶2362](/part-4/ch8-education-clergy.md#p2362); [¶4320](#p4320)), and its bylaws, shall be in accord with the following basic provisions, provided that, whenever such basic provisions shall conflict with the local laws under which the incorporation is effected, such provisions shall be modified to the extent required by local laws:
 
 ### ¶4350:1 {#p4350-1}
 The principal purpose of an affiliate corporation shall be to augment one or more of the religious, charitable, benevolent, or educational purposes of the subsidiary corporation with which it is affiliated, and pecuniary profit shall not accrue to the members of the affiliate corporation.

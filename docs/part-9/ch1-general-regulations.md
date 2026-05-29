@@ -13,7 +13,7 @@
 ## C. Requirements
 
 ## ¶4520 {#p4520}
- A trustee must be a Wesleyan Church member who meets the leadership qualifications ([¶260–268](#p260–268); [¶558](#p558)). Whenever a trustee ceases to be a member with said qualifications for any reason, the office as trustee shall be declared vacant and a successor shall be elected for the unexpired term in the manner provided in *The Discipline*.
+ A trustee must be a Wesleyan Church member who meets the leadership qualifications ([¶260–268](#p260–268); [¶558](/part-2/ch2-membership.md#p558)). Whenever a trustee ceases to be a member with said qualifications for any reason, the office as trustee shall be declared vacant and a successor shall be elected for the unexpired term in the manner provided in *The Discipline*.
 
 ## ¶4530 {#p4530}
  All trustees shall administer their duties in accord with *The Discipline* as from time to time amended, as directed by the governing body to which they are amenable, and subject to local laws as set forth in [¶4510](#p4510). Whenever a trustee refuses to carry out properly given orders and instructions and submit to the authority to which amenable, the trustee may be removed from office and a successor shall be elected for the unexpired term as provided for in *The Discipline*.
@@ -32,7 +32,7 @@
 ## E. Terms
 
 ## ¶4570 {#p4570}
- *“The Discipline”* shall always refer to *The Discipline of The Wesleyan Church* as from time to time legislated and declared ([¶125–185](#p125–185); 1590:1–2; [¶2066](#p2066)).
+ *“The Discipline”* shall always refer to *The Discipline of The Wesleyan Church* as from time to time legislated and declared ([¶125–185](#p125–185); 1590:1–2; [¶2066](/part-4/ch4-general-administration.md#p2066)).
 
 ## ¶4580 {#p4580}
  “Local laws,” whenever used in *The Discipline*, shall be construed to mean laws, including regulations and case law, of the civil jurisdiction(s) applicable to the matter at hand. With respect to property matters, this would normally be the law of the jurisdiction within which the property is located, and with respect to any other legal matters, would normally be the law of the civil jurisdiction(s) within which the matters arise.
@@ -40,7 +40,7 @@
 ## F. Trust Clause and Release Therefrom
 
 ## ¶4590 {#p4590}
- All property, whether real, personal, or mixed, acquired by any local church, circuit, district, institution, agency, or other similar body of The Wesleyan Church, whether incorporated or unincorporated, shall be held in trust for The Wesleyan Church, incorporated as The Wesleyan Church Corporation under the laws of the state of Indiana, and shall contain the trust clause as set forth in [¶4610](#p4610) ([¶315:6](#p315-6); [¶323:8](#p323-8)). The absence of the trust clause in the evidence of the title or other written instruments, regardless of whether such absence is due to mistake, inadvertence, or willful omission, shall in no way exclude a local church, circuit, district, institution, agency, or similar body, whether incorporated or unincorporated, from or relieve it of its responsibility to The Wesleyan Church and subjection to the authority of said Church, and such property can only be sold, transferred, or otherwise disposed of in accord with the provisions of *The Discipline*, concerning the sale, transfer, or encumbrance of property.
+ All property, whether real, personal, or mixed, acquired by any local church, circuit, district, institution, agency, or other similar body of The Wesleyan Church, whether incorporated or unincorporated, shall be held in trust for The Wesleyan Church, incorporated as The Wesleyan Church Corporation under the laws of the state of Indiana, and shall contain the trust clause as set forth in [¶4610](#p4610) ([¶315:6](/part-1/ch4-constitution.md#p315-6); [¶323:8](/part-1/ch4-constitution.md#p323-8)). The absence of the trust clause in the evidence of the title or other written instruments, regardless of whether such absence is due to mistake, inadvertence, or willful omission, shall in no way exclude a local church, circuit, district, institution, agency, or similar body, whether incorporated or unincorporated, from or relieve it of its responsibility to The Wesleyan Church and subjection to the authority of said Church, and such property can only be sold, transferred, or otherwise disposed of in accord with the provisions of *The Discipline*, concerning the sale, transfer, or encumbrance of property.
 
 ### ¶4590:1 {#p4590-1}
 For property in developing districts see 542; 4650; 4800; 4920; 4200–4260; 4500–4630.
@@ -69,7 +69,7 @@ For property of a subsidiary corporation, board, or institution other than a edu
 In trust for the use and benefit of the ministry and members of The Wesleyan Church, incorporated under the laws of the state of Indiana as The Wesleyan Church Corporation, subject to *The Discipline*, regulations, and appointments of said Church as from time to time legislated and declared.
 
 ## ¶4620 {#p4620}
- Real property acquired by a conveyance containing the foregoing trust clause in [¶4610](#p4610) may be sold in conformity with the provisions of *The Discipline*, and when such provisions have been complied with, the real property so sold or conveyed shall be released from the foregoing trust clause, and the trustees enabled to give a good and sufficient deed ([¶4690:1](#p4690-1)).
+ Real property acquired by a conveyance containing the foregoing trust clause in [¶4610](#p4610) may be sold in conformity with the provisions of *The Discipline*, and when such provisions have been complied with, the real property so sold or conveyed shall be released from the foregoing trust clause, and the trustees enabled to give a good and sufficient deed ([¶4690:1](/part-8/ch2-local-church-property.md#p4690-1)).
 
 ## ¶4630 {#p4630}
- Real property acquired by a conveyance containing the foregoing trust clause in [¶4610](#p4610) may be mortgaged or otherwise encumbered in conformity with the provisions of *The Discipline*, and when such provisions have been complied with, the foregoing trust clause shall be subordinated to the mortgage lien ([¶4690:2](#p4690-2)).
+ Real property acquired by a conveyance containing the foregoing trust clause in [¶4610](#p4610) may be mortgaged or otherwise encumbered in conformity with the provisions of *The Discipline*, and when such provisions have been complied with, the foregoing trust clause shall be subordinated to the mortgage lien ([¶4690:2](/part-8/ch2-local-church-property.md#p4690-2)).

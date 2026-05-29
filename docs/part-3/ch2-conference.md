@@ -10,7 +10,7 @@
 ### 1. Plan of Representation
 
 ## ¶1080 {#p1080}
- The district conference, as required by the Constitution ([¶317](#p317)), shall be composed of an equal number of ministerial members and lay members as voting members, chosen in a way that maintains the principle of equal representation, and other non-voting members as listed herewith.
+ The district conference, as required by the Constitution ([¶317](/part-1/ch4-constitution.md#p317)), shall be composed of an equal number of ministerial members and lay members as voting members, chosen in a way that maintains the principle of equal representation, and other non-voting members as listed herewith.
 
 a. Voting Members ]
 
@@ -33,12 +33,12 @@ Ministerial members of the district board of administration who are not voting m
 Ordained ministers (including licensed ministers who are ordained ministers-elect) who have applied for transfer to another district but whose processes of transfer out of the district are yet incomplete.
 
 ## ¶1086 Laity. {#p1086}
- The lay members of the district conference with voting rights are those elected as delegates by the churches or circuits of that district ([¶315:7](#p315-7); [¶317](#p317); [¶1100–1109](#p1100–1109)) and the lay members of the district board of administration ([¶317](#p317)). The total number of lay members with voting rights shall be determined as set forth in [¶1100:1](#p1100-1) while maintaining the principle of equal representation of the ministry and the laity. Each established church or circuit is entitled to a minimum of one lay delegate as its constitutional right ([¶315:7](#p315-7); [¶503](#p503)), and, according to its number of members, to additional lay delegates allotted by the district board of administration (1100:1-5). A developing church which is judged to be qualified may be allotted one lay delegate ([¶510:5](#p510-5); [¶1100:2](#p1100-2); [¶1103](#p1103)).
+ The lay members of the district conference with voting rights are those elected as delegates by the churches or circuits of that district ([¶315:7](/part-1/ch4-constitution.md#p315-7); [¶317](/part-1/ch4-constitution.md#p317); [¶1100–1109](#p1100–1109)) and the lay members of the district board of administration ([¶317](/part-1/ch4-constitution.md#p317)). The total number of lay members with voting rights shall be determined as set forth in [¶1100:1](#p1100-1) while maintaining the principle of equal representation of the ministry and the laity. Each established church or circuit is entitled to a minimum of one lay delegate as its constitutional right ([¶315:7](/part-1/ch4-constitution.md#p315-7); [¶503](/part-2/ch1-organization.md#p503)), and, according to its number of members, to additional lay delegates allotted by the district board of administration (1100:1-5). A developing church which is judged to be qualified may be allotted one lay delegate ([¶510:5](/part-2/ch1-organization.md#p510-5); [¶1100:2](#p1100-2); [¶1103](#p1103)).
 
 b. Nonvoting Members ]
 
 ## ¶1090 {#p1090}
- The nonvoting members of the district conference, with a voice but without a vote, are ([¶317](#p317)):
+ The nonvoting members of the district conference, with a voice but without a vote, are ([¶317](/part-1/ch4-constitution.md#p317)):
 
 ### ¶1090:1 {#p1090-1}
 Ordained ministers without appointment (1240:1:E; 3380).
@@ -70,7 +70,7 @@ Ordained ministers, commissioned ministers, and licensed ministers whose process
 ### 2. Forfeiture of Representation
 
 ## ¶1095 {#p1095}
- A local church or circuit which is under discipline as provided for in the *General Board Policy on Church Discipline* shall forfeit all rights to representation by a lay delegate in the district conference ([¶315:7](#p315-7)).
+ A local church or circuit which is under discipline as provided for in the *General Board Policy on Church Discipline* shall forfeit all rights to representation by a lay delegate in the district conference ([¶315:7](/part-1/ch4-constitution.md#p315-7)).
 
 ### 3. The Election of Lay Delegates
 
@@ -93,18 +93,18 @@ The number of lay delegates yet required for the next district conference shall 
 The district shall promptly notify each pastor of the exact number of lay delegates allotted to that particular pastoral charge.
 
 ## ¶1103 Election. {#p1103}
- The lay delegates to the district conference shall be elected at any duly called session of the local church conference, by ballot, and by a majority vote of those members present and voting ([¶823](#p823); [¶965](#p965)). In the case of a developing church, election shall be by the local advisory council, subject to approval by the district superintendent ([¶510:3](#p510-3),[¶5](#p510-5)). A person accepting election as a delegate has an obligation to attend faithfully the entire district conference session, unless hindered by unforeseen and justifiable circumstances. The local church secretary shall promptly forward a certified list of the elected lay delegates to the district secretary.
+ The lay delegates to the district conference shall be elected at any duly called session of the local church conference, by ballot, and by a majority vote of those members present and voting ([¶823](#p823); [¶965](#p965)). In the case of a developing church, election shall be by the local advisory council, subject to approval by the district superintendent ([¶510:3](/part-2/ch1-organization.md#p510-3),[¶5](/part-2/ch1-organization.md#p510-5)). A person accepting election as a delegate has an obligation to attend faithfully the entire district conference session, unless hindered by unforeseen and justifiable circumstances. The local church secretary shall promptly forward a certified list of the elected lay delegates to the district secretary.
 
 ## ¶1106 Alternate Delegates. {#p1106}
  A sufficient number of alternate lay delegates having the same qualifications ([¶1109](#p1109)) shall be elected in the same manner and at the same session as the delegates ([¶1103](#p1103)), and shall fill any vacancies in the order of their election. Whenever an alternate delegate is required to serve, the pastor or local church secretary shall certify this appointment to the district secretary.
 
 ## ¶1109 Qualifications. {#p1109}
- A lay delegate must be a member who meets the leadership qualifications ([¶260-268](#p260-268); [¶558](#p558)) and in good standing of the pastoral charge represented, both at the time of election and at the time of the district conference. An ordained, commissioned, or licensed minister may not be elected or serve as a lay delegate.
+ A lay delegate must be a member who meets the leadership qualifications ([¶260-268](#p260-268); [¶558](/part-2/ch2-membership.md#p558)) and in good standing of the pastoral charge represented, both at the time of election and at the time of the district conference. An ordained, commissioned, or licensed minister may not be elected or serve as a lay delegate.
 
 ## C. Sessions
 
 ## ¶1112 Annual Session. {#p1112}
- The district conference shall meet annually at a place chosen by the district board of administration and at a time as decided upon by the General Superintendent in cooperation with the district board of administration ([¶1233:6](#p1233-6)). The district secretary shall notify in writing all ministerial voting members, pastoral charges, and nonvoting members of the time and the place at least sixty days before the scheduled opening. Whenever an emergency shall require a change in the plans adopted, the district board of administration may declare that such an emergency exists and authorize the necessary changes.
+ The district conference shall meet annually at a place chosen by the district board of administration and at a time as decided upon by the General Superintendent in cooperation with the district board of administration ([¶1233:6](/part-3/ch3-board.md#p1233-6)). The district secretary shall notify in writing all ministerial voting members, pastoral charges, and nonvoting members of the time and the place at least sixty days before the scheduled opening. Whenever an emergency shall require a change in the plans adopted, the district board of administration may declare that such an emergency exists and authorize the necessary changes.
 
 ## ¶1115 Reconvened Session. {#p1115}
  The district conference may be reconvened at any time during the year by a two-thirds majority vote of the district board of administration and the approval of the General Superintendent. A reconvened session shall also be ordered by the district board of administration when requested to do so by the General Board, its Executive Board, or the General Superintendent. The district board of administration shall designate the place and, in cooperation with the General Superintendent, establish the date, which shall be at least thirty days after the reconvened conference is announced. The district shall notify in writing all ministerial voting members, pastoral charges, and nonvoting members of the time, place, and purpose of the reconvened session. The district conference shall have the same rights and powers in a reconvened session as in the annual session.
@@ -114,7 +114,7 @@ The district shall promptly notify each pastor of the exact number of lay delega
 ### 1. Officers
 
 ## ¶1120 The Chair. {#p1120}
- The General Superintendent, or a representative appointed by the General Superintendent, shall preside over the district conference, assisted by the district superintendent in the manner provided for in the Constitution ([¶350:3](#p350-3)). When neither the General Superintendent nor the appointed representative is present, the district superintendent shall preside or take the responsibility for the same. If none of the foregoing is present, the district conference shall elect from among its ordained ministers a chair pro tem.
+ The General Superintendent, or a representative appointed by the General Superintendent, shall preside over the district conference, assisted by the district superintendent in the manner provided for in the Constitution ([¶350:3](/part-1/ch4-constitution.md#p350-3)). When neither the General Superintendent nor the appointed representative is present, the district superintendent shall preside or take the responsibility for the same. If none of the foregoing is present, the district conference shall elect from among its ordained ministers a chair pro tem.
 
 ## ¶1123 The Secretary. {#p1123}
  The district secretary shall be the secretary of the district conference ex officio. The district secretary shall accurately record the proceedings and preserve them in permanent form as prescribed by *The Discipline* ([¶1178](#p1178)), and perform any other duties as shall be required by the district conference.
@@ -122,7 +122,7 @@ The district shall promptly notify each pastor of the exact number of lay delega
 ### 2. Procedure
 
 ## ¶1126 Rights. {#p1126}
- The rights of the district conference are declared in the Constitution (323:1-10; [¶325](#p325); [¶327:1](#p327-1); [¶350:3](#p350-3); 360:3c, e; [¶375:2](#p375-2), [¶4](#p375-4), [¶6](#p375-6); [¶385](#p385)).
+ The rights of the district conference are declared in the Constitution (323:1-10; [¶325](/part-1/ch4-constitution.md#p325); [¶327:1](/part-1/ch4-constitution.md#p327-1); [¶350:3](/part-1/ch4-constitution.md#p350-3); 360:3c, e; [¶375:2](/part-1/ch4-constitution.md#p375-2), [¶4](/part-1/ch4-constitution.md#p375-4), [¶6](/part-1/ch4-constitution.md#p375-6); [¶385](/part-1/ch4-constitution.md#p385)).
 
 ## ¶1129 Quorum. {#p1129}
  A majority of all the ministerial voting members and lay delegates of the district conference ([¶1083-1086](#p1083-1086)) shall constitute a quorum for the transaction of business.
@@ -131,7 +131,7 @@ The district shall promptly notify each pastor of the exact number of lay delega
  Once a delegate has been seated at the annual district conference, an alternate delegate cannot thereafter be seated in place of the previously seated delegate.
 
 ## ¶1135 Voting {#p1135}
- ([¶317](#p317)). The ministerial and lay members of the district conference shall deliberate and transact business as one body. However, on the final vote on any question, one-fourth of the members may call for a divided vote. The house shall then be divided, and the ministerial and lay members shall vote separately, with a majority vote of each branch required to pass the question on which the division has been called.
+ ([¶317](/part-1/ch4-constitution.md#p317)). The ministerial and lay members of the district conference shall deliberate and transact business as one body. However, on the final vote on any question, one-fourth of the members may call for a divided vote. The house shall then be divided, and the ministerial and lay members shall vote separately, with a majority vote of each branch required to pass the question on which the division has been called.
 
 ## ¶1138 Rules of Order. {#p1138}
  District conference business shall be conducted according to the current edition of *Robert’s Rules of Order, Newly Revised*, except when otherwise ordered by *The Discipline* ([¶1156](#p1156)).
@@ -140,10 +140,10 @@ The district shall promptly notify each pastor of the exact number of lay delega
  The district conference may by two-thirds vote suspend any rules of order for a certain item of business, provided such a suspension does not contravene *The Discipline* or other General Conference legislation.
 
 ## ¶1144 Appeals on Questions of Order. {#p1144}
- The chair shall decide all questions of order, subject to an appeal to the district conference body. If any matter is ruled out of order by the chair on the basis that it is unconstitutional or in violation of *The Discipline*, the decision of the chair may be appealed by any member of the district conference. If the appeal is seconded, the chair shall clearly state the question and the reasons for the decision, and the one moving the appeal shall state the reasons for the appeal. The vote shall then be taken without debate. A two-thirds vote of the district conference, present and voting, shall be required to overrule the decision of the chair. If the chair is overruled, the action of the district conference shall be suspended until a ruling shall be given by the General Superintendent as provided for in [¶2064](#p2064).
+ The chair shall decide all questions of order, subject to an appeal to the district conference body. If any matter is ruled out of order by the chair on the basis that it is unconstitutional or in violation of *The Discipline*, the decision of the chair may be appealed by any member of the district conference. If the appeal is seconded, the chair shall clearly state the question and the reasons for the decision, and the one moving the appeal shall state the reasons for the appeal. The vote shall then be taken without debate. A two-thirds vote of the district conference, present and voting, shall be required to overrule the decision of the chair. If the chair is overruled, the action of the district conference shall be suspended until a ruling shall be given by the General Superintendent as provided for in [¶2064](/part-4/ch4-general-administration.md#p2064).
 
 ## ¶1147 Legislation. {#p1147}
- Rules and resolutions adopted by a district conference shall continue in force until amended or rescinded, unless such actions are by nature temporary or unless an action of the district conference is declared unconstitutional or contrary to *The Discipline* as set forth in [¶2064](#p2064) and the *General Board Policy on Church Discipline* [¶5445:2](#p5445-2) ([¶323:6](#p323-6)).
+ Rules and resolutions adopted by a district conference shall continue in force until amended or rescinded, unless such actions are by nature temporary or unless an action of the district conference is declared unconstitutional or contrary to *The Discipline* as set forth in [¶2064](/part-4/ch4-general-administration.md#p2064) and the *General Board Policy on Church Discipline* [¶5445:2](#p5445-2) ([¶323:6](/part-1/ch4-constitution.md#p323-6)).
 
 ### 3. Resolutions
 
@@ -303,7 +303,7 @@ Authorize the establishing of a mission (537), a developing church (510), a chur
 Determine the boundaries of each pastoral charge within the district (323:5; 1233:10c; 4750).
 
 ### ¶1180:24 {#p1180-24}
- Receive and pass the recommendations of the district board of administration concerning the pastoral agreements, appointments, and district conference relations, as follows ([¶1233:10](#p1233-10)):
+ Receive and pass the recommendations of the district board of administration concerning the pastoral agreements, appointments, and district conference relations, as follows ([¶1233:10](/part-3/ch3-board.md#p1233-10)):
 
 #### ¶1180:24a {#p1180-24a}
 Approve the pastoral agreements entered into between the pastoral charges and the ministers, or to alter such an agreement, or to veto the action of the pastoral charge and appoint another pastor, provided that any such alteration or veto shall be for reasons as set forth in the Constitution, and shall be voted on as a separate action by the district conference (323:1-2; 697).
@@ -321,7 +321,7 @@ Grant in concurrence with the General Board prior approval to a local church con
 Elect to ordination or for commissioning as a minister a candidate the district conference deems qualified (3070), after receiving a report from the district board of ministerial development (1390:5) which shall be acted upon as a separate item of business.
 
 ### ¶1180:27 {#p1180-27}
- Grant a license, commission, recognition, or restoration, in keeping with the requirements of *The Discipline*, after receiving the report and recommendations from the district board of ministerial development ([¶1390:5](#p1390-5)), as follows:
+ Grant a license, commission, recognition, or restoration, in keeping with the requirements of *The Discipline*, after receiving the report and recommendations from the district board of ministerial development ([¶1390:5](/part-3/ch6-ministerial.md#p1390-5)), as follows:
 
 #### ¶1180:27a {#p1180-27a}
 A recognition as ordained minister in process of transfer to an ordained minister being received from another denomination (3104), and a recognition as an ordained minister of The Wesleyan Church in full standing when all requirements have been met (3104:4-5).

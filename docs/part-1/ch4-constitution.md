@@ -388,7 +388,7 @@ The right to hearing and appeal if charged with failure to maintain the conditio
 A member in good standing in any Wesleyan church is entitled to membership privileges in any Wesleyan church to which a transfer of membership may be desired, subject to 567.
 
 ## ¶305 {#p305}
- Church membership may be terminated only by one or more of the following ([¶585](#p585)):
+ Church membership may be terminated only by one or more of the following ([¶585](/part-2/ch2-membership.md#p585)):
 
 ### ¶305.1 {#p305-1}
 Voluntary withdrawal.

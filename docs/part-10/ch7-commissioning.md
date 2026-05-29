@@ -6,7 +6,7 @@
  That portion of the ritual of commissioning ministers entitled “Examination of Candidates” ([¶5825](#p5825)), has the authority of statutory law, and must be followed as prescribed.
 
 ## ¶5805 {#p5805}
- The commissioning service shall be planned by the Council of Ordination ([¶1405](#p1405)) and shall be presided over by the General Superintendent ([¶1935](#p1935)), or a representative appointed by the General Superintendent ([¶3091](#p3091)), or if absent by the district superintendent ([¶1310:23](#p1310-23)). They shall be assisted in the various parts of the service and in the act of commissioning by the Council of Ordination ([¶1405](#p1405); 3059:1f).
+ The commissioning service shall be planned by the Council of Ordination ([¶1405](/part-3/ch6-ministerial.md#p1405)) and shall be presided over by the General Superintendent ([¶1935](/part-4/ch4-general-administration.md#p1935)), or a representative appointed by the General Superintendent ([¶3091](/part-6/ch1-ministerial-orders.md#p3091)), or if absent by the district superintendent ([¶1310:23](/part-3/ch5-administration.md#p1310-23)). They shall be assisted in the various parts of the service and in the act of commissioning by the Council of Ordination ([¶1405](/part-3/ch6-ministerial.md#p1405); 3059:1f).
 
 ## B. The Order of the Commissioning of Ministers
 
@@ -25,7 +25,7 @@
 
 **Sermon**
 
-*(Then a sermon or address may be given [¶1935](#p1935); [¶3091](#p3091).)*
+*(Then a sermon or address may be given [¶1935](/part-4/ch4-general-administration.md#p1935); [¶3091](/part-6/ch1-ministerial-orders.md#p3091).)*
 
 **Presentation of Candidates**
 
@@ -34,14 +34,14 @@
 
 I present *(read names)* to be commissioned as ministers in The Wesleyan Church.
 
-*(Then the presiding minister ([¶3091](#p3091); [¶5805](#p5805)) shall say unto the people:)*
+*(Then the presiding minister ([¶3091](/part-6/ch1-ministerial-orders.md#p3091); [¶5805](#p5805)) shall say unto the people:)*
 
 Dear friends, *these are they* whom we purpose, God willing, this day to commission as *ministers*. For, after due examination, we find that *they are* truly called to this function and ministry, and that they are qualified for the same.
 
 **The Charge**
 
 ## ¶5820 {#p5820}
- *(Then the presiding minister ([¶3091](#p3091); [¶5805](#p5805)) shall address the candidates, giving the charge:)*
+ *(Then the presiding minister ([¶3091](/part-6/ch1-ministerial-orders.md#p3091); [¶5805](#p5805)) shall address the candidates, giving the charge:)*
 
 Dear Servants of God:
 
@@ -52,7 +52,7 @@ Remember always the greatness of this responsibility and give yourselves without
 **Examination of Candidates**
 
 ## ¶5825 {#p5825}
- *(Then the presiding minister ([¶3091](#p3091); [¶5805](#p5805)) shall administer the examination to the candidates:)*
+ *(Then the presiding minister ([¶3091](/part-6/ch1-ministerial-orders.md#p3091); [¶5805](#p5805)) shall administer the examination to the candidates:)*
 
 Is it your sincere conviction that you have been called of God to serve as a commissioned minister in The Wesleyan Church?
 
@@ -81,7 +81,7 @@ Is it your sincere conviction that you have been called of God to serve as a com
 **Covenant with Candidates’ Spouses**
 
 ## ¶5835 {#p5835}
- (*Then if it is so desired, the presiding minister ([¶3091](#p3091); [¶5805](#p5805)) may call the spouses of the candidates to come and stand beside them, and shall address them saying:)*
+ (*Then if it is so desired, the presiding minister ([¶3091](/part-6/ch1-ministerial-orders.md#p3091); [¶5805](#p5805)) may call the spouses of the candidates to come and stand beside them, and shall address them saying:)*
 
 It is the teaching of Scripture that a spouse shall be a loving companion in the ministry of a mate. You have witnessed the examination of your marriage partner in which commitment to the work and responsibilities of ministry has been stated. Your participation in God’s purposes for ministry through your marriage partner is important also. You will be needed to share in prayer, to extend love and compassion to all, to carry forward the example of marriage harmony and family wholesomeness. As the companion of your loved one who is now entering the ranks of commissioned ministers in the Church, will you dedicate yourself to complement and embrace that ministry as God enables you?
 
@@ -90,7 +90,7 @@ It is the teaching of Scripture that a spouse shall be a loving companion in the
 **Act of Commissioning**
 
 ## ¶5840 {#p5840}
- *(Then the candidates for commissioning shall kneel, and if so desired, their spouses may kneel at their sides, and the presiding minister ([¶3091](#p3091); [¶5805](#p5805)) and the Council of Ordination shall lay their hands severally upon the head of each one, and the presiding minister shall say:)*
+ *(Then the candidates for commissioning shall kneel, and if so desired, their spouses may kneel at their sides, and the presiding minister ([¶3091](/part-6/ch1-ministerial-orders.md#p3091); [¶5805](#p5805)) and the Council of Ordination shall lay their hands severally upon the head of each one, and the presiding minister shall say:)*
 
 ________________, as we lay our hands upon you we ask the Lord to give the unusual outpouring of the Holy Spirit needed for your service as a commissioned minister in the Church. May God’s anointing enable you to be a faithful exponent of His Word, and an instrument for His holy sacraments, in the name of the Father, the Son, and the Holy Spirit. Amen!
 
@@ -103,7 +103,7 @@ ________________, take authority to preach the Word of God, to administer the sa
 
 **Right Hand of Fellowship**
 
-*(The newly commissioned ministers shall then arise, and the presiding minister ([¶3091](#p3091); [¶5805](#p5805)) and the members of the Council of Ordination shall extend to each the right hand of fellowship, welcoming them to the work and labors of the ministry. Then the presiding minister may direct the congregation to file by and greet the newly commissioned ministers, or the service shall be closed with the following benediction:)*
+*(The newly commissioned ministers shall then arise, and the presiding minister ([¶3091](/part-6/ch1-ministerial-orders.md#p3091); [¶5805](#p5805)) and the members of the Council of Ordination shall extend to each the right hand of fellowship, welcoming them to the work and labors of the ministry. Then the presiding minister may direct the congregation to file by and greet the newly commissioned ministers, or the service shall be closed with the following benediction:)*
 
 **Benediction**
 
