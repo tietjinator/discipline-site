@@ -1,0 +1,21 @@
+{
+  "name": "discipline-site",
+  "version": "1.0.0",
+  "description": "The Discipline of The Wesleyan Church 2022 — navigable web edition",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tietjinator/discipline-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}
