@@ -135,13 +135,13 @@ The taking of steps to provide for the pastoral oversight and care of the new ch
 To call the pastor and set the terms of pastoral service ([¶315:2](/part-1/ch4-constitution.md#p315-2); 690–722).
 
 ### ¶528.2 {#p528-2}
-To license lay ministers (3410–3420) and to recommend suitable members to the district conference for district licenses as ministerial students and special workers (3015, 3033, 3460).
+To license lay ministers (3410–3420) and to recommend suitable members to the district conference for district licenses as ministerial students and special workers ([¶3015](/part-6/ch1-ministerial-orders.md#p3015),[¶3033](/part-6/ch1-ministerial-orders.md#p3033),[¶3460](/part-6/ch4-special-lay-ministries.md#p3460)).
 
 ### ¶528.3 {#p528-3}
 To elect lay delegates to the district conference ([¶315:7](/part-1/ch4-constitution.md#p315-7); 1100–1109).
 
 ### ¶528.4 {#p528-4}
-To elect a circuit secretary, such members of the circuit advisory council ([¶530](#p530)) in addition to the ex officio members as the circuit conference shall determine are needed to assure proper representation, and a circuit board of trustees (if such is needed, cf. 532).
+To elect a circuit secretary, such members of the circuit advisory council ([¶530](#p530)) in addition to the ex officio members as the circuit conference shall determine are needed to assure proper representation, and a circuit board of trustees (if such is needed,cf. [¶532](#p532)).
 
 ### ¶528.5 {#p528-5}
 To determine all matters involving two or more of the churches on the circuit, including the authorization of transactions involved in the purchase, erection, encumbrance, sale, or other disposition of a circuit parsonage or other property (4740–4750).

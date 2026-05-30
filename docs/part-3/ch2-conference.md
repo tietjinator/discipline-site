@@ -50,7 +50,7 @@ Ordained ministers in process of transfer from another denomination ([¶3104](/p
 ) Commissioned or licensed ministers who are not voting members of the district conference as listed in 1083:2-4, including those in process of transfer from another denomination ([¶3104](/part-6/ch1-ministerial-orders.md#p3104)).
 
 ### ¶1090:4 {#p1090-4}
-Ministerial students (3015:3b; [¶3350:2](/part-6/ch3-ministerial-appointments.md#p3350-2)).
+Ministerial students ([¶3015:3b](/part-6/ch1-ministerial-orders.md#p3015-3b); [¶3350:2](/part-6/ch3-ministerial-appointments.md#p3350-2)).
 
 ### ¶1090:5 {#p1090-5}
 Commissioned and licensed special workers (1240:5:A, B, C; 3460-3470).
@@ -327,7 +327,7 @@ Elect to ordination or for commissioning as a minister a candidate the district 
 A recognition as ordained minister in process of transfer to an ordained minister being received from another denomination ([¶3104](/part-6/ch1-ministerial-orders.md#p3104)), and a recognition as an ordained minister of The Wesleyan Church in full standing when all requirements have been met (3104:4-5).
 
 #### ¶1180:27b {#p1180-27b}
-A district ministerial license, the granting of which shall become effective when the person receives appointment as set forth in 3033:7 and 3040:3 (1180:24c; [¶1233:10](/part-3/ch3-board.md#p1233)).
+A district ministerial license, the granting of which shall become effective when the person receives appointment as set forth in 3033:7 and 3040:3 ([¶1180:24c](#p1180-24c); [¶1233:10](/part-3/ch3-board.md#p1233)).
 
 #### ¶1180:27c {#p1180-27c}
 A recognition of a commissioned or licensed minister being received from another denomination as in process of transfer ([¶3104](/part-6/ch1-ministerial-orders.md#p3104)) and a recognition of such commissioned or licensed ministers in full standing when all requirements are met ([¶3104](/part-6/ch1-ministerial-orders.md#p3104)).
@@ -353,7 +353,7 @@ Receive and pass on an annual service report, through the district board of mini
 ### Relating to the Election of Officials and Committees
 
 ### ¶1180.29 {#p1180-29}
-Elect, by ballot and by majority vote, an ordained minister to the office of district superintendent for a term of four years (1303:2, 4). Reelection thereafter shall also be for a term of four years or for an extended call (1303:2, 4).
+Elect, by ballot and by majority vote, an ordained minister to the office of district superintendent for a term of four years ([¶1303:2](/part-3/ch5-administration.md#p1303-2),[¶4](/part-1/ch1-history.md#p4)). Reelection thereafter shall also be for a term of four years or for an extended call ([¶1303:2](/part-3/ch5-administration.md#p1303-2),[¶4](/part-1/ch1-history.md#p4)).
 
 ### ¶1180:30 {#p1180-30}
 Elect, by ballot and by majority vote, a district secretary ([¶1330](/part-3/ch5-administration.md#p1330); [¶1175:1](#p1175-1)) and members-at-large of the district board of administration (1203-1206).
@@ -379,7 +379,7 @@ Request, by a two-thirds majority vote, a ruling on a point of Wesleyan Church l
 Appeal, by a two-thirds majority vote, a decision of the General Superintendent on the legality of an action by the district conference, a district board or committee, or a district official, to the General Board of Review ([¶375:2](/part-1/ch4-constitution.md#p375-2); [¶2061](/part-4/ch4-general-administration.md#p2061); [¶323:6](/part-1/ch4-constitution.md#p323-6); Gen. Bd. Policy on Ch. Disc. 5445:2). All appeals must be filed with the Executive Director of Communication and Administration within sixty days after the date of the official decision on the matter.
 
 ### ¶1180:37 {#p1180-37}
-Adopt, by a two-thirds majority vote, a complaint against the General Conference or another district and order its presentation to the General Board of Review for settlement (375:4, 6; Gen. Bd. Policy on Ch. Disc. 5445:4); and to adopt such a complaint, by a majority vote, against the General Board to be presented to the General Board of Review for settlement ([¶323:10](/part-1/ch4-constitution.md#p323)).
+Adopt, by a two-thirds majority vote, a complaint against the General Conference or another district and order its presentation to the General Board of Review for settlement ([¶375:4](/part-1/ch4-constitution.md#p375-4),[¶6](/part-1/ch1-history.md#p6); Gen. Bd. Policy on Ch. Disc. 5445:4); and to adopt such a complaint, by a majority vote, against the General Board to be presented to the General Board of Review for settlement ([¶323:10](/part-1/ch4-constitution.md#p323)).
 
 ### ¶1180:38 {#p1180-38}
 Appeal, by a two-thirds majority vote, a judgment of the General Board of Review to the General Conference for final settlement ([¶323:10](/part-1/ch4-constitution.md#p323); [¶380](/part-1/ch4-constitution.md#p380); Gen. Bd. Policy on Ch. Disc. 5450). All appeals must be filed with the Executive Director of Communication and Administration within sixty days after the date of the official decision on the matter.

@@ -21,7 +21,7 @@ Voting Members
 The district superintendent of each district and developing district and a lay delegate elected at the same time and in the same manner as the other delegates (1512-1526).
 
 #### ¶1503:1b {#p1503-1b}
-One ministerial and one lay delegate elected by an established district for every seven hundred fifty members and major fraction thereof. The district superintendent and the lay delegate elected (1503:1a) shall be the representatives for the first seven hundred fifty members.
+One ministerial and one lay delegate elected by an established district for every seven hundred fifty members and major fraction thereof. The district superintendent and the lay delegate elected ([¶1503:1a](#p1503-1a)) shall be the representatives for the first seven hundred fifty members.
 
 #### ¶1503:1c {#p1503-1c}
 The general officials of the Church as defined in 1800, the General Superintendents Emeriti, members of the General Board who are not voting members by some other right, the presidents of the educational institutions and Wesley Seminary (2365 and 2366), the general directors of Hephzibah Ministries, Wesleyan Investment Foundation, Wesleyan Pension Fund Inc, the Wesleyan Bible Conference Association, and the Immigrant Connection, and such delegates-at-large as shall be necessary to maintain parity between ordained ministers and lay members (1508-1510).
@@ -58,7 +58,7 @@ The established districts shall be considered in alphabetical order, and each el
 b. Delegates
 
 ## ¶1512 {#p1512}
- The delegates to the General Conference shall be elected by the district conference, by ballot and by majority vote, at its last annual session preceding the General Conference. When the last annual session is within sixty days of the opening date of the General Conference, the district conference may elect its delegates at the previous annual session. The statistical report for the annual session of the district conference at which the delegates are elected shall be used for determining the number of members, and consequently, the number of General Conference delegates (1503:1b). A certified list of all delegates to the General Conference shall be promptly forwarded by the district secretary to the Executive Director of Communication and Administration ([¶1332:5](/part-3/ch5-administration.md#p1332-5)).
+ The delegates to the General Conference shall be elected by the district conference, by ballot and by majority vote, at its last annual session preceding the General Conference. When the last annual session is within sixty days of the opening date of the General Conference, the district conference may elect its delegates at the previous annual session. The statistical report for the annual session of the district conference at which the delegates are elected shall be used for determining the number of members, and consequently, the number of General Conference delegates ([¶1503:1b](#p1503-1b)). A certified list of all delegates to the General Conference shall be promptly forwarded by the district secretary to the Executive Director of Communication and Administration ([¶1332:5](/part-3/ch5-administration.md#p1332-5)).
 
 ## ¶1514 {#p1514}
  A person accepting election as a delegate is obligated to attend faithfully the entire General Conference session, unless hindered by unforeseen and justifiable circumstances ([¶1541](#p1541)).
@@ -69,7 +69,7 @@ c. Alternate Delegates
  Alternate delegates shall be the remaining nominees not elected to serve as General Conference delegates and shall fill vacancies in the descending order of votes received ([¶1332:5](/part-3/ch5-administration.md#p1332-5)).
 
 ## ¶1518 {#p1518}
- Whenever the district superintendent, who is an ex officio member of the General Conference (1503:1a), is unable to attend, the place of the district superintendent shall be filled by the assistant district superintendent (if any). If the assistant district superintendent is an elected delegate to the General Conference, the place of the assistant district superintendent shall then be filled like any other vacancy by an alternate ministerial delegate.
+ Whenever the district superintendent, who is an ex officio member of the General Conference ([¶1503:1a](#p1503-1a)), is unable to attend, the place of the district superintendent shall be filled by the assistant district superintendent (if any). If the assistant district superintendent is an elected delegate to the General Conference, the place of the assistant district superintendent shall then be filled like any other vacancy by an alternate ministerial delegate.
 
 ### 4. Qualifications of Delegates
 

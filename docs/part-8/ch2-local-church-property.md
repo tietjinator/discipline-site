@@ -9,10 +9,10 @@
  The regulations concerning property for a developing church within the bounds of an established district are as follows:
 
 ### ¶4660:1 {#p4660-1}
-The district board of administration shall be vested with power and authority to purchase, manage, sell, encumber, transfer, and dispose of any and all property of a developing church, whether real, personal, or mixed (510:3–4; 1233:13–14), and shall direct the pastor and the local advisory council concerning the same in keeping with The Discipline (1233:1, 30).
+The district board of administration shall be vested with power and authority to purchase, manage, sell, encumber, transfer, and dispose of any and all property of a developing church, whether real, personal, or mixed (510:3–4; 1233:13–14), and shall direct the pastor and the local advisory council concerning the same in keeping with The Discipline ([¶1233:1](/part-3/ch3-board.md#p1233-1),[¶30](/part-1/ch1-history.md#p30)).
 
 ### ¶4660:2 {#p4660-2}
-The pastor and local advisory council of a developing church shall be responsible to supervise, control, and maintain the property under their care as directed by the district superintendent and the district board of administration (510:3–4; 1233:1, 30).
+The pastor and local advisory council of a developing church shall be responsible to supervise, control, and maintain the property under their care as directed by the district superintendent and the district board of administration (510:3–4;[¶1233:1](/part-3/ch3-board.md#p1233-1),[¶30](/part-1/ch1-history.md#p30)).
 
 ### ¶4660:3 {#p4660-3}
 All property of a developing church shall be held by the district in trust for the use and benefit of the members and ministers of The Wesleyan Church as required in 323:8 and shall contain the trust clause as given in 4610 ([¶4140](/part-7/ch2-district-corporations.md#p4140); 4590–4630; [¶4830](/part-8/ch3-district-property.md#p4830)).
@@ -90,7 +90,7 @@ When real property is donated to a Wesleyan church for ministries or in a capita
  The organization and government for a circuit within an established district are set forth in [¶525–535](/part-2/ch1-organization.md#p525). The regulations concerning the acquisition, purchase, sale, encumbrance, transfer, or other disposition of circuit property within an established district shall be the same as for local church property within the district as set forth in [¶4680](#p4680) and 4700:1–5. The proceeds from the sale of circuit property shall also be disposed of in the same manner as the proceeds from the sale of local church property as set forth in [¶4720–4738](#p4720). The circuit board of trustees shall carry such duties concerning circuit property as are required of a local church board of trustees (850–859) and shall be subject to the general regulations as set forth in [¶4500–4630](/part-9/ch1-general-regulations.md#p4500).
 
 ## ¶4750 {#p4750}
- Whenever the discontinuance of a circuit shall be ordered by the district conference, or whenever a local church is separated from a circuit and established as a separate pastoral charge ([¶1180:22](/part-3/ch2-conference.md#p1180)), the district conference shall also order the sale or disposition of circuit property, for which a recommendation shall be received from the district board of administration (1233:10c). Each local church shall be entitled to receive its just share of the property in which it has invested funds; and the amount of such value and just share shall be determined by the district board of administration or a special committee appointed for that purpose.
+ Whenever the discontinuance of a circuit shall be ordered by the district conference, or whenever a local church is separated from a circuit and established as a separate pastoral charge ([¶1180:22](/part-3/ch2-conference.md#p1180)), the district conference shall also order the sale or disposition of circuit property, for which a recommendation shall be received from the district board of administration ([¶1233:10c](/part-3/ch3-board.md#p1233-10c)). Each local church shall be entitled to receive its just share of the property in which it has invested funds; and the amount of such value and just share shall be determined by the district board of administration or a special committee appointed for that purpose.
 
 ## D. Property Records
 

@@ -110,7 +110,7 @@ Approve the transfer of any ordained minister or commissioned or licensed minist
 Recommend the removal of a pastor to the district board of administration, whenever the best interests of the church involved demand it, and to recommend to the district board of administration the appointment of a supply or interim, if necessary, until another pastor has been obtained ([¶712](/part-2/ch4-pastors.md#p712); [¶715](/part-2/ch4-pastors.md#p715); [¶722:3](/part-2/ch4-pastors.md#p722-3); [¶1233:29](/part-3/ch3-board.md#p1233)).
 
 ### ¶1310:21 {#p1310-21}
-Perform all the functions of a pastor for a local church within the district when such church is without a pastor, or to recommend to the district board of administration the appointment of a supply pastor or interim pastor until the local church obtains a pastor (1233:29, 36; [¶3260:2](/part-6/ch3-ministerial-appointments.md#p3260-2); [¶3261:2](/part-6/ch3-ministerial-appointments.md#p3261-2)).
+Perform all the functions of a pastor for a local church within the district when such church is without a pastor, or to recommend to the district board of administration the appointment of a supply pastor or interim pastor until the local church obtains a pastor ([¶1233:29](/part-3/ch3-board.md#p1233-29), 36; [¶3260:2](/part-6/ch3-ministerial-appointments.md#p3260-2); [¶3261:2](/part-6/ch3-ministerial-appointments.md#p3261-2)).
 
 ### Ministers
 
@@ -127,7 +127,7 @@ Provide or promote the ongoing personal and professional development of all mini
 Request any special reports from the pastors, ministers, and churches that will facilitate oversight of the district.
 
 ### ¶1310:26 {#p1310-26}
-Approve in writing the temporary service of an ordained minister in a district other than the one in which membership is held ([¶3100:2](/part-6/ch1-ministerial-orders.md#p3100-2)); to grant a letter of transfer or standing to any ordained, licensed, or commissioned worker in good standing of the district (6440; 6460); to instruct the district secretary to enroll as a member of the district a minister who transfers from another district in the manner prescribed by The Discipline ([¶313:6](/part-1/ch4-constitution.md#p313-6); [¶3100:1](/part-6/ch1-ministerial-orders.md#p3100-1); 6440-6450), and to order the enrollment of a ministerial student or special worker so transferring (3015:3c, 5d; [¶3480](/part-6/ch4-special-lay-ministries.md#p3480); 6440-6450); to guide a minister or special worker from another denomination seeking recognition and membership in The Wesleyan Church ([¶3104](/part-6/ch1-ministerial-orders.md#p3104); [¶3470](/part-6/ch4-special-lay-ministries.md#p3470); [¶3117](/part-6/ch1-ministerial-orders.md#p3117)); and to provide oversight for the restoration of ministers (Gen. Bd. Policy on Ch. Disc. 5230).
+Approve in writing the temporary service of an ordained minister in a district other than the one in which membership is held ([¶3100:2](/part-6/ch1-ministerial-orders.md#p3100-2)); to grant a letter of transfer or standing to any ordained, licensed, or commissioned worker in good standing of the district (6440; 6460); to instruct the district secretary to enroll as a member of the district a minister who transfers from another district in the manner prescribed by The Discipline ([¶313:6](/part-1/ch4-constitution.md#p313-6); [¶3100:1](/part-6/ch1-ministerial-orders.md#p3100-1); 6440-6450), and to order the enrollment of a ministerial student or special worker so transferring ([¶3015:3c](/part-6/ch1-ministerial-orders.md#p3015-3c), 5d; [¶3480](/part-6/ch4-special-lay-ministries.md#p3480); 6440-6450); to guide a minister or special worker from another denomination seeking recognition and membership in The Wesleyan Church ([¶3104](/part-6/ch1-ministerial-orders.md#p3104); [¶3470](/part-6/ch4-special-lay-ministries.md#p3470); [¶3117](/part-6/ch1-ministerial-orders.md#p3117)); and to provide oversight for the restoration of ministers (Gen. Bd. Policy on Ch. Disc. 5230).
 
 ### Reports
 
@@ -137,7 +137,7 @@ Report annually to the district conference concerning official duties and person
 ### Judicial
 
 ### ¶1310:28 {#p1310-28}
-Receive any complaint or accusation against any person or local unit under the jurisdiction of the district (Gen. Bd. Policy on Ch. Disc. 5200:1-7; 5206; 5300-5320), and to give such complaint or accusation prompt and careful attention as required in the General Board Policy on Church Discipline (5206:2; 5300-5320), and to refer any matter requiring official investigation or judicial proceedings to the district board of administration for disposition (1233:33, 37]; Gen. Bd. Policy on Ch. Disc. 5212:2; 5320).
+Receive any complaint or accusation against any person or local unit under the jurisdiction of the district (Gen. Bd. Policy on Ch. Disc. 5200:1-7; 5206; 5300-5320), and to give such complaint or accusation prompt and careful attention as required in the General Board Policy on Church Discipline (5206:2; 5300-5320), and to refer any matter requiring official investigation or judicial proceedings to the district board of administration for disposition ([¶1233:33](/part-3/ch3-board.md#p1233-33), 37]; Gen. Bd. Policy on Ch. Disc. 5212:2; 5320).
 
 ### ¶1310:29 {#p1310-29}
 Forward to the Executive Director of Communication and Administration the credentials of a minister when such have been surrendered or removed by judicial process ([¶3100:4](/part-6/ch1-ministerial-orders.md#p3100-4); Gen. Bd. Policy on Ch. Disc. 5212:2; 5230).
@@ -151,7 +151,7 @@ Forward to the Executive Director of Communication and Administration the creden
  The duties of the assistant district superintendent(s) are to:
 
 ### ¶1323:1 {#p1323-1}
-Serve as member and vice-chair (cf.1320) of the district board of administration, presiding over the board whenever the district superintendent is not present or when appointed to do so by the district superintendent ([¶1221](/part-3/ch3-board.md#p1221)).
+Serve as member and vice-chair (cf.[¶1320](#p1320)) of the district board of administration, presiding over the board whenever the district superintendent is not present or when appointed to do so by the district superintendent ([¶1221](/part-3/ch3-board.md#p1221)).
 
 ### ¶1323.2 {#p1323-2}
 Convene the district board of administration in times of emergency when the district superintendent is not able to act ([¶1215](/part-3/ch3-board.md#p1215); [¶1320](#p1320)).

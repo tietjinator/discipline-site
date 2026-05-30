@@ -82,7 +82,7 @@ Approve by vote the reception of members and to expel or discontinue members unl
 Call a pastor or renew the call ([¶315:2](/part-1/ch4-constitution.md#p315-2); [¶692](/part-2/ch4-pastors.md#p692); [¶705](/part-2/ch4-pastors.md#p705); [¶720](/part-2/ch4-pastors.md#p720); [¶735](/part-2/ch4-pastors.md#p735)), or to vote on the termination of a renewed call as set forth in 722:2.
 
 ### ¶655.3 {#p655-3}
-Elect the church officers ([¶315:5](/part-1/ch4-constitution.md#p315-5)), which shall consist of the local church secretary (830), the local church treasurer (if any, 842), members-at-large of the local board of administration ([¶752](/part-2/ch5-local-board.md#p752)), and lay delegates to the district conference (315:5, 7).
+Elect the church officers ([¶315:5](/part-1/ch4-constitution.md#p315-5)), which shall consist of the local church secretary (830), the local church treasurer (if any, 842), members-at-large of the local board of administration ([¶752](/part-2/ch5-local-board.md#p752)), and lay delegates to the district conference ([¶315:5](/part-1/ch4-constitution.md#p315-5),[¶7](/part-1/ch1-history.md#p7)).
 
 ### ¶655.4 {#p655-4}
 Receive reports from the pastor(s), church officers, lay ministers and other persons, boards, and committees as desired, and as listed in 650:2–5.

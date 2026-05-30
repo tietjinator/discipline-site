@@ -38,13 +38,13 @@ local board of administration member ([¶752](/part-2/ch5-local-board.md#p752))
 trustee (850)
 
 #### ¶552.3.d {#p552-3-d}
-delegate to district or General Conference (965, 1524)
+delegate to district or General Conference (965,[¶1524](/part-4/ch1-general-conference.md#p1524))
 
 #### ¶552.3.e {#p552-3-e}
 nominating committee member (820)
 
 #### ¶552.3.f {#p552-3-f}
-local church secretary (638, 830)
+local church secretary ([¶638](/part-2/ch3-conference.md#p638), 830)
 
 #### ¶552.3.g {#p552-3-g}
 lay leader

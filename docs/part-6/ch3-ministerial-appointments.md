@@ -17,7 +17,7 @@
 A supply pastor may be a Wesleyan ordained minister or commissioned or licensed minister serving under some other appointment or an ordained minister on loan from one district to another ([¶503](/part-2/ch1-organization.md#p503); 1240:1:A:2b; [¶3100:2](/part-6/ch1-ministerial-orders.md#p3100-2)); a licensed special or commissioned worker (3460–3470); a minister in process of transfer from another denomination ([¶3104](/part-6/ch1-ministerial-orders.md#p3104)); a minister who belongs to another denomination, a ministerial student, a lay minister, or a lay member.
 
 ### ¶3260:2 {#p3260-2}
-A supply pastor shall be appointed temporarily to fill the pulpit and to provide a spiritual ministry, but shall not have authority to administer the sacraments or to perform marriages unless that authority adheres on some other basis, and shall not perform the administrative function of the pastor except in filing of reports unless authorized to do so by the district superintendent (1310:8, 25). If a supply pastor is serving a congregation isolated from Wesleyan ministers, making it difficult to provide for administration of the sacraments ([¶725:6](/part-2/ch4-pastors.md#p725-6)), the district superintendent may grant the supply pastor special authorization to administer them.
+A supply pastor shall be appointed temporarily to fill the pulpit and to provide a spiritual ministry, but shall not have authority to administer the sacraments or to perform marriages unless that authority adheres on some other basis, and shall not perform the administrative function of the pastor except in filing of reports unless authorized to do so by the district superintendent ([¶1310:8](/part-3/ch5-administration.md#p1310-8),[¶25](/part-1/ch1-history.md#p25)). If a supply pastor is serving a congregation isolated from Wesleyan ministers, making it difficult to provide for administration of the sacraments ([¶725:6](/part-2/ch4-pastors.md#p725-6)), the district superintendent may grant the supply pastor special authorization to administer them.
 
 ### ¶3260:3 {#p3260-3}
 A supply pastor’s church membership shall not be automatically transferred to the church of service.
@@ -132,7 +132,7 @@ A student engaged in full-time study in preparation for ordination, either by en
 ### 2. Reserve Ministers
 
 ## ¶3360 {#p3360}
- An ordained minister on reserve is one available for appointment but left without one (1240:1:C). The ordained minister on reserve shall be a voting member of the district conference ([¶317](/part-1/ch4-constitution.md#p317); [¶1083:1](/part-3/ch2-conference.md#p1083-1)). An ordained minister remaining on reserve for two consecutive years without definite appointment shall be automatically transferred to the list of ordained ministers without appointment ([¶3380](#p3380)) unless continued on reserve by the district conference (1180:24c).
+ An ordained minister on reserve is one available for appointment but left without one (1240:1:C). The ordained minister on reserve shall be a voting member of the district conference ([¶317](/part-1/ch4-constitution.md#p317); [¶1083:1](/part-3/ch2-conference.md#p1083-1)). An ordained minister remaining on reserve for two consecutive years without definite appointment shall be automatically transferred to the list of ordained ministers without appointment ([¶3380](#p3380)) unless continued on reserve by the district conference ([¶1180:24c](/part-3/ch2-conference.md#p1180-24c)).
 
 ### 3. Retired Ministers
 

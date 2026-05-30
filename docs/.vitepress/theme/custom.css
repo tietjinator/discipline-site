@@ -219,6 +219,11 @@
   color: #39AAE1 !important;
 }
 
+/* Dark mode — dropdown menu items */
+.dark .VPNavBarMenuGroup .VPLink:hover {
+  color: #39AAE1 !important;
+}
+
 /* Dark mode — body text */
 .dark .vp-doc {
   color: #CCC;
@@ -258,6 +263,11 @@
   color: var(--vp-c-brand-1);
   text-transform: uppercase;
   font-size: 0.9rem;
+}
+
+/* Dropdown menu items */
+.VPNavBarMenuGroup .VPLink:hover {
+  color: #39AAE1 !important;
 }
 
 /* --- Home hero --- */
@@ -394,6 +404,21 @@
 .VPFooter {
   border-top: 2px solid var(--vp-c-brand-1);
   font-family: 'Open Sans', system-ui, sans-serif;
+}
+
+/* --- Paragraph index table links --- */
+.vp-doc table a {
+  font-weight: 700;
+  color: #39AAE1;
+}
+.vp-doc table a:hover {
+  color: var(--vp-c-brand-1);
+}
+.dark .vp-doc table a {
+  color: #5BB8E8;
+}
+.dark .vp-doc table a:hover {
+  color: #BDE6FA;
 }
 
 /* --- Print styles --- */

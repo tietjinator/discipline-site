@@ -170,7 +170,7 @@ Pakistan: The Wesleyan Church—Pakistan
 
 Peru: Iglesia Wesleyana Peregrina
 
-Philippines (cf. 2560): The Wesleyan Church of the Philippines
+Philippines (cf. [¶2560](/part-5/ch2-conferences.md#p2560)): The Wesleyan Church of the Philippines
 
 Puerto Rico: Iglesia Evangélica Wesleyana
 

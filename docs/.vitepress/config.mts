@@ -28,10 +28,22 @@ export default defineConfig({
 
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Part 1 — Basic Principles', link: '/part-1/' },
-      { text: 'Part 2 — Local Church', link: '/part-2/' },
-      { text: 'Part 3 — District', link: '/part-3/' },
-      { text: 'Part 4 — General Church', link: '/part-4/' },
+      {
+        text: 'The Discipline',
+        items: [
+          { text: 'Part 1 — Basic Principles (¶1–499)', link: '/part-1/' },
+          { text: 'Part 2 — Local Church Government (¶500–999)', link: '/part-2/' },
+          { text: 'Part 3 — District Government (¶1000–1499)', link: '/part-3/' },
+          { text: 'Part 4 — General Church Government (¶1500–2499)', link: '/part-4/' },
+          { text: 'Part 5 — World Organization (¶2500–2999)', link: '/part-5/' },
+          { text: 'Part 6 — Ministry (¶3000–3499)', link: '/part-6/' },
+          { text: 'Part 7 — Corporations (¶4000–4499)', link: '/part-7/' },
+          { text: 'Part 8 — Property (¶4500–4999)', link: '/part-8/' },
+          { text: 'Part 9 — Judiciary (¶5000–5004)', link: '/part-9/' },
+          { text: 'Part 10 — The Ritual (¶5500–5999)', link: '/part-10/' },
+          { text: 'Part 11 — Forms (¶6000–6499)', link: '/part-11/' },
+        ]
+      },
       { text: 'Paragraph Index', link: '/index-of-paragraphs' },
     ],
 
