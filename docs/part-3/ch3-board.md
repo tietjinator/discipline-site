@@ -184,13 +184,13 @@ Supervise and coordinate the merger of two or more churches and to establish the
 Approve the plans of a local board of administration for the establishment of a day care and/or day school, and after its establishment to approve any significant change in mission, facilities, or finances ([¶655:17](/part-2/ch3-conference.md#p655-17); [782:33-34](/part-2/ch5-local-board.md#p782-33)).
 
 ##### ¶1233:33 {#p1233-33}
-Take charge of any complaints or accusations against a local church or circuit within the district and to carry out disciplinary proceedings as deemed necessary in accord with the General Board Policy on Church Discipline (5300-5325; 5221); to intervene and protect the property rights of The Wesleyan Church and the district as set forth in [¶4010:6](/part-7/ch1-local-church-corporations.md#p4010-6); 4770; 4840:6; to authorize the district superintendent to call for an affirmation of loyalty; to reorganize a local church as set forth in the General Board Policy on Church Discipline (5300-5325).
+Take charge of any complaints or accusations against a local church or circuit within the district and to carry out disciplinary proceedings as deemed necessary in accord with the General Board Policy on Church Discipline (5300-5325; 5221); to intervene and protect the property rights of The Wesleyan Church and the district as set forth in [¶4010:6](/part-7/ch1-local-church-corporations.md#p4010-6); 4770; [¶4840:6](/part-8/ch3-district-property.md#p4840-6); to authorize the district superintendent to call for an affirmation of loyalty; to reorganize a local church as set forth in the General Board Policy on Church Discipline (5300-5325).
 
 ##### ¶1233:34 {#p1233-34}
 Grant temporary recognition ([¶1390:3](/part-3/ch6-ministerial.md#p1390-3)) to ordained ministers, commissioned ministers, licensed ministers, and commissioned special workers or persons with equivalent standing, from other denominations, as being in process of transfer, subject to the action of the next district conference ([¶1180:27a](/part-3/ch2-conference.md#p1180-27), [d](/part-3/ch2-conference.md#p1180-27), [e](/part-3/ch2-conference.md#p1180-27); [¶1310:26](/part-3/ch5-administration.md#p1310-26)).
 
 ##### ¶1233:35 {#p1233-35}
-Consider and pass on the proposed resignation by, or a proposed vote on, a pastor after the renewal of the call, when such is considered before the term of service expires or in the interim of quadrennial reviews ([¶722:2](/part-2/ch4-pastors.md#p722-2)); or to remove a pastor by a two-thirds majority vote of all members of the district board of administration in keeping with the provisions of 712; 722:3; 1310:20; and to appoint a supply pastor, if necessary, until another pastor has been obtained ([¶715](/part-2/ch4-pastors.md#p715)); or to remove a supply pastor by a majority vote if deemed necessary ([¶3260:5](/part-6/ch3-ministerial-appointments.md#p3260-5)); and to appoint an interim pastor or to remove an interim pastor by a majority vote ([¶3261:2](/part-6/ch3-ministerial-appointments.md#p3261-2)).
+Consider and pass on the proposed resignation by, or a proposed vote on, a pastor after the renewal of the call, when such is considered before the term of service expires or in the interim of quadrennial reviews ([¶722:2](/part-2/ch4-pastors.md#p722-2)); or to remove a pastor by a two-thirds majority vote of all members of the district board of administration in keeping with the provisions of 712; [¶722:3](/part-2/ch4-pastors.md#p722-3); [¶1310:20](/part-3/ch5-administration.md#p1310-20); and to appoint a supply pastor, if necessary, until another pastor has been obtained ([¶715](/part-2/ch4-pastors.md#p715)); or to remove a supply pastor by a majority vote if deemed necessary ([¶3260:5](/part-6/ch3-ministerial-appointments.md#p3260-5)); and to appoint an interim pastor or to remove an interim pastor by a majority vote ([¶3261:2](/part-6/ch3-ministerial-appointments.md#p3261-2)).
 
 ##### ¶1233:36 {#p1233-36}
 Take charge of judicial proceedings, the ordering of investigations (Gen. Bd. Policy on Ch. Disc. 5012) or hearings, for any ordained minister, commissioned minister, licensed minister, ministerial student, commissioned or licensed special worker, or other worker under the jurisdiction of the district in accord with the provisions of the General Board Policy on Church Discipline (5200; 5203-5215).
@@ -292,7 +292,7 @@ Ordained ministers not otherwise listed.
 
 F. ORDAINED MINISTERS IN PROCESS OF DISTRICT TRANSFER
 
-Ordained ministers receiving appointment by the district conference to 1240:1:A, B, C or D but whose processes of transfer between districts of The Wesleyan Church are not yet completed.
+Ordained ministers receiving appointment by the district conference to [¶1240:1](#p1240-1):A, B, C or D but whose processes of transfer between districts of The Wesleyan Church are not yet completed.
 
 ### ¶F.1 {#pF-1}
 The receiving district shall list the ordained minister under the appropriate category of service, followed by the notation, “Pending Completion of District Transfer.” The minister shall be a nonvoting member of this district until completion of the transfer ([¶1090:9](/part-3/ch2-conference.md#p1090-9)).
@@ -324,7 +324,7 @@ Commissioned ministers employed in other than a ministerial capacity by the Gene
 
 D. COMMISSIONED MINISTERS IN PROCESS OF DISTRICT TRANSFER.
 
-Commissioned ministers receiving appointment by the district conference to 1240:2:A or B but whose processes of transfer from another district of The Wesleyan Church are not yet completed.
+Commissioned ministers receiving appointment by the district conference to [¶1240:2](#p1240-2):A or B but whose processes of transfer from another district of The Wesleyan Church are not yet completed.
 
 **1.** The receiving district shall list the commissioned minister under the appropriate category of service, followed by the notation, “Pending Completion of District Transfer.” The commissioned minister shall be a nonvoting member of this district until completion of the transfer ([¶3100:1](/part-6/ch1-ministerial-orders.md#p3100-1)).
 **2.** The sending district shall list the commissioned minister as having “Applied for District Transfer.” The commissioned minister shall remain a nonvoting member of the sending district until completion of the transfer ([¶1083:3](/part-3/ch2-conference.md#p1083-3)).
@@ -348,7 +348,7 @@ Licensed ministers appointed to service in a local church spiritual formation or
 
 C. IN PROCESS OF DISTRICT TRANSFER.
 
-Licensed ministers receiving appointment by the district conference to 1240:3:A or B but whose processes of transfer from another district of The Wesleyan Church are not yet completed.
+Licensed ministers receiving appointment by the district conference to [¶1240:3](#p1240-3):A or B but whose processes of transfer from another district of The Wesleyan Church are not yet completed.
 
 ### ¶C.1 {#pC-1}
 The receiving district shall list the licensed minister under the appropriate category of service, followed by the notation, “Pending Completion of District Transfer.” The licensed minister shall be a nonvoting member of this district until completion of the transfer ([¶3100:1](/part-6/ch1-ministerial-orders.md#p3100-1)).

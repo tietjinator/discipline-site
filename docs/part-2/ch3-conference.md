@@ -85,7 +85,7 @@ Call a pastor or renew the call ([¶315:2](/part-1/ch4-constitution.md#p315-2); 
 Elect the church officers ([¶315:5](/part-1/ch4-constitution.md#p315-5)), which shall consist of the local church secretary (830), the local church treasurer (if any, 842), members-at-large of the local board of administration ([¶752](/part-2/ch5-local-board.md#p752)), and lay delegates to the district conference ([¶315:5](/part-1/ch4-constitution.md#p315-5), 7).
 
 ##### ¶655.4 {#p655-4}
-Receive reports from the pastor(s), church officers, lay ministers and other persons, boards, and committees as desired, and as listed in 650:2–5.
+Receive reports from the pastor(s), church officers, lay ministers and other persons, boards, and committees as desired, and as listed in [¶650:2–5](#p650-2).
 
 ##### ¶655.5 {#p655-5}
 Remove, when such is in the best interests of the church, by a majority vote of those present and voting, any church officer, trustee, or delegate mentioned in [¶655:4](#p655-4) ([¶782:23](/part-2/ch5-local-board.md#p782-23)).

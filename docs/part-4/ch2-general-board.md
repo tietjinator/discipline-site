@@ -118,7 +118,7 @@ Refer such matters to the Executive Board as shall be deemed wise ([¶1785](#p17
 ### Related to the Church in General
 
 ##### ¶1655.14 {#p1655-14}
-Recommend to the General Conference the number of representative areas and the boundaries of such areas for the election of representatives to the General Board (1590:12); and in the interim of General Conference sessions to assign new districts to the proper area.
+Recommend to the General Conference the number of representative areas and the boundaries of such areas for the election of representatives to the General Board ([¶1590:12](/part-4/ch1-general-conference.md#p1590-12)); and in the interim of General Conference sessions to assign new districts to the proper area.
 
 ### Related to Corporations
 
@@ -176,7 +176,7 @@ Elect content experts to the Executive Cabinet.
 Define the duties of the Executive Cabinet ([¶1990](/part-4/ch4-general-administration.md#p1990)).
 
 ##### ¶1655.32 {#p1655-32}
-Authorize adaptation of the church name for units of The Wesleyan Church when necessary (80; [¶205](/part-1/ch4-constitution.md#p205); [¶340:2](/part-1/ch4-constitution.md#p340-2)); to approve a discipline for each unit under the Global Partners Division in keeping with 340:2; and to recommend to the International Board the advancement to Established National/Regional Conference status of qualified mission units under the Global Partners Division (6516).
+Authorize adaptation of the church name for units of The Wesleyan Church when necessary (80; [¶205](/part-1/ch4-constitution.md#p205); [¶340:2](/part-1/ch4-constitution.md#p340-2)); to approve a discipline for each unit under the Global Partners Division in keeping with [¶340:2](/part-1/ch4-constitution.md#p340-2); and to recommend to the International Board the advancement to Established National/Regional Conference status of qualified mission units under the Global Partners Division (6516).
 
 ##### ¶1655.33 {#p1655-33}
 Space reserved.
@@ -195,7 +195,7 @@ Grant in concurrence with the respective district conference prior approval to a
 ### Related to Judiciary
 
 ##### ¶1655.37 {#p1655-37}
-Exercise administrative and judicial discipline in accordance with the Constitution and as set forth in the General Board Policy on Church Discipline over officers elected by the General Conference including the general officials of the Church ([¶360:2](/part-1/ch4-constitution.md#p360-2)) and the area representatives of the General Board ([¶340:1](/part-1/ch4-constitution.md#p340-1)), over those elected or employed by the General Board ([¶323:1](/part-1/ch4-constitution.md#p323-1)), over districts (360:3c), and over district superintendents ([¶323:1](/part-1/ch4-constitution.md#p323-1); Gen. Bd. Policy on Ch. Disc. 5270-5288; 5350-5385).
+Exercise administrative and judicial discipline in accordance with the Constitution and as set forth in the General Board Policy on Church Discipline over officers elected by the General Conference including the general officials of the Church ([¶360:2](/part-1/ch4-constitution.md#p360-2)) and the area representatives of the General Board ([¶340:1](/part-1/ch4-constitution.md#p340-1)), over those elected or employed by the General Board ([¶323:1](/part-1/ch4-constitution.md#p323-1)), over districts ([¶360:3c](/part-1/ch4-constitution.md#p360-3)), and over district superintendents ([¶323:1](/part-1/ch4-constitution.md#p323-1); Gen. Bd. Policy on Ch. Disc. 5270-5288; 5350-5385).
 
 ##### ¶1655.38 {#p1655-38}
 Hear and determine charges against the moral character of a minister or a lay member under its jurisdiction in keeping with the provisions of the General Board Policy on Church Discipline (Gen. Bd. Policy on Ch. Disc. 5270; 5279; 5282).
@@ -207,7 +207,7 @@ Hear and determine any charges alleging an administrative offense in relation to
  Remove from office any person under its jurisdiction whenever the best interests and preservation of the Church or the disabling physical or mental health of the person require it, subject to the following conditions:
 
 #### ¶1655.40.a {#p1655-40-a}
-Remove from office a general official elected by the General Conference (1800:1a, b), or to remove from General Board membership an area representative, or to remove from office a district superintendent shall require a two-thirds majority vote of all the members of the General Board (Gen. Bd. Policy on Ch. Disc. 5279).
+Remove from office a general official elected by the General Conference ([¶1800:1a](/part-4/ch3-general-officials.md#p1800-1), [¶1800:1b](/part-4/ch3-general-officials.md#p1800-1)), or to remove from General Board membership an area representative, or to remove from office a district superintendent shall require a two-thirds majority vote of all the members of the General Board (Gen. Bd. Policy on Ch. Disc. 5279).
 
 #### ¶1655.40.b {#p1655-40-b}
 Remove from office a person elected or employed by the General Board ([¶1800:2](/part-4/ch3-general-officials.md#p1800-2)) shall require a majority vote of all the members of the General Board (Gen. Bd. Policy on Ch. Disc. 5282).

@@ -84,7 +84,7 @@ If no intentional investment of financial and human resources into the needs of 
 If it has consistently declined in attendance over the past seven years; or
 
 #### ¶518.7.e {#p518-7-e}
-If it ceases to meet one or more of the other conditions set forth in 518:2–5 ([¶4670](/part-8/ch2-local-church-property.md#p4670)).
+If it ceases to meet one or more of the other conditions set forth in [¶518:2–5](#p518-2) ([¶4670](/part-8/ch2-local-church-property.md#p4670)).
 
 #### ¶520 Organizational Meeting. {#p520}
  When the organization of an established church has been authorized by the district board of administration, the district superintendent shall consult with the pastor and the local advisory council, or if there are none, with those interested in forming the church, and appoint a time for an organizational meeting. The organizational meeting shall be conducted by the district superintendent or a representative appointed by the district superintendent as follows:

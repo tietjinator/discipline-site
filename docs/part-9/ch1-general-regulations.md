@@ -49,10 +49,10 @@ For property in developing districts see 542; 4650; 4800; 4920; 4200–4260; 450
 Space reserved.
 
 ##### ¶4590:3 {#p4590-3}
-For local property in established districts see [¶510:4](/part-2/ch1-organization.md#p510-4); 518:6; 528:5; 655:11; 725:21–22; 782:25–26, 29, 32; 850–856; 1038:3; 1180:19–20; 1233:13–14; 1310:11; 1360–1365; 4000–4070; 4100–4150; 4500–4630; 4660–4780; 4240–4250; 4830–4880.
+For local property in established districts see [¶510:4](/part-2/ch1-organization.md#p510-4); [¶518:6](/part-2/ch1-organization.md#p518-6); [¶528:5](/part-2/ch1-organization.md#p528-5); [¶655:11](/part-2/ch3-conference.md#p655-11); [¶725:21–22](/part-2/ch4-pastors.md#p725-21); [¶782:25–26](/part-2/ch5-local-board.md#p782-25), 29, 32; 850–856; [¶1038:3](/part-3/ch1-organization.md#p1038-3); [¶1180:19–20](/part-3/ch2-conference.md#p1180-19); [¶1233:13–14](/part-3/ch3-board.md#p1233-13); [¶1310:11](/part-3/ch5-administration.md#p1310-11); 1360–1365; 4000–4070; 4100–4150; 4500–4630; 4660–4780; 4240–4250; 4830–4880.
 
 ##### ¶4590:4 {#p4590-4}
-For district property in established districts see [¶1038:3](/part-3/ch1-organization.md#p1038-3); 1180:19–20; 1233:13–14; 1310:11; 1360–1365; 4100–4150; 4240–4250; 4500–4630; 4830–4880.
+For district property in established districts see [¶1038:3](/part-3/ch1-organization.md#p1038-3); [¶1180:19–20](/part-3/ch2-conference.md#p1180-19); [¶1233:13–14](/part-3/ch3-board.md#p1233-13); [¶1310:11](/part-3/ch5-administration.md#p1310-11); 1360–1365; 4100–4150; 4240–4250; 4500–4630; 4830–4880.
 
 ##### ¶4590:5 {#p4590-5}
 For General Church property see [¶4200–4270](/part-7/ch3-twc-corporation.md#p4200); 4500–4630; 4900–4940; 475.

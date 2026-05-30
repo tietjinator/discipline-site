@@ -178,7 +178,7 @@ Provide pastoral guidance and oversight through visitation and counsel to the me
 Keep all members fully conversant with the Christian lifestyle set forth in the Guides and Helps to Holy Living and the biblical basis for the same, and to maintain with diligence and love adherence to these membership requirements ([¶260-268](/part-1/ch4-constitution.md#p260)).
 
 ##### ¶725:11 {#p725-11}
-Be responsible for the instruction of all prospective members in the Articles of Religion, Guides and Helps to Holy Living, and polity of The Wesleyan Church, and in the meaning and purpose of church membership, holding or arranging for membership classes for all members ([¶566-570](/part-2/ch2-membership.md#p566); 782:8.
+Be responsible for the instruction of all prospective members in the Articles of Religion, Guides and Helps to Holy Living, and polity of The Wesleyan Church, and in the meaning and purpose of church membership, holding or arranging for membership classes for all members ([¶566-570](/part-2/ch2-membership.md#p566); [¶782:8](/part-2/ch5-local-board.md#p782-8).
 
 ##### ¶725:12 {#p725-12}
 Administer the ritual of membership and to give the right hand of fellowship on behalf of the church to new members ([553:4](/part-2/ch2-membership.md#p553-4); [¶5550-5595](/part-10/ch2-reception.md#p5550)).

@@ -47,7 +47,7 @@ Ordained ministers without appointment ([1240:1](/part-3/ch3-board.md#p1240-1):E
 Ordained ministers in process of transfer from another denomination ([¶3104](/part-6/ch1-ministerial-orders.md#p3104); [¶3390](/part-6/ch3-ministerial-appointments.md#p3390)).
 
 ##### ¶1090:3 {#p1090-3}
-) Commissioned or licensed ministers who are not voting members of the district conference as listed in 1083:2-4, including those in process of transfer from another denomination ([¶3104](/part-6/ch1-ministerial-orders.md#p3104)).
+) Commissioned or licensed ministers who are not voting members of the district conference as listed in [¶1083:2-4](#p1083-2), including those in process of transfer from another denomination ([¶3104](/part-6/ch1-ministerial-orders.md#p3104)).
 
 ##### ¶1090:4 {#p1090-4}
 Ministerial students ([¶3015:3b](/part-6/ch1-ministerial-orders.md#p3015-3); [¶3350:2](/part-6/ch3-ministerial-appointments.md#p3350-2)).
@@ -122,7 +122,7 @@ The district shall promptly notify each pastor of the exact number of lay delega
 ### 2. Procedure
 
 #### ¶1126 Rights. {#p1126}
- The rights of the district conference are declared in the Constitution ([323:1-10](/part-1/ch4-constitution.md#p323-1); [¶325](/part-1/ch4-constitution.md#p325); [¶327:1](/part-1/ch4-constitution.md#p327-1); [¶350:3](/part-1/ch4-constitution.md#p350-3); [360:3c](/part-1/ch4-constitution.md#p360-3), e; [¶375:2](/part-1/ch4-constitution.md#p375-2), ¶4, ¶6; [¶385](/part-1/ch4-constitution.md#p385)).
+ The rights of the district conference are declared in the Constitution ([323:1-10](/part-1/ch4-constitution.md#p323-1); [¶325](/part-1/ch4-constitution.md#p325); [¶327:1](/part-1/ch4-constitution.md#p327-1); [¶350:3](/part-1/ch4-constitution.md#p350-3); [360:3c](/part-1/ch4-constitution.md#p360-3), [¶360:3e](/part-1/ch4-constitution.md#p360-3); [¶375:2](/part-1/ch4-constitution.md#p375-2), ¶4, ¶6; [¶385](/part-1/ch4-constitution.md#p385)).
 
 #### ¶1129 Quorum. {#p1129}
  A majority of all the ministerial voting members and lay delegates of the district conference ([¶1083-1086](#p1083)) shall constitute a quorum for the transaction of business.
@@ -262,7 +262,7 @@ Space reserved.
 ### Relating to District Administration
 
 ##### ¶1180:11 {#p1180-11}
-Take charge of all ordained, commissioned, or licensed ministers, ministerial students, commissioned and licensed special workers, missions, developing churches, pastoral charges, and other district work within its bounds, except when the district is under discipline ([360:3c](/part-1/ch4-constitution.md#p360-3), e), and except for those members of the district who are elected as general officials ([¶1800](/part-4/ch3-general-officials.md#p1800)), missionaries appointed under the Global Partners Division ([¶2272](/part-4/ch6-global-partners.md#p2272)), and others who are amenable only to the General Board for their official duties ([¶323:1](/part-1/ch4-constitution.md#p323-1); [¶360:2](/part-1/ch4-constitution.md#p360-2); Gen. Bd. Policy on Ch. Disc. 5150; 5203).
+Take charge of all ordained, commissioned, or licensed ministers, ministerial students, commissioned and licensed special workers, missions, developing churches, pastoral charges, and other district work within its bounds, except when the district is under discipline ([360:3c](/part-1/ch4-constitution.md#p360-3), [¶360:3e](/part-1/ch4-constitution.md#p360-3)), and except for those members of the district who are elected as general officials ([¶1800](/part-4/ch3-general-officials.md#p1800)), missionaries appointed under the Global Partners Division ([¶2272](/part-4/ch6-global-partners.md#p2272)), and others who are amenable only to the General Board for their official duties ([¶323:1](/part-1/ch4-constitution.md#p323-1); [¶360:2](/part-1/ch4-constitution.md#p360-2); Gen. Bd. Policy on Ch. Disc. 5150; 5203).
 
 ##### ¶1180:12 {#p1180-12}
 Receive a report concerning their official duties from the following: the district superintendent ([¶1310:27](/part-3/ch5-administration.md#p1310-27)), the assistant district superintendent(s) ([¶1323:5](/part-3/ch5-administration.md#p1323-5)), the district treasurer (1337:8), and any others as desired by the district conference.
@@ -348,7 +348,7 @@ Any other license or commission as shall be authorized by The Discipline.
 The restoration or reinstatement of ordination, commission, or license as set forth in [¶3120–3124](/part-6/ch1-ministerial-orders.md#p3120); 3480; Gen. Bd. Policy on Ch. Disc. 5230-5248 ([¶1390:4](/part-3/ch6-ministerial.md#p1390-4)).
 
 ##### ¶1180:28 {#p1180-28}
-Receive and pass on an annual service report, through the district board of ministerial development as set forth in 1390:7-9, from each ordained, commissioned, and licensed minister, ministerial student, and commissioned and licensed special worker; to receive an explanation from the district board of ministerial development relative to each person whose report has been found unsatisfactory, and to vote on the continuation of such person for appointment, which shall require a two-thirds vote of confidence for approval ([¶1390:9](/part-3/ch6-ministerial.md#p1390-9)).
+Receive and pass on an annual service report, through the district board of ministerial development as set forth in [¶1390:7-9](/part-3/ch6-ministerial.md#p1390-7), from each ordained, commissioned, and licensed minister, ministerial student, and commissioned and licensed special worker; to receive an explanation from the district board of ministerial development relative to each person whose report has been found unsatisfactory, and to vote on the continuation of such person for appointment, which shall require a two-thirds vote of confidence for approval ([¶1390:9](/part-3/ch6-ministerial.md#p1390-9)).
 
 ### Relating to the Election of Officials and Committees
 
