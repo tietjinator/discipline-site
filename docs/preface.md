@@ -90,7 +90,7 @@ Index
 
  
 
-If a paragraph is divided into numbered parts, each is called a subparagraph. When a paragraph number is followed by a subparagraph number, the two numbers are joined by a colon. For example, ¶725:1 means ¶paragraph [¶725, subparagraph 1](#p725-1). If a subparagraph is further divided into parts, they are identified by letter. For example, **1233:9b** means **paragraph ¶1233, subparagraph 9, division b**. A comparative or “cf.” reference, when found within a sentence applies only to that sentence. When the “Cf.” appears parenthetically outside the sentence the comparative reference(s) apply to the whole of the preceding paragraph.
+If a paragraph is divided into numbered parts, each is called a subparagraph. When a paragraph number is followed by a subparagraph number, the two numbers are joined by a colon. For example, ¶725:1 means ¶paragraph ¶725, subparagraph 1. If a subparagraph is further divided into parts, they are identified by letter. For example, **1233:9b** means **paragraph ¶1233, subparagraph 9, division b**. A comparative or “cf.” reference, when found within a sentence applies only to that sentence. When the “Cf.” appears parenthetically outside the sentence the comparative reference(s) apply to the whole of the preceding paragraph.
 
 Return to Wesleyan Discipline
 

@@ -141,7 +141,7 @@ To license lay ministers ([¶3410–3420](/part-6/ch4-special-lay-ministries.md#
 To elect lay delegates to the district conference ([¶315:7](/part-1/ch4-constitution.md#p315-7); [¶1100–1109](/part-3/ch2-conference.md#p1100)).
 
 ##### ¶528.4 {#p528-4}
-To elect a circuit secretary, such members of the circuit advisory council ([¶530](#p530)) in addition to the ex officio members as the circuit conference shall determine are needed to assure proper representation, and a circuit board of trustees (if such is needed, cf. ¶532).
+To elect a circuit secretary, such members of the circuit advisory council ([¶530](#p530)) in addition to the ex officio members as the circuit conference shall determine are needed to assure proper representation, and a circuit board of trustees (if such is needed, cf. [¶532](#p532)).
 
 ##### ¶528.5 {#p528-5}
 To determine all matters involving two or more of the churches on the circuit, including the authorization of transactions involved in the purchase, erection, encumbrance, sale, or other disposition of a circuit parsonage or other property ([¶4740–4750](/part-8/ch2-local-church-property.md#p4740)).

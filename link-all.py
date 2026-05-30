@@ -3,6 +3,7 @@
 import re, os, sys
 
 docs_dir = sys.argv[1] if len(sys.argv) > 1 else "/tmp/discipline-agents/claude-work/docs"
+P = '\u00b6'
 
 # Build anchor maps
 anchor_map = {}
@@ -95,11 +96,19 @@ for root, dirs, files in os.walk(docs_dir):
                 if linked:
                     return prefix + linked
                 return m.group(0)
-            # Only match bare refs NOT inside markdown links, and skip ¶ (handled by paren fix)
+            # Bare inline refs after keywords
             content = re.sub(
-                r'(?<!\]\()(in |see |cf\.? |and |or |paragraphs?\s+|nor )'
+                r'(in |see |cf\.? |and |or |paragraphs?\s+|nor '
+                r'|defined in |set forth in |provided for in '
+                r'|referred to in |mentioned in )'
                 r'(\d{2,}(?::\d+[a-z]?)?(?:[–-]\d+)?)',
                 fix_bare, content
+            )
+            # Also catch refs after italic markup: *text* ¶NNN
+            content = re.sub(
+                r'(\*[^*]+\*\.?\s*)(' + P + r'?\d{2,}(?::\d+[a-z]?)?(?:[–-]\d+)?)',
+                lambda m: m.group(1) + (resolve(m.group(2).lstrip(P), current) or m.group(2)),
+                content
             )
 
             if content != original:

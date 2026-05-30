@@ -43,7 +43,7 @@
  All property, whether real, personal, or mixed, acquired by any local church, circuit, district, institution, agency, or other similar body of The Wesleyan Church, whether incorporated or unincorporated, shall be held in trust for The Wesleyan Church, incorporated as The Wesleyan Church Corporation under the laws of the state of Indiana, and shall contain the trust clause as set forth in ¶4610 ([¶315:6](/part-1/ch4-constitution.md#p315-6); [¶323:8](/part-1/ch4-constitution.md#p323-8)). The absence of the trust clause in the evidence of the title or other written instruments, regardless of whether such absence is due to mistake, inadvertence, or willful omission, shall in no way exclude a local church, circuit, district, institution, agency, or similar body, whether incorporated or unincorporated, from or relieve it of its responsibility to The Wesleyan Church and subjection to the authority of said Church, and such property can only be sold, transferred, or otherwise disposed of in accord with the provisions of *The Discipline*, concerning the sale, transfer, or encumbrance of property.
 
 ##### ¶4590:1 {#p4590-1}
-For property in developing districts see ¶542; 4650; 4800; 4920; 4200–4260; 4500–4630.
+For property in developing districts see [¶542](/part-2/ch1-organization.md#p542); 4650; 4800; 4920; 4200–4260; 4500–4630.
 
 ##### ¶4590:2 {#p4590-2}
 Space reserved.
