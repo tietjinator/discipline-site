@@ -85,55 +85,79 @@ export default defineConfig({
       '/part-4/': [{
         text: 'Part 4 — General Church Government',
         items: [
-          { text: 'General Church Government (¶1500–2499)', link: '/part-4/' },
+          { text: 'Ch. 1 — General Conference (¶1500–1599)', link: '/part-4/ch1-general-conference' },
+          { text: 'Ch. 2 — General Board (¶1600–1799)', link: '/part-4/ch2-general-board' },
+          { text: 'Ch. 3 — General Officials (¶1800–1899)', link: '/part-4/ch3-general-officials' },
+          { text: 'Ch. 4 — General Administration (¶1900–2099)', link: '/part-4/ch4-general-administration' },
+          { text: 'Ch. 5 — Communication & Admin (¶2100–2199)', link: '/part-4/ch5-communication-admin' },
+          { text: 'Ch. 6 — Global Partners (¶2200–2299)', link: '/part-4/ch6-global-partners' },
+          { text: 'Ch. 7 — Multiplication & Discipleship (¶2300–2337)', link: '/part-4/ch7-multiplication-discipleship' },
+          { text: 'Ch. 8 — Education & Clergy (¶2338–2399)', link: '/part-4/ch8-education-clergy' },
+          { text: 'Ch. 9 — Boundaries (¶2400–2499)', link: '/part-4/ch9-boundaries' },
         ]
       }],
       '/part-5/': [{
         text: 'Part 5 — World Organization',
         items: [
-          { text: 'World Organization (¶2500–2999)', link: '/part-5/' },
+          { text: 'Ch. 1 — Basic Principles (¶2500–2549)', link: '/part-5/ch1-basic-principles' },
+          { text: 'Ch. 2 — General Conferences (¶2550–2649)', link: '/part-5/ch2-conferences' },
+          { text: 'Ch. 3 — International Conference (¶2650–2999)', link: '/part-5/ch3-international' },
         ]
       }],
-      '/ministry/': [{
-        text: 'Ministry',
+      '/part-6/': [{
+        text: 'Part 6 — Ministry',
         items: [
-          { text: 'Ministry (¶3000–3499)', link: '/ministry/' },
+          { text: 'Ch. 1 — Ministerial Orders (¶3000–3249)', link: '/part-6/ch1-ministerial-orders' },
+          { text: 'Ch. 2 — Ministerial Education (¶3250–3299)', link: '/part-6/ch2-ministerial-education' },
+          { text: 'Ch. 3 — Ministerial Appointments (¶3300–3390)', link: '/part-6/ch3-ministerial-appointments' },
+          { text: 'Ch. 4 — Special Lay Ministries (¶3400–3499)', link: '/part-6/ch4-special-lay-ministries' },
         ]
       }],
-      '/corporations/': [{
-        text: 'Corporations',
+      '/part-7/': [{
+        text: 'Part 7 — Corporations',
         items: [
-          { text: 'Corporations (¶4000–4499)', link: '/corporations/' },
+          { text: 'Ch. 1 — Local Church Corp. (¶4000–4099)', link: '/part-7/ch1-local-church-corporations' },
+          { text: 'Ch. 2 — District Corp. (¶4100–4199)', link: '/part-7/ch2-district-corporations' },
+          { text: 'Ch. 3 — TWC Corporation (¶4200–4299)', link: '/part-7/ch3-twc-corporation' },
+          { text: 'Ch. 4 — Subsidiary Corp. (¶4300–4399)', link: '/part-7/ch4-subsidiary-corporations' },
+          { text: 'Ch. 5 — Pension Corp. (¶4400–4499)', link: '/part-7/ch5-pension-corporation' },
         ]
       }],
-      '/property/': [{
-        text: 'Property',
+      '/part-8/': [{
+        text: 'Part 8 — Property',
         items: [
-          { text: 'Property (¶4500–4999)', link: '/property/' },
+          { text: 'Ch. 1 — General Principles (¶4500–4549)', link: '/part-8/ch1-general-principles' },
+          { text: 'Ch. 2 — Local Church Property (¶4550–4699)', link: '/part-8/ch2-local-church-property' },
+          { text: 'Ch. 3 — District Property (¶4700–4849)', link: '/part-8/ch3-district-property' },
+          { text: 'Ch. 4 — General Church Property (¶4850–4999)', link: '/part-8/ch4-general-church-property' },
         ]
       }],
-      '/judiciary/': [{
-        text: 'Judiciary',
+      '/part-9/': [{
+        text: 'Part 9 — Judiciary',
         items: [
-          { text: 'Judiciary (¶5000–5004)', link: '/judiciary/' },
+          { text: 'Ch. 1 — General Regulations (¶5000–5004)', link: '/part-9/ch1-general-regulations' },
         ]
       }],
-      '/ritual/': [{
-        text: 'Ritual',
+      '/part-10/': [{
+        text: 'Part 10 — The Ritual',
         items: [
-          { text: 'Ritual (¶5500–5999)', link: '/ritual/' },
+          { text: 'Ch. 1 — Baptism (¶5500–5549)', link: '/part-10/ch1-baptism' },
+          { text: 'Ch. 2 — Reception of Members (¶5550–5599)', link: '/part-10/ch2-reception' },
+          { text: 'Ch. 3 — The Lord\'s Supper (¶5600–5649)', link: '/part-10/ch3-lords-supper' },
+          { text: 'Ch. 4 — Marriage (¶5650–5699)', link: '/part-10/ch4-marriage' },
+          { text: 'Ch. 5 — Burial of the Dead (¶5700–5749)', link: '/part-10/ch5-burial' },
+          { text: 'Ch. 6 — Ordination (¶5750–5799)', link: '/part-10/ch6-ordination' },
+          { text: 'Ch. 7 — Commissioning (¶5800–5849)', link: '/part-10/ch7-commissioning' },
+          { text: 'Ch. 8 — Commissioning Lay Workers (¶5850–5899)', link: '/part-10/ch8-commissioning-lay' },
+          { text: 'Ch. 9 — Installation (¶5900–5949)', link: '/part-10/ch9-installation' },
+          { text: 'Ch. 10 — Dedication (¶5950–5999)', link: '/part-10/ch10-dedication' },
         ]
       }],
-      '/forms/': [{
-        text: 'Forms',
+      '/part-11/': [{
+        text: 'Part 11 — Forms',
         items: [
-          { text: 'Forms (¶6000–6499)', link: '/forms/' },
-        ]
-      }],
-      '/appendices/': [{
-        text: 'Appendices',
-        items: [
-          { text: 'Appendices (¶6500–7999)', link: '/appendices/' },
+          { text: 'Ch. 1 — Church Letters (¶6000–6249)', link: '/part-11/ch1-church-letters' },
+          { text: 'Ch. 2 — Service Credentials (¶6250–6499)', link: '/part-11/ch2-service-credentials' },
         ]
       }],
     },
