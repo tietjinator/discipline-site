@@ -210,11 +210,11 @@ Wesleyan Youth adult leader, officers, and committees ([¶922](#p922))
 
 ### 2. Sunday School
 
-A. Function ]
+A. Function
 
 **885.** Each local church shall provide for systematic Bible study. Sunday school, small group Bible studies, and other programs or events that promote making more and better disciples of Jesus Christ are to be considered by the local church.
 
-B. Administration ]
+B. Administration
 
 **887. General.** The Sunday school shall be governed by the local church conference and the local board of administration through the local spiritual formation leadership team, under the general supervision of the pastor. Immediate administration shall be the responsibility of either a spiritual formation minister or director or Sunday school superintendent and a spiritual formation leadership team. If administration is through a superintendent and a leadership team, the structure outlined in paragraphs [¶889–910](#p889–910) shall be followed. If administration is through a minister or director of spiritual formation, the local board of administration may determine the structure and assign responsibilities as it sees fit. In all cases, administrators shall carry out their assignment in keeping with The Discipline, the General Board Policy for the Church Multiplication and Discipleship Division, the standard adopted by the General Board and promoted through the Church Multiplication and Discipleship Division, and the programs of the division and of the district spiritual formation leadership team.
 
@@ -241,7 +241,7 @@ B. Administration ]
 
 **910. Amenability.** General regulations covering the amenability, removal, and filling of vacancies for spiritual formation officers, departmental supervisors and teachers elected by the local board of administration are found in [¶825](#p825). All others appointed by the local spiritual formation leadership team are amenable to the local spiritual formation leadership team and can be replaced as it sees fit.
 
-C. Organization ]
+C. Organization
 
 **913.** Guidelines for organization of spiritual formation ministries and Sunday school shall be provided through the General Board Policy for the Church Multiplication and Discipleship Division and the standard adopted by the General Board and promoted through the Church Multiplication and Discipleship Division.
 

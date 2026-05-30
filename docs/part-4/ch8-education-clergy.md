@@ -78,7 +78,7 @@ Further, the specific vision, mission, strategic plan, core values, and general 
 
 ### 1. Ownership and Control
 
-a. Basic Principles ]
+a. Basic Principles
 
 #### ¶2358 {#p2358}
  The educational institutions of The Wesleyan Church shall be governed in harmony with these principles:
@@ -92,7 +92,7 @@ The Church and all its schools shall work in the closest harmony. In its legisla
 ##### ¶2358.3 {#p2358-3}
 In establishing its educational institutions, and in guiding their life and work, The Wesleyan Church seeks to provide the highest possible quality of Christian education for its own constituents and for other persons who wish to study under its auspices without regard to race, national origin, or gender ([¶265:12](/part-1/ch4-constitution.md#p265-12); 360:3d).
 
-b. Lines of Authority ]
+b. Lines of Authority
 
 #### ¶2362 {#p2362}
  Ultimate authority over the educational institutions of The Wesleyan Church rests with the General Conference ([¶1590:13](#p1590-13)). In practice this authority is delegated to the General Board and consists of the following:

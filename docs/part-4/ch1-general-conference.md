@@ -12,7 +12,7 @@
 #### ¶1503 {#p1503}
  The General Conference shall be composed of voting and nonvoting members as follows:
 
-Voting Members ]
+Voting Members
 
 ##### ¶1503:1 {#p1503-1}
  The voting members shall consist of an equal number of ordained ministers and lay members of The Wesleyan Church ([¶325](#p325)):
@@ -26,7 +26,7 @@ One ministerial and one lay delegate elected by an established district for ever
 ###### ¶1503:1c {#p1503-1c}
 The general officials of the Church as defined in [¶1800](/part-4/ch3-general-officials.md#p1800), the General Superintendents Emeriti, members of the General Board who are not voting members by some other right, the presidents of the educational institutions and Wesley Seminary ([¶2365](/part-4/ch8-education-clergy.md#p2365) and [¶2366](/part-4/ch8-education-clergy.md#p2366)), the general directors of Hephzibah Ministries, Wesleyan Investment Foundation, Wesleyan Pension Fund Inc, the Wesleyan Bible Conference Association, and the Immigrant Connection, and such delegates-at-large as shall be necessary to maintain parity between ordained ministers and lay members ([¶1508-1510](#p1508)).
 
-Nonvoting Members ]
+Nonvoting Members
 
 ##### ¶1503:2 {#p1503-2}
 The following, when they are not voting members by some other right, shall be seated as nonvoting members when present at the General Conference session: former General Superintendents and superintendents of developing districts ([¶1015](/part-3/ch1-organization.md#p1015)).
@@ -41,7 +41,7 @@ The General Board shall designate the number of nonvoting members from mission u
 
 ### 3. Election of Delegates
 
-a. Delegates-at-Large ]
+a. Delegates-at-Large
 
 #### ¶1508 {#p1508}
  The election of delegates-at-large shall be arranged for by the recommendation of the Executive Director of Communication and Administration and the approval of the General Board in accordance with the following regulations:
@@ -55,7 +55,7 @@ The established districts shall be considered in alphabetical order, and each el
 #### ¶1510 {#p1510}
  The General Board shall act upon the recommendation of the Executive Director of Communication and Administration in one of its sessions consistent with the provisions of paragraph [¶1512](#p1512). The delegates-at-large shall be elected by the appointed districts at the same time and in the same manner as the other General Conference delegates ([¶1512-1526](#p1512-1526)).
 
-b. Delegates ]
+b. Delegates
 
 #### ¶1512 {#p1512}
  The delegates to the General Conference shall be elected by the district conference, by ballot and by majority vote, at its last annual session preceding the General Conference. When the last annual session is within sixty days of the opening date of the General Conference, the district conference may elect its delegates at the previous annual session. The statistical report for the annual session of the district conference at which the delegates are elected shall be used for determining the number of members, and consequently, the number of General Conference delegates ([¶1503:1b](#p1503-1b)). A certified list of all delegates to the General Conference shall be promptly forwarded by the district secretary to the Executive Director of Communication and Administration ([¶1332:5](#p1332-5)).
@@ -63,7 +63,7 @@ b. Delegates ]
 #### ¶1514 {#p1514}
  A person accepting election as a delegate is obligated to attend faithfully the entire General Conference session, unless hindered by unforeseen and justifiable circumstances ([¶1541](#p1541)).
 
-c. Alternate Delegates ]
+c. Alternate Delegates
 
 #### ¶1516 {#p1516}
  Alternate delegates shall be the remaining nominees not elected to serve as General Conference delegates and shall fill vacancies in the descending order of votes received ([¶1332:5](#p1332-5)).
@@ -73,14 +73,14 @@ c. Alternate Delegates ]
 
 ### 4. Qualifications of Delegates
 
-a. Ministerial Delegates ]
+a. Ministerial Delegates
 
 #### ¶1520 {#p1520}
  A ministerial delegate must be an ordained minister who is a member of the district represented, both at the time of election and at the time of the General Conference ([¶327:2](#p327-2)).
 
 **1522.** Whenever a ministerial delegate-elect shall transfer membership to another district, the right to represent the district shall be vacated and an alternate ministerial delegate shall be certified ([¶1332:5](#p1332-5); [¶1516](#p1516)).
 
-b. Lay Delegates ]
+b. Lay Delegates
 
 #### ¶1524 {#p1524}
  A lay delegate must be a lay person who is a member with the leadership qualifications ([¶260-268](#p260-268); [¶558](#p558)) of a local church in the district represented, both at the time of election and at the time of the General Conference ([¶327:3](#p327-3)).
@@ -149,12 +149,12 @@ b. Lay Delegates ]
 #### ¶1563 {#p1563}
  The General Conference shall have such committees as it may deem necessary. The committees shall be nominated by the General Board, unless ordered otherwise in *The Discipline* or by the General Conference, and elected by the General Conference.
 
-a. Committee on Memorials ]
+a. Committee on Memorials
 
 #### ¶1565 {#p1565}
  The General Board shall serve as the Committee on Memorials. It shall be the duty of the Committee on Memorials to receive all memorials for the General Conference, classify them, pass on each of them, and submit such memorials to the General Conference, together with the committee’s recommendation, and in such order as the committee shall determine ([¶1655:7](#p1655-7)). All memorials received no later than November 1 of the year prior to the General Conference shall be classified and printed for distribution to the General Conference delegates no later than sixty days before the opening date of the General Conference. Any memorial received by the Committee on Memorials after November 1 shall only be presented to the General Conference if it is recommended for adoption by the Committee on Memorials and if the General Conference votes to hear it.
 
-b. General Conference Planning Committee ]
+b. General Conference Planning Committee
 
 #### ¶1570 {#p1570}
  The Executive Cabinet, with such other additional persons as it shall appoint, at least one year before the convening of a regular session of the General Conference, shall constitute a General Conference Planning Committee. The General Superintendent, or a person designated by the General Superintendent, shall serve as chair.
@@ -165,7 +165,7 @@ b. General Conference Planning Committee ]
 #### ¶1576 {#p1576}
  The Executive Cabinet shall formulate a program for the General Conference, including any worship services and other special features, all of which shall be subject to the approval of the General Board or, in the interim of its sessions, the Executive Board.
 
-c. Committee on Special Nominations ]
+c. Committee on Special Nominations
 
 #### ¶1580 {#p1580}
  The General Board shall serve as the Committee on Special Nominations ([¶1655:7](#p1655-7)). The duties of this committee shall be to:
@@ -179,17 +179,17 @@ Present nominations for the members of the Board of Review ([¶1590:18](#p1590-1
 ##### ¶1580.3 {#p1580-3}
 Present such other nominations or fulfill such duties as may be assigned to them by the General Conference.
 
-d. General Conference Editing Committee ]
+d. General Conference Editing Committee
 
 #### ¶1585 {#p1585}
  The General Conference Editing Committee shall be elected by the General Board and shall be responsible for editing *The Discipline*, the *General Conference Journal*, and any other item assigned by the General Conference or the General Board. All recommendations concerning the dedication of the *General Conference Journal* shall be referred to the General Board which shall determine the matter and instruct the committee accordingly. The committee is authorized, in consultation with the General Superintendent, to make any and all changes and additions to *The Discipline* (except changes to the Constitution, unless otherwise ordered by the General Conference) that it deems essential for implementing the intent of the General Conference in adopting specific legislation, subject to final review and approval of such changes by the General Board or its Executive Board.
 
-e. Duties and Powers ]
+e. Duties and Powers
 
 #### ¶1590 {#p1590}
  The duties, powers, and restrictions of the General Conference are set forth in the Constitution ([¶325-360](#p325-360)), and as hereinafter provided:
 
-The Essentials and the Constitution ]
+The Essentials and the Constitution
 
 ##### ¶1590.1 {#p1590-1}
 Vote on an amendment to the Essentials ([¶125](/part-1/ch3-church-law.md#p125); 6765:1).
@@ -200,7 +200,7 @@ Propose an amendment to the Constitution ([¶200-385](/part-1/ch4-constitution.m
 ##### ¶1590.3 {#p1590-3}
 Request, by a vote of one-fifth of its members, present and voting, a judgment from the Board of Review as to the constitutionality of an action of the General Conference ([¶375:1](/part-1/ch4-constitution.md#p375-1)); and to overrule such a judgment by a two-thirds majority of those present and voting ([¶380](/part-1/ch4-constitution.md#p380)).
 
-General Legislation ]
+General Legislation
 
 ##### ¶1590.4 {#p1590-4}
 Have full power in keeping with the Constitution ([¶135](/part-1/ch3-church-law.md#p135); [¶145](/part-1/ch3-church-law.md#p145)) and by majority vote to enact statutory law ([¶155](/part-1/ch3-church-law.md#p155)), and to adopt ritual ([¶175](/part-1/ch3-church-law.md#p175)) for The Discipline, and to adopt other rules and regulations for the Church, all of which shall be the chief authority for the North American General Conference of The Wesleyan Church and its subordinate units ([¶2550](/part-5/ch2-conferences.md#p2550)); to ratify amendments to the Charter of The International Conference of The Wesleyan Church (see Appendix A) or to authorize the General Board to approve such amendments in the interim of General Conferences.
@@ -238,7 +238,7 @@ Designate a criterion of parliamentary procedure for itself and other representa
 ##### ¶1590.15 {#p1590-15}
 Elect by ballot and by majority vote, from among the ordained ministers of The Wesleyan Church, one General Superintendent. When an incumbent General Superintendent’s term of office is expiring and the General Superintendent is available for continued service, the reelection vote shall be a “yes/no” ballot. In the event of a vacancy, the General Board shall determine a process for the identification of eligible candidates for the office of General Superintendent. The General Board shall evaluate candidates to determine their availability for election. The General Board shall provide one or more nominations to the General Conference for election.
 
-Elections ]
+Elections
 
 ##### ¶1590.16 {#p1590-16}
 Elect the following general officials by ballot and by majority vote, from one or more nominees for each office presented by the Committee on Special Nominations ([¶1580:1](#p1580-1)) and any additional nominations from the floor of the General Conference: the Executive Director of the Communication and Administration Division, the Executive Director of the Education and Clergy Development Division, the Executive Director of the Church Multiplication and Discipleship Division, and the Executive Director of the Global Partners Division.
@@ -255,7 +255,7 @@ Confer the title General Superintendent Emeritus or Emerita upon a former Genera
 ##### ¶1590:20 {#p1590-20}
 Space reserved.
 
-Judiciary ]
+Judiciary
 
 ##### ¶1590.21 {#p1590-21}
 Hear and determine appeals from decisions of the Board of Review, and to overrule such decisions by a two-thirds majority vote ([¶380](/part-1/ch4-constitution.md#p380); also Gen. Bd. Policy on Ch. Disc. 5450).
