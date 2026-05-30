@@ -316,10 +316,10 @@ Commissioned ministers appointed to service in a local church spiritual formatio
 
 C. COMMISSIONED MINISTERS WITHOUT APPOINTMENT ([¶3380](/part-6/ch3-ministerial-appointments.md#p3380)).
 
-#### ¶1240.2.C.1 {#p1240-2-C-1}
+###### ¶1240.2.C.1 {#p1240-2-C-1}
 Commissioned ministers not available for appointment.
 
-#### ¶1240.2.C.2 {#p1240-2-C-2}
+###### ¶1240.2.C.2 {#p1240-2-C-2}
 Commissioned ministers employed in other than a ministerial capacity by the General Church ([¶3320](/part-6/ch3-ministerial-appointments.md#p3320)), by a general educational institution or one of the seminaries connected with the Wesleyan Seminary Foundation ([¶3310](/part-6/ch3-ministerial-appointments.md#p3310)) or in interchurch service ([¶3335](/part-6/ch3-ministerial-appointments.md#p3335)).
 
 D. COMMISSIONED MINISTERS IN PROCESS OF DISTRICT TRANSFER.

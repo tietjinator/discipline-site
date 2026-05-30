@@ -33,16 +33,16 @@ A developing church may have one lay delegate to the district conference when so
 ##### ¶510.6 {#p510-6}
   Each developing church shall be assigned by the district board of administration to one of the following categories for annual district conference and General Church reporting purposes, until it is organized as an established church or discontinued:
 
-#### ¶510.6.a {#p510-6-a}
+###### ¶510.6.a {#p510-6-a}
 District/denominational church plant (a new church initiated and supervised by the district or the Church Multiplication and Discipleship Division but not yet classified as an established church in keeping with [518](#p518));
 
-#### ¶510.6.b {#p510-6-b}
+###### ¶510.6.b {#p510-6-b}
 Daughter church plant (a new church initiated and supervised by a parent church or a cluster of parenting church partners but not yet classified as an established church in keeping with [518](#p518));
 
-#### ¶510.6.c {#p510-6-c}
+###### ¶510.6.c {#p510-6-c}
 Revitalization project (a former established church reclassified by the district conference or the district board of administration in keeping with [518:7](#p518-7) for the intentional purpose of renewal and redevelopment); or
 
-#### ¶510.6.d {#p510-6-d}
+###### ¶510.6.d {#p510-6-d}
 Restart project (a former developing or established church temporarily closed by the district and subsequently reopened at the same location and/or with some of the previous members).
 
 ### 2. Established Church
@@ -71,19 +71,19 @@ The holding of all property in trust for The Wesleyan Church as required in [¶4
 ##### ¶518.7 {#p518-7}
   An established church may be reclassified by the district conference or the district board of administration as a developing church if such is recommended by the district superintendent and:
 
-#### ¶518.7.a {#p518-7-a}
+###### ¶518.7.a {#p518-7-a}
 If its membership drops to thirty or fewer ([¶1180:22](/part-3/ch2-conference.md#p1180-22); [¶1233:26](/part-3/ch3-board.md#p1233-26)); or
 
-#### ¶518.7.b {#p518-7-b}
+###### ¶518.7.b {#p518-7-b}
 If no new converts and/or believers’ baptisms have been reported by the church within the previous two years; or
 
-#### ¶518.7.c {#p518-7-c}
+###### ¶518.7.c {#p518-7-c}
 If no intentional investment of financial and human resources into the needs of those outside the church has been demonstrated within the two previous years; or
 
-#### ¶518.7.d {#p518-7-d}
+###### ¶518.7.d {#p518-7-d}
 If it has consistently declined in attendance over the past seven years; or
 
-#### ¶518.7.e {#p518-7-e}
+###### ¶518.7.e {#p518-7-e}
 If it ceases to meet one or more of the other conditions set forth in [¶518:2–5](#p518-2) ([¶4670](/part-8/ch2-local-church-property.md#p4670)).
 
 #### ¶520 Organizational Meeting. {#p520}

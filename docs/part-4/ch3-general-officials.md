@@ -6,10 +6,10 @@
 ##### ¶1800.1 {#p1800-1}
  Elected by the General Conference:
 
-#### ¶1800.1.a {#p1800-1-a}
+###### ¶1800.1.a {#p1800-1-a}
 The General Superintendent.
 
-#### ¶1800.1.b {#p1800-1-b}
+###### ¶1800.1.b {#p1800-1-b}
 The Executive Director of the Communication and Administration Division, the Executive Director of the Education and Clergy Development Division, the Executive Director of the Church Multiplication and Discipleship Division, and the Executive Director of the Global Partners Division.
 
 ##### ¶1800.2 {#p1800-2}

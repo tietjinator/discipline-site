@@ -578,22 +578,22 @@ Elect such officers as it shall choose and to define their duties and responsibi
 ##### ¶360.3 {#p360-3}
  Make and administer rules and regulations for The Wesleyan Church subject to the Constitution and the following restrictions:
 
-#### ¶360.3.a {#p360-3-a}
+###### ¶360.3.a {#p360-3-a}
 It shall not have power to revoke, alter, or change our Articles of Religion, Elementary Principles, or any membership commitment, or the conditions of membership, or to establish any standards of doctrine contrary to our present existing and established standards of doctrine.
 
-#### ¶360.3.b {#p360-3-b}
+###### ¶360.3.b {#p360-3-b}
 It shall not change or alter any part or rule of our government, so as to destroy the principle of equal representation of ministers and lay members in the representative bodies of the Church; or to do away with the right of each General Conference to elect its own officers, or the maintenance of an itinerant ministry.
 
-#### ¶360.3.c {#p360-3-c}
+###### ¶360.3.c {#p360-3-c}
 It shall make no rule, except as provided in [¶365](#p365), that shall deny any church the right to receive, discontinue or expel its own members subject to their right of appeal; or to elect and remove its own officers; or that shall deny to the district conference the final disposition of all pastoral arrangements, except those districts in which the General Conference or the General Board has transferred the supervision to a General Superintendent or other related general official, or that shall deny to preachers and churches initial negotiations concerning the same.
 
-#### ¶360.3.d {#p360-3-d}
+###### ¶360.3.d {#p360-3-d}
 It shall make no rule, except as provided in [¶365](#p365), that will discriminate against any member or minister on account of ancestry, color, or sex.
 
-#### ¶360.3.e {#p360-3-e}
+###### ¶360.3.e {#p360-3-e}
 It shall make no rule that will interfere with the supervision of established districts (in distinction from developing districts) over the ministers and churches within their bounds, unless said district (or districts) is under discipline.
 
-#### ¶360.3.f {#p360-3-f}
+###### ¶360.3.f {#p360-3-f}
 It shall not have the power to deprive any member or minister of the right of hearing by an impartial committee, or of the right of appeal.
 
 ## Article 10. Coordination of Local, District, and General Discipline

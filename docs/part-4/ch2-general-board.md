@@ -206,10 +206,10 @@ Hear and determine any charges alleging an administrative offense in relation to
 ##### ¶1655.40 {#p1655-40}
  Remove from office any person under its jurisdiction whenever the best interests and preservation of the Church or the disabling physical or mental health of the person require it, subject to the following conditions:
 
-#### ¶1655.40.a {#p1655-40-a}
+###### ¶1655.40.a {#p1655-40-a}
 Remove from office a general official elected by the General Conference ([¶1800:1a](/part-4/ch3-general-officials.md#p1800-1), [¶1800:1b](/part-4/ch3-general-officials.md#p1800-1)), or to remove from General Board membership an area representative, or to remove from office a district superintendent shall require a two-thirds majority vote of all the members of the General Board (Gen. Bd. Policy on Ch. Disc. 5279).
 
-#### ¶1655.40.b {#p1655-40-b}
+###### ¶1655.40.b {#p1655-40-b}
 Remove from office a person elected or employed by the General Board ([¶1800:2](/part-4/ch3-general-officials.md#p1800-2)) shall require a majority vote of all the members of the General Board (Gen. Bd. Policy on Ch. Disc. 5282).
 
 ##### ¶1655.41 {#p1655-41}

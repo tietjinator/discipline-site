@@ -28,34 +28,34 @@ Leadership. Membership is the basic standard required for designated leadership 
 ##### ¶552.3 {#p552-3}
  Leadership positions in the local church that require a person to be a member who meets the qualifications ([¶260-268](/part-1/ch4-constitution.md#p260); [¶558](#p558)) include:
 
-#### ¶552.3.a {#p552-3-a}
+###### ¶552.3.a {#p552-3-a}
 any person in a credentialed ministry ([¶3250–3490](/part-6/ch3-ministerial-appointments.md#p3250))
 
-#### ¶552.3.b {#p552-3-b}
+###### ¶552.3.b {#p552-3-b}
 local board of administration member ([¶752](/part-2/ch5-local-board.md#p752))
 
-#### ¶552.3.c {#p552-3-c}
+###### ¶552.3.c {#p552-3-c}
 trustee (850)
 
-#### ¶552.3.d {#p552-3-d}
+###### ¶552.3.d {#p552-3-d}
 delegate to district or General Conference (965, [¶1524](/part-4/ch1-general-conference.md#p1524))
 
-#### ¶552.3.e {#p552-3-e}
+###### ¶552.3.e {#p552-3-e}
 nominating committee member (820)
 
-#### ¶552.3.f {#p552-3-f}
+###### ¶552.3.f {#p552-3-f}
 local church secretary ([¶638](/part-2/ch3-conference.md#p638), 830)
 
-#### ¶552.3.g {#p552-3-g}
+###### ¶552.3.g {#p552-3-g}
 lay leader
 
-#### ¶552.3.h {#p552-3-h}
+###### ¶552.3.h {#p552-3-h}
 witness and membership committee member (if any)
 
-#### ¶552.3.i {#p552-3-i}
+###### ¶552.3.i {#p552-3-i}
 church treasurer (842)
 
-#### ¶552.3.j {#p552-3-j}
+###### ¶552.3.j {#p552-3-j}
 Sunday school superintendent or spiritual formation director (if any)
 
 ## B. Categories of Membership
