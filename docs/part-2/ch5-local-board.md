@@ -10,10 +10,10 @@
 #### ¶752 Local Board of Administration Organizational Options. {#p752}
  The local church conference shall adopt one of the following structural models for the organization and election of the local board of administration ([¶315:5](#p315-5)). All board members shall be adult members, whose lives bear witness to the grace of holy living ([¶297:1](#p297-1); 302:3-4; 552:2-3; 553:1-3); who are in harmony with our Articles of Religion, Guides and Helps to Holy Living, and the authority of The Wesleyan Church in matters of church government ([¶297:3](#p297-3); 553:1-2); and who are faithful in worship attendance, involved in personal ministry, and supportive of the church financially at least to the level of personal tithing ([¶265:3](#p265-3); [¶297:4](#p297-4)).
 
-## ¶752.1 Standard Model. {#p752-1}
+##### ¶752.1 Standard Model. {#p752-1}
  The local board of administration shall be comprised minimally of the pastor as chair ([¶675](#p675), [¶678](#p678), [¶725:16](#p725-16), [¶735](#p735)), the vice-chair ([¶773](#p773)), the church secretary ([¶830](#p830)), and the church treasurer or business manager ([¶842](#p842)). Two or more additional members-at-large may be elected by the local church conference in such numbers as it shall determine. It is recommended that the total number of all voting members of the local board of administration using the standard model should not exceed twelve persons.
 
-## ¶752.2 Alternate Models. {#p752-2}
+##### ¶752.2 Alternate Models. {#p752-2}
  Alternate models of local church governance may be considered by the local church conference in consultation with the district superintendent and with the prior approval of the district board of administration. When evaluating proposed alternate models, the district board of administration shall give due consideration to safeguard the following constitutional and practical principles:
 
 ###### ¶752:2a {#p752-2a}

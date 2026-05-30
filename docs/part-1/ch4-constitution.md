@@ -575,7 +575,7 @@ Designate a criterion for parliamentary procedure for itself and for the other b
 ##### ¶360.2 {#p360-2}
 Elect such officers as it shall choose and to define their duties and responsibilities.
 
-## ¶360.3 {#p360-3}
+##### ¶360.3 {#p360-3}
  Make and administer rules and regulations for The Wesleyan Church subject to the Constitution and the following restrictions:
 
 #### ¶360.3.a {#p360-3-a}

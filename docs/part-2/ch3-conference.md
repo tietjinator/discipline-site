@@ -12,10 +12,10 @@
 
 #### ¶633 Special Session. {#p633}
 
-## ¶633.1 General Business. {#p633-1}
+##### ¶633.1 General Business. {#p633-1}
  The local church conference may be called into special session by the pastor, or in times of emergency by the district superintendent, for the transaction of any business, with announcement from the pulpit in two regular services, the first of which shall be given not less than one week before the appointed time. The requirements for special sessions dealing with legal or property matters are set forth in [¶4040](#p4040) and [¶4700](#p4700).
 
-## ¶633.2 Pastoral Vote. {#p633-2}
+##### ¶633.2 Pastoral Vote. {#p633-2}
  The vice-chair of the local board of administration ([¶635](#p635); [¶773](#p773)), when authorized to do so by the local board of administration, and having notified the district superintendent, may call a special session of the local church conference to conduct a pastoral vote, with announcement at least two weeks in advance of the appointed time. During negotiations for calling a new pastor, the announcement need be made only from the pulpit and in only one regular service in advance of the appointed time.
 
 ## C. Organization and Procedure

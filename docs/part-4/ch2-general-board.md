@@ -10,10 +10,10 @@
 #### ¶1605 {#p1605}
  The General Board is composed of the General Superintendent and area representatives:
 
-## ¶1605.1 General Superintendent. {#p1605-1}
+##### ¶1605.1 General Superintendent. {#p1605-1}
  The General Superintendent is a member of the General Board by virtue of office.
 
-## ¶1605.2 Area Representatives. {#p1605-2}
+##### ¶1605.2 Area Representatives. {#p1605-2}
  Three ordained ministers and three lay members shall be elected by the General Conference from each representative area to serve as members of the General Board ([¶340:1](#p340-1); [¶1590:17](#p1590-17); [¶2430-2445](#p2430-2445)). In order to accomplish broad representation when electing area representatives to the General Board, it is recommended that no more than two persons be elected from any one district. They shall serve from the close of the session at which they are elected until the close of the succeeding General Conference and until their successors are elected and qualified. Whenever an area representative shall transfer residence or membership outside the area represented, the General Board shall declare the office vacant and shall fill the vacancy in such a manner as to maintain the representation provided for herewith. An area representative who is not a voting member of the General Conference by some other right is a voting member of the General Conference by virtue of membership on the General Board ([¶1503:1c](/part-4/ch1-general-conference.md#p1503-1c)).
 
 ## C. Nonvoting Participants
@@ -203,7 +203,7 @@ Hear and determine charges against the moral character of a minister or a lay me
 ##### ¶1655.39 {#p1655-39}
 Hear and determine any charges alleging an administrative offense in relation to official duties filed against a person under its jurisdiction and administer discipline as it deems necessary and proper (Gen. Bd. Policy on Ch. Disc. 5270; 5279; 5282).
 
-## ¶1655.40 {#p1655-40}
+##### ¶1655.40 {#p1655-40}
  Remove from office any person under its jurisdiction whenever the best interests and preservation of the Church or the disabling physical or mental health of the person require it, subject to the following conditions:
 
 #### ¶1655.40.a {#p1655-40-a}
@@ -320,13 +320,13 @@ The rights of the Church to define its religious doctrines and membership requir
 
 #### ¶1797 Approval Process. {#p1797}
 
-## ¶1797.1 Local level. {#p1797-1}
+##### ¶1797.1 Local level. {#p1797-1}
  If the conflict which arises relates to church administration at the local level, no modification shall be effective until approved by the district board of administration.
 
-## ¶1797.2 District level. {#p1797-2}
+##### ¶1797.2 District level. {#p1797-2}
  If the conflict which arises relates to church administration at the district level, no modification shall be effective until approved by the General Superintendent.
 
-## ¶1797.3 General level. {#p1797-3}
+##### ¶1797.3 General level. {#p1797-3}
  If the conflict which arises relates to church administration at the general level, no modification shall be effective until approved by the General Board.
 
 #### ¶1798 Record of Permitted Changes. {#p1798}

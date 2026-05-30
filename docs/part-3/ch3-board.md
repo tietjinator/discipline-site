@@ -210,7 +210,7 @@ To appoint the desired number of ordained ministers as a council of ordination (
 
 A. APPOINTED ORDAINED MINISTERS ([¶3250-3390](#p3250-3390)).
 
-## ¶1240.1 District Service. {#p1240-1}
+##### ¶1240.1 District Service. {#p1240-1}
 
 The district superintendent and other ordained ministers in full-time service of the district in a ministerial capacity ([¶3320](#p3320); [¶1327](#p1327); [¶1460](#p1460)).
 
@@ -316,10 +316,10 @@ Commissioned ministers appointed to service in a local church spiritual formatio
 
 C. COMMISSIONED MINISTERS WITHOUT APPOINTMENT ([¶3380](#p3380)).
 
-### ¶1240.2.C.1 {#p1240-2-C-1}
+#### ¶1240.2.C.1 {#p1240-2-C-1}
 Commissioned ministers not available for appointment.
 
-### ¶1240.2.C.2 {#p1240-2-C-2}
+#### ¶1240.2.C.2 {#p1240-2-C-2}
 Commissioned ministers employed in other than a ministerial capacity by the General Church ([¶3320](/part-6/ch3-ministerial-appointments.md#p3320)), by a general educational institution or one of the seminaries connected with the Wesleyan Seminary Foundation ([¶3310](/part-6/ch3-ministerial-appointments.md#p3310)) or in interchurch service ([¶3335](/part-6/ch3-ministerial-appointments.md#p3335)).
 
 D. COMMISSIONED MINISTERS IN PROCESS OF DISTRICT TRANSFER.

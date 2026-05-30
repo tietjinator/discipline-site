@@ -3,7 +3,7 @@
 #### ¶1800 Identification. {#p1800}
   The general officials of the Church are those general officers which are designated as follows:
 
-## ¶1800.1 {#p1800-1}
+##### ¶1800.1 {#p1800-1}
  Elected by the General Conference:
 
 #### ¶1800.1.a {#p1800-1-a}

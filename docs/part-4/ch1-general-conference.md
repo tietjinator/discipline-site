@@ -226,7 +226,7 @@ Organize the work in the United States and Canada into districts and to determin
 ##### ¶1590.11 {#p1590-11}
 Authorize the establishing of a developing district ([¶1006](/part-3/ch1-organization.md#p1006)); or to reclassify an established district ([¶1042](/part-3/ch1-organization.md#p1042); [¶1045](/part-3/ch1-organization.md#p1045)).
 
-### ¶1590.12'' {#p1590-12''}
+##### ¶1590.12 {#p1590-12}
 Group the districts into representative areas ([¶2430-2445](/part-4/ch9-boundaries.md#p2430)) to serve for the election of area representatives to the General Board and as the area divisions of Wesleyan Youth, for which a recommendation shall be received from the General Board ([¶1655:14](/part-4/ch2-general-board.md#p1655-14)).
 
 ##### ¶1590.13 {#p1590-13}

@@ -10,16 +10,16 @@
 #### ¶1303 Qualifications and Tenure. {#p1303}
  A district superintendent shall exhibit the desire to live a holy life and demonstrate the same in practice; shall live in full accord with the vision and values of The Wesleyan Church; have passion and compassion for the lost and the least; and exhibit vision and administrative leadership. The regulations for a district superintendent are (cf. [¶1255-1272](#p1255-1272)):
 
-## ¶1303.1 Election. {#p1303-1}
+##### ¶1303.1 Election. {#p1303-1}
  The district superintendent shall be elected by the district conference, by ballot and by majority vote, from among the ordained ministers of The Wesleyan Church ([¶1180:29](#p1180-29)). A favorable vote of less than two-thirds majority requires General Church approval. If the district superintendent who is elected is from outside the membership of the electing district, the district superintendent shall immediately arrange for the transfer of local and district membership.
 
-## ¶1303.2 Term of Office. {#p1303-2}
+##### ¶1303.2 Term of Office. {#p1303-2}
  The election of a district superintendent shall be for a term of four years. The initial term of a newly elected district superintendent begins at the rise of the district conference. The salary of a district superintendent should be continued for one month beyond the date for the termination of service, unless the salary is removed by the district board of administration.
 
-## ¶1303.3 Reelection. {#p1303-3}
+##### ¶1303.3 Reelection. {#p1303-3}
  Unless a district superintendent whose term is expiring shall give notice to the General Superintendent and district board of administration no less than ninety days prior to district conference, the district superintendent shall be considered available. The General Superintendent shall lead the district board of administration in a formal evaluation of the district superintendent’s job performance in relation to established missional goals and objectives prior to any vote on reelection to office. If necessary, by a majority vote the district board of administration may request procedural intervention by the General Superintendent to declare that reelection by a “yes/no” vote shall not occur but that the nomination process in *Discipline* [¶1303:7](#p1303-7) must be followed. When an incumbent district superintendent does not receive a majority vote on the initial “yes/no” ballot for reelection, the provision of [¶1303:7](#p1303-7) for the special committee on nominations shall become effective.
 
-## ¶1303.4 Term of Reelection. {#p1303-4}
+##### ¶1303.4 Term of Reelection. {#p1303-4}
  One of the following alternative procedures shall be followed:
 
 ###### ¶1303:4a {#p1303-4a}

@@ -8,10 +8,10 @@
 #### ¶551 {#p551}
  The overall mission of membership in The Wesleyan Church is: To acknowledge believers as belonging to the body of Christ; to disciple them into a meaningful relationship with The Wesleyan Church; and to equip them for meaningful ministry in the world.
 
-## ¶551.1 The Vision of Membership. {#p551-1}
+##### ¶551.1 The Vision of Membership. {#p551-1}
  It is our belief and practice that The Wesleyan Church is not a collection of independent churches unrelated to each other nor just merely an association of churches, but rather we constitute a “family” of believers connected by our identity in Christ and our identity with one another. Membership serves as the common thread that unifies us within our diversity as a community with the passion for developing fully committed disciples of Christ. Membership is a ministry tool to use in the process of spiritual development, subsequent to conversion and leading to maturity in Christ. To enhance the discipleship process of maturing people toward Christlikeness, membership is the first step in the process of accountability. The accountability used within the community of faith is based on the primary authority of the Scriptures. We also acknowledge the role of tradition, experience, and reason to shape the collective conscience reflected in the membership and discipleship accountability process. Membership becomes the doorway into the process whereby people are discipled and equipped to do ministry in and through the church, as a witness to the world at large.
 
-## ¶551.2 The Value of Membership. {#p551-2}
+##### ¶551.2 The Value of Membership. {#p551-2}
  Membership in The Wesleyan Church is built on the premise that it is an initial step in one’s relationship with the Church, and a doorway into the discipleship process within the life of the Church. Each local fellowship adapts its ministry scope and sequence but a common path would involve the following process:
 **Believing** – When people come to Christ in saving faith, they become members of the body of Christ. Membership is the door into the discipleship process in The Wesleyan Church which helps people identify the essential beliefs taught in the Bible, and how those beliefs impact our lifestyle, relationships, and our witness for Christ within the Church and beyond. This faith, empowered by the Holy Spirit, brings transformational growth to the believer.
 **Belonging** – Every person who is a part of our local church fellowship appreciates a sense of belonging, which in turn opens the door for the Church to disciple each believer into a fully devoted follower of Christ. The Wesleyan Church intentionally places “belonging” at the front of the believer’s relationship with the local church, and assumes the responsibility to help the believer grow into a mature child of God.
@@ -25,7 +25,7 @@ Membership in The Wesleyan Church is the entry-level, basic relationship with th
 ##### ¶552.2 {#p552-2}
 Leadership. Membership is the basic standard required for designated leadership positions in The Wesleyan Church at local, district, and General Church levels, as well as for all credentialed ministers ([¶552:3](#p552-3)). Leaders are expected to live exemplary lives and to serve as models for others to follow. Persons who are elected to serve the Church in leadership positions are annually required to affirm and follow the Articles of Religion, the Guides and Helps to Holy Living, and the Elementary Principles; be faithful in local church attendance; practice biblical stewardship; participate in active witness and service for Christ; maintain unity in the church; and agree to give proper accountability to those who are assigned spiritual authority over them by The Discipline.
 
-## ¶552.3 {#p552-3}
+##### ¶552.3 {#p552-3}
  Leadership positions in the local church that require a person to be a member who meets the qualifications ([¶260-268](#p260-268); [¶558](#p558)) include:
 
 #### ¶552.3.a {#p552-3-a}

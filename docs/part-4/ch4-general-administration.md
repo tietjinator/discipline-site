@@ -109,18 +109,18 @@ In the event of an emergency during the interim of General Conference sessions, 
 
 ##### ¶2005:3 Limits for Capped Churches. {#p2005-3}
 
-### ¶2005:3a Assessment Limits and Maximum. {#p2005-3a}
+###### ¶2005:3a Assessment Limits and Maximum. {#p2005-3a}
  By Conference Year 2026, all churches shall be subject to full assessment on all assessable income up to $550,000. Above that level, there shall be a graduated reduction in the percentage applied. For that portion of a church’s assessable income between $550,000 and $1,100,000, there shall be a reduction of one in the total percentage divided proportionately between the General Fund, the Church Multiplication Fund, and the Education Fund. For that portion between $1,100,000 and $2,200,000, there shall be a reduction of two in the total percentage divided proportionately between the three funds. The percentage in each case shall be applied to the same base income as defined in [¶2005:1](#p2005-1) subject to the exceptions set forth in [¶2005:4a](#p2005-4a), b.
 
-### ¶2005:3b Annual Rate. {#p2005-3b}
+###### ¶2005:3b Annual Rate. {#p2005-3b}
  The General Board shall set and publish the annual rate for capped churches based on the increase or decrease of consumer price indices for the previous year or 3 percent, whichever is less.
 
 ##### ¶2005:4 Exceptions for Developing and Urban Churches. {#p2005-4}
 
-### ¶2005:4a Developing Church Exception. {#p2005-4a}
+###### ¶2005:4a Developing Church Exception. {#p2005-4a}
  Whenever a developing church is deemed, by the district board of administration, to be under financial duress, that board may subtract up to $50,000 from the USF base income used to calculate the USF obligation.
 
-### ¶2005:4b Urban Missional Church Exception. {#p2005-4b}
+###### ¶2005:4b Urban Missional Church Exception. {#p2005-4b}
  Whenever a local church is designated as an urban missional church, the USF obligation for that church shall be set at 25 percent of the regular assessment ([¶523](#p523)).
 #### c. District and Local Regulations
 

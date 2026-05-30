@@ -5,7 +5,7 @@
 #### ¶1250 {#p1250}
  The following summarizes for quick reference the various officers, boards, and committees of the district:
 
-## ¶1250.1 {#p1250-1}
+##### ¶1250.1 {#p1250-1}
   The district shall have the following officers and personnel, elected by the district conference:
 administration, board of ([¶1200-1233](#p1200-1233))
 delegates to General Conference ([¶1032](#p1032); [¶1180:4](#p1180-4); [¶1503-1526](#p1503-1526))
