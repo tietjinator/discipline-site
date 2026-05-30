@@ -3,7 +3,49 @@
    Brand: The Wesleyan Church (wesleyan.org)
    ============================================ */
 
-/* --- Raleway TWC 2.0 self-hosted fonts --- */
+/* --- Raleway TWC 2.0 self-hosted fonts (18 weights) --- */
+@font-face {
+  font-family: 'Raleway';
+  src: url('/fonts/RalewayTWC-Thin.woff2') format('woff2');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Raleway';
+  src: url('/fonts/RalewayTWC-ThinItalic.woff2') format('woff2');
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Raleway';
+  src: url('/fonts/RalewayTWC-ExtraLight.woff2') format('woff2');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Raleway';
+  src: url('/fonts/RalewayTWC-ExtraLightItalic.woff2') format('woff2');
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Raleway';
+  src: url('/fonts/RalewayTWC-Light.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Raleway';
+  src: url('/fonts/RalewayTWC-LightItalic.woff2') format('woff2');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
 @font-face {
   font-family: 'Raleway';
   src: url('/fonts/RalewayTWC-Regular.woff2') format('woff2');
@@ -15,6 +57,20 @@
   font-family: 'Raleway';
   src: url('/fonts/RalewayTWC-Italic.woff2') format('woff2');
   font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Raleway';
+  src: url('/fonts/RalewayTWC-Medium.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Raleway';
+  src: url('/fonts/RalewayTWC-MediumItalic.woff2') format('woff2');
+  font-weight: 500;
   font-style: italic;
   font-display: swap;
 }
@@ -60,6 +116,20 @@
   font-style: italic;
   font-display: swap;
 }
+@font-face {
+  font-family: 'Raleway';
+  src: url('/fonts/RalewayTWC-Black.woff2') format('woff2');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Raleway';
+  src: url('/fonts/RalewayTWC-BlackItalic.woff2') format('woff2');
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
 
 /* --- Color tokens (TWC Brand Guide 2023) --- */
 :root {
@@ -79,7 +149,6 @@
   --twc-light-gray: #E7E7E7;
 
   /* Typography — TWC brand fonts */
-  /* Raleway for UI/display, Open Sans for body */
   --vp-font-family-base: 'Open Sans', system-ui, sans-serif;
   --vp-font-family-mono: 'Courier New', monospace;
 
@@ -92,10 +161,89 @@
 
 /* --- Dark mode brand colors --- */
 .dark {
-  --vp-c-brand-1: #39AAE1;   /* Light Blue becomes primary in dark mode */
-  --vp-c-brand-2: #40BCBC;   /* Aqua for secondary */
-  --vp-c-brand-3: #BDE6FA;
-  --vp-c-brand-soft: rgba(57, 170, 225, 0.12);
+  --vp-c-brand-1: #0B496F;   /* Dark blue — solid button background */
+  --vp-c-brand-2: #2E8BC0;   /* Muted blue — hover state */
+  --vp-c-brand-3: #0B496F;   /* Dark blue — button bg in dark */
+  --vp-c-brand-soft: rgba(11, 73, 111, 0.15);
+
+  /* Override neutrals for dark backgrounds */
+  --twc-dark-gray: #CCCBCB;
+  --twc-mid-gray: #555;
+  --twc-light-gray: #2A2A2A;
+  --twc-light-blue-bg: #1A2D3D;
+}
+
+/* Dark mode — brand button */
+.dark .VPButton.brand {
+  background-color: var(--vp-c-brand-1) !important;
+  color: #FFFFFF !important;
+  border-color: var(--vp-c-brand-1) !important;
+}
+.dark .VPButton.brand:hover {
+  background-color: var(--vp-c-brand-2) !important;
+  border-color: var(--vp-c-brand-2) !important;
+}
+
+/* Dark mode — headings and nav title: light blue */
+.dark .VPNavBarTitle .title,
+.dark .VPHero .name,
+.dark .VPHero .text {
+  color: #39AAE1 !important;
+  -webkit-text-fill-color: #39AAE1 !important;
+}
+
+/* Dark mode — homepage feature cards */
+.dark .VPFeature {
+  border-color: #444 !important;
+  border-top-color: var(--vp-c-brand-2) !important;
+  background: #1E1E24 !important;
+}
+.dark .VPFeature .title {
+  color: #39AAE1 !important;
+}
+.dark .VPFeature .details {
+  color: #AAA !important;
+}
+
+/* Dark mode — sidebar */
+.dark .VPSidebarItem.is-active > .item .text {
+  color: #39AAE1 !important;
+}
+.dark .VPSidebarItem .text:hover {
+  color: #5BB8E8 !important;
+}
+
+/* Dark mode — nav menu */
+.dark .VPNavBarMenuLink:hover,
+.dark .VPNavBarMenuLink.active {
+  color: #39AAE1 !important;
+}
+
+/* Dark mode — body text */
+.dark .vp-doc {
+  color: #CCC;
+}
+
+/* Dark mode — paragraph headings */
+.dark .vp-doc h2 {
+  color: #5BB8E8;
+  border-bottom-color: #444;
+}
+.dark .vp-doc h3 {
+  color: #BDE6FA;
+}
+.dark .vp-doc h1 {
+  color: #5BB8E8;
+  border-bottom-color: #39AAE1;
+}
+
+/* Dark mode — cross-reference links */
+.dark .vp-doc a[href*="#p"] {
+  color: #39AAE1;
+  border-bottom-color: #39AAE1;
+}
+.dark .vp-doc a[href*="#p"]:hover {
+  color: #5BB8E8;
 }
 
 /* --- Nav bar --- */
@@ -148,7 +296,6 @@
 
 /* --- Document body --- */
 .vp-doc {
-  /* Open Sans per brand guide. Swap to a serif if preferred for long-form reading. */
   font-family: 'Open Sans', system-ui, sans-serif;
   font-size: 1.0rem;
   line-height: 1.85;
@@ -156,7 +303,6 @@
 }
 
 /* --- Paragraph headings --- */
-/* ¶125, ¶725:1, etc. */
 .vp-doc h2 {
   font-family: 'Raleway', system-ui, sans-serif;
   font-size: 1.2rem;
@@ -197,7 +343,6 @@
 }
 
 /* --- Cross-reference links --- */
-/* TWC Light Blue (#39AAE1) for interactive elements per brand guide */
 .vp-doc a[href*="#p"] {
   color: #39AAE1;
   text-decoration: none;
@@ -211,7 +356,6 @@
 }
 
 /* --- Scripture references --- */
-/* Wrap scripture citations in <cite> for styling */
 .vp-doc cite {
   font-style: italic;
   color: #555;
