@@ -14,7 +14,7 @@ minister of a multiple pastoral staff. The pastor shall be expected to carry out
 ### 1. Jurisdiction in Pastoral Voting
 
 ## ¶690 {#p690}
- All matters related to voting on securing or retaining a pastor are the concern of a pastoral charge ([¶503](/part-2/ch1-organization.md#p503)).
+ All matters related to voting on securing or retaining a pastor are the concern of a pastoral charge ([¶503](#p503)).
 
 ### 2. Regulations for All Pastoral Voting
 
@@ -34,7 +34,7 @@ A minister who has agreed to give a candidating message and to submit to a pasto
  In all matters related to voting on securing or retaining a pastor, the following regulations shall be observed:
 
 ### ¶692.1 {#p692-1}
-All pastoral votes shall be taken at a duly announced session of the local church conference (630-633).
+All pastoral votes shall be taken at a duly announced session of the local church conference ([¶630-633](/part-2/ch3-conference.md#p630)).
 
 ### ¶692:2 {#p692-2}
 The district superintendent, or a representative appointed by the district superintendent, shall preside over the local church conference for the taking of the pastoral vote. If neither can be present, the vice-chair of the local board of administration shall preside.
@@ -64,7 +64,7 @@ The local church secretary must certify the envelope as being submitted by a mem
 Envelopes containing such absentee ballots shall be opened at the session in which the vote is taken, by the secretary in the presence of the chair, prior to the tallying of the vote, and these ballots placed without inspection with the others for counting by the tellers.
 
 ## ¶697 District Approval of Pastoral Agreement. {#p697}
- A pastoral agreement must be reviewed and recommended by the district board of administration, and becomes final upon the approval of the district conference. Each year the district board of administration shall review those pastoral agreements before making its report to the district conference ([¶1180:24](/part-3/ch2-conference.md#p1180); [¶1233:10](/part-3/ch3-board.md#p1233)).
+ A pastoral agreement must be reviewed and recommended by the district board of administration, and becomes final upon the approval of the district conference. Each year the district board of administration shall review those pastoral agreements before making its report to the district conference ([¶1180:24](#p1180-24); [¶1233:10](#p1233-10)).
 
 ## ¶700 Time of Pastoral Changes. {#p700}
  Except for such emergencies as resignations, removals or deaths, pastoral changes shall take place on the Monday following the second Sunday of July.
@@ -81,7 +81,7 @@ The vote shall be for an extended call, subject to such adjustment as the distri
 The local board of administration, under the leadership of its vice-chair, shall counsel with the district superintendent concerning possible candidates. If the church desires to call a minister from another district or from outside the denomination, the local board of administration shall first secure from its own district superintendent assurance that the transfer of the minister would be approved ([¶313:6](/part-1/ch4-constitution.md#p313-6)).
 
 ### ¶705:3 {#p705-3}
-When a candidate has been approved by a majority vote of the local board of administration ([¶782:12](/part-2/ch5-local-board.md#p782)), the candidate’s name shall be presented as a nomination to the local church conference, and the vote shall be taken in keeping with the regulations governing all pastoral voting ([¶692](#p692)).
+When a candidate has been approved by a majority vote of the local board of administration ([¶782:12](/part-2/ch5-local-board.md#p782-12)), the candidate’s name shall be presented as a nomination to the local church conference, and the vote shall be taken in keeping with the regulations governing all pastoral voting ([¶692](#p692)).
 
 ## ¶708 Waiver of Local Church Rights. {#p708}
  If a pastoral charge has been unable to secure a pastor prior to thirty days before the annual session of the district conference, the local church conference may, at any time thereafter, by majority vote delegate full authority for the employment of a pastor to the local board of administration, or it may waive its rights and leave the selection of a pastor to the nomination of the district board of administration and appointment by the district conference. If a pastoral charge waives its rights, or if neither local church conference nor local board of administration shall have secured a pastor by the time the annual session of the district conference convenes, the district board of administration shall nominate a pastor for appointment by the district conference. A pastor so appointed shall be received and supported by the pastoral charge the same as if the pastor had been employed in the usual manner.
@@ -90,15 +90,15 @@ When a candidate has been approved by a majority vote of the local board of admi
  If a pastor resigns during the call term of service to a church, the pastor must notify the local board of administration and the district superintendent sixty days in advance. If the district superintendent and the local board of administration deem it wise, the pastor may be released sooner.
 
 ## ¶712 Call Removal. {#p712}
- The district board of administration may remove the pastor by a two-thirds majority vote of all members, provided such has been requested by the local board of administration by a two-thirds majority vote in a meeting presided over by the district superintendent, or such has been recommended by the district superintendent ([¶1233:36](/part-3/ch3-board.md#p1233)).
+ The district board of administration may remove the pastor by a two-thirds majority vote of all members, provided such has been requested by the local board of administration by a two-thirds majority vote in a meeting presided over by the district superintendent, or such has been recommended by the district superintendent ([¶1233:36](#p1233-36)).
 
 ## ¶715 Ad Interim Procedures. {#p715}
- If a pastoral charge is left without a pastor between sessions of the district conference due to death, resignation, or removal, the local board of administration and the local church conference shall follow the regular procedures for securing a new pastor with all arrangements subject to the approval of the district board of administration ([¶1233:36](/part-3/ch3-board.md#p1233)).
+ If a pastoral charge is left without a pastor between sessions of the district conference due to death, resignation, or removal, the local board of administration and the local church conference shall follow the regular procedures for securing a new pastor with all arrangements subject to the approval of the district board of administration ([¶1233:36](#p1233-36)).
 
 ### 4. Regulations for Renewal of Call
 
 ## ¶718 Procedure for Renewal of Call. {#p718}
- Whenever a pastor’s term of service is expiring, unless the pastor shall give notice otherwise to the vice-chair of the local board of administration ([¶773](/part-2/ch5-local-board.md#p773)) and the district superintendent, in writing and at least sixty days prior to the convening of the district conference, the pastor shall be considered as available, and a vote on the renewal of the pastoral call shall be taken in keeping with the regulations governing all pastoral voting ([¶692](#p692)).
+ Whenever a pastor’s term of service is expiring, unless the pastor shall give notice otherwise to the vice-chair of the local board of administration ([¶773](#p773)) and the district superintendent, in writing and at least sixty days prior to the convening of the district conference, the pastor shall be considered as available, and a vote on the renewal of the pastoral call shall be taken in keeping with the regulations governing all pastoral voting ([¶692](#p692)).
 
 ### ¶718:1 {#p718-1}
  One of the following alternative procedures shall be followed:
@@ -130,7 +130,7 @@ The pastor may resign, provided that the termination of service is first approve
 If one-third of the members of the local board of administration so request the district superintendent in writing, the district superintendent or a representative appointed by the district superintendent shall call and preside over a special session of the local board of administration for the purpose of deciding on whether to call for a pastoral vote by the local church conference. If the local board of administration by majority vote calls for the taking of such a vote, and the district superintendent approves the taking of the same, it shall be taken in keeping with 692. If there is a majority vote of the local church conference in favor of retaining the pastor, and the pastor agrees to remain, the pastor shall be free to continue as if the vote had not been taken. A favorable vote less than two thirds majority requires district approval. If less than a majority are favorable to retaining the pastor, pastoral service shall terminate at the time set by the district for pastoral changes ([¶700](#p700)), or at a time mutually agreed upon by the pastor, the local board of administration, and the district superintendent.
 
 ### ¶722:3 {#p722-3}
-The district board of administration may, by a majority vote, order the district superintendent to conduct a pastoral vote in keeping with 692. Or the district board of administration, upon the recommendation of the district superintendent ([¶1310:20](/part-3/ch5-administration.md#p1310)), and for the sake of the pastoral charge involved, may remove the pastor by a two-thirds majority vote of all members ([¶1233:36](/part-3/ch3-board.md#p1233)), with the services of the pastor terminating in sixty days unless ordered otherwise by the district board of administration. If at any time the district board of administration shall deem it in the interests of the district as a whole that the pastor be free to serve elsewhere, it may by majority vote request the pastor to resign.
+The district board of administration may, by a majority vote, order the district superintendent to conduct a pastoral vote in keeping with 692. Or the district board of administration, upon the recommendation of the district superintendent ([¶1310:20](/part-3/ch5-administration.md#p1310-20)), and for the sake of the pastoral charge involved, may remove the pastor by a two-thirds majority vote of all members ([¶1233:36](/part-3/ch3-board.md#p1233-36)), with the services of the pastor terminating in sixty days unless ordered otherwise by the district board of administration. If at any time the district board of administration shall deem it in the interests of the district as a whole that the pastor be free to serve elsewhere, it may by majority vote request the pastor to resign.
 
 ## C. Pastoral Support and Sabbatical
 
@@ -163,10 +163,10 @@ Feed the flock by reading, expounding, teaching, and preaching the Word.
 Have the general guidance, under the Holy Spirit, of the religious services and cultivate the practice of corporate worship.
 
 ### ¶725:6 {#p725-6}
-Administer, if an ordained ([¶313:1](/part-1/ch4-constitution.md#p313-1)), commissioned ([¶3059:2a](/part-6/ch1-ministerial-orders.md#p3059-2a)), or licensed minister ([¶3044:1](/part-6/ch1-ministerial-orders.md#p3044-1)), the sacraments of baptism and the Lord’s Supper. Each pastor is encouraged to provide for the observance of the Lord’s Supper at least once each month, but is required to do so at least once every three months ([¶293](/part-1/ch4-constitution.md#p293)). A supply pastor shall secure the services of an ordained ([¶313:1](/part-1/ch4-constitution.md#p313-1)), commissioned ([¶3059:2](/part-6/ch1-ministerial-orders.md#p3059-2)), or licensed minister ([¶3044:1](/part-6/ch1-ministerial-orders.md#p3044-1)) who is a pastor, for such observance ([¶3260:2](/part-6/ch3-ministerial-appointments.md#p3260-2)), except when authorization has been granted by a district superintendent as provided in 3260:2.
+Administer, if an ordained ([¶313:1](/part-1/ch4-constitution.md#p313-1)), commissioned ([¶3059:2a](/part-6/ch1-ministerial-orders.md#p3059-2a)), or licensed minister ([¶3044:1](/part-6/ch1-ministerial-orders.md#p3044-1)), the sacraments of baptism and the Lord’s Supper. Each pastor is encouraged to provide for the observance of the Lord’s Supper at least once each month, but is required to do so at least once every three months ([¶293](/part-1/ch4-constitution.md#p293)). A supply pastor shall secure the services of an ordained ([¶313:1](/part-1/ch4-constitution.md#p313-1)), commissioned ([¶3059:2](/part-6/ch1-ministerial-orders.md#p3059-2)), or licensed minister ([¶3044:1](/part-6/ch1-ministerial-orders.md#p3044-1)) who is a pastor, for such observance ([¶3260:2](/part-6/ch3-ministerial-appointments.md#p3260-2)), except when authorization has been granted by a district superintendent as provided in [¶3260:2](/part-6/ch3-ministerial-appointments.md#p3260-2).
 
 ### ¶725:7 {#p725-7}
-Solemnize, if an ordained ([¶313:1](/part-1/ch4-constitution.md#p313-1)), commissioned ([¶3059:2a](/part-6/ch1-ministerial-orders.md#p3059-2a)), or licensed minister ([¶3044:1](/part-6/ch1-ministerial-orders.md#p3044-1)), the rite of matrimony, in keeping with the Scriptures and The Discipline ([¶265:6](/part-1/ch4-constitution.md#p265-6); 3111-3112); to counsel with those being married and those already married, emphasizing the spiritual values in all phases of marital and parental life, seeking to develop the spiritual ideals and resources necessary to build permanent unions and godly homes ([¶410:6](/part-1/ch5-special-directions.md#p410-6)).
+Solemnize, if an ordained ([¶313:1](/part-1/ch4-constitution.md#p313-1)), commissioned ([¶3059:2a](/part-6/ch1-ministerial-orders.md#p3059-2a)), or licensed minister ([¶3044:1](/part-6/ch1-ministerial-orders.md#p3044-1)), the rite of matrimony, in keeping with the Scriptures and The Discipline ([¶265:6](/part-1/ch4-constitution.md#p265-6); [¶3111-3112](/part-6/ch1-ministerial-orders.md#p3111)); to counsel with those being married and those already married, emphasizing the spiritual values in all phases of marital and parental life, seeking to develop the spiritual ideals and resources necessary to build permanent unions and godly homes ([¶410:6](/part-1/ch5-special-directions.md#p410-6)).
 
 ### ¶725:8 {#p725-8}
 Comfort the bereaved and to bury the dead.
@@ -175,22 +175,22 @@ Comfort the bereaved and to bury the dead.
 Provide pastoral guidance and oversight through visitation and counsel to the members of the church and to others in need of a pastor’s help. The minister, as counselor, has the right to protect the conversation with a counselee as privileged communication.
 
 ### ¶725.10 {#p725-10}
-Keep all members fully conversant with the Christian lifestyle set forth in the Guides and Helps to Holy Living and the biblical basis for the same, and to maintain with diligence and love adherence to these membership requirements (260-268).
+Keep all members fully conversant with the Christian lifestyle set forth in the Guides and Helps to Holy Living and the biblical basis for the same, and to maintain with diligence and love adherence to these membership requirements ([¶260-268](/part-1/ch4-constitution.md#p260)).
 
 ### ¶725:11 {#p725-11}
-Be responsible for the instruction of all prospective members in the Articles of Religion, Guides and Helps to Holy Living, and polity of The Wesleyan Church, and in the meaning and purpose of church membership, holding or arranging for membership classes for all members (566-570; 782:8.
+Be responsible for the instruction of all prospective members in the Articles of Religion, Guides and Helps to Holy Living, and polity of The Wesleyan Church, and in the meaning and purpose of church membership, holding or arranging for membership classes for all members ([¶566-570](/part-2/ch2-membership.md#p566); 782:8.
 
 ### ¶725:12 {#p725-12}
-Administer the ritual of membership and to give the right hand of fellowship on behalf of the church to new members ([¶553:4](/part-2/ch2-membership.md#p553-4); 5550-5595).
+Administer the ritual of membership and to give the right hand of fellowship on behalf of the church to new members (553:4; [¶5550-5595](/part-10/ch2-reception.md#p5550)).
 
 ### ¶725:13 {#p725-13}
 Grant, in conjunction with the local church secretary, letters of transfer, recommendation, or withdrawal ([¶575](/part-2/ch2-membership.md#p575); [¶590](/part-2/ch2-membership.md#p590); [¶592](/part-2/ch2-membership.md#p592); 6000–6040).
 
 ### ¶725:14 {#p725-14}
-Receive any complaint or accusation against any member of a church under personal care, and to give such prompt and careful attention as required under the Judiciary (5000–5004) and the General Board Policy on Church Discipline and Ministerial Restoration, and to refer any matter requiring official investigation or judicial proceedings to the local board of administration for disposition ([¶782:10](/part-2/ch5-local-board.md#p782)).
+Receive any complaint or accusation against any member of a church under personal care, and to give such prompt and careful attention as required under the Judiciary ([¶5000–5004](/part-8/ch1-general-principles.md#p5000)) and the General Board Policy on Church Discipline and Ministerial Restoration, and to refer any matter requiring official investigation or judicial proceedings to the local board of administration for disposition ([¶782:10](/part-2/ch5-local-board.md#p782-10)).
 
 ### ¶725:15 {#p725-15}
-Preside as chair of the local church conference and the local board of administration except as otherwise provided ([¶635](/part-2/ch3-conference.md#p635); 770–773), and to oversee and direct all departments and local church organizations as the chief executive officer.
+Preside as chair of the local church conference and the local board of administration except as otherwise provided ([¶635](/part-2/ch3-conference.md#p635); [¶770–773](/part-2/ch5-local-board.md#p770)), and to oversee and direct all departments and local church organizations as the chief executive officer.
 
 ### Administrative
 
@@ -207,25 +207,25 @@ Promote all the interests of the General Church and the district in the local ch
 See, together with the local board of administration, that the United Stewardship Fund and all other obligations are met in full; and to protect the church from solicitations not authorized by the General Church or the district.
 
 ### ¶725:20 {#p725-20}
-Promote stewardship, emphasizing tithing and the storehouse plan as a part of the Christian’s total stewardship (460–475), and to see that tithes and freewill offerings are collected regularly.
+Promote stewardship, emphasizing tithing and the storehouse plan as a part of the Christian’s total stewardship ([¶460–475](/part-1/ch5-special-directions.md#p460)), and to see that tithes and freewill offerings are collected regularly.
 
 ### ¶725:21 {#p725-21}
 See that all church property is properly secured according to The Discipline and the local laws, with all legal papers submitted to the district superintendent for approval.
 
 ### ¶725:22 {#p725-22}
-See that no steps are taken involving the church in financial liability without proper authorization from the local board of administration and local church conference, or without the approval of the district board of administration when such financial liability involves the mortgaging or other encumbering of the church property ([¶655:11](/part-2/ch3-conference.md#p655); 782:28–32; [¶1233:30](/part-3/ch3-board.md#p1233)).
+See that no steps are taken involving the church in financial liability without proper authorization from the local board of administration and local church conference, or without the approval of the district board of administration when such financial liability involves the mortgaging or other encumbering of the church property ([¶655:11](/part-2/ch3-conference.md#p655-11); 782:28–32; [¶1233:30](/part-3/ch3-board.md#p1233-30)).
 
 ### ¶725:23 {#p725-23}
-See that all property and building transactions are carried out as set forth in 4700–4728.
+See that all property and building transactions are carried out as set forth in [¶4700–4728](/part-8/ch2-local-church-property.md#p4700).
 
 ### ¶725:24 {#p725-24}
 Circulate holiness literature.
 
-### ¶725:25 {#p725-25}
+### ¶725:25'' {#p725-25''}
 Have general supervision of the spiritual formation of the local church, organizing classes for the instruction of adults, youth, and children in the Word of God and for Christian living, and providing for the instruction and inspiration of the leaders in spiritual formation.
 
 ### ¶725:26 {#p725-26}
-Enlist laborers for the gospel ministry, and for missionary and other special work, encouraging and helping them to prepare for their God-appointed task at educational institutions provided by The Wesleyan Church; to sign, in conjunction with the local church secretary (830:3), licenses for lay ministers granted by the local church conference ([¶655:7](/part-2/ch3-conference.md#p655-7); [¶782:19](/part-2/ch5-local-board.md#p782)); and to have the oversight over all lay ministers.
+Enlist laborers for the gospel ministry, and for missionary and other special work, encouraging and helping them to prepare for their God-appointed task at educational institutions provided by The Wesleyan Church; to sign, in conjunction with the local church secretary (830:3), licenses for lay ministers granted by the local church conference ([¶655:7](/part-2/ch3-conference.md#p655-7); [¶782:19](/part-2/ch5-local-board.md#p782-19)); and to have the oversight over all lay ministers.
 
 ### ¶725:27 {#p725-27}
 Nominate to the local board of administration an assistant pastor ([¶741](#p741)) or a lay assistant to the pastor; to nominate to the local board of administration all members of the employed staff, and to supervise, with the assistance of the local board of administration, the services of all employed staff members.
@@ -251,7 +251,7 @@ Attend district conference sessions, and to participate in the life and work of 
  If a clergy couple is appointed to the pastoral staff, only one shall be designated as senior pastor, unless the local church conference
 should vote to call the persons as co-pastors. In such case, the district shall
 appoint them as co-pastors and they shall be listed as such in the district journal
-([¶1332:8](/part-3/ch5-administration.md#p1332-8)).
+([¶1332:8](#p1332-8)).
 
 ## ¶741 Assistant Pastor. {#p741}
  An assistant pastor is an ordained minister or a commissioned or licensed minister, who is called of God and appointed by the Church to serve under the direction of the senior pastor as assigned by the senior pastor and approved by the local board of administration; this assignment normally includes more limited and specific aspects of the pastoral ministry ([¶678](#p678)). The calling and assignment of the assistant pastor shall be subject to the following guidelines:

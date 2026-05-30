@@ -70,7 +70,7 @@ ____________ ____________, I baptize you in the name of the Father, and of the S
 ## D. Affirmation of Parental Vows
 
 ## ¶5530 {#p5530}
- (*Persons who were baptized as infants, upon coming to maturity and being converted, and desiring to make personal the vows earlier taken in their behalf by their parents, may do so by publicly answering the questions in the ritual of baptism as given in 5515 and as directed by the pastor.*)
+ (*Persons who were baptized as infants, upon coming to maturity and being converted, and desiring to make personal the vows earlier taken in their behalf by their parents, may do so by publicly answering the questions in the ritual of baptism as given in [¶5515](#p5515) and as directed by the pastor.*)
 
 Dear friends, ______________ were presented by *their parents* for baptism as children. *They* now desire to make personal the vows made in *their* behalf by publicly declaring their commitment to the faith in which *they were* baptized.
 

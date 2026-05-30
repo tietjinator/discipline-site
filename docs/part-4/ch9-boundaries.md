@@ -3,7 +3,7 @@
 ## A. District Boundaries
 
 ## ¶2400 {#p2400}
- The boundaries of an established or developing district shall be defined by the General Conference or, in the interim of its sessions, by the General Board as set forth in [¶317](/part-1/ch4-constitution.md#p317); [¶1006](/part-3/ch1-organization.md#p1006); [¶1020](#p1020); [¶1034](#p1034); [¶1036](/part-3/ch1-organization.md#p1036); [¶1042–1045](/part-3/ch1-organization.md#p1042); [¶1060–1065](/part-3/ch1-organization.md#p1060); 1590:10–11; [¶1655:34](/part-4/ch2-general-board.md#p1655).
+ The boundaries of an established or developing district shall be defined by the General Conference or, in the interim of its sessions, by the General Board as set forth in [¶317](#p317); [¶1006](#p1006); [¶1020](#p1020); [¶1034](#p1034); [¶1036](#p1036); [¶1042–1045](#p1042–1045); [¶1060–1065](#p1060–1065); 1590:10–11; [¶1655:34](#p1655-34).
 
 ## ¶2403 {#p2403}
  The boundaries of the districts in the United States and Canada are:
@@ -94,7 +94,7 @@ The Western New York District shall include that part of the states of New York 
 ## C. Educational Area Boundaries
 
 ## ¶2450 {#p2450}
- The merger of districts and of educational institutions between sessions of the General Conference may lead to changes in the educational area boundaries, which changes may be made by the General Board (cf. [¶1655:13](/part-4/ch2-general-board.md#p1655)).
+ The merger of districts and of educational institutions between sessions of the General Conference may lead to changes in the educational area boundaries, which changes may be made by the General Board (cf. [¶1655:13](#p1655-13)).
 
 ## ¶2455 {#p2455}
  The NORTH CENTRAL EDUCATIONAL AREA shall be served by Indiana Wesleyan University and Kingswood University, and shall include the districts of the North Central Representative Area, and the Indiana South District (cf. [¶2430](#p2430); [¶2440](#p2440)).

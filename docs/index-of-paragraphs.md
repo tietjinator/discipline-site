@@ -12,7 +12,7 @@ Jump directly to any chapter or paragraph by number.
 | [Ch. 4 — The Constitution](/part-1/ch4-constitution) | ¶200–399 |
 | [Ch. 5 — Special Directions](/part-1/ch5-special-directions) | ¶400–499 |
 
-## Part 2 — Local Church Government (¶500–999)
+## Part 2 — Local Church Government ([¶500–999](/part-2/ch1-organization.md#p500))
 
 | Chapter | Paragraphs |
 |---------|-----------|
@@ -23,7 +23,7 @@ Jump directly to any chapter or paragraph by number.
 | [Ch. 5 — Local Board of Administration](/part-2/ch5-local-board) | ¶750–799 |
 | [Ch. 6 — Officers and Committees](/part-2/ch6-officers) | ¶800–999 |
 
-## Part 3 — District Government (¶1000–1499)
+## Part 3 — District Government ([¶1000–1499](/part-3/ch1-organization.md#p1000))
 
 | Chapter | Paragraphs |
 |---------|-----------|
@@ -36,7 +36,7 @@ Jump directly to any chapter or paragraph by number.
 | [Ch. 7 — District Missions and Evangelism](/part-3/ch7-missions) | ¶1410–1439 |
 | [Ch. 8 — District Christian Education](/part-3/ch8-education) | ¶1440–1499 |
 
-## Part 4 — General Church Government (¶1500–2499)
+## Part 4 — General Church Government ([¶1500–2499](/part-4/ch1-general-conference.md#p1500))
 
 | Chapter | Paragraphs |
 |---------|-----------|
@@ -50,7 +50,7 @@ Jump directly to any chapter or paragraph by number.
 | [Ch. 8 — Education and Clergy Development Division](/part-4/ch8-education-clergy) | ¶2338–2399 |
 | [Ch. 9 — Boundaries](/part-4/ch9-boundaries) | ¶2400–2499 |
 
-## Part 5 — World Organization (¶2500–2999)
+## Part 5 — World Organization ([¶2500–2999](/part-5/ch1-basic-principles.md#p2500))
 
 | Chapter | Paragraphs |
 |---------|-----------|
@@ -58,7 +58,7 @@ Jump directly to any chapter or paragraph by number.
 | [Ch. 2 — General Conferences and Established National/Regional Conferences](/part-5/ch2-conferences) | ¶2550–2649 |
 | [Ch. 3 — International Conference of The Wesleyan Church](/part-5/ch3-international) | ¶2650–2999 |
 
-## Part 6 — Ministry (¶3000–3499)
+## Part 6 — Ministry ([¶3000–3499](/part-6/ch1-ministerial-orders.md#p3000))
 
 | Chapter | Paragraphs |
 |---------|-----------|
@@ -67,7 +67,7 @@ Jump directly to any chapter or paragraph by number.
 | [Ch. 3 — Ministerial Appointments](/part-6/ch3-ministerial-appointments) | ¶3300–3390 |
 | [Ch. 4 — Special Lay Ministries](/part-6/ch4-special-lay-ministries) | ¶3400–3499 |
 
-## Part 7 — Corporations (¶4000–4499)
+## Part 7 — Corporations ([¶4000–4499](/part-7/ch1-local-church-corporations.md#p4000))
 
 | Chapter | Paragraphs |
 |---------|-----------|
@@ -77,7 +77,7 @@ Jump directly to any chapter or paragraph by number.
 | [Ch. 4 — Subsidiary and Affiliate Corporations](/part-7/ch4-subsidiary-corporations) | ¶4300–4399 |
 | [Ch. 5 — Pension Corporation](/part-7/ch5-pension-corporation) | ¶4400–4499 |
 
-## Part 8 — Property (¶4500–4999)
+## Part 8 — Property ([¶4500–4999](/part-9/ch1-general-regulations.md#p4500))
 
 | Chapter | Paragraphs |
 |---------|-----------|
@@ -86,13 +86,13 @@ Jump directly to any chapter or paragraph by number.
 | [Ch. 3 — District Property](/part-8/ch3-district-property) | ¶4700–4849 |
 | [Ch. 4 — General Church Property](/part-8/ch4-general-church-property) | ¶4850–4999 |
 
-## Part 9 — Judiciary (¶5000–5004)
+## Part 9 — Judiciary ([¶5000–5004](/part-8/ch1-general-principles.md#p5000))
 
 | Chapter | Paragraphs |
 |---------|-----------|
 | [Ch. 1 — General Regulations](/part-9/ch1-general-regulations) | ¶5000–5004 |
 
-## Part 10 — The Ritual (¶5500–5999)
+## Part 10 — The Ritual ([¶5500–5999](/part-10/ch1-baptism.md#p5500))
 
 | Chapter | Paragraphs |
 |---------|-----------|

@@ -17,13 +17,13 @@ features:
   - title: Basic Principles (¶1–499)
     details: History, Mission, Classification of Church Law, Constitution, Special Directions
     link: /part-1/ch1-history
-  - title: Local Church Government (¶500–999)
+  - title: Local Church Government ([¶500–999](/part-2/ch1-organization.md#p500))
     details: Organization, Membership, Conference, Pastors, Board of Administration, Officers
     link: /part-2/ch1-organization
-  - title: District Government (¶1000–1499)
+  - title: District Government ([¶1000–1499](/part-3/ch1-organization.md#p1000))
     details: Organization, Conference, Board, Officers, Administration, Ministerial Supervision
     link: /part-3/ch1-organization
-  - title: General Church Government (¶1500–2499)
+  - title: General Church Government ([¶1500–2499](/part-4/ch1-general-conference.md#p1500))
     details: General Conference, General Board, Officials, Administration, Divisions
     link: /part-4/ch1-general-conference
 ---
