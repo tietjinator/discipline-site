@@ -446,6 +446,67 @@
   color: #BDE6FA;
 }
 
+/* --- Footnotes --- */
+.footnote-ref {
+  font-size: 0.75em;
+  line-height: 0;
+  vertical-align: super;
+}
+.footnote-ref a {
+  color: var(--vp-c-brand-2);
+  text-decoration: none;
+  font-weight: 600;
+}
+.footnote-ref a:hover {
+  color: var(--vp-c-brand-1);
+}
+
+.footnotes {
+  margin-top: 2em;
+  padding-top: 1em;
+  border-top: 1px solid var(--twc-mid-gray);
+  font-size: 0.875em;
+  color: #666;
+  line-height: 1.7;
+}
+.footnotes ol {
+  margin: 0.25em 0;
+  padding-left: 1.5em;
+}
+.footnotes li {
+  margin: 0.4em 0;
+}
+.footnotes p {
+  margin: 0.25em 0;
+}
+.footnote-backref {
+  text-decoration: none;
+  font-size: 0.9em;
+  color: var(--vp-c-brand-2);
+  margin-left: 0.3em;
+}
+.footnote-backref:hover {
+  color: var(--vp-c-brand-1);
+}
+
+/* Dark mode footnotes */
+.dark .footnotes {
+  border-color: #333;
+  color: #aaa;
+}
+.dark .footnote-ref a {
+  color: #5BB8E8;
+}
+.dark .footnote-ref a:hover {
+  color: #BDE6FA;
+}
+.dark .footnote-backref {
+  color: #5BB8E8;
+}
+.dark .footnote-backref:hover {
+  color: #BDE6FA;
+}
+
 /* --- Print styles --- */
 @media print {
   .VPNav, .VPSidebar, .VPDocAside { display: none !important; }
