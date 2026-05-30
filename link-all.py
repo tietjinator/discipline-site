@@ -32,6 +32,17 @@ def resolve(para_text, current_file):
             return f'[\u00b6{clean}](#{anchor})'
         else:
             return f'[\u00b6{clean}](/{target}#{anchor})'
+    # Try stripping trailing letter (e.g., 360:3b → 360:3)
+    letter_match = re.match(r'^(.+)[a-z]$', lookup)
+    if letter_match:
+        base = letter_match.group(1)
+        anchor = para_to_anchor.get(base) or para_to_anchor.get(base.replace('-', ':'))
+        if anchor and anchor in anchor_map:
+            target = anchor_map[anchor]
+            if target == current_file:
+                return f'[\u00b6{clean}](#{anchor})'
+            else:
+                return f'[\u00b6{clean}](/{target}#{anchor})'
     # Range: take first number
     m = re.match(r'^(\d+)[–-]', clean)
     if m:

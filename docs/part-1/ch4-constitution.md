@@ -69,7 +69,7 @@ Lev. 19:18, 34; Deut. 1:16–17; Job 31:13–14; Jer. 21:12; 22:3; Micah 6:8; Ma
 
 Gen. 1:27–28; 2:18, 20, 23–24; Isa. 54:4–8; 62:5b; Jer. 3:14; Ezek. 16; Hosea 2; Mal. 2:14; Matt. 19:4–6; Mark 10:9; John 2:1-2, 11; 1 Cor. 9:5; Eph. 5:23–32; 1 Tim. 5:14; Heb. 13:4; Rev. 19:7–8.
 
-^1^The last sentence of Article 7 was added by the 2016 North American General Conference and submitted for approval to the subsequent Caribbean and Philippine General Conferences in keeping with the provisions of [¶6765:1](#p6765-1).
+^1^The last sentence of Article 7 was added by the 2016 North American General Conference and submitted for approval to the subsequent Caribbean and Philippine General Conferences in keeping with the provisions of ¶6765:1.
 
 ### 8. Personal Choice
 
@@ -85,7 +85,7 @@ Gen. 6:5; 8:21; Deut. 30:19; Josh. 24:15; 1 Kings 20:40; Ps. 51:5; Isa. 64:6; Je
 
 Gen. 3; 6:5; Ps. 1; 32:1–5; 51; Isa. 6:5; Jer. 17:9–10; Matt. 16:24–27; 22:36–40; Mark 7:20–23; John 16:8–9; Rom. 1:18–25; 3:23; 5:12–14; 6:15–23; 7:1–8:9; 8:18–24; 14:23; 1 Cor. 3:1–4; Gal. 5:16–25; Eph. 2:1–22; Col. 1:21–22; 3:5–11; 1 John 1:7–2:4; 3:7–10.
 
-^2^Article 9 was approved by the 2016 North American General Conference and submitted for approval to the subsequent Caribbean and Philippine General Conferences in keeping with the provisions of [¶6765:1](#p6765-1).
+^2^Article 9 was approved by the 2016 North American General Conference and submitted for approval to the subsequent Caribbean and Philippine General Conferences in keeping with the provisions of ¶6765:1.
 
 ### 10. The Atonement
 
@@ -352,7 +352,7 @@ Confession of faith in Jesus Christ as evidenced by an inner witness of new birt
 Christian baptism.
 
 ##### ¶297.3 {#p297-3}
-Instruction in, acceptance of, and a commitment to abide by the Articles of Religion ([¶210-250](#p210)) which are summarized in [¶299](#p299), the Elementary Principles, and the authority of The Wesleyan Church in matters of church government.
+Instruction in, acceptance of, and a commitment to abide by the Articles of Religion ([¶210-250](#p210)) which are summarized in ¶299, the Elementary Principles, and the authority of The Wesleyan Church in matters of church government.
 
 ##### ¶297.4 {#p297-4}
 A commitment to live out the mission and vision of The Wesleyan Church through a discipling relationship within the local church.
@@ -388,7 +388,7 @@ The right to hearing and appeal if charged with failure to maintain the conditio
 A member in good standing in any Wesleyan church is entitled to membership privileges in any Wesleyan church to which a transfer of membership may be desired, subject to 567.
 
 #### ¶305 {#p305}
- Church membership may be terminated only by one or more of the following ([¶585](#p585)):
+ Church membership may be terminated only by one or more of the following ([¶585](/part-2/ch2-membership.md#p585)):
 
 ##### ¶305.1 {#p305-1}
 Voluntary withdrawal.
@@ -454,7 +454,7 @@ Grant or revoke local licenses for various ministries as provided in The Discipl
 Recommend persons for various ministries to the district conference. This right may be delegated to the church board.
 
 ##### ¶315.5 {#p315-5}
-Elect its own officers and to remove the same for cause. Except as provided in [¶365](#p365), no pastor or other official has any right to appoint an officer or declare an office vacant. This right belongs to the church alone, and vests severally in each local church.
+Elect its own officers and to remove the same for cause. Except as provided in ¶365, no pastor or other official has any right to appoint an officer or declare an office vacant. This right belongs to the church alone, and vests severally in each local church.
 
 ##### ¶315.6 {#p315-6}
 Elect trustees and through such trustees to supervise, control, and maintain its property for the use and benefit of the ministry and members of The Wesleyan Church, subject to its regulations and appointments as from time to time legislated and declared. This right vests severally in each local church.
@@ -477,7 +477,7 @@ Have recourse to a proper court of jurisdiction in any matters of controversy be
  The constitutional rights of each district shall include the following. The right to:
 
 ##### ¶323.1 {#p323-1}
-Take charge of all the ministers and churches within its bounds, as modified by 360:3e and [¶365](#p365) (except those serving the General Church as the General Conference shall define who shall be amenable to the General Board, and except the district superintendent who shall be amenable to the General Board), and subject to the right of the ministers and churches to enter into pastoral engagements.
+Take charge of all the ministers and churches within its bounds, as modified by 360:3e and ¶365 (except those serving the General Church as the General Conference shall define who shall be amenable to the General Board, and except the district superintendent who shall be amenable to the General Board), and subject to the right of the ministers and churches to enter into pastoral engagements.
 
 ##### ¶323.2 {#p323-2}
 Alter the agreement entered into by any pastor and charge, or veto the action of the church and appoint another pastor on said charge when it deems this to be for the best interest of the charge or pastor involved or when the general interest of the work of the district would be better served by such change; and the said church or charge shall receive the pastor appointed by the district conference, provided that any such alteration of a previous arrangement between a pastor and church shall be separately reported and passed by vote of the district conference to be effective.
@@ -548,7 +548,7 @@ The president or other elected officer of the General Conference whenever two-th
 There shall be a General Board to carry out the will of the General Conference during the quadrennium. Such Board shall be composed of the General Superintendent(s) and such other general officers as shall be designated by the General Conference together with an equal number of ordained ministers and lay members chosen by the General Conference to represent equitably the several administrative areas of the Church. The number of such representative members shall be determined by the action of the General Conference.
 
 ##### ¶340.2 {#p340-2}
-The General Board is the chief governing body of the Church in the interim of the General Conferences, and as such is empowered to perfect all plans necessary to the performance of its duties; it shall constitute or create the basic board of control of each and all of the Wesleyan societies and institutions now incorporated or hereafter incorporated under the laws of any state of the United States or of any province of Canada or under any other jurisdiction where such is permitted by the laws of said jurisdiction. The General Board of Administration shall have jurisdiction over mission units under the North American General Conference. It shall have the authority to approve a discipline for each unit achieving recognition as a fully established General Conference and for each mission unit. In so doing, it shall have the power to adapt the name of the Church within the restrictions of paragraph [¶205](#p205), and to adapt the provisions of The Discipline of the North American General Conference, including both constitutional and statutory law, provided that it does not contravene the Essentials of The Wesleyan Church. In authorizing the adaptation of the name for a unit achieving recognition as an established General Conference, it shall first consult with the highest interim administrative bodies of the other established General Conferences which are members of The International Conference of The Wesleyan Church.
+The General Board is the chief governing body of the Church in the interim of the General Conferences, and as such is empowered to perfect all plans necessary to the performance of its duties; it shall constitute or create the basic board of control of each and all of the Wesleyan societies and institutions now incorporated or hereafter incorporated under the laws of any state of the United States or of any province of Canada or under any other jurisdiction where such is permitted by the laws of said jurisdiction. The General Board of Administration shall have jurisdiction over mission units under the North American General Conference. It shall have the authority to approve a discipline for each unit achieving recognition as a fully established General Conference and for each mission unit. In so doing, it shall have the power to adapt the name of the Church within the restrictions of paragraph ¶205, and to adapt the provisions of The Discipline of the North American General Conference, including both constitutional and statutory law, provided that it does not contravene the Essentials of The Wesleyan Church. In authorizing the adaptation of the name for a unit achieving recognition as an established General Conference, it shall first consult with the highest interim administrative bodies of the other established General Conferences which are members of The International Conference of The Wesleyan Church.
 
 #### ¶350 The General Superintendency. {#p350}
 
@@ -585,10 +585,10 @@ It shall not have power to revoke, alter, or change our Articles of Religion, El
 It shall not change or alter any part or rule of our government, so as to destroy the principle of equal representation of ministers and lay members in the representative bodies of the Church; or to do away with the right of each General Conference to elect its own officers, or the maintenance of an itinerant ministry.
 
 #### ¶360.3.c {#p360-3-c}
-It shall make no rule, except as provided in [¶365](#p365), that shall deny any church the right to receive, discontinue or expel its own members subject to their right of appeal; or to elect and remove its own officers; or that shall deny to the district conference the final disposition of all pastoral arrangements, except those districts in which the General Conference or the General Board has transferred the supervision to a General Superintendent or other related general official, or that shall deny to preachers and churches initial negotiations concerning the same.
+It shall make no rule, except as provided in ¶365, that shall deny any church the right to receive, discontinue or expel its own members subject to their right of appeal; or to elect and remove its own officers; or that shall deny to the district conference the final disposition of all pastoral arrangements, except those districts in which the General Conference or the General Board has transferred the supervision to a General Superintendent or other related general official, or that shall deny to preachers and churches initial negotiations concerning the same.
 
 #### ¶360.3.d {#p360-3-d}
-It shall make no rule, except as provided in [¶365](#p365), that will discriminate against any member or minister on account of ancestry, color, or sex.
+It shall make no rule, except as provided in ¶365, that will discriminate against any member or minister on account of ancestry, color, or sex.
 
 #### ¶360.3.e {#p360-3-e}
 It shall make no rule that will interfere with the supervision of established districts (in distinction from developing districts) over the ministers and churches within their bounds, unless said district (or districts) is under discipline.
@@ -599,7 +599,7 @@ It shall not have the power to deprive any member or minister of the right of he
 ## Article 10. Coordination of Local, District, and General Discipline
 
 #### ¶365 {#p365}
- Paragraphs [¶315:1](#p315-1) and 360:3c (stating the local church’s authority over local church membership); [¶315:3](#p315-3), [¶5](#p315-5) and 360:3c (stating the local church’s authority over local licentiates and church officers); [¶323:1](#p323-1) and 360:3c, e (stating the district’s authority over ministers and churches); and [¶323:1](#p323-1) (stating the district’s authority over ministers and churches and the General Church’s authority over certain officials) are not intended to require multiple hearings and appeals dealing with the same person with amenability on more than one level. Further, these paragraphs do not deal with the potential of a lay person committing offenses with effects beyond the local church or of a minister or local church committing offenses with effects beyond the district of which they are a part. Therefore, the General Conference shall enact legislation to deal properly with such cases.
+ Paragraphs ¶315:1 and ¶360:3c (stating the local church’s authority over local church membership); ¶315:3, ¶5 and ¶360:3c (stating the local church’s authority over local licentiates and church officers); ¶323:1 and ¶360:3c, e (stating the district’s authority over ministers and churches); and ¶323:1 (stating the district’s authority over ministers and churches and the General Church’s authority over certain officials) are not intended to require multiple hearings and appeals dealing with the same person with amenability on more than one level. Further, these paragraphs do not deal with the potential of a lay person committing offenses with effects beyond the local church or of a minister or local church committing offenses with effects beyond the district of which they are a part. Therefore, the General Conference shall enact legislation to deal properly with such cases.
 
 ## Article 11. The Supreme Judiciary
 

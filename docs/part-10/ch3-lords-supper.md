@@ -3,7 +3,7 @@
 ## A. General Directions
 
 #### ¶5600 {#p5600}
- Each local church is encouraged to provide for the observance of the Lord’s Supper at least once each month but is required to do so at least once every three months ([¶293](#p293); [¶725:6](#p725-6)).
+ Each local church is encouraged to provide for the observance of the Lord’s Supper at least once each month but is required to do so at least once every three months ([¶293](/part-1/ch4-constitution.md#p293); [¶725:6](/part-2/ch4-pastors.md#p725-6)).
 
 **5605.** It is expected that Wesleyan ministers shall carefully admonish the people that only those who are in right relations with God and with their neighbors should come to the Lord’s Table, and that others should come only if in so doing they are expressing repentance and seeking forgiveness.
 
@@ -13,7 +13,7 @@
 
 ## B. Order of the Lord's Supper - As Part of a Service
 
-**5615.** *(The elements of the Lord’s Supper shall be placed upon a table and covered with a white linen cloth. The minister shall read a Scripture lesson, such as one of the following: Isa. 53; Matt. 26:26–29; Luke 22:14-20; Rom. 5:1–2, 6–12, 18–21; 1 Cor. 10:16–17; 11:23–29; Eph. 1:3–12; 2:1–10, 12–22; Heb. 9:11–17, 22–28; 1 Peter 1:18-23; 2:21–25.)*
+**5615.** *(The elements of the Lord’s Supper shall be placed upon a table and covered with a white linen cloth. The minister shall read a Scripture lesson, such as one of the following: Isa. 53; Matt. 26:26–29; Luke 22:14-20; Rom. 5:1–2, 6–12, [¶18–21](/part-1/ch1-history.md#p18); 1 Cor. 10:16–17; 11:23–29; Eph. 1:3–12; 2:1–10, [¶12–22](/part-1/ch1-history.md#p12); Heb. 9:11–17, 22–28; 1 Peter 1:18-23; 2:21–25.)*
 
 *(Then the congregation shall sing a hymn, such as one of the following: “Alas! and Did My Saviour Bleed,” “Man of Sorrows, What a Name,” “When I Survey the Wondrous Cross,” “Arise, My Soul, Arise,” “My Faith Looks Up to Thee,” “Rock of Ages,” “There Is a Fountain Filled with Blood.”)*
 
@@ -57,7 +57,7 @@ Almighty God, to whom all hearts are opened, all desires known, and from whom no
 
 **Scripture Readings**
 
-*(Then the minister shall read a Scripture lesson, such as one of the following: Isa. 53; Matt. 26:26–29; Luke 22:14-20; Rom. 5:1–2, 6–12, 18–21; 1 Cor. 10:16–17; 11:23–29; Eph. 1:3–12; 2:1–10, 12–22; Heb. 9:11–17, 22–28; 1 Peter 1:18-23; 2:21–25.)*
+*(Then the minister shall read a Scripture lesson, such as one of the following: Isa. 53; Matt. 26:26–29; Luke 22:14-20; Rom. 5:1–2, 6–12, [¶18–21](/part-1/ch1-history.md#p18); 1 Cor. 10:16–17; 11:23–29; Eph. 1:3–12; 2:1–10, [¶12–22](/part-1/ch1-history.md#p12); Heb. 9:11–17, 22–28; 1 Peter 1:18-23; 2:21–25.)*
 
 **Prayer**
 

@@ -1,7 +1,7 @@
 # Chapter 2 — General Conferences and Established National/Regional Conferences
 
 #### ¶2550 {#p2550}
- The North American General Conference shall be composed of the established and developing districts in the United States and Canada, all of which are governed by the North American *Discipline*. The regional/ national conferences, established districts and developing areas under the North American Global Partners Division ([¶2275](#p2275)), and the Established National/ Regional Conferences ([¶2610](#p2610)) are all governed by their own disciplines as approved by the General Board ([¶2500:5](#p2500-5)), and shall be represented in the North American General Conference according to a plan approved by the General Board ([¶325](#p325); [¶1655:33](#p1655-33)).
+ The North American General Conference shall be composed of the established and developing districts in the United States and Canada, all of which are governed by the North American *Discipline*. The regional/ national conferences, established districts and developing areas under the North American Global Partners Division ([¶2275](/part-4/ch6-global-partners.md#p2275)), and the Established National/ Regional Conferences ([¶2610](#p2610)) are all governed by their own disciplines as approved by the General Board ([¶2500:5](/part-5/ch1-basic-principles.md#p2500-5)), and shall be represented in the North American General Conference according to a plan approved by the General Board ([¶325](/part-1/ch4-constitution.md#p325); [¶1655:33](/part-4/ch2-general-board.md#p1655-33)).
 
 #### ¶2560 {#p2560}
  The General Conference of The Wesleyan Church of the Philippines shall be composed of all developing and established districts in the Philippines and Indonesia and such other units as it shall receive.
@@ -12,7 +12,7 @@
 ## A. Established National/Regional Conferences
 
 #### ¶2610 {#p2610}
- A mission unit may be advanced to the status of an Established National/Regional Conference by the authority of the North American General Conference ([¶6515:2](#p6515-2); [¶6745:11](#p6745-11)) when it meets the following requirements:
+ A mission unit may be advanced to the status of an Established National/Regional Conference by the authority of the North American General Conference (¶6515:2; ¶6745:11) when it meets the following requirements:
 
 ##### ¶2610:1 {#p2610-1}
 An effective church organization on the local, district, and/or national/ regional levels.
@@ -52,7 +52,7 @@ Approval of such status by The International Conference (6745:11).
 ## B. General Conferences
 
 #### ¶2620 {#p2620}
- An Established National/Regional Conference may be advanced to the status of a general conference by The International Conference of The Wesleyan Church, upon authorization by the North American General Conference ([¶1590:10](#p1590-10); [¶6745:10](#p6745-10); 6515:2i).
+ An Established National/Regional Conference may be advanced to the status of a general conference by The International Conference of The Wesleyan Church, upon authorization by the North American General Conference ([¶1590:10](/part-4/ch1-general-conference.md#p1590-10); ¶6745:10; 6515:2i).
 
 #### ¶2625 {#p2625}
  A General Conference is a body which has full authority over the Church in its assigned territory, in keeping with the provisions of The International Conference of The Wesleyan Church. A General Conference has the right to manage its own internal governance, including revising its discipline, as long as it does not violate the Essentials.
@@ -63,4 +63,4 @@ Approval of such status by The International Conference (6745:11).
  The relationships between general conferences shall be supervised by the International Board of Appeals (See Appendix A).
 
 #### ¶2620 {#p2620-x2}
- The unity of The Wesleyan Church worldwide is to be recognized and maintained through the relationships provided in the Charter of The International Conference of The Wesleyan Church (see Appendix A). The North American General Conference shall relate to all other general conferences as outlined in the Charter, including the recognition of the right of members and ministers to transfer membership and/or credentials between general conferences, subject to the same approval as that provided for transfers between its own local churches and districts ([¶325](#p325); [¶6730](#p6730)).
+ The unity of The Wesleyan Church worldwide is to be recognized and maintained through the relationships provided in the Charter of The International Conference of The Wesleyan Church (see Appendix A). The North American General Conference shall relate to all other general conferences as outlined in the Charter, including the recognition of the right of members and ministers to transfer membership and/or credentials between general conferences, subject to the same approval as that provided for transfers between its own local churches and districts ([¶325](/part-1/ch4-constitution.md#p325); ¶6730).

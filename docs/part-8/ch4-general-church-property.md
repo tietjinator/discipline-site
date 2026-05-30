@@ -3,17 +3,17 @@
 ## A. Incorporation
 
 #### ¶4900 {#p4900}
- The General Conference shall cause a corporation to be formed and maintained under the name of The Wesleyan Church Corporation, through which it shall acquire, sell, manage, encumber, transfer, and otherwise dispose of General Church property ([¶4200–4260](#p4200–4260); [¶1590:5](#p1590-5)).
+ The General Conference shall cause a corporation to be formed and maintained under the name of The Wesleyan Church Corporation, through which it shall acquire, sell, manage, encumber, transfer, and otherwise dispose of General Church property ([¶4200–4260](/part-7/ch3-twc-corporation.md#p4200); [¶1590:5](/part-4/ch1-general-conference.md#p1590-5)).
 
 ## B. Ownership
 
 #### ¶4920 {#p4920}
- All grants, conveyances, devises, gifts, transfers, and assignments now owned or hereafter made of any property, real, personal, or mixed, to or for The Wesleyan Church, or any general office, department, institution, agency, or organization connected thereto, with the exception of those that are separately incorporated ([¶1590:6](#p1590-6); [¶4300](#p4300)), shall be held by and/or conveyed to The Wesleyan Church Corporation in its corporate name, for the use and benefit of the members and ministers of The Wesleyan Church, subject to its *Discipline*, regulations, and appointments as from time to time legislated and declared ([¶4570](#p4570)).
+ All grants, conveyances, devises, gifts, transfers, and assignments now owned or hereafter made of any property, real, personal, or mixed, to or for The Wesleyan Church, or any general office, department, institution, agency, or organization connected thereto, with the exception of those that are separately incorporated ([¶1590:6](/part-4/ch1-general-conference.md#p1590-6); [¶4300](/part-7/ch4-subsidiary-corporations.md#p4300)), shall be held by and/or conveyed to The Wesleyan Church Corporation in its corporate name, for the use and benefit of the members and ministers of The Wesleyan Church, subject to its *Discipline*, regulations, and appointments as from time to time legislated and declared ([¶4570](/part-9/ch1-general-regulations.md#p4570)).
 
 ## C. Suggested Forms for Bequests and Devises
 
 #### ¶4940 {#p4940}
- The General Superintendent’s office is available for special advice and instruction for those who desire to make wills, donations, or bequests to The Wesleyan Church or any of its various ministries ([¶475](#p475)).
+ The General Superintendent’s office is available for special advice and instruction for those who desire to make wills, donations, or bequests to The Wesleyan Church or any of its various ministries ([¶475](/part-1/ch5-special-directions.md#p475)).
 
 ##### ¶4940:1 {#p4940-1}
 

@@ -1,7 +1,7 @@
 # Chapter 2 — Reception of Members
 
 #### ¶5550 {#p5550}
- When candidates for membership have been approved for reception as given in [¶550–565](#p550–565), the pastor shall appoint a time during a regular worship service for their public reception, and shall preside over the service of reception or appoint a representative to preside. In those churches in which the local churches must vote on the reception of members, such vote should be taken at a meeting prior to the service of reception. Paragraphs [¶5565–5567](#p5565–5567), “Reception of Members,” “Covenant Questions,” and “Declaration of Purpose,” have the authority of statutory law. The paragraphs must be followed as prescribed, except that paragraph [¶5566](#p5566) may be addressed during membership preparation classes and omitted during the service of reception if a shortened service is desired.
+ When candidates for membership have been approved for reception as given in ¶550–565, the pastor shall appoint a time during a regular worship service for their public reception, and shall preside over the service of reception or appoint a representative to preside. In those churches in which the local churches must vote on the reception of members, such vote should be taken at a meeting prior to the service of reception. Paragraphs ¶5565–5567, “Reception of Members,” “Covenant Questions,” and “Declaration of Purpose,” have the authority of statutory law. The paragraphs must be followed as prescribed, except that paragraph ¶5566 may be addressed during membership preparation classes and omitted during the service of reception if a shortened service is desired.
 
 #### ¶5555 {#p5555}
  *The service of reception may begin with a hymn and Scripture reading such as one of those listed below, and with the administration of the sacrament of baptism to any who have not previously received it.*
@@ -18,11 +18,11 @@ It is in keeping with Christ’s commission to the church that we meet together 
 
 #### ¶5565 {#p5565}
 
-*(The minister shall call before the congregation those who are being received as members. If the covenant questions have not been addressed previously, or if a public response to the questions is desired, the questions in paragraph [¶5566](#p5566) shall be asked as prescribed).*
+*(The minister shall call before the congregation those who are being received as members. If the covenant questions have not been addressed previously, or if a public response to the questions is desired, the questions in paragraph ¶5566 shall be asked as prescribed).*
 
 *These persons* standing before you come to enter into covenant *as members* of The Wesleyan Church, with all of the accompanying rights, privileges, and responsibilities. *They testify* to having been born again. *They have* received the sacrament of baptism, *have* been instructed in and *have* accepted the doctrines and polity of The Wesleyan Church, and have been approved by vote as manifesting in spirit and practice God’s work of grace within *their hearts*.
 
-*(If a shortened service is desired, and the candidates have been asked the membership covenant questions and have responded appropriately, the presiding minister may add the statement “They have each responded appropriately to the membership covenant questions as required by The Discipline” [ [¶5550](#p5550) ], omit the questions, and move to paragraph [¶5567](#p5567).)*
+*(If a shortened service is desired, and the candidates have been asked the membership covenant questions and have responded appropriately, the presiding minister may add the statement “They have each responded appropriately to the membership covenant questions as required by The Discipline” [ ¶5550 ], omit the questions, and move to paragraph ¶5567.)*
 
 #### ¶5566 {#p5566}
 
@@ -69,7 +69,7 @@ His church, but who now *desire* to transfer their membership to The Wesleyan Ch
 
 **Transferee:** I do.
 
-*(If no student members are being received the minister shall skip and go directly to [¶5580](#p5580))*
+*(If no student members are being received the minister shall skip and go directly to ¶5580)*
 
 #### ¶5577 {#p5577}
 

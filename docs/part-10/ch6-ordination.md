@@ -6,7 +6,7 @@
  That portion of the ritual of ordination “Examination of Candidates” ([¶5772](#p5772)) has the authority of statutory law, and must be followed as prescribed.
 
 **5752.** The ordination service shall be planned by the Council of Ordination
-([¶1405](#p1405); [¶3070:6](#p3070-6)) and shall be presided over by the General Superintendent ([¶1935](#p1935)) or, in absence of the General Superintendent ([¶3091](#p3091)), by the district superintendent ([¶1310:23](#p1310-23)). They shall be assisted in the various parts of the service and in the act of ordination by the Council of Ordination ([¶1405](#p1405); [¶3070:6](#p3070-6)).
+([¶1405](/part-3/ch6-ministerial.md#p1405); [¶3070:6](/part-6/ch1-ministerial-orders.md#p3070-6)) and shall be presided over by the General Superintendent ([¶1935](/part-4/ch4-general-administration.md#p1935)) or, in absence of the General Superintendent ([¶3091](/part-6/ch1-ministerial-orders.md#p3091)), by the district superintendent ([¶1310:23](/part-3/ch5-administration.md#p1310-23)). They shall be assisted in the various parts of the service and in the act of ordination by the Council of Ordination ([¶1405](/part-3/ch6-ministerial.md#p1405); [¶3070:6](/part-6/ch1-ministerial-orders.md#p3070-6)).
 
 ## B. The Order of the Ordination of Ministers
 
@@ -27,7 +27,7 @@ Almighty God, giver of all good things, who by the Holy Spirit has appointed ord
 
 **Sermon**
 
-*(Then the General Superintendent or the minister appointed ([¶3091](#p3091)) shall preach the ordination sermon, [¶1935](#p1935).)*
+*(Then the General Superintendent or the minister appointed (¶3091) shall preach the ordination sermon, ¶1935.)*
 
 **Presentation of Candidates**
 
@@ -38,7 +38,7 @@ I present *(read names aloud)* to be ordained as (a) minister(s) in The Wesleyan
 
 **Acceptance of Candidates**
 
-*(Then the presiding minister ([¶5752](#p5752)) shall say to the people:)*
+*(Then the presiding minister (¶5752) shall say to the people:)*
 
 Dear friends, these are they whom we purpose, God willing, this day to ordain ministers. For, after due examination, we find that they are truly called to this function and ministry, and that they are qualified for the same.
 
@@ -59,7 +59,7 @@ Dear friends, these are they whom we purpose, God willing, this day to ordain mi
 **The Charge**
 
 #### ¶5768 {#p5768}
- *(Then the presiding minister ([¶3091](#p3091); [¶5752](#p5752)) shall ask the candidates to stand for the Charge and the Examination and shall address the candidates, giving the Charge:)*
+ *(Then the presiding minister (¶3091; ¶5752) shall ask the candidates to stand for the Charge and the Examination and shall address the candidates, giving the Charge:)*
 
 Dear *Servant(s)* of God:
 You have heard, both in your private examination by the district board of ministerial development and in the message which has just been delivered, something of the importance of the ministry to which you are called. You are *undershepherd(s)* of the Good Shepherd, the Lord Jesus, called to teach and admonish, to feed and provide for the Lord’s family, to bring the lost into the fold, to bring each person unto the fullness of the stature of Christ.
@@ -69,7 +69,7 @@ Remember always the greatness of this responsibility and give yourselves without
 **Examination of Candidates**
 
 #### ¶5772 {#p5772}
- *(Then while the candidates remain standing, the presiding minister ([¶3091](#p3091); [¶5752](#p5752)) shall administer the Examination to the candidates:)*
+ *(Then while the candidates remain standing, the presiding minister (¶3091; ¶5752) shall administer the Examination to the candidates:)*
 
 This assembled congregation represents the church of Jesus Christ everywhere as they witness your responses to the inquiries we shall make of you. In this way we shall understand your mind and will in these things, and you may also be moved to greater faithfulness in doing your duties.
 
@@ -100,7 +100,7 @@ This assembled congregation represents the church of Jesus Christ everywhere as 
 **Covenant with Candidates’ Spouses**
 
 #### ¶5775 {#p5775}
- (*Then, if it is so desired, the presiding minister ([¶3091](#p3091); [¶5752](#p5752)) may call the spouses of the candidates to come and stand beside them, and shall address them saying:)*
+ (*Then, if it is so desired, the presiding minister (¶3091; ¶5752) may call the spouses of the candidates to come and stand beside them, and shall address them saying:)*
 
 It is the teaching of Scripture that a spouse shall be a loving companion in the ministry of a mate. You have witnessed the examination of your marriage partner in which commitment to the work and responsibilities of ministry has been stated. Your participation in God’s purposes for ministry through your marriage partner is important also. You will be needed to share in prayer, to extend love and compassion to all, to carry forward the example of marriage harmony and family wholesomeness. As the companion of your loved one who is now entering the ranks of ordained ministers in the Church, will you dedicate yourself to complement and embrace that ministry as God enables you?
 
@@ -109,7 +109,7 @@ It is the teaching of Scripture that a spouse shall be a loving companion in the
 **Act of Ordination**
 
 #### ¶5782 {#p5782}
- *(Then the candidates for ordination shall kneel, and, if so desired, their spouses may kneel at their sides, and the presiding minister ([¶3091](#p3091); [¶5752](#p5752)) and the Council of Ordination shall lay their hands severally upon the head of each one, and the presiding minister ([¶3091](#p3091); [¶5752](#p5752)) shall say:)*
+ *(Then the candidates for ordination shall kneel, and, if so desired, their spouses may kneel at their sides, and the presiding minister (¶3091; ¶5752) and the Council of Ordination shall lay their hands severally upon the head of each one, and the presiding minister ([¶3091](/part-6/ch1-ministerial-orders.md#p3091); ¶5752) shall say:)*
 
 ____________, as we lay our hands upon you we ask the Lord to give the unusual outpouring of the Holy Spirit needed for your service as an ordained minister in the Church. May God’s anointing enable you to be a faithful exponent of His Word, and an instrument for His holy sacraments, in the name of the Father, the Son, and the Holy Spirit. Amen!
 
@@ -118,14 +118,14 @@ ____________, take authority to preach the Word of God, to administer the holy s
 **Prayer for Enduement**
 
 #### ¶5785 {#p5785}
- *(Then the presiding minister ([¶3091](#p3091); [¶5752](#p5752)) or other appointed minister shall pray an extemporaneous prayer of enduement or use the following:)*
+ *(Then the presiding minister (¶3091; ¶5752) or other appointed minister shall pray an extemporaneous prayer of enduement or use the following:)*
 
 Our Father, we beseech You to send upon these Your servants Your heavenly blessings: that they may be clothed with righteousness and with the power of the Holy Spirit, that Your Word spoken in their mouths may have success and that it may never be spoken in vain. Grant also that we may have grace to hear and to receive what they shall deliver out of Your Holy Word, as the means of our salvation; and that in all our words and deeds we may seek Your glory, and the increase of Your kingdom, through Jesus Christ our Lord. Assist us, O Lord, in all our doings, with Your most gracious favor, and further us with Your continual help, that in all our works begun, continued and ended in You, we may glorify Your holy name, and finally by Your mercy obtain everlasting life through Jesus Christ our Lord. Amen.
 
 **Right Hand of Fellowship**
 
 #### ¶5788 {#p5788}
- *(The newly ordained ministers shall then arise, and the presiding minister ([¶3091](#p3091); [¶5752](#p5752)) and the members of the Council of Ordination shall extend to each the right hand of fellowship, welcoming the newly ordained ministers to the work and labors of the ministry. Then the presiding minister may direct the congregation to file by and greet the newly ordained ministers, or the service may be closed with the following benediction:)*
+ *(The newly ordained ministers shall then arise, and the presiding minister (¶3091; ¶5752) and the members of the Council of Ordination shall extend to each the right hand of fellowship, welcoming the newly ordained ministers to the work and labors of the ministry. Then the presiding minister may direct the congregation to file by and greet the newly ordained ministers, or the service may be closed with the following benediction:)*
 
 **Benediction**
 

@@ -8,10 +8,10 @@
 ## B. Membership
 
 #### ¶752 Local Board of Administration Organizational Options. {#p752}
- The local church conference shall adopt one of the following structural models for the organization and election of the local board of administration ([¶315:5](#p315-5)). All board members shall be adult members, whose lives bear witness to the grace of holy living ([¶297:1](#p297-1); 302:3-4; 552:2-3; 553:1-3); who are in harmony with our Articles of Religion, Guides and Helps to Holy Living, and the authority of The Wesleyan Church in matters of church government ([¶297:3](#p297-3); 553:1-2); and who are faithful in worship attendance, involved in personal ministry, and supportive of the church financially at least to the level of personal tithing ([¶265:3](#p265-3); [¶297:4](#p297-4)).
+ The local church conference shall adopt one of the following structural models for the organization and election of the local board of administration ([¶315:5](/part-1/ch4-constitution.md#p315-5)). All board members shall be adult members, whose lives bear witness to the grace of holy living ([¶297:1](/part-1/ch4-constitution.md#p297-1); 302:3-4; 552:2-3; 553:1-3); who are in harmony with our Articles of Religion, Guides and Helps to Holy Living, and the authority of The Wesleyan Church in matters of church government ([¶297:3](/part-1/ch4-constitution.md#p297-3); 553:1-2); and who are faithful in worship attendance, involved in personal ministry, and supportive of the church financially at least to the level of personal tithing ([¶265:3](/part-1/ch4-constitution.md#p265-3); [¶297:4](/part-1/ch4-constitution.md#p297-4)).
 
 ##### ¶752.1 Standard Model. {#p752-1}
- The local board of administration shall be comprised minimally of the pastor as chair ([¶675](#p675), [¶678](#p678), [¶725:16](#p725-16), [¶735](#p735)), the vice-chair ([¶773](#p773)), the church secretary ([¶830](#p830)), and the church treasurer or business manager ([¶842](#p842)). Two or more additional members-at-large may be elected by the local church conference in such numbers as it shall determine. It is recommended that the total number of all voting members of the local board of administration using the standard model should not exceed twelve persons.
+ The local board of administration shall be comprised minimally of the pastor as chair ([¶675](/part-2/ch4-pastors.md#p675), [¶678](/part-2/ch4-pastors.md#p678), [¶725:16](/part-2/ch4-pastors.md#p725-16), [¶735](/part-2/ch4-pastors.md#p735)), the vice-chair ([¶773](#p773)), the church secretary (¶830), and the church treasurer or business manager (¶842). Two or more additional members-at-large may be elected by the local church conference in such numbers as it shall determine. It is recommended that the total number of all voting members of the local board of administration using the standard model should not exceed twelve persons.
 
 ##### ¶752.2 Alternate Models. {#p752-2}
  Alternate models of local church governance may be considered by the local church conference in consultation with the district superintendent and with the prior approval of the district board of administration. When evaluating proposed alternate models, the district board of administration shall give due consideration to safeguard the following constitutional and practical principles:
@@ -26,11 +26,11 @@ All officers, board members, trustees, and district conference delegates must be
 Due to obvious conflicts of interest, no compensated church staff member may vote on compensation issues on the governing board of the local church by which he or she is employed. The only exception is the pastor, who is the chair but not an employee of the local board of administration, rather being called by the local church conference and appointed by the district conference (323:1-2).
 
 ###### ¶752:2d {#p752-2d}
-No member may be excluded from local church leadership on the basis of ancestry, color, or gender (360:3d).
+No member may be excluded from local church leadership on the basis of ancestry, color, or gender ([¶360:3d](/part-1/ch4-constitution.md#p360-3)).
 
 #### ¶755 {#p755}
  It is recommended that no two persons of the same household be
-elected to serve on the same local board of administration, that no person shall be elected to more than one office carrying ex officio membership on the board, and that a former pastor should not serve on the local board of administration ([¶3097](#p3097)).
+elected to serve on the same local board of administration, that no person shall be elected to more than one office carrying ex officio membership on the board, and that a former pastor should not serve on the local board of administration ([¶3097](/part-6/ch1-ministerial-orders.md#p3097)).
 
 #### ¶758 {#p758}
  A local church conference may, by a two-thirds vote, adopt three-year terms for the local board of administration, with approximately one-third being elected each year.
@@ -41,7 +41,7 @@ elected to serve on the same local board of administration, that no person shall
  It is recommended that the local board of administration at least quarterly.
 
 #### ¶763 Special Sessions. {#p763}
- The local board of administration may authorize special sessions as it deems necessary, or it may be called into special session by the pastor, the vice-chair (for sessions dealing with a pastoral vote or with the pastor’s financial support and related matters), or in times of emergency by the district superintendent or a representative appointed by the district superintendent. A special session may be held at any time if all members of the local board of administration are present. Otherwise, each shall have been notified personally at least forty-eight hours prior to the convening of the session. A special session may not be conducted in the absence of the pastor except as provided for in [¶773](#p773).
+ The local board of administration may authorize special sessions as it deems necessary, or it may be called into special session by the pastor, the vice-chair (for sessions dealing with a pastoral vote or with the pastor’s financial support and related matters), or in times of emergency by the district superintendent or a representative appointed by the district superintendent. A special session may be held at any time if all members of the local board of administration are present. Otherwise, each shall have been notified personally at least forty-eight hours prior to the convening of the session. A special session may not be conducted in the absence of the pastor except as provided for in ¶773.
 
 #### ¶767 Evaluation Session. {#p767}
  Each year, the local board of administration shall consider its priorities, review the distribution of its time, and evaluate the effectiveness of its efforts, using the duties and powers listed in *The Discipline* as a guide. Special attention should be focused on those responsibilities that are most likely to contribute to future outreach and growth to the glory of God.
@@ -51,14 +51,14 @@ elected to serve on the same local board of administration, that no person shall
 ### 1. Officers
 
 #### ¶770 Chair. {#p770}
- The pastor shall be chair of the local board of administration, ex officio, presiding over all sessions except as noted in [¶773](#p773).
+ The pastor shall be chair of the local board of administration, ex officio, presiding over all sessions except as noted in ¶773.
 
 #### ¶773 Vice-Chair. {#p773}
- The pastor may nominate and the local board of administration shall elect one of its members as vice-chair. The vice-chair may preside over meetings of the local board of administration when a pastoral vote or the pastor’s support is under discussion (for exceptions, [¶712](#p712); [¶722:2](#p722-2)). The vice- chair may also preside over sessions or portions of sessions of the local church conference dealing with a pastoral vote or the pastor’s support when neither the district superintendent nor a representative of the district superintendent are present ([¶635](#p635); [¶692:2](#p692-2)). The vice-chair may preside, at the request of the pastor, over other sessions of the local board of administration or of the local church conference. In emergencies, when the pastor is absent or incapacitated, the vice-
-chair may also preside over other sessions of the local board of administration and local church conference with the permission of the district superintendent. The district superintendent or a representative of the district superintendent shall preside over all sessions of the local board of administration considering the termination of a pastoral agreement ([¶712](#p712); [¶722:2](#p722-2)), and in times of emergency.
+ The pastor may nominate and the local board of administration shall elect one of its members as vice-chair. The vice-chair may preside over meetings of the local board of administration when a pastoral vote or the pastor’s support is under discussion (for exceptions, [¶712](/part-2/ch4-pastors.md#p712); [¶722:2](/part-2/ch4-pastors.md#p722-2)). The vice- chair may also preside over sessions or portions of sessions of the local church conference dealing with a pastoral vote or the pastor’s support when neither the district superintendent nor a representative of the district superintendent are present ([¶635](/part-2/ch3-conference.md#p635); [¶692:2](/part-2/ch4-pastors.md#p692-2)). The vice-chair may preside, at the request of the pastor, over other sessions of the local board of administration or of the local church conference. In emergencies, when the pastor is absent or incapacitated, the vice-
+chair may also preside over other sessions of the local board of administration and local church conference with the permission of the district superintendent. The district superintendent or a representative of the district superintendent shall preside over all sessions of the local board of administration considering the termination of a pastoral agreement ([¶712](/part-2/ch4-pastors.md#p712); [¶722:2](/part-2/ch4-pastors.md#p722-2)), and in times of emergency.
 
 #### ¶775 Secretary. {#p775}
- The local church secretary shall be secretary of the local board of administration ex officio ([¶830](#p830)). If the secretary is absent, the local board of administration may elect a secretary pro tem.
+ The local church secretary shall be secretary of the local board of administration ex officio (¶830). If the secretary is absent, the local board of administration may elect a secretary pro tem.
 
 ### Procedure
 
@@ -66,7 +66,7 @@ chair may also preside over other sessions of the local board of administration 
  A majority of the members of the local board of administration shall constitute a quorum.
 
 #### ¶780 Voting. {#p780}
- A majority vote of those present and voting shall be sufficient in all items of business except when voting on the reception of a member against whom an objection has been made, which shall require a two-thirds majority vote of those present and voting ([¶567](#p567); [¶782:8](#p782-8)); and when petitioning the district board of administration to remove a pastor during the initial call, which shall require a two-thirds majority vote of those present and voting ([¶712](#p712); [¶782:12](#p782-12)).
+ A majority vote of those present and voting shall be sufficient in all items of business except when voting on the reception of a member against whom an objection has been made, which shall require a two-thirds majority vote of those present and voting ([¶567](/part-2/ch2-membership.md#p567); [¶782:8](#p782-8)); and when petitioning the district board of administration to remove a pastor during the initial call, which shall require a two-thirds majority vote of those present and voting ([¶712](/part-2/ch4-pastors.md#p712); [¶782:12](#p782-12)).
 
 ### 3. Local Church Governance Philosophy
 
