@@ -33,7 +33,7 @@ Ministerial members of the district board of administration who are not voting m
 Ordained ministers (including licensed ministers who are ordained ministers-elect) who have applied for transfer to another district but whose processes of transfer out of the district are yet incomplete.
 
 ## ¶1086 Laity. {#p1086}
- The lay members of the district conference with voting rights are those elected as delegates by the churches or circuits of that district ([¶315:7](/part-1/ch4-constitution.md#p315-7); [¶317](/part-1/ch4-constitution.md#p317); [¶1100–1109](#p1100–1109)) and the lay members of the district board of administration ([¶317](/part-1/ch4-constitution.md#p317)). The total number of lay members with voting rights shall be determined as set forth in [¶1100:1](#p1100-1) while maintaining the principle of equal representation of the ministry and the laity. Each established church or circuit is entitled to a minimum of one lay delegate as its constitutional right ([¶315:7](/part-1/ch4-constitution.md#p315-7); [¶503](/part-2/ch1-organization.md#p503)), and, according to its number of members, to additional lay delegates allotted by the district board of administration (1100:1-5). A developing church which is judged to be qualified may be allotted one lay delegate ([¶510:5](/part-2/ch1-organization.md#p510-5); [¶1100:2](#p1100-2); [¶1103](#p1103)).
+ The lay members of the district conference with voting rights are those elected as delegates by the churches or circuits of that district ([¶315:7](/part-1/ch4-constitution.md#p315-7); [¶317](/part-1/ch4-constitution.md#p317); [¶1100–1109](#p1100)) and the lay members of the district board of administration ([¶317](/part-1/ch4-constitution.md#p317)). The total number of lay members with voting rights shall be determined as set forth in [¶1100:1](#p1100-1) while maintaining the principle of equal representation of the ministry and the laity. Each established church or circuit is entitled to a minimum of one lay delegate as its constitutional right ([¶315:7](/part-1/ch4-constitution.md#p315-7); [¶503](/part-2/ch1-organization.md#p503)), and, according to its number of members, to additional lay delegates allotted by the district board of administration (1100:1-5). A developing church which is judged to be qualified may be allotted one lay delegate ([¶510:5](/part-2/ch1-organization.md#p510-5); [¶1100:2](#p1100-2); [¶1103](#p1103)).
 
 b. Nonvoting Members
 
@@ -99,7 +99,7 @@ The district shall promptly notify each pastor of the exact number of lay delega
  A sufficient number of alternate lay delegates having the same qualifications ([¶1109](#p1109)) shall be elected in the same manner and at the same session as the delegates ([¶1103](#p1103)), and shall fill any vacancies in the order of their election. Whenever an alternate delegate is required to serve, the pastor or local church secretary shall certify this appointment to the district secretary.
 
 ## ¶1109 Qualifications. {#p1109}
- A lay delegate must be a member who meets the leadership qualifications ([¶260-268](#p260-268); [¶558](/part-2/ch2-membership.md#p558)) and in good standing of the pastoral charge represented, both at the time of election and at the time of the district conference. An ordained, commissioned, or licensed minister may not be elected or serve as a lay delegate.
+ A lay delegate must be a member who meets the leadership qualifications ([¶260-268](/part-1/ch4-constitution.md#p260); [¶558](/part-2/ch2-membership.md#p558)) and in good standing of the pastoral charge represented, both at the time of election and at the time of the district conference. An ordained, commissioned, or licensed minister may not be elected or serve as a lay delegate.
 
 ## C. Sessions
 
@@ -125,7 +125,7 @@ The district shall promptly notify each pastor of the exact number of lay delega
  The rights of the district conference are declared in the Constitution (323:1-10; [¶325](/part-1/ch4-constitution.md#p325); [¶327:1](/part-1/ch4-constitution.md#p327-1); [¶350:3](/part-1/ch4-constitution.md#p350-3); 360:3c, e; [¶375:2](/part-1/ch4-constitution.md#p375-2), [¶4](/part-1/ch4-constitution.md#p375-4), [¶6](/part-1/ch4-constitution.md#p375-6); [¶385](/part-1/ch4-constitution.md#p385)).
 
 ## ¶1129 Quorum. {#p1129}
- A majority of all the ministerial voting members and lay delegates of the district conference ([¶1083-1086](#p1083-1086)) shall constitute a quorum for the transaction of business.
+ A majority of all the ministerial voting members and lay delegates of the district conference ([¶1083-1086](#p1083)) shall constitute a quorum for the transaction of business.
 
 ## ¶1132 Delegates. {#p1132}
  Once a delegate has been seated at the annual district conference, an alternate delegate cannot thereafter be seated in place of the previously seated delegate.
@@ -151,7 +151,7 @@ The district shall promptly notify each pastor of the exact number of lay delega
  Resolutions may be submitted to the district conference by a local church conference, the district board of administration, or any three voting members of the district conference with their signatures.
 
 ## ¶1153 Memorials. {#p1153}
- All resolutions intended for eventual recommendation by the district conference to the General Conference, including changes in *The Discipline* and any other proposals, shall be designated as “memorials” ([¶1557-1560](#p1557-1560)). Anyone authorized to submit a resolution may also submit a memorial to be passed upon by the district conference.
+ All resolutions intended for eventual recommendation by the district conference to the General Conference, including changes in *The Discipline* and any other proposals, shall be designated as “memorials” ([¶1557-1560](/part-4/ch1-general-conference.md#p1557)). Anyone authorized to submit a resolution may also submit a memorial to be passed upon by the district conference.
 
 ## ¶1156 Procedure. {#p1156}
  All resolutions shall be submitted as directed by the district conference. The district board of administration shall be responsible to review each resolution or memorial as to its origin ([¶1150](#p1150)), clarity, relationship to *The Discipline* and other existing legislation of the General Conference or district conference, and shall report them to the district conference together with their recommendations. A properly submitted resolution cannot be withheld from the conference body unless withdrawn by its authors or declared out of order by the chair of the district conference as contravening *The Discipline*. The district secretary shall present any resolutions in question to the district conference chair for a ruling before presenting them on the conference floor. The district conference may by a two-thirds vote suspend the requirement that a resolution must first be reviewed and immediately proceed to consider and vote upon said resolution.
@@ -265,7 +265,7 @@ Space reserved.
 Take charge of all ordained, commissioned, or licensed ministers, ministerial students, commissioned and licensed special workers, missions, developing churches, pastoral charges, and other district work within its bounds, except when the district is under discipline (360:3c, e), and except for those members of the district who are elected as general officials ([¶1800](/part-4/ch3-general-officials.md#p1800)), missionaries appointed under the Global Partners Division ([¶2272](/part-4/ch6-global-partners.md#p2272)), and others who are amenable only to the General Board for their official duties ([¶323:1](/part-1/ch4-constitution.md#p323-1); [¶360:2](/part-1/ch4-constitution.md#p360-2); Gen. Bd. Policy on Ch. Disc. 5150; 5203).
 
 ### ¶1180:12 {#p1180-12}
-Receive a report concerning their official duties from the following: the district superintendent ([¶1310:27](/part-3/ch5-administration.md#p1310-27)), the assistant district superintendent(s) ([¶1323:5](/part-3/ch5-administration.md#p1323-5)), the district treasurer (1337:8), and any others as desired by the district conference.
+Receive a report concerning their official duties from the following: the district superintendent ([¶1310:27](/part-3/ch5-administration.md#p1310)), the assistant district superintendent(s) ([¶1323:5](/part-3/ch5-administration.md#p1323-5)), the district treasurer (1337:8), and any others as desired by the district conference.
 
 ### ¶1180:13 {#p1180-13}
 Consider the numerical and financial progress of the district by receiving a complete statistical and financial report as compiled and submitted by the district secretary.
@@ -274,7 +274,7 @@ Consider the numerical and financial progress of the district by receiving a com
 Take such actions and adopt such rules as it shall judge necessary to promote the interests and well-being of The Wesleyan Church within the bounds of the district, and to amend or rescind the same, provided that it shall not add to or take from any provision of the Constitution or other provisions of The Discipline, and provided that any three members may appeal an action of the district conference as set forth in 323:6 ([¶2061](/part-4/ch4-general-administration.md#p2061)).
 
 ### ¶1180:15 {#p1180-15}
-Adopt financial plans which will provide for the support of the district work, and for the payment of the district obligation for the United Stewardship Fund ([¶2015:1](/part-4/ch4-general-administration.md#p2015-1)), assigning to each church its share of these obligations ([¶2015:2](/part-4/ch4-general-administration.md#p2015-2); [¶1233:11](/part-3/ch3-board.md#p1233-11)).
+Adopt financial plans which will provide for the support of the district work, and for the payment of the district obligation for the United Stewardship Fund ([¶2015:1](/part-4/ch4-general-administration.md#p2015-1)), assigning to each church its share of these obligations ([¶2015:2](/part-4/ch4-general-administration.md#p2015-2); [¶1233:11](/part-3/ch3-board.md#p1233)).
 
 ### ¶1180:16 {#p1180-16}
 Space reserved.
@@ -297,13 +297,13 @@ Delegate any of its duties not restricted to the district conference by the Cons
 ### Relating to Churches, Ministers, and Lay Workers
 
 ### ¶1180:22 {#p1180-22}
-Authorize the establishing of a mission ([¶537](/part-2/ch1-organization.md#p537)), a developing church ([¶510](/part-2/ch1-organization.md#p510)), a church ([¶518](/part-2/ch1-organization.md#p518)), the reclassification of a church as a developing church ([¶518:7](/part-2/ch1-organization.md#p518-7); [¶1233:26](/part-3/ch3-board.md#p1233-26)); to declare a church as discontinued or abandoned ([¶4730](/part-8/ch2-local-church-property.md#p4730)); and to hear a report from the district superintendent of the organization of new churches ([¶520:6](/part-2/ch1-organization.md#p520-6); [¶1310:14](/part-3/ch5-administration.md#p1310-14)). Any established church that is not under discipline may not be discontinued without a corroborating vote of the local church conference ([¶655:12](/part-2/ch3-conference.md#p655-12); [¶1233:26](/part-3/ch3-board.md#p1233-26)).
+Authorize the establishing of a mission ([¶537](/part-2/ch1-organization.md#p537)), a developing church ([¶510](/part-2/ch1-organization.md#p510)), a church ([¶518](/part-2/ch1-organization.md#p518)), the reclassification of a church as a developing church ([¶518:7](/part-2/ch1-organization.md#p518-7); [¶1233:26](/part-3/ch3-board.md#p1233)); to declare a church as discontinued or abandoned ([¶4730](/part-8/ch2-local-church-property.md#p4730)); and to hear a report from the district superintendent of the organization of new churches ([¶520:6](/part-2/ch1-organization.md#p520-6); [¶1310:14](/part-3/ch5-administration.md#p1310)). Any established church that is not under discipline may not be discontinued without a corroborating vote of the local church conference ([¶655:12](/part-2/ch3-conference.md#p655); [¶1233:26](/part-3/ch3-board.md#p1233)).
 
 ### ¶1180:23 {#p1180-23}
 Determine the boundaries of each pastoral charge within the district ([¶323:5](/part-1/ch4-constitution.md#p323-5); 1233:10c; [¶4750](/part-8/ch2-local-church-property.md#p4750)).
 
 ### ¶1180:24 {#p1180-24}
- Receive and pass the recommendations of the district board of administration concerning the pastoral agreements, appointments, and district conference relations, as follows ([¶1233:10](/part-3/ch3-board.md#p1233-10)):
+ Receive and pass the recommendations of the district board of administration concerning the pastoral agreements, appointments, and district conference relations, as follows ([¶1233:10](/part-3/ch3-board.md#p1233)):
 
 #### ¶1180:24a {#p1180-24a}
 Approve the pastoral agreements entered into between the pastoral charges and the ministers, or to alter such an agreement, or to veto the action of the pastoral charge and appoint another pastor, provided that any such alteration or veto shall be for reasons as set forth in the Constitution, and shall be voted on as a separate action by the district conference (323:1-2; [¶697](/part-2/ch4-pastors.md#p697)).
@@ -315,7 +315,7 @@ Appoint a pastor to those pastoral charges not yet supplied at the time of the d
 Appoint each minister to the proper category of service or other appointment (3250-3391), appointing each ordained minister not included on the appointed list (1240:1:A) to the proper district conference relation as retired, on reserve, on educational leave, without appointment (1240:1:B–E), or in process of transfer ([¶3104](/part-6/ch1-ministerial-orders.md#p3104)); appointing each commissioned or licensed minister to the proper category of service (1240:2:A–B; 1240:3:A–B; 3255-3391) or in the process of transfer ([¶3104](/part-6/ch1-ministerial-orders.md#p3104)); to license as ministerial students those persons so qualified ([¶1240:4](/part-3/ch3-board.md#p1240-4); [¶3015:1](/part-6/ch1-ministerial-orders.md#p3015-1)); and to appoint as commissioned or licensed special workers, designating their particular ministry (3450-3480), those who have been granted the proper commissions and licenses (1240:5:A–C) or to list them as in process of transfer (1240:5:B); and to appoint commissioned lay missionaries.
 
 ### ¶1180:25 {#p1180-25}
-Grant in concurrence with the General Board prior approval to a local church conference for post-secondary education in terms of an institute, junior college, or college-level programs ([¶655:17](/part-2/ch3-conference.md#p655-17); [¶1655:36](/part-4/ch2-general-board.md#p1655-36)).
+Grant in concurrence with the General Board prior approval to a local church conference for post-secondary education in terms of an institute, junior college, or college-level programs ([¶655:17](/part-2/ch3-conference.md#p655); [¶1655:36](/part-4/ch2-general-board.md#p1655)).
 
 ### ¶1180:26 {#p1180-26}
 Elect to ordination or for commissioning as a minister a candidate the district conference deems qualified ([¶3070](/part-6/ch1-ministerial-orders.md#p3070)), after receiving a report from the district board of ministerial development ([¶1390:5](/part-3/ch6-ministerial.md#p1390-5)) which shall be acted upon as a separate item of business.
@@ -327,7 +327,7 @@ Elect to ordination or for commissioning as a minister a candidate the district 
 A recognition as ordained minister in process of transfer to an ordained minister being received from another denomination ([¶3104](/part-6/ch1-ministerial-orders.md#p3104)), and a recognition as an ordained minister of The Wesleyan Church in full standing when all requirements have been met (3104:4-5).
 
 #### ¶1180:27b {#p1180-27b}
-A district ministerial license, the granting of which shall become effective when the person receives appointment as set forth in 3033:7 and 3040:3 (1180:24c; [¶1233:10](/part-3/ch3-board.md#p1233-10)).
+A district ministerial license, the granting of which shall become effective when the person receives appointment as set forth in 3033:7 and 3040:3 (1180:24c; [¶1233:10](/part-3/ch3-board.md#p1233)).
 
 #### ¶1180:27c {#p1180-27c}
 A recognition of a commissioned or licensed minister being received from another denomination as in process of transfer ([¶3104](/part-6/ch1-ministerial-orders.md#p3104)) and a recognition of such commissioned or licensed ministers in full standing when all requirements are met ([¶3104](/part-6/ch1-ministerial-orders.md#p3104)).
@@ -379,10 +379,10 @@ Request, by a two-thirds majority vote, a ruling on a point of Wesleyan Church l
 Appeal, by a two-thirds majority vote, a decision of the General Superintendent on the legality of an action by the district conference, a district board or committee, or a district official, to the General Board of Review ([¶375:2](/part-1/ch4-constitution.md#p375-2); [¶2061](/part-4/ch4-general-administration.md#p2061); [¶323:6](/part-1/ch4-constitution.md#p323-6); Gen. Bd. Policy on Ch. Disc. 5445:2). All appeals must be filed with the Executive Director of Communication and Administration within sixty days after the date of the official decision on the matter.
 
 ### ¶1180:37 {#p1180-37}
-Adopt, by a two-thirds majority vote, a complaint against the General Conference or another district and order its presentation to the General Board of Review for settlement (375:4, 6; Gen. Bd. Policy on Ch. Disc. 5445:4); and to adopt such a complaint, by a majority vote, against the General Board to be presented to the General Board of Review for settlement ([¶323:10](/part-1/ch4-constitution.md#p323-10)).
+Adopt, by a two-thirds majority vote, a complaint against the General Conference or another district and order its presentation to the General Board of Review for settlement (375:4, 6; Gen. Bd. Policy on Ch. Disc. 5445:4); and to adopt such a complaint, by a majority vote, against the General Board to be presented to the General Board of Review for settlement ([¶323:10](/part-1/ch4-constitution.md#p323)).
 
 ### ¶1180:38 {#p1180-38}
-Appeal, by a two-thirds majority vote, a judgment of the General Board of Review to the General Conference for final settlement ([¶323:10](/part-1/ch4-constitution.md#p323-10); [¶380](/part-1/ch4-constitution.md#p380); Gen. Bd. Policy on Ch. Disc. 5450). All appeals must be filed with the Executive Director of Communication and Administration within sixty days after the date of the official decision on the matter.
+Appeal, by a two-thirds majority vote, a judgment of the General Board of Review to the General Conference for final settlement ([¶323:10](/part-1/ch4-constitution.md#p323); [¶380](/part-1/ch4-constitution.md#p380); Gen. Bd. Policy on Ch. Disc. 5450). All appeals must be filed with the Executive Director of Communication and Administration within sixty days after the date of the official decision on the matter.
 
 ### ¶1180:39 {#p1180-39}
 Exercise judicial powers according to the provisions of the General Board Policy on Church Discipline (5200-5248; 5300-5325).

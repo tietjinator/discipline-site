@@ -8,7 +8,7 @@
 ## B. Sessions
 
 ## ¶630 Regular Sessions. {#p630}
- The local church conference shall meet annually within thirty days of the end of the district year ([¶1180:17](/part-3/ch2-conference.md#p1180-17)). It shall be announced from the pulpit at least two weeks in advance ([¶625](#p625)). Reports shall be made; the officers and local board of administration shall be elected ([¶815](#p815); [¶823](#p823); [¶965](#p965); [¶1103](/part-3/ch2-conference.md#p1103)); and such other business shall be transacted as necessary ([¶650](#p650)).
+ The local church conference shall meet annually within thirty days of the end of the district year ([¶1180:17](/part-3/ch2-conference.md#p1180)). It shall be announced from the pulpit at least two weeks in advance ([¶625](#p625)). Reports shall be made; the officers and local board of administration shall be elected ([¶815](#p815); [¶823](#p823); [¶965](#p965); [¶1103](/part-3/ch2-conference.md#p1103)); and such other business shall be transacted as necessary ([¶650](#p650)).
 
 ## ¶633 Special Session. {#p633}
 
@@ -88,10 +88,10 @@ Elect the church officers ([¶315:5](/part-1/ch4-constitution.md#p315-5)), which
 Receive reports from the pastor(s), church officers, lay ministers and other persons, boards, and committees as desired, and as listed in 650:2–5.
 
 ### ¶655.5 {#p655-5}
-Remove, when such is in the best interests of the church, by a majority vote of those present and voting, any church officer, trustee, or delegate mentioned in 655:4 ([¶782:23](/part-2/ch5-local-board.md#p782-23)).
+Remove, when such is in the best interests of the church, by a majority vote of those present and voting, any church officer, trustee, or delegate mentioned in 655:4 ([¶782:23](/part-2/ch5-local-board.md#p782)).
 
 ### ¶655.6 {#p655-6}
-License lay ministers ([¶315:3](/part-1/ch4-constitution.md#p315-3)), and to renew or revoke such license ([¶782:18](/part-2/ch5-local-board.md#p782-18); [¶3410](/part-6/ch4-special-lay-ministries.md#p3410); [¶3420](/part-6/ch4-special-lay-ministries.md#p3420); [¶3440:2](/part-6/ch4-special-lay-ministries.md#p3440-2)). This power may be delegated to the local board of administration.
+License lay ministers ([¶315:3](/part-1/ch4-constitution.md#p315-3)), and to renew or revoke such license ([¶782:18](/part-2/ch5-local-board.md#p782); [¶3410](/part-6/ch4-special-lay-ministries.md#p3410); [¶3420](/part-6/ch4-special-lay-ministries.md#p3420); [¶3440:2](/part-6/ch4-special-lay-ministries.md#p3440-2)). This power may be delegated to the local board of administration.
 
 ### ¶655.7 {#p655-7}
 Recommend suitable members to the district conference for district licenses as ministerial students, licensed ministers, or special workers ([¶315:3](/part-1/ch4-constitution.md#p315-3)). This power may be delegated to the local board of administration.
@@ -100,22 +100,22 @@ Recommend suitable members to the district conference for district licenses as m
 Adopt petitions or resolutions to the district conference, including memorials proposed for recommendation to the General Conference (1150–1156).
 
 ### ¶655.9 {#p655-9}
-Adopt financial policies, which policies shall be administered by the local board of administration ([¶782:27](/part-2/ch5-local-board.md#p782-27)).
+Adopt financial policies, which policies shall be administered by the local board of administration ([¶782:27](/part-2/ch5-local-board.md#p782)).
 
 ### ¶655.10 {#p655-10}
-Delegate to the local board of administration ([¶782:28](/part-2/ch5-local-board.md#p782-28)) full authority over the annual budget.
+Delegate to the local board of administration ([¶782:28](/part-2/ch5-local-board.md#p782)) full authority over the annual budget.
 
 ### ¶655.11 {#p655-11}
 Authorize the purchase or sale of property, the erection or major remodeling of buildings, and all mortgages or other indebtedness which encumbers the property, subject to the prior approval of the district board of administration, according to the procedure set forth in 4700–4720.
 
 ### ¶655.12 {#p655-12}
-Corroborate by majority vote, if not under discipline, the action of the district board of administration to discontinue the local church ([¶1233:26](/part-3/ch3-board.md#p1233-26)).
+Corroborate by majority vote, if not under discipline, the action of the district board of administration to discontinue the local church ([¶1233:26](/part-3/ch3-board.md#p1233)).
 
 ### ¶655.13 {#p655-13}
-Petition the district board of administration for the incorporation of the local church when it is deemed necessary as set forth in 4000, and to authorize the local board of administration to incorporate the church when such incorporation has been approved by the district board of administration ([¶1233:30](/part-3/ch3-board.md#p1233-30)).
+Petition the district board of administration for the incorporation of the local church when it is deemed necessary as set forth in 4000, and to authorize the local board of administration to incorporate the church when such incorporation has been approved by the district board of administration ([¶1233:30](/part-3/ch3-board.md#p1233)).
 
 ### ¶655.14 {#p655-14}
-Authorize, subject to the approval of the district board of administration, the establishment and operation of a mission ([¶537](/part-2/ch1-organization.md#p537); [¶782:6](/part-2/ch5-local-board.md#p782-6); [¶1233:26](/part-3/ch3-board.md#p1233-26)).
+Authorize, subject to the approval of the district board of administration, the establishment and operation of a mission ([¶537](/part-2/ch1-organization.md#p537); [¶782:6](/part-2/ch5-local-board.md#p782-6); [¶1233:26](/part-3/ch3-board.md#p1233)).
 
 ### ¶655.15 {#p655-15}
 Delegate such responsibilities as it shall choose to the local board of administration.
@@ -124,7 +124,7 @@ Delegate such responsibilities as it shall choose to the local board of administ
 Have recourse to a proper court of jurisdiction in any matters of controversy between itself and other local, or district, or general units or agencies of the denomination ([¶315:8](/part-1/ch4-constitution.md#p315-8); General Board Policy on Church Discipline).
 
 ### ¶655.17 {#p655-17}
-Authorize the establishment of a day care and/or a day school of preschool, elementary, and secondary levels only, when such is desired, subject to approval by the district board of administration; and to delegate governance of the day care and/or day school to the local board of administration ([¶782:33](/part-2/ch5-local-board.md#p782-33); [¶1233:32](/part-3/ch3-board.md#p1233-32)). District conference and General Board approval is required before a local church conference can formalize postsecondary education in terms of an institute or of junior college or college-level programs ([¶1180:25](/part-3/ch2-conference.md#p1180-25); [¶1655:36](/part-4/ch2-general-board.md#p1655-36)).
+Authorize the establishment of a day care and/or a day school of preschool, elementary, and secondary levels only, when such is desired, subject to approval by the district board of administration; and to delegate governance of the day care and/or day school to the local board of administration ([¶782:33](/part-2/ch5-local-board.md#p782); [¶1233:32](/part-3/ch3-board.md#p1233)). District conference and General Board approval is required before a local church conference can formalize postsecondary education in terms of an institute or of junior college or college-level programs ([¶1180:25](/part-3/ch2-conference.md#p1180); [¶1655:36](/part-4/ch2-general-board.md#p1655)).
 
 ### ¶655.18 {#p655-18}
-Authorize significant changes in mission, facilities, or finances of an established day care and/or day school, subject to approval by the district board of administration ([¶1233:32](/part-3/ch3-board.md#p1233-32)).
+Authorize significant changes in mission, facilities, or finances of an established day care and/or day school, subject to approval by the district board of administration ([¶1233:32](/part-3/ch3-board.md#p1233)).

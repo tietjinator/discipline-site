@@ -11,10 +11,10 @@
  New work, or other work which does not meet the requirements for an established district ([¶1038](#p1038)), shall be provided for by establishing a developing district.
 
 ## ¶1006 Authorization. {#p1006}
- The establishment of a developing district may be authorized by the General Conference ([¶1590:11](/part-4/ch1-general-conference.md#p1590-11)), upon recommendation of the General Board, or, in the interim of General Conference sessions, by the General Board. The authorizing act shall define the boundaries and assign an official name to the developing district. Any proposed boundaries that will alter the bounds of an established district in the interim of General Conference sessions must have the approval of such a district and shall be effected as required in [¶1060-1065](#p1060-1065) ([¶1655:34](/part-4/ch2-general-board.md#p1655-34)).
+ The establishment of a developing district may be authorized by the General Conference ([¶1590:11](/part-4/ch1-general-conference.md#p1590)), upon recommendation of the General Board, or, in the interim of General Conference sessions, by the General Board. The authorizing act shall define the boundaries and assign an official name to the developing district. Any proposed boundaries that will alter the bounds of an established district in the interim of General Conference sessions must have the approval of such a district and shall be effected as required in [¶1060-1065](#p1060) ([¶1655:34](/part-4/ch2-general-board.md#p1655)).
 
 ## ¶1009 Jurisdiction. {#p1009}
- A developing district shall be under the jurisdiction of the General Board ([¶1655:34](/part-4/ch2-general-board.md#p1655-34)). The General Superintendent shall be responsible for developing the work as rapidly as possible, in harmony with the missionary objectives of The Wesleyan Church ([¶2306](/part-4/ch7-multiplication-discipleship.md#p2306)), to the status of an established district ([¶1038](#p1038)).
+ A developing district shall be under the jurisdiction of the General Board ([¶1655:34](/part-4/ch2-general-board.md#p1655)). The General Superintendent shall be responsible for developing the work as rapidly as possible, in harmony with the missionary objectives of The Wesleyan Church ([¶2306](/part-4/ch7-multiplication-discipleship.md#p2306)), to the status of an established district ([¶1038](#p1038)).
 
 ## ¶1012 Organization. {#p1012}
  The General Superintendent shall appoint the superintendent, other officers and assigned workers, and grant ordination, commissioning, and licensing.
@@ -27,7 +27,7 @@
 ### 1. Authorization
 
 ## ¶1036 {#p1036}
- An established district is created by the General Conference ([¶317](/part-1/ch4-constitution.md#p317); [¶1590:10](/part-4/ch1-general-conference.md#p1590-10)), upon recommendation by the General Board, or, in the interim of General Conference sessions, may be created by the General Board, subject to the approval of the next General Conference ([¶1655:35](/part-4/ch2-general-board.md#p1655-35)). The authorizing act shall define the boundaries of the district and assign to it an official name.
+ An established district is created by the General Conference ([¶317](/part-1/ch4-constitution.md#p317); [¶1590:10](/part-4/ch1-general-conference.md#p1590)), upon recommendation by the General Board, or, in the interim of General Conference sessions, may be created by the General Board, subject to the approval of the next General Conference ([¶1655:35](/part-4/ch2-general-board.md#p1655)). The authorizing act shall define the boundaries of the district and assign to it an official name.
 
 ## ¶1038 {#p1038}
  The minimum requirements for an established district are:
@@ -55,7 +55,7 @@ A recommendation by the General Superintendent.
 ### 3. Reclassification
 
 ## ¶1042 {#p1042}
- If a district no longer meets one or more of the requirements for an established district ([¶1038](#p1038)), it may be reclassified as a developing district by the General Conference ([¶1590:11](/part-4/ch1-general-conference.md#p1590-11)) or by the General Board.
+ If a district no longer meets one or more of the requirements for an established district ([¶1038](#p1038)), it may be reclassified as a developing district by the General Conference ([¶1590:11](/part-4/ch1-general-conference.md#p1590)) or by the General Board.
 
 ## ¶1045 {#p1045}
  An established district, by a vote of its district conference, may petition the General Board for reclassification as a developing district if it falls below the requirements for an established district ([¶1038](#p1038)). The General Board shall have authority to reclassify it as a developing district ([¶1038](#p1038); 1655:34–35).
@@ -63,12 +63,12 @@ A recommendation by the General Superintendent.
 ### 4. Amenability
 
 ## ¶1046 {#p1046}
- An established district is amenable to the General Conference and to the General Board. It may be placed under discipline for cause as set forth in the *General Board Policy on Church Discipline* ([¶5350-5385](#p5350-5385); 360:3e).
+ An established district is amenable to the General Conference and to the General Board. It may be placed under discipline for cause as set forth in the *General Board Policy on Church Discipline* (5350-5385; 360:3e).
 
 ## E. Merger or Realignment of Districts
 
 ## ¶1060 {#p1060}
- The General Conference shall have the authority to approve the merger or division of districts or the realignment of any district boundaries ([¶317](/part-1/ch4-constitution.md#p317)). Negotiations for such a merger, division or realignment of districts shall be under the supervision of the General Superintendent who shall work with representatives appointed for such a purpose by the General Board and the districts concerned ([¶1655:34](/part-4/ch2-general-board.md#p1655-34)).
+ The General Conference shall have the authority to approve the merger or division of districts or the realignment of any district boundaries ([¶317](/part-1/ch4-constitution.md#p317)). Negotiations for such a merger, division or realignment of districts shall be under the supervision of the General Superintendent who shall work with representatives appointed for such a purpose by the General Board and the districts concerned ([¶1655:34](/part-4/ch2-general-board.md#p1655)).
 
 ## ¶1065 {#p1065}
- Whenever each district conference involved in a merger, division or other realignment of districts shall approve the proposed plan, the General Board shall have the authority to grant final approval in the interim of General Conference sessions ([¶1935:33](#p1935-33); [¶1655:34](/part-4/ch2-general-board.md#p1655-34)).
+ Whenever each district conference involved in a merger, division or other realignment of districts shall approve the proposed plan, the General Board shall have the authority to grant final approval in the interim of General Conference sessions ([¶1935:33](/part-4/ch4-general-administration.md#p1935); [¶1655:34](/part-4/ch2-general-board.md#p1655)).

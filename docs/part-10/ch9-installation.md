@@ -9,7 +9,7 @@
 
 ## ¶5905 {#p5905}
 
-*(The district superintendent or representative shall preside over the installation of a pastor [¶1310:23](/part-3/ch5-administration.md#p1310-23). The presiding minister or other appointed minister shall give the invocation:)*
+*(The district superintendent or representative shall preside over the installation of a pastor [¶1310:23](/part-3/ch5-administration.md#p1310). The presiding minister or other appointed minister shall give the invocation:)*
 
 O Lord, You have made known Your will to us that we should pray for You to send forth laborers into Your harvest. We earnestly ask You to send forth into the world true teachers and ministers of Your Word, and to enlighten their minds with the knowledge of Your truth, that they may faithfully make known the whole counsel of God unto salvation, to the glory of Your name and the saving of souls; through Jesus Christ, our Lord and Savior. Amen.
 

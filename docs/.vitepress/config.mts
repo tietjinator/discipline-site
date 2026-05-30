@@ -16,10 +16,10 @@ export default defineConfig({
     ['meta', { name: 'theme-color', content: '#0B496F' }],
     ['meta', { name: 'robots', content: 'index, follow' }],
     ['link', { rel: 'canonical', href: 'https://twcdiscipline.kal-el.net' }],
-    // Load fonts from Google Fonts — Open Sans + Raleway (fallback until Raleway TWC 2.0 woff2 files are added to docs/public/fonts/)
+    // Load Open Sans from Google Fonts (Raleway TWC 2.0 is self-hosted via @font-face)
     ['link', { rel: 'preconnect', href: 'https://fonts.googleapis.com' }],
     ['link', { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' }],
-    ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;1,400&family=Raleway:ital,wght@0,400;0,600;0,700;0,800;1,400;1,600;1,700;1,800&display=swap' }],
+    ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;1,400&display=swap' }],
   ],
 
   themeConfig: {

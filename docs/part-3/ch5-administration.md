@@ -8,10 +8,10 @@
  The district superintendent is to be the spiritual and administrative leader of the district.
 
 ## ¶1303 Qualifications and Tenure. {#p1303}
- A district superintendent shall exhibit the desire to live a holy life and demonstrate the same in practice; shall live in full accord with the vision and values of The Wesleyan Church; have passion and compassion for the lost and the least; and exhibit vision and administrative leadership. The regulations for a district superintendent are (cf. [¶1255-1272](#p1255-1272)):
+ A district superintendent shall exhibit the desire to live a holy life and demonstrate the same in practice; shall live in full accord with the vision and values of The Wesleyan Church; have passion and compassion for the lost and the least; and exhibit vision and administrative leadership. The regulations for a district superintendent are (cf. [¶1255-1272](/part-3/ch4-officers.md#p1255)):
 
 ## ¶1303.1 Election. {#p1303-1}
- The district superintendent shall be elected by the district conference, by ballot and by majority vote, from among the ordained ministers of The Wesleyan Church ([¶1180:29](/part-3/ch2-conference.md#p1180-29)). A favorable vote of less than two-thirds majority requires General Church approval. If the district superintendent who is elected is from outside the membership of the electing district, the district superintendent shall immediately arrange for the transfer of local and district membership.
+ The district superintendent shall be elected by the district conference, by ballot and by majority vote, from among the ordained ministers of The Wesleyan Church ([¶1180:29](/part-3/ch2-conference.md#p1180)). A favorable vote of less than two-thirds majority requires General Church approval. If the district superintendent who is elected is from outside the membership of the electing district, the district superintendent shall immediately arrange for the transfer of local and district membership.
 
 ## ¶1303.2 Term of Office. {#p1303-2}
  The election of a district superintendent shall be for a term of four years. The initial term of a newly elected district superintendent begins at the rise of the district conference. The salary of a district superintendent should be continued for one month beyond the date for the termination of service, unless the salary is removed by the district board of administration.
@@ -38,7 +38,7 @@ Or, prior to the vote on renewing the call, the district board of administration
  Whenever a vacancy has resulted in the appointment of an acting superintendent, or whenever a district superintendent shall announce unavailability for continued service, the General Superintendent shall chair the district board of administration. The district board of administration shall screen and select persons believed to have the qualities needed for the office of district superintendent and present one or more nominees to the district conference session. The district conference shall elect in accordance with [¶1303:1](#p1303-1), and shall not be limited to the persons nominated by the district board of administration.
 
 ## ¶1307 Amenability. {#p1307}
- The district superintendent is amenable, as provided in the Constitution, to the General Board ([¶323:1](/part-1/ch4-constitution.md#p323-1)). The district superintendent may be removed from office by the General Board, by a two-thirds majority vote of all its members, for cause or whenever the General Board deems it necessary for the best interests of the Church or the preservation of the district ([¶1655:37](/part-4/ch2-general-board.md#p1655-37), 40a).
+ The district superintendent is amenable, as provided in the Constitution, to the General Board ([¶323:1](/part-1/ch4-constitution.md#p323-1)). The district superintendent may be removed from office by the General Board, by a two-thirds majority vote of all its members, for cause or whenever the General Board deems it necessary for the best interests of the Church or the preservation of the district ([¶1655:37](/part-4/ch2-general-board.md#p1655), 40a).
 
 ## ¶1310 Duties. {#p1310}
  The district superintendent shall administer this office in accord with *The Discipline* and any other official directives from the General Conference, the General Board, the General Superintendent, the district conference, and the district board of administration. The duties of the district superintendent are ([¶1300](#p1300); [¶1303:6](#p1303-6)) to:
@@ -69,7 +69,7 @@ Be the chair of the district board of administration ([¶1203](/part-3/ch3-board
 Be the chair of the district board of ministerial development, or to appoint another to serve instead, subject to ratification by the district board of administration ([¶1381](/part-3/ch6-ministerial.md#p1381)); and to be the chair of the district conference nominating committee ([¶1172](/part-3/ch2-conference.md#p1172)).
 
 ### ¶1310.8 {#p1310-8}
-Exercise administrative supervision over all district officials, boards, leadership teams, committees, auxiliary organizations, missions, developing churches, churches, ministers, and other workers ([¶3260:2](/part-6/ch3-ministerial-appointments.md#p3260-2)) of the district with the exception of those who are amenable to the General Board ([¶323:1](/part-1/ch4-constitution.md#p323-1); [¶1180:11](/part-3/ch2-conference.md#p1180-11)), and to see that the plans and policies of the General Church and district are carried out.
+Exercise administrative supervision over all district officials, boards, leadership teams, committees, auxiliary organizations, missions, developing churches, churches, ministers, and other workers ([¶3260:2](/part-6/ch3-ministerial-appointments.md#p3260-2)) of the district with the exception of those who are amenable to the General Board ([¶323:1](/part-1/ch4-constitution.md#p323-1); [¶1180:11](/part-3/ch2-conference.md#p1180)), and to see that the plans and policies of the General Church and district are carried out.
 
 ### ¶1310.9 {#p1310-9}
 Meet with any district committee, or other district entity at the discretion of the district superintendent, and make such recommendations as deemed advisable.
@@ -107,7 +107,7 @@ Work directly with the pastors and leaders of local churches in setting goals an
 Approve the transfer of any ordained minister or commissioned or licensed minister from another district, in concurrence with the General Superintendent ([¶313:6](/part-1/ch4-constitution.md#p313-6); [¶705:2](/part-2/ch4-pastors.md#p705-2); [¶3100:1](/part-6/ch1-ministerial-orders.md#p3100-1)) and, when objecting to such a transfer, to state any reasons if requested to do so.
 
 ### ¶1310:20 {#p1310-20}
-Recommend the removal of a pastor to the district board of administration, whenever the best interests of the church involved demand it, and to recommend to the district board of administration the appointment of a supply or interim, if necessary, until another pastor has been obtained ([¶712](/part-2/ch4-pastors.md#p712); [¶715](/part-2/ch4-pastors.md#p715); [¶722:3](/part-2/ch4-pastors.md#p722-3); [¶1233:29](/part-3/ch3-board.md#p1233-29)).
+Recommend the removal of a pastor to the district board of administration, whenever the best interests of the church involved demand it, and to recommend to the district board of administration the appointment of a supply or interim, if necessary, until another pastor has been obtained ([¶712](/part-2/ch4-pastors.md#p712); [¶715](/part-2/ch4-pastors.md#p715); [¶722:3](/part-2/ch4-pastors.md#p722-3); [¶1233:29](/part-3/ch3-board.md#p1233)).
 
 ### ¶1310:21 {#p1310-21}
 Perform all the functions of a pastor for a local church within the district when such church is without a pastor, or to recommend to the district board of administration the appointment of a supply pastor or interim pastor until the local church obtains a pastor (1233:29, 36; [¶3260:2](/part-6/ch3-ministerial-appointments.md#p3260-2); [¶3261:2](/part-6/ch3-ministerial-appointments.md#p3261-2)).
@@ -132,7 +132,7 @@ Approve in writing the temporary service of an ordained minister in a district o
 ### Reports
 
 ### ¶1310:27 {#p1310-27}
-Report annually to the district conference concerning official duties and personal ministry ([¶1180:12](/part-3/ch2-conference.md#p1180-12)), and to submit other reports to the General Board, the General Superintendent and the district board of administration as required; to counsel with the General Superintendent at least once a year concerning the plans and objectives for the district, reporting to the General Superintendent on the activities of the district and progress toward its objectives during the past year.
+Report annually to the district conference concerning official duties and personal ministry ([¶1180:12](/part-3/ch2-conference.md#p1180)), and to submit other reports to the General Board, the General Superintendent and the district board of administration as required; to counsel with the General Superintendent at least once a year concerning the plans and objectives for the district, reporting to the General Superintendent on the activities of the district and progress toward its objectives during the past year.
 
 ### Judicial
 
@@ -145,7 +145,7 @@ Forward to the Executive Director of Communication and Administration the creden
 ## B. Assistant District Superintendent(s)
 
 ## ¶1320 {#p1320}
- A district shall have one or more assistant district superintendents as determined by majority vote of the district conference. The office shall be filled from among the ordained ministers of the district upon nomination by the district superintendent and election by the district board of administration. One of the assistant district superintendents shall be designated to serve as the vice-chair of the district board of administration and will serve on the executive committee of the district board of administration. The qualifications, term of office, amenability, and other regulations are those of a district official as set forth in [¶1255-1272](#p1255-1272).
+ A district shall have one or more assistant district superintendents as determined by majority vote of the district conference. The office shall be filled from among the ordained ministers of the district upon nomination by the district superintendent and election by the district board of administration. One of the assistant district superintendents shall be designated to serve as the vice-chair of the district board of administration and will serve on the executive committee of the district board of administration. The qualifications, term of office, amenability, and other regulations are those of a district official as set forth in [¶1255-1272](/part-3/ch4-officers.md#p1255).
 
 ## ¶1323 {#p1323}
  The duties of the assistant district superintendent(s) are to:
@@ -163,7 +163,7 @@ Assist the district superintendent and to serve as a representative of the distr
 Perform such other duties as may be required by the district conference or the district board of administration.
 
 ### ¶1323:5 {#p1323-5}
-Report annually to the district conference concerning all official duties ([¶1180:12](/part-3/ch2-conference.md#p1180-12)), and to the district board of administration as required.
+Report annually to the district conference concerning all official duties ([¶1180:12](/part-3/ch2-conference.md#p1180)), and to the district board of administration as required.
 
 ## ¶1327 {#p1327}
  A district conference may choose to have one or more assistant district superintendent(s) as full-time district official(s), and shall further define the duties of the assistant district superintendent(s) in addition to those set forth in *The Discipline*.
@@ -171,7 +171,7 @@ Report annually to the district conference concerning all official duties ([¶11
 ## C. District Secretary
 
 ## ¶1330 {#p1330}
- The district secretary shall be elected by the district conference by ballot and by majority vote ([¶1180:30](/part-3/ch2-conference.md#p1180-30); cf. [¶1175:1](/part-3/ch2-conference.md#p1175-1)). The qualifications, term of office, amenability, and other regulations are those of a district official as defined in [¶1255-1272](#p1255-1272).
+ The district secretary shall be elected by the district conference by ballot and by majority vote ([¶1180:30](/part-3/ch2-conference.md#p1180); cf. [¶1175:1](/part-3/ch2-conference.md#p1175-1)). The qualifications, term of office, amenability, and other regulations are those of a district official as defined in [¶1255-1272](/part-3/ch4-officers.md#p1255).
 
 ## ¶1332 {#p1332}
  The duties of the district secretary are to:
@@ -186,13 +186,13 @@ Serve as a member and as the secretary of the district board of administration (
 Issue official notices and communications from the district conference and from the district board of administration; and to keep permanent file copies of all correspondence, reports, and other records.
 
 ### ¶1332:4 {#p1332-4}
-Issue and sign all certificates, licenses, and other official forms as properly authorized by the district and as prescribed for a district secretary by the General Conference or General Board ([¶1310:23](#p1310-23)).
+Issue and sign all certificates, licenses, and other official forms as properly authorized by the district and as prescribed for a district secretary by the General Conference or General Board ([¶1310:23](#p1310)).
 
 ### ¶1332:5 {#p1332-5}
 Forward promptly to the Executive Director of Communication and Administration the statistical and financial reports of the district conference as may be required by the General Board; a certified list of the General Conference delegates, and the certification of an alternate when a delegate is unable to attend (1512-1518); a copy of each memorial adopted for presentation to the General Conference; a copy of the official district directory for inclusion in the denominational directory, and of each change in the directory as it occurs ([¶1332:8](#p1332-8)); and to cooperate in forwarding other information requested by the Executive Director of Communication and Administration.
 
 ### ¶1332:6 {#p1332-6}
-Be the custodian of the official district records and archives, except as otherwise provided for in The Discipline ([¶1387](/part-3/ch6-ministerial.md#p1387); [¶4760](/part-8/ch2-local-church-property.md#p4760)), and to be instructed by the district board of administration as to the exercise of such custody ([¶1233:15](/part-3/ch3-board.md#p1233-15)).
+Be the custodian of the official district records and archives, except as otherwise provided for in The Discipline ([¶1387](/part-3/ch6-ministerial.md#p1387); [¶4760](/part-8/ch2-local-church-property.md#p4760)), and to be instructed by the district board of administration as to the exercise of such custody ([¶1233:15](/part-3/ch3-board.md#p1233)).
 
 ### ¶1332:7 {#p1332-7}
 Receive an official copy of the minutes of each board, committee, auxiliary organization or other district agency, and to preserve them in the district archives.
@@ -209,7 +209,7 @@ Perform such other duties as may be required by the district conference or the d
 ## D. District Treasurer
 
 ## ¶1335 {#p1335}
- The district treasurer shall be appointed by the district board of administration and shall serve as an ex officio member. Said treasurer’s qualifications, term of office, amenability, and other regulations are those of a district official as defined in [¶1255-1272](#p1255-1272).
+ The district treasurer shall be appointed by the district board of administration and shall serve as an ex officio member. Said treasurer’s qualifications, term of office, amenability, and other regulations are those of a district official as defined in [¶1255-1272](/part-3/ch4-officers.md#p1255).
 
 ## ¶1337 {#p1337}
  The duties of a district treasurer are to:
@@ -218,19 +218,19 @@ Perform such other duties as may be required by the district conference or the d
 Serve as a member of the district board of administration ([¶1203](/part-3/ch3-board.md#p1203)).
 
 ### ¶1337:2 {#p1337-2}
-Be bonded to the amount set by the district board of administration, the cost of which shall be paid by the district ([¶1233:17](/part-3/ch3-board.md#p1233-17)).
+Be bonded to the amount set by the district board of administration, the cost of which shall be paid by the district ([¶1233:17](/part-3/ch3-board.md#p1233)).
 
 **([¶3](/part-1/ch1-history.md#p3))** Have custody of all district funds, unless otherwise provided for by *The Discipline*; to receive, record, hold, and disburse such funds in keeping with the financial plans of the General Conference and the district conference and as directed by the district board of administration.
 **([¶4](/part-1/ch1-history.md#p4))** Receive, record, and hold all USF funds for the General Church raised within the district and to remit such funds monthly to the General Treasurer/ Chief Financial Officer on the approved forms.
 **(5)** Serve as a district director of stewardship, promoting stewardship and storehouse tithing on the district level, in cooperation with the General Superintendent.
 
 ### ¶1337.6 {#p1337-6}
-Prepare and submit to the district board of administration a recommended plan to provide for the raising of the district obligation to the United Stewardship Fund, designating the amount to be assigned to each local church as its share of the district obligation, in accord with the regulations for the United Stewardship Fund ([¶2015](/part-4/ch4-general-administration.md#p2015)); which plan, as approved, shall be presented to the district conference for adoption ([¶1180:15](/part-3/ch2-conference.md#p1180-15); [¶1233:11](/part-3/ch3-board.md#p1233-11)); and to promptly notify the General Treasurer/Chief Financial Officer of the district USF obligation on forms provided by the General Treasurer/Chief Financial Officer ([¶2015:2](/part-4/ch4-general-administration.md#p2015-2)).
+Prepare and submit to the district board of administration a recommended plan to provide for the raising of the district obligation to the United Stewardship Fund, designating the amount to be assigned to each local church as its share of the district obligation, in accord with the regulations for the United Stewardship Fund ([¶2015](/part-4/ch4-general-administration.md#p2015)); which plan, as approved, shall be presented to the district conference for adoption ([¶1180:15](/part-3/ch2-conference.md#p1180); [¶1233:11](/part-3/ch3-board.md#p1233)); and to promptly notify the General Treasurer/Chief Financial Officer of the district USF obligation on forms provided by the General Treasurer/Chief Financial Officer ([¶2015:2](/part-4/ch4-general-administration.md#p2015-2)).
 
 ### ¶1337:7 {#p1337-7}
-Submit all records and funds for an annual audit after the close of the fiscal year, as provided for in 1340, and at any other time as may be requested by the district board of administration ([¶1233:18](/part-3/ch3-board.md#p1233-18)).
+Submit all records and funds for an annual audit after the close of the fiscal year, as provided for in 1340, and at any other time as may be requested by the district board of administration ([¶1233:18](/part-3/ch3-board.md#p1233)).
 
-**([¶8](/part-1/ch1-history.md#p8))** Submit a complete financial report of all funds administered or attended to by the district treasurer, to each regular session of the district conference ([¶1180:12](/part-3/ch2-conference.md#p1180-12)); to submit reports to the district board of administration ([¶1233:12](/part-3/ch3-board.md#p1233-12)), the district superintendent, and the General Treasurer/Chief Financial Officer as they may require.
+**([¶8](/part-1/ch1-history.md#p8))** Submit a complete financial report of all funds administered or attended to by the district treasurer, to each regular session of the district conference ([¶1180:12](/part-3/ch2-conference.md#p1180)); to submit reports to the district board of administration ([¶1233:12](/part-3/ch3-board.md#p1233)), the district superintendent, and the General Treasurer/Chief Financial Officer as they may require.
 
 ### ¶1337:9 {#p1337-9}
 Perform such other duties as may be required by the district conference or the district board of administration and as pertain to this office.
@@ -243,10 +243,10 @@ Perform such other duties as may be required by the district conference or the d
 ## F. District Board of Trustees
 
 ## ¶1360 {#p1360}
- The district conference of each established district shall be incorporated or shall cause a corporation to be formed and maintained to facilitate the management of its legal and corporate affairs as set forth in [¶4100-4150](#p4100-4150). In places where local laws prohibit such incorporation, or where the local laws require property to be held by trustees, the district conference may elect from among the members of the district board of administration the members of the district board of trustees in such number as desired ([¶1180:20](/part-3/ch2-conference.md#p1180-20); [¶4855](/part-8/ch3-district-property.md#p4855)). The district trustees shall hold office until their term expires as members of the district board of administration and until their successors are elected and qualified. The district board of trustees shall be amenable to the district board of administration ([¶4840](/part-8/ch3-district-property.md#p4840); [¶4855](/part-8/ch3-district-property.md#p4855)). A district trustee may be removed from office by a two-thirds majority vote of all the members of the district board of administration whenever it is deemed necessary for the best interests of The Wesleyan Church and the district or whenever a trustee shall refuse to carry out the directions of the district board of administration, except when such directions are contrary to local laws or to *The Discipline* ([¶1206](/part-3/ch3-board.md#p1206); 1233:24a; [¶1265](/part-3/ch4-officers.md#p1265); [¶4540](/part-9/ch1-general-regulations.md#p4540)). The office of a district trustee may also become vacant by death, cessation of membership in The Wesleyan Church, or cessation of membership on the district board of administration. A vacancy, on the district board of trustees shall be filled for the unexpired term by a majority vote of all the members of the district board of administration ([¶1206](/part-3/ch3-board.md#p1206); 1233:24a; [¶1272](/part-3/ch4-officers.md#p1272)).
+ The district conference of each established district shall be incorporated or shall cause a corporation to be formed and maintained to facilitate the management of its legal and corporate affairs as set forth in [¶4100-4150](/part-7/ch2-district-corporations.md#p4100). In places where local laws prohibit such incorporation, or where the local laws require property to be held by trustees, the district conference may elect from among the members of the district board of administration the members of the district board of trustees in such number as desired ([¶1180:20](/part-3/ch2-conference.md#p1180); [¶4855](/part-8/ch3-district-property.md#p4855)). The district trustees shall hold office until their term expires as members of the district board of administration and until their successors are elected and qualified. The district board of trustees shall be amenable to the district board of administration ([¶4840](/part-8/ch3-district-property.md#p4840); [¶4855](/part-8/ch3-district-property.md#p4855)). A district trustee may be removed from office by a two-thirds majority vote of all the members of the district board of administration whenever it is deemed necessary for the best interests of The Wesleyan Church and the district or whenever a trustee shall refuse to carry out the directions of the district board of administration, except when such directions are contrary to local laws or to *The Discipline* ([¶1206](/part-3/ch3-board.md#p1206); 1233:24a; [¶1265](/part-3/ch4-officers.md#p1265); [¶4540](/part-9/ch1-general-regulations.md#p4540)). The office of a district trustee may also become vacant by death, cessation of membership in The Wesleyan Church, or cessation of membership on the district board of administration. A vacancy, on the district board of trustees shall be filled for the unexpired term by a majority vote of all the members of the district board of administration ([¶1206](/part-3/ch3-board.md#p1206); 1233:24a; [¶1272](/part-3/ch4-officers.md#p1272)).
 
 ## ¶1365 {#p1365}
- The district board of trustees shall administer its duties in accord with *The Discipline* ([¶4500-4630](#p4500-4630); [¶4830-4880](#p4830-4880)) and as directed by the district board of administration. Its duties are to:
+ The district board of trustees shall administer its duties in accord with *The Discipline* ([¶4500-4630](/part-9/ch1-general-regulations.md#p4500); [¶4830-4880](/part-8/ch3-district-property.md#p4830)) and as directed by the district board of administration. Its duties are to:
 
 ### ¶1365:1 {#p1365-1}
 Hold all district property, and such local property as may be held by the district ([¶4660](/part-8/ch2-local-church-property.md#p4660); [¶4680](/part-8/ch2-local-church-property.md#p4680)), in trust for The Wesleyan Church as set forth in 4830 ([¶323:8](/part-1/ch4-constitution.md#p323-8)).
@@ -260,4 +260,4 @@ Fulfill such other duties as pertain to their office as trustees and as may be a
 ## G. District Board of Review
 
 ## ¶1370 {#p1370}
- Each established district shall have a district board of review, which shall consist of four ordained ministers and three lay members elected annually by the district board of administration ([¶1233:22](/part-3/ch3-board.md#p1233-22); *Gen. Bd. Policy on Ch. Disc.* [¶5218](#p5218)). Two ordained ministers and two lay members shall also be elected at the same time to serve as alternates and to fill vacancies in the order of their election. The district board of review serves as an appellate body for lay members and local churches. The duties and powers of the district board of review are set forth in the General Board Policy on Church Discipline ([¶5218-5221](#p5218-5221)). General regulations governing the members of the district board of review are set forth in [¶1278-1292](#p1278-1292).
+ Each established district shall have a district board of review, which shall consist of four ordained ministers and three lay members elected annually by the district board of administration ([¶1233:22](/part-3/ch3-board.md#p1233); *Gen. Bd. Policy on Ch. Disc.* [¶5218](#p5218)). Two ordained ministers and two lay members shall also be elected at the same time to serve as alternates and to fill vacancies in the order of their election. The district board of review serves as an appellate body for lay members and local churches. The duties and powers of the district board of review are set forth in the General Board Policy on Church Discipline (5218-5221). General regulations governing the members of the district board of review are set forth in [¶1278-1292](/part-3/ch4-officers.md#p1278).

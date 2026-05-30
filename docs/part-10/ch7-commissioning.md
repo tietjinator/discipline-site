@@ -6,7 +6,7 @@
  That portion of the ritual of commissioning ministers entitled “Examination of Candidates” ([¶5825](#p5825)), has the authority of statutory law, and must be followed as prescribed.
 
 ## ¶5805 {#p5805}
- The commissioning service shall be planned by the Council of Ordination ([¶1405](/part-3/ch6-ministerial.md#p1405)) and shall be presided over by the General Superintendent ([¶1935](/part-4/ch4-general-administration.md#p1935)), or a representative appointed by the General Superintendent ([¶3091](/part-6/ch1-ministerial-orders.md#p3091)), or if absent by the district superintendent ([¶1310:23](/part-3/ch5-administration.md#p1310-23)). They shall be assisted in the various parts of the service and in the act of commissioning by the Council of Ordination ([¶1405](/part-3/ch6-ministerial.md#p1405); 3059:1f).
+ The commissioning service shall be planned by the Council of Ordination ([¶1405](/part-3/ch6-ministerial.md#p1405)) and shall be presided over by the General Superintendent ([¶1935](/part-4/ch4-general-administration.md#p1935)), or a representative appointed by the General Superintendent ([¶3091](/part-6/ch1-ministerial-orders.md#p3091)), or if absent by the district superintendent ([¶1310:23](/part-3/ch5-administration.md#p1310)). They shall be assisted in the various parts of the service and in the act of commissioning by the Council of Ordination ([¶1405](/part-3/ch6-ministerial.md#p1405); 3059:1f).
 
 ## B. The Order of the Commissioning of Ministers
 

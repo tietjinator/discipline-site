@@ -2,7 +2,7 @@
 
 ## A. Letter of Membership Transfer
 
-**6000. Letter Sent by Church Granting Transfer to Another Wesleyan Church** ([¶575–580](#p575–580)).
+**6000. Letter Sent by Church Granting Transfer to Another Wesleyan Church** ([¶575–580](/part-2/ch2-membership.md#p575)).
 
 To the pastor and secretary of the _____________ Wesleyan Church.
 
@@ -85,7 +85,7 @@ ________________________ Pastor ________________________ Local Church Secretary
 
 ## E. Certificate of Student Membership
 
-**6070. Certificate of Student Membership** ([¶564–565](#p564–565))
+**6070. Certificate of Student Membership** ([¶564–565](/part-2/ch2-membership.md#p564))
 
 This is to certify that ______________________has publicly confessed Jesus Christ as Lord and Savior and has been received as a student member of The Wesleyan Church and locally of the _____________________ in __________________ on this ___________ day of ______________, AD_________.
 

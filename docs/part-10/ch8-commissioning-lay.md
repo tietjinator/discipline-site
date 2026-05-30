@@ -1,7 +1,7 @@
 # Chapter 8 — Commissioning of Lay Workers
 
 ## ¶5850 {#p5850}
- The commissioning service shall be planned by the Council of Ordination ([¶1405](/part-3/ch6-ministerial.md#p1405)) and shall be presided over by the General Superintendent when present ([¶1935](/part-4/ch4-general-administration.md#p1935)) or, if absent, by a representative appointed by the General Superintendent ([¶3091](/part-6/ch1-ministerial-orders.md#p3091)) or by the district superintendent ([¶1310:23](/part-3/ch5-administration.md#p1310-23)).
+ The commissioning service shall be planned by the Council of Ordination ([¶1405](/part-3/ch6-ministerial.md#p1405)) and shall be presided over by the General Superintendent when present ([¶1935](/part-4/ch4-general-administration.md#p1935)) or, if absent, by a representative appointed by the General Superintendent ([¶3091](/part-6/ch1-ministerial-orders.md#p3091)) or by the district superintendent ([¶1310:23](/part-3/ch5-administration.md#p1310)).
 
 ## ¶5855 {#p5855}
 

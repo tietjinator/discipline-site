@@ -3,7 +3,7 @@
 ## A. Function
 
 ## ¶1500 {#p1500}
- The General Conference is the supreme governing body of The Wesleyan Church. The basic provisions, powers, and restrictions of this body are set forth in the Constitution ([¶325-360](#p325-360)).
+ The General Conference is the supreme governing body of The Wesleyan Church. The basic provisions, powers, and restrictions of this body are set forth in the Constitution ([¶325-360](/part-1/ch4-constitution.md#p325)).
 
 ## B. Membership
 
@@ -37,7 +37,7 @@ The General Board shall designate the number of nonvoting members from mission u
 ### 2. Forfeiture of Representation
 
 ## ¶1506 {#p1506}
- A district or developing district which has been placed under discipline as provided for in the *General Board Policy on Church Discipline* ([¶5365-5370](#p5365-5370)) shall forfeit all rights to any representation in the General Conference ([¶323:9](/part-1/ch4-constitution.md#p323-9)). The delegates, including the district superintendent and any delegate-at-large from that district, shall not be recognized or seated until the district or developing district they represent is officially reinstated (*Gen. Bd. Policy on Ch. Disc.* [¶5365](#p5365)).
+ A district or developing district which has been placed under discipline as provided for in the *General Board Policy on Church Discipline* (5365-5370) shall forfeit all rights to any representation in the General Conference ([¶323:9](/part-1/ch4-constitution.md#p323-9)). The delegates, including the district superintendent and any delegate-at-large from that district, shall not be recognized or seated until the district or developing district they represent is officially reinstated (*Gen. Bd. Policy on Ch. Disc.* [¶5365](#p5365)).
 
 ### 3. Election of Delegates
 
@@ -53,7 +53,7 @@ The parity of equal ministerial and lay membership in the General Conference sha
 The established districts shall be considered in alphabetical order, and each eligible district in turn shall be appointed to elect one delegate-at-large. A developing district shall not be eligible to elect a delegate-at-large.
 
 ## ¶1510 {#p1510}
- The General Board shall act upon the recommendation of the Executive Director of Communication and Administration in one of its sessions consistent with the provisions of paragraph [¶1512](#p1512). The delegates-at-large shall be elected by the appointed districts at the same time and in the same manner as the other General Conference delegates ([¶1512-1526](#p1512-1526)).
+ The General Board shall act upon the recommendation of the Executive Director of Communication and Administration in one of its sessions consistent with the provisions of paragraph [¶1512](#p1512). The delegates-at-large shall be elected by the appointed districts at the same time and in the same manner as the other General Conference delegates ([¶1512-1526](#p1512)).
 
 b. Delegates
 
@@ -83,7 +83,7 @@ a. Ministerial Delegates
 b. Lay Delegates
 
 ## ¶1524 {#p1524}
- A lay delegate must be a lay person who is a member with the leadership qualifications ([¶260-268](#p260-268); [¶558](/part-2/ch2-membership.md#p558)) of a local church in the district represented, both at the time of election and at the time of the General Conference ([¶327:3](/part-1/ch4-constitution.md#p327-3)).
+ A lay delegate must be a lay person who is a member with the leadership qualifications ([¶260-268](/part-1/ch4-constitution.md#p260); [¶558](/part-2/ch2-membership.md#p558)) of a local church in the district represented, both at the time of election and at the time of the General Conference ([¶327:3](/part-1/ch4-constitution.md#p327-3)).
 
 ## ¶1526 {#p1526}
  Whenever a lay delegate-elect shall cease to meet the requirements in [¶1524](#p1524), the right to represent the district shall be vacated and an alternate lay delegate shall be certified ([¶1332:5](/part-3/ch5-administration.md#p1332-5); [¶1516](#p1516)).
@@ -125,7 +125,7 @@ b. Lay Delegates
  ([¶336](/part-1/ch4-constitution.md#p336)). A majority of all the delegates elected by the districts shall constitute a quorum for the transaction of business. A smaller number shall have the authority to adjourn from time to time until a quorum is obtained.
 
 ## ¶1545 Voting {#p1545}
- ([¶338](/part-1/ch4-constitution.md#p338)). The ministerial and lay delegates shall deliberate in the sessions of the General Conference as one body. However, upon the final vote on any question, except proposed amendments to the Constitution ([¶200-385](#p200-385)), on a call of one-fourth of the members, the house shall divide so that ministerial and lay delegates shall vote separately. It shall require a majority vote of each branch to pass any question upon which the division has been called.
+ ([¶338](/part-1/ch4-constitution.md#p338)). The ministerial and lay delegates shall deliberate in the sessions of the General Conference as one body. However, upon the final vote on any question, except proposed amendments to the Constitution ([¶200-385](/part-1/ch4-constitution.md#p200)), on a call of one-fourth of the members, the house shall divide so that ministerial and lay delegates shall vote separately. It shall require a majority vote of each branch to pass any question upon which the division has been called.
 
 ## ¶1547 Rules of Order. {#p1547}
  General Conference business shall be conducted according to the current edition of Robert’s Rules of Order, Newly Revised, except when formally suspended by the General Conference or when other procedures are required by The Discipline ([¶360:1](/part-1/ch4-constitution.md#p360-1)).
@@ -139,10 +139,10 @@ b. Lay Delegates
 ### 3. Memorials
 
 ## ¶1557 {#p1557}
- Memorials to the General Conference, including proposed changes to *The Discipline* other than the Constitution ([¶200-385](#p200-385)), may be submitted by a district conference, a district board of administration, the General Board, a General Conference committee, the governing board of an educational or benevolent institution, the governing board of a subsidiary corporation, the general executive committee of an auxiliary organization, or any ten members of the General Conference.
+ Memorials to the General Conference, including proposed changes to *The Discipline* other than the Constitution ([¶200-385](/part-1/ch4-constitution.md#p200)), may be submitted by a district conference, a district board of administration, the General Board, a General Conference committee, the governing board of an educational or benevolent institution, the governing board of a subsidiary corporation, the general executive committee of an auxiliary organization, or any ten members of the General Conference.
 
 ## ¶1560 {#p1560}
- Memorials proposing an amendment to the Constitution ([¶200–385](#p200–385)) may be submitted to the General Conference only by a district conference by a two-thirds vote ([¶1180:1](/part-3/ch2-conference.md#p1180-1)), or by the General Board ([¶1655:8](/part-4/ch2-general-board.md#p1655-8)).
+ Memorials proposing an amendment to the Constitution ([¶200–385](/part-1/ch4-constitution.md#p200)) may be submitted to the General Conference only by a district conference by a two-thirds vote ([¶1180:1](/part-3/ch2-conference.md#p1180-1)), or by the General Board ([¶1655:8](/part-4/ch2-general-board.md#p1655-8)).
 
 ### 4. Committees
 
@@ -171,10 +171,10 @@ c. Committee on Special Nominations
  The General Board shall serve as the Committee on Special Nominations ([¶1655:7](/part-4/ch2-general-board.md#p1655-7)). The duties of this committee shall be to:
 
 ### ¶1580.1 {#p1580-1}
-Receive from the General Superintendent recommendations from which to present to the General Conference one or more nominations for each of the general officials elected by the General Conference. In the event an incumbent is not nominated, the committee shall normally present two or more nominations for that office. The general officials involved are: the Executive Director of the Communication and Administration Division, the Executive Director of the Education and Clergy Development Division, the Executive Director of the Church Multiplication and Discipleship Division, and the Executive Director of the Global Partners Division ([¶1590:16](#p1590-16)).
+Receive from the General Superintendent recommendations from which to present to the General Conference one or more nominations for each of the general officials elected by the General Conference. In the event an incumbent is not nominated, the committee shall normally present two or more nominations for that office. The general officials involved are: the Executive Director of the Communication and Administration Division, the Executive Director of the Education and Clergy Development Division, the Executive Director of the Church Multiplication and Discipleship Division, and the Executive Director of the Global Partners Division ([¶1590:16](#p1590)).
 
 ### ¶1580.2 {#p1580-2}
-Present nominations for the members of the Board of Review ([¶1590:18](#p1590-18); Gen. Bd. Policy on Ch. Disc. 5400:3; 5405).
+Present nominations for the members of the Board of Review ([¶1590:18](#p1590); Gen. Bd. Policy on Ch. Disc. 5400:3; 5405).
 
 ### ¶1580.3 {#p1580-3}
 Present such other nominations or fulfill such duties as may be assigned to them by the General Conference.
@@ -187,7 +187,7 @@ d. General Conference Editing Committee
 e. Duties and Powers
 
 ## ¶1590 {#p1590}
- The duties, powers, and restrictions of the General Conference are set forth in the Constitution ([¶325-360](#p325-360)), and as hereinafter provided:
+ The duties, powers, and restrictions of the General Conference are set forth in the Constitution ([¶325-360](/part-1/ch4-constitution.md#p325)), and as hereinafter provided:
 
 The Essentials and the Constitution
 
@@ -209,7 +209,7 @@ Have full power in keeping with the Constitution ([¶135](/part-1/ch3-church-law
 Authorize a corporation to be formed and maintained for The Wesleyan Church to facilitate the management of its legal and corporate affairs ([¶4200](/part-7/ch3-twc-corporation.md#p4200)); and to approve its articles of incorporation and bylaws and any or all amendments thereto, by a two-thirds vote ([¶4270](/part-7/ch3-twc-corporation.md#p4270)).
 
 ### ¶1590.6 {#p1590-6}
-Authorize the incorporation of any agency, institution, board organization, or other similar body, as a subsidiary corporation of The Wesleyan Church ([¶4300](/part-7/ch4-subsidiary-corporations.md#p4300)), and to approve the articles of incorporation and bylaws, and any amendments thereto, for such a subsidiary corporation (4300-4320). In the interim of General Conferences, this authority shall be vested in the General Board ([¶1655:35](/part-4/ch2-general-board.md#p1655-35); [¶4300](/part-7/ch4-subsidiary-corporations.md#p4300); [¶2362](/part-4/ch8-education-clergy.md#p2362)).
+Authorize the incorporation of any agency, institution, board organization, or other similar body, as a subsidiary corporation of The Wesleyan Church ([¶4300](/part-7/ch4-subsidiary-corporations.md#p4300)), and to approve the articles of incorporation and bylaws, and any amendments thereto, for such a subsidiary corporation (4300-4320). In the interim of General Conferences, this authority shall be vested in the General Board ([¶1655:35](/part-4/ch2-general-board.md#p1655); [¶4300](/part-7/ch4-subsidiary-corporations.md#p4300); [¶2362](/part-4/ch8-education-clergy.md#p2362)).
 
 ### ¶1590.7 {#p1590-7}
 Receive reports of the spiritual, numerical, and financial condition of The Wesleyan Church, worldwide, including reports concerning their official duties from the general officials and others designated by the General Conference ([¶1800](/part-4/ch3-general-officials.md#p1800); [¶1840](/part-4/ch3-general-officials.md#p1840)).
@@ -221,13 +221,13 @@ Adopt plans for the advancement of the Church in all phases of its ministry, inc
 Define in a general way the duties of the general officials, subject to the additional definition of their duties by the General Board in the interim of General Conference sessions ([¶1845](/part-4/ch3-general-officials.md#p1845)).
 
 ### ¶1590.10 {#p1590-10}
-Organize the work in the United States and Canada into districts and to determine their boundaries, for which a recommendation shall be received from the General Board ([¶317](/part-1/ch4-constitution.md#p317); [¶1036](/part-3/ch1-organization.md#p1036); [¶1655:34](/part-4/ch2-general-board.md#p1655-34); 2400-2403); to authorize the establishing of an established national conference as set forth in 2610:10; and to authorize the establishing of a General Conference as set forth in 2620.
+Organize the work in the United States and Canada into districts and to determine their boundaries, for which a recommendation shall be received from the General Board ([¶317](/part-1/ch4-constitution.md#p317); [¶1036](/part-3/ch1-organization.md#p1036); [¶1655:34](/part-4/ch2-general-board.md#p1655); 2400-2403); to authorize the establishing of an established national conference as set forth in 2610:10; and to authorize the establishing of a General Conference as set forth in 2620.
 
 ### ¶1590.11 {#p1590-11}
 Authorize the establishing of a developing district ([¶1006](/part-3/ch1-organization.md#p1006)); or to reclassify an established district ([¶1042](/part-3/ch1-organization.md#p1042); [¶1045](/part-3/ch1-organization.md#p1045)).
 
 ### ¶1590.12 {#p1590-12}
-Group the districts into representative areas (2430-2445) to serve for the election of area representatives to the General Board and as the area divisions of Wesleyan Youth, for which a recommendation shall be received from the General Board ([¶1655:14](/part-4/ch2-general-board.md#p1655-14)).
+Group the districts into representative areas (2430-2445) to serve for the election of area representatives to the General Board and as the area divisions of Wesleyan Youth, for which a recommendation shall be received from the General Board ([¶1655:14](/part-4/ch2-general-board.md#p1655)).
 
 ### ¶1590.13 {#p1590-13}
 Authorize the establishment, merger, or dissolution of any educational or benevolent institution for the General Church or an area of the same; to define the purpose and adopt any regulations deemed necessary for the government of such institutions ([¶2362](/part-4/ch8-education-clergy.md#p2362)).

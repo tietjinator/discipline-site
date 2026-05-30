@@ -3,7 +3,7 @@
 ## A. Incorporation
 
 ## ¶4900 {#p4900}
- The General Conference shall cause a corporation to be formed and maintained under the name of The Wesleyan Church Corporation, through which it shall acquire, sell, manage, encumber, transfer, and otherwise dispose of General Church property ([¶4200–4260](#p4200–4260); [¶1590:5](/part-4/ch1-general-conference.md#p1590-5)).
+ The General Conference shall cause a corporation to be formed and maintained under the name of The Wesleyan Church Corporation, through which it shall acquire, sell, manage, encumber, transfer, and otherwise dispose of General Church property ([¶4200–4260](/part-7/ch3-twc-corporation.md#p4200); [¶1590:5](/part-4/ch1-general-conference.md#p1590-5)).
 
 ## B. Ownership
 

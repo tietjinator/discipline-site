@@ -13,7 +13,7 @@
 ## C. Requirements
 
 ## ¶4520 {#p4520}
- A trustee must be a Wesleyan Church member who meets the leadership qualifications ([¶260–268](#p260–268); [¶558](/part-2/ch2-membership.md#p558)). Whenever a trustee ceases to be a member with said qualifications for any reason, the office as trustee shall be declared vacant and a successor shall be elected for the unexpired term in the manner provided in *The Discipline*.
+ A trustee must be a Wesleyan Church member who meets the leadership qualifications ([¶260–268](/part-1/ch4-constitution.md#p260); [¶558](/part-2/ch2-membership.md#p558)). Whenever a trustee ceases to be a member with said qualifications for any reason, the office as trustee shall be declared vacant and a successor shall be elected for the unexpired term in the manner provided in *The Discipline*.
 
 ## ¶4530 {#p4530}
  All trustees shall administer their duties in accord with *The Discipline* as from time to time amended, as directed by the governing body to which they are amenable, and subject to local laws as set forth in [¶4510](#p4510). Whenever a trustee refuses to carry out properly given orders and instructions and submit to the authority to which amenable, the trustee may be removed from office and a successor shall be elected for the unexpired term as provided for in *The Discipline*.
@@ -32,7 +32,7 @@
 ## E. Terms
 
 ## ¶4570 {#p4570}
- *“The Discipline”* shall always refer to *The Discipline of The Wesleyan Church* as from time to time legislated and declared ([¶125–185](#p125–185); 1590:1–2; [¶2066](/part-4/ch4-general-administration.md#p2066)).
+ *“The Discipline”* shall always refer to *The Discipline of The Wesleyan Church* as from time to time legislated and declared ([¶125–185](/part-1/ch3-church-law.md#p125); 1590:1–2; [¶2066](/part-4/ch4-general-administration.md#p2066)).
 
 ## ¶4580 {#p4580}
  “Local laws,” whenever used in *The Discipline*, shall be construed to mean laws, including regulations and case law, of the civil jurisdiction(s) applicable to the matter at hand. With respect to property matters, this would normally be the law of the jurisdiction within which the property is located, and with respect to any other legal matters, would normally be the law of the civil jurisdiction(s) within which the matters arise.

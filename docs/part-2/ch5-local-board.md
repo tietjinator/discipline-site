@@ -11,7 +11,7 @@
  The local church conference shall adopt one of the following structural models for the organization and election of the local board of administration ([¶315:5](/part-1/ch4-constitution.md#p315-5)). All board members shall be adult members, whose lives bear witness to the grace of holy living ([¶297:1](/part-1/ch4-constitution.md#p297-1); 302:3-4; 552:2-3; 553:1-3); who are in harmony with our Articles of Religion, Guides and Helps to Holy Living, and the authority of The Wesleyan Church in matters of church government ([¶297:3](/part-1/ch4-constitution.md#p297-3); 553:1-2); and who are faithful in worship attendance, involved in personal ministry, and supportive of the church financially at least to the level of personal tithing ([¶265:3](/part-1/ch4-constitution.md#p265-3); [¶297:4](/part-1/ch4-constitution.md#p297-4)).
 
 ## ¶752.1 Standard Model. {#p752-1}
- The local board of administration shall be comprised minimally of the pastor as chair ([¶675](/part-2/ch4-pastors.md#p675), [¶678](/part-2/ch4-pastors.md#p678), [¶725:16](/part-2/ch4-pastors.md#p725-16), [¶735](/part-2/ch4-pastors.md#p735)), the vice-chair ([¶773](#p773)), the church secretary ([¶830](#p830)), and the church treasurer or business manager ([¶842](#p842)). Two or more additional members-at-large may be elected by the local church conference in such numbers as it shall determine. It is recommended that the total number of all voting members of the local board of administration using the standard model should not exceed twelve persons.
+ The local board of administration shall be comprised minimally of the pastor as chair ([¶675](/part-2/ch4-pastors.md#p675), [¶678](/part-2/ch4-pastors.md#p678), [¶725:16](/part-2/ch4-pastors.md#p725), [¶735](/part-2/ch4-pastors.md#p735)), the vice-chair ([¶773](#p773)), the church secretary ([¶830](#p830)), and the church treasurer or business manager ([¶842](#p842)). Two or more additional members-at-large may be elected by the local church conference in such numbers as it shall determine. It is recommended that the total number of all voting members of the local board of administration using the standard model should not exceed twelve persons.
 
 ## ¶752.2 Alternate Models. {#p752-2}
  Alternate models of local church governance may be considered by the local church conference in consultation with the district superintendent and with the prior approval of the district board of administration. When evaluating proposed alternate models, the district board of administration shall give due consideration to safeguard the following constitutional and practical principles:
@@ -20,7 +20,7 @@
 All local church officers, local board of administration members, trustees, and district conference delegates must be members who meet the leadership qualifications (260-268; [¶558](/part-2/ch2-membership.md#p558)), of the local church electing them (302:3-4, 552:2-3, 815).
 
 #### ¶752:2b {#p752-2b}
-All officers, board members, trustees, and district conference delegates must be elected by the eligible voting members of the local church conference (315:5-7). No pastor or other official has any right to appoint an officer or declare an office vacant ([¶315:5](/part-1/ch4-constitution.md#p315-5)). Since the right to elect officers and trustees vests solely in each pastoral charge (315:5-6), no board has the right to become self-perpetuating by electing its own members, other than temporarily filling unexpired terms when vacancies occur in the interim of local church conferences ([¶782:24](#p782-24)).
+All officers, board members, trustees, and district conference delegates must be elected by the eligible voting members of the local church conference (315:5-7). No pastor or other official has any right to appoint an officer or declare an office vacant ([¶315:5](/part-1/ch4-constitution.md#p315-5)). Since the right to elect officers and trustees vests solely in each pastoral charge (315:5-6), no board has the right to become self-perpetuating by electing its own members, other than temporarily filling unexpired terms when vacancies occur in the interim of local church conferences ([¶782:24](#p782)).
 
 #### ¶752:2c {#p752-2c}
 Due to obvious conflicts of interest, no compensated church staff member may vote on compensation issues on the governing board of the local church by which he or she is employed. The only exception is the pastor, who is the chair but not an employee of the local board of administration, rather being called by the local church conference and appointed by the district conference (323:1-2).
@@ -66,7 +66,7 @@ chair may also preside over other sessions of the local board of administration 
  A majority of the members of the local board of administration shall constitute a quorum.
 
 ## ¶780 Voting. {#p780}
- A majority vote of those present and voting shall be sufficient in all items of business except when voting on the reception of a member against whom an objection has been made, which shall require a two-thirds majority vote of those present and voting ([¶567](/part-2/ch2-membership.md#p567); [¶782:8](#p782-8)); and when petitioning the district board of administration to remove a pastor during the initial call, which shall require a two-thirds majority vote of those present and voting ([¶712](/part-2/ch4-pastors.md#p712); [¶782:12](#p782-12)).
+ A majority vote of those present and voting shall be sufficient in all items of business except when voting on the reception of a member against whom an objection has been made, which shall require a two-thirds majority vote of those present and voting ([¶567](/part-2/ch2-membership.md#p567); [¶782:8](#p782-8)); and when petitioning the district board of administration to remove a pastor during the initial call, which shall require a two-thirds majority vote of those present and voting ([¶712](/part-2/ch4-pastors.md#p712); [¶782:12](#p782)).
 
 ### 3. Local Church Governance Philosophy
 
@@ -127,7 +127,7 @@ Counsel with the pastor, as the pastor may request.
 Cooperate with the pastor in evaluating the health of the local church; establishing policies, goals, and objectives for more effectively fulfilling the mission of the church; empowering the pastor to pursue the goals and objectives, within the established policies and through the staff and members; and periodically receiving performance reports from the pastor regarding progress.
 
 ### ¶782.5 {#p782-5}
-Receive monthly reports from the pastor ([¶725:30](/part-2/ch4-pastors.md#p725-30)), church treasurer (842:3), and reports as the local board of administration shall require from all boards, committees, and officers.
+Receive monthly reports from the pastor ([¶725:30](/part-2/ch4-pastors.md#p725)), church treasurer (842:3), and reports as the local board of administration shall require from all boards, committees, and officers.
 
 ### ¶782.6 {#p782-6}
 Direct the church in its evangelistic outreach, seeking to win its community to Christ; to recommend to the local church conference the establishment and operation of a mission.
@@ -207,7 +207,7 @@ Review all plans of support annually, adjusting salaries as advisable, adopting 
 Adopt the annual budget and authorize all expenditures within the limits of the budget and any expenditures not provided for in the annual budget; to provide for annual audits of all funds (863).
 
 ### ¶782:29 {#p782-29}
-Recommend to the local church conference: the purchase or sale of property, the erection or remodeling of buildings, all mortgages or other indebtedness which encumbers the property and major items of equipment ([¶655:11](/part-2/ch3-conference.md#p655-11); 4700–4728).
+Recommend to the local church conference: the purchase or sale of property, the erection or remodeling of buildings, all mortgages or other indebtedness which encumbers the property and major items of equipment ([¶655:11](/part-2/ch3-conference.md#p655); 4700–4728).
 
 ### ¶782:30 {#p782-30}
 Implement all General Church and district plans which apply to the local church, and to see that the local church raises its assigned portion of the United Stewardship Fund.
@@ -216,15 +216,15 @@ Implement all General Church and district plans which apply to the local church,
 Open the doors of the local church to properly authorized representatives of the General Church, the educational institutions of the area and the district.
 
 ### ¶782.32 {#p782-32}
-Request approval from the district board of administration when making investment or distribution of funds received as an undesignated estate gift, property for sale, or other out-of-pattern contribution with value equal to or exceeding the total contributions for all purposes of the preceding year ([¶1233:30](/part-3/ch3-board.md#p1233-30)).
+Request approval from the district board of administration when making investment or distribution of funds received as an undesignated estate gift, property for sale, or other out-of-pattern contribution with value equal to or exceeding the total contributions for all purposes of the preceding year ([¶1233:30](/part-3/ch3-board.md#p1233)).
 
 ### Day Care and/or Day School
 
 ### ¶782:33 {#p782-33}
-Present to the district board of administration for approval a plan for a day care and/or day school following authorization by the local church conference (655:17–18) or any plans for a significant change in mission, facilities, or finances of an established day care and/or day school ([¶1233:32](/part-3/ch3-board.md#p1233-32)); to govern and direct a day care and/or day school when such has been properly approved ([¶1233:32](/part-3/ch3-board.md#p1233-32)), or to govern while delegating the operation to a separate school committee; to elect the separate school committee and name its chair when thus delegating said operation; to submit an annual report to the district board of administration including organization, administration, and fiscal operations (655:17–18) for its approval.
+Present to the district board of administration for approval a plan for a day care and/or day school following authorization by the local church conference (655:17–18) or any plans for a significant change in mission, facilities, or finances of an established day care and/or day school ([¶1233:32](/part-3/ch3-board.md#p1233)); to govern and direct a day care and/or day school when such has been properly approved ([¶1233:32](/part-3/ch3-board.md#p1233)), or to govern while delegating the operation to a separate school committee; to elect the separate school committee and name its chair when thus delegating said operation; to submit an annual report to the district board of administration including organization, administration, and fiscal operations (655:17–18) for its approval.
 
 ### ¶782:34 {#p782-34}
-Establish treasuries, distinct and separate from that of a local church, to provide for the financial administration of day care centers, day schools, retirement homes, nursing homes, and such enterprises (655:17–18; [¶1233:32](/part-3/ch3-board.md#p1233-32)) and to adopt financial policies to assure adequate supervision and accountability.
+Establish treasuries, distinct and separate from that of a local church, to provide for the financial administration of day care centers, day schools, retirement homes, nursing homes, and such enterprises (655:17–18; [¶1233:32](/part-3/ch3-board.md#p1233)) and to adopt financial policies to assure adequate supervision and accountability.
 
 ## F. Pastor's Advisory Committee
 

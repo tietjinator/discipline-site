@@ -14,7 +14,7 @@
  The General Superintendent is a member of the General Board by virtue of office.
 
 ## ¶1605.2 Area Representatives. {#p1605-2}
- Three ordained ministers and three lay members shall be elected by the General Conference from each representative area to serve as members of the General Board ([¶340:1](/part-1/ch4-constitution.md#p340-1); [¶1590:17](/part-4/ch1-general-conference.md#p1590-17); [¶2430-2445](#p2430-2445)). In order to accomplish broad representation when electing area representatives to the General Board, it is recommended that no more than two persons be elected from any one district. They shall serve from the close of the session at which they are elected until the close of the succeeding General Conference and until their successors are elected and qualified. Whenever an area representative shall transfer residence or membership outside the area represented, the General Board shall declare the office vacant and shall fill the vacancy in such a manner as to maintain the representation provided for herewith. An area representative who is not a voting member of the General Conference by some other right is a voting member of the General Conference by virtue of membership on the General Board (1503:1c).
+ Three ordained ministers and three lay members shall be elected by the General Conference from each representative area to serve as members of the General Board ([¶340:1](/part-1/ch4-constitution.md#p340-1); [¶1590:17](/part-4/ch1-general-conference.md#p1590); [¶2430-2445](/part-4/ch9-boundaries.md#p2430)). In order to accomplish broad representation when electing area representatives to the General Board, it is recommended that no more than two persons be elected from any one district. They shall serve from the close of the session at which they are elected until the close of the succeeding General Conference and until their successors are elected and qualified. Whenever an area representative shall transfer residence or membership outside the area represented, the General Board shall declare the office vacant and shall fill the vacancy in such a manner as to maintain the representation provided for herewith. An area representative who is not a voting member of the General Conference by some other right is a voting member of the General Conference by virtue of membership on the General Board (1503:1c).
 
 ## C. Nonvoting Participants
 
@@ -60,7 +60,7 @@ semiannually at a time and place it shall designate or as fixed in its bylaws. T
  A majority of all the members of the General Board shall constitute a quorum.
 
 ## ¶1645 Voting. {#p1645}
- A majority vote of those present and voting shall be sufficient except for those matters for which a larger majority is required by *The Discipline* ([¶1530](/part-4/ch1-general-conference.md#p1530); [¶1532](/part-4/ch1-general-conference.md#p1532); [¶1655:6](#p1655-6), [¶11](#p1655-11), [¶16](#p1655-16), [¶18](#p1655-18), [¶21](#p1655-21), [¶23](#p1655-23), 40a; [¶4300](/part-7/ch4-subsidiary-corporations.md#p4300); *Gen. Bd. Policy on Ch. Disc.* [¶5279](#p5279); [¶5365](#p5365)), by legal or corporate requirements, or by the policies and regulations of the General Board.
+ A majority vote of those present and voting shall be sufficient except for those matters for which a larger majority is required by *The Discipline* ([¶1530](/part-4/ch1-general-conference.md#p1530); [¶1532](/part-4/ch1-general-conference.md#p1532); [¶1655:6](#p1655-6), [¶11](#p1655), [¶16](#p1655), [¶18](#p1655), [¶21](#p1655), [¶23](#p1655), 40a; [¶4300](/part-7/ch4-subsidiary-corporations.md#p4300); *Gen. Bd. Policy on Ch. Disc.* [¶5279](#p5279); [¶5365](#p5365)), by legal or corporate requirements, or by the policies and regulations of the General Board.
 
 ## ¶1650 Bylaws. {#p1650}
  The General Board shall adopt its own bylaws and perfect all plans necessary for the performance of its own duties, in harmony with *The Discipline* and the instructions of the General Conference.
@@ -118,7 +118,7 @@ Refer such matters to the Executive Board as shall be deemed wise ([¶1785](#p17
 ### Related to the Church in General
 
 ### ¶1655.14 {#p1655-14}
-Recommend to the General Conference the number of representative areas and the boundaries of such areas for the election of representatives to the General Board ([¶1590:12](/part-4/ch1-general-conference.md#p1590-12)); and in the interim of General Conference sessions to assign new districts to the proper area.
+Recommend to the General Conference the number of representative areas and the boundaries of such areas for the election of representatives to the General Board ([¶1590:12](/part-4/ch1-general-conference.md#p1590)); and in the interim of General Conference sessions to assign new districts to the proper area.
 
 ### Related to Corporations
 
@@ -158,7 +158,7 @@ Request the General Superintendent to rule on points of Church law and interpret
 Receive and act upon the recommendations of the General Superintendent.
 
 ### ¶1655.26 {#p1655-26}
-Recommend at the discretion of the General Board that the General Conference confer the title General Superintendent Emeritus or Emerita upon a former General Superintendent ([¶1590:19](/part-4/ch1-general-conference.md#p1590-19); [¶1945](/part-4/ch4-general-administration.md#p1945)).
+Recommend at the discretion of the General Board that the General Conference confer the title General Superintendent Emeritus or Emerita upon a former General Superintendent ([¶1590:19](/part-4/ch1-general-conference.md#p1590); [¶1945](/part-4/ch4-general-administration.md#p1945)).
 
 ### ¶1655.27 {#p1655-27}
 Adopt official policies for the general offices, divisions, agencies, auxiliaries, and institutions of the Church, in keeping with the provisions of The Discipline, defining the duties of the various executive officers.
@@ -184,13 +184,13 @@ Space reserved.
 ### Related to Districts
 
 ### ¶1655.34 {#p1655-34}
-Make recommendation to the General Conference for the establishment or alteration of district boundaries ([¶1590:10](/part-4/ch1-general-conference.md#p1590-10)); and to approve the merger, division, or other realignment of districts when each district conference involved has approved the plan ([¶1065](/part-3/ch1-organization.md#p1065)).
+Make recommendation to the General Conference for the establishment or alteration of district boundaries ([¶1590:10](/part-4/ch1-general-conference.md#p1590)); and to approve the merger, division, or other realignment of districts when each district conference involved has approved the plan ([¶1065](/part-3/ch1-organization.md#p1065)).
 
 ### ¶1655.35 {#p1655-35}
 Authorize the incorporation of a developing district ([¶4105](/part-7/ch2-district-corporations.md#p4105)); to approve the articles of incorporation and bylaws for the incorporation of a district, and all amendments to the same ([¶4110](/part-7/ch2-district-corporations.md#p4110)); and to exercise such control and direction of said district corporations as is set forth in 4120:3, 6, 9; 4250; 4870.
 
 ### ¶1655.36 {#p1655-36}
-Grant in concurrence with the respective district conference prior approval to a local church conference for post-secondary education in terms of an institute or of junior college or college-level programs ([¶655:17](/part-2/ch3-conference.md#p655-17); [¶1180:25](/part-3/ch2-conference.md#p1180-25)).
+Grant in concurrence with the respective district conference prior approval to a local church conference for post-secondary education in terms of an institute or of junior college or college-level programs ([¶655:17](/part-2/ch3-conference.md#p655); [¶1180:25](/part-3/ch2-conference.md#p1180)).
 
 ### Related to Judiciary
 
@@ -218,7 +218,7 @@ To hear and determine charges against a district for an offense as set forth in 
 ### ¶1655.42 {#p1655-42}
 Administer discipline to a district which has been found guilty by the proper judicatory as set forth in the Judiciary (Gen. Bd. Policy on Ch. Disc.
 
-[¶5350-5385](#p5350-5385)).
+5350-5385).
 
 ### ¶1655.43 {#p1655-43}
 Take whatever steps are necessary to preserve the interests of the Church within the bounds of a district under discipline.
@@ -247,7 +247,7 @@ Set and enact policy related to the governance of networks only in regard to leg
 ### 2. Membership
 
 ## ¶1755 {#p1755}
- The Executive Board shall be composed of the General Superintendent, the vice-chair of the General Board (who shall serve as the vice-chair of the Executive Board), and three ordained ministers and three lay members to be elected from among the area representatives by the General Board. They shall serve from the close of the session at which they are elected until the close of the next session of the General Conference or until their successors are elected and qualified. Whenever an area representative on the Executive Board ceases to be a member of the General Board, the General Board shall declare the office vacant and shall fill the vacancy in such a manner as to maintain the representation provided for herewith ([¶1655:11](#p1655-11)).
+ The Executive Board shall be composed of the General Superintendent, the vice-chair of the General Board (who shall serve as the vice-chair of the Executive Board), and three ordained ministers and three lay members to be elected from among the area representatives by the General Board. They shall serve from the close of the session at which they are elected until the close of the next session of the General Conference or until their successors are elected and qualified. Whenever an area representative on the Executive Board ceases to be a member of the General Board, the General Board shall declare the office vacant and shall fill the vacancy in such a manner as to maintain the representation provided for herewith ([¶1655:11](#p1655)).
 
 ### 3. Sessions
 
@@ -290,10 +290,10 @@ Serve as the members of the budget committee with the General Treasurer/ Chief F
 Require reports from all such officers as it shall designate and consult with and give direction to the same.
 
 ### ¶1785.6 {#p1785-6}
-Receive a report from the General Superintendent regarding the annual review of all general officers based on mutually agreed goals and objectives and issue a report of the same to the General Board ([¶1655:29](#p1655-29)).
+Receive a report from the General Superintendent regarding the annual review of all general officers based on mutually agreed goals and objectives and issue a report of the same to the General Board ([¶1655:29](#p1655)).
 
 ### ¶1785.7 {#p1785-7}
-Take emergency action by a two-thirds majority vote of all the members of the Executive Board, suspending from office a person under the jurisdiction of the General Board ([¶1655:37](#p1655-37)), pending the action of the General Board. In the case of a general official ([¶1800](/part-4/ch3-general-officials.md#p1800)), no more than thirty days shall elapse from the time such suspension is effected until the General Board shall review the matter, either through a regular or special session.
+Take emergency action by a two-thirds majority vote of all the members of the Executive Board, suspending from office a person under the jurisdiction of the General Board ([¶1655:37](#p1655)), pending the action of the General Board. In the case of a general official ([¶1800](/part-4/ch3-general-officials.md#p1800)), no more than thirty days shall elapse from the time such suspension is effected until the General Board shall review the matter, either through a regular or special session.
 
 ### ¶1785.8 {#p1785-8}
 Appoint such subcommittees as it shall deem wise, and to delegate duties and powers to the same.
