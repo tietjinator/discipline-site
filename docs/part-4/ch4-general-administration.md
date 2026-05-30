@@ -77,7 +77,7 @@ shall be promoted through the General Superintendent’s office and the funds sh
 
 ### 2. United Stewardship Fund
 
-a. Definition
+#### a. Definition
 
 #### ¶2000 {#p2000}
  is a unified budget for the financial support of designated General Church interests and the educational institutions. It shall consist of the following:
@@ -91,7 +91,7 @@ a. Definition
 ##### ¶2000:3 {#p2000-3}
 , which shall provide continuing support for the planting of new churches, including the development of the leaders needed to serve in the new churches. The implementation of this fund shall be according to the General Board Policy for the Church Multiplication Fund. These funds shall be designated for church multiplication in accordance with this policy, which allows for the discretion of the district where the funds were given.
 
-b. Basis
+#### b. Basis
 
 #### ¶2005 {#p2005}
  The General Fund, the Education Fund, and the Church Multiplication Fund shall be determined annually by a percentage ([¶2005:2](#p2005-2)) of the base income of all churches for the previous fiscal year which shall be computed in the following manner ([¶2005:3](#p2005-3)):
@@ -122,7 +122,7 @@ In the event of an emergency during the interim of General Conference sessions, 
 
 ### ¶2005:4b Urban Missional Church Exception. {#p2005-4b}
  Whenever a local church is designated as an urban missional church, the USF obligation for that church shall be set at 25 percent of the regular assessment ([¶523](#p523)).
-c. District and Local Regulations
+#### c. District and Local Regulations
 
 #### ¶2015 District Responsibility. {#p2015}
   Each district and developing district, with the exception of the work under the Global Partners Division, shall be responsible to raise its share of the United Stewardship Fund, including the General Fund, the Education Fund, and the Church Multiplication Fund in accordance with the following regulations:
@@ -142,7 +142,7 @@ The district board of administration shall be responsible to administer the dist
 #### ¶2030 {#p2030}
  The obligation of a developing district, or of the churches within a developing district, to the United Stewardship Fund shall be determined by the General Board ([¶1655:23](#p1655-23)). The assigned obligation shall be raised by the superintendent of the developing district, under the direction of the Executive Director of Church Multiplication and Discipleship and in accord with the *General Board Policy for the Church Multiplication and Discipleship Division*.
 
-d. General Church Regulations
+#### d. General Church Regulations
 
 #### ¶2035 {#p2035}
  The General Fund shall provide support for General Church divisions and ministries and be apportioned among them as follows:
