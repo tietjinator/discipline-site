@@ -22,7 +22,7 @@ O God, eternal and ever blessed, who delights in the assembling of Your people i
 
 **Scripture Reading**
 
-*(Then the pastor or other appointed minister shall read a Scripture lesson, such as one of the following: 2 Chron. 6:1–2, [¶18–21](/part-1/ch1-history.md#p18), 40–42; 7:1–4; Ps. 24; Ps. 84; Heb. 10:19–25.)*
+*(Then the pastor or other appointed minister shall read a Scripture lesson, such as one of the following: 2 Chron. 6:1–2, 18–21, 40–42; 7:1–4; Ps. 24; Ps. 84; Heb. 10:19–25.)*
 
 **Sermon**
 
@@ -114,7 +114,7 @@ May You, O Lord our God, make this house Your abiding place from this day forth,
 
 #### ¶5975 {#p5975}
 
-*(At the time appointed for the dedication service, an appropriate hymn may be sung by the congregation or by a soloist or choir. Suitable numbers include: “Happy the Home When God Is There,” and “Bless This House.” Then the pastor or other appointed minister shall give an extemporaneous prayer. Then the pastor or other appointed minister shall give a Scripture reading, such as 1 Corinthians 9:7-10, 13–14. Then the district superintendent (¶1310:14) or representative shall address the congregation, saying:)*
+*(At the time appointed for the dedication service, an appropriate hymn may be sung by the congregation or by a soloist or choir. Suitable numbers include: “Happy the Home When God Is There,” and “Bless This House.” Then the pastor or other appointed minister shall give an extemporaneous prayer. Then the pastor or other appointed minister shall give a Scripture reading, such as 1 Corinthians 9:7-10, 13–14. Then the district superintendent ([¶1310:14](/part-3/ch5-administration.md#p1310-14)) or representative shall address the congregation, saying:)*
 
 The Scriptures clearly teach that as Aaron was divinely appointed to the priesthood, even so today persons are called to the ministry for the purpose of preaching the Word and otherwise giving aid and comfort to the spiritually needy. In the same divine program it is also “commanded that those who preach the gospel should receive their living from the gospel” (1 Cor. 9:14). Providing a house for the pastor is a recognition of the minister’s high office and great value to the church. It is a wise provision contributing to proper temporal support. This house about to be dedicated as a pastor’s home has been made possible by the generous gifts of those who are interested in the ministry and the Church such ministry represents.
 

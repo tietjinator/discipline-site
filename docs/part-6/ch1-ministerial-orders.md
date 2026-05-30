@@ -26,7 +26,7 @@ Fruit, have any been truly convicted of sin and converted to God through their m
 An abiding sense of a divine call, can they testify to a continuing and increasing conviction that they have been chosen by God for a specialized and representative ministry?
 
 #### ¶3012 {#p3012}
- Any person sustaining a marriage relation contrary to the Scriptures and the Guides and Helps to Holy Living (265:5–7; 410:5–6; [¶3108](#p3108)) shall be ineligible for licensing, commissioning, or ordination in The Wesleyan Church.
+ Any person sustaining a marriage relation contrary to the Scriptures and the Guides and Helps to Holy Living ([265:5–7](/part-1/ch4-constitution.md#p265-5); [410:5–6](/part-1/ch5-special-directions.md#p410-5); [¶3108](#p3108)) shall be ineligible for licensing, commissioning, or ordination in The Wesleyan Church.
 
 ## C. Ministerial Student
 
@@ -52,7 +52,7 @@ Examination by the district board of ministerial development ([¶1390:2](/part-3
 Enrollment in the Ministerial Study Course Agency and in a program of ministerial education approved by the district board of ministerial development.
 
 ###### ¶3015:1f {#p3015-1f}
-Recommendation by the district board of administration for appointment as a ministerial student ([¶3350:2](/part-6/ch3-ministerial-appointments.md#p3350-2)) and its adoption by the district conference ([¶1180:27d](/part-3/ch2-conference.md#p1180-27d); [¶1233:10c](/part-3/ch3-board.md#p1233-10c); [¶1390:2](/part-3/ch6-ministerial.md#p1390-2)).
+Recommendation by the district board of administration for appointment as a ministerial student ([¶3350:2](/part-6/ch3-ministerial-appointments.md#p3350-2)) and its adoption by the district conference ([¶1180:27d](/part-3/ch2-conference.md#p1180-27); [¶1233:10c](/part-3/ch3-board.md#p1233-10); [¶1390:2](/part-3/ch6-ministerial.md#p1390-2)).
 
 ###### ¶3015:1g {#p3015-1g}
 Issuance and signing of the license by the district superintendent and the district secretary (6260).
@@ -79,7 +79,7 @@ Preach the gospel.
 Be a nonvoting member of the district conference ([¶1090:4](/part-3/ch2-conference.md#p1090-4)).
 
 ###### ¶3015:3c {#p3015-3c}
-Transfer from one district to another ([¶3015:5d](#p3015-5d)). The district superintendent shall send a letter directly to the district superintendent of the district to which the student is transferring and the student shall continue to be considered a member of the former district until a reply has been received from the latter district that the student has been duly received as a member of a local church within the district and has been duly enrolled as a ministerial student by the district.
+Transfer from one district to another ([¶3015:5d](#p3015-5)). The district superintendent shall send a letter directly to the district superintendent of the district to which the student is transferring and the student shall continue to be considered a member of the former district until a reply has been received from the latter district that the student has been duly received as a member of a local church within the district and has been duly enrolled as a ministerial student by the district.
 
 ###### ¶3015:3d {#p3015-3d}
 Have recourse, even if under discipline, to a proper court of jurisdiction in any matters involving complaint against character or ministerial conduct and to appeal the decision of such a court ([¶302:5](/part-1/ch4-constitution.md#p302-5); [¶313:7](/part-1/ch4-constitution.md#p313-7); Gen. Bd. Policy on Ch. Disc. 5200; 5206-5212).
@@ -94,10 +94,10 @@ A person holding a license as a ministerial student shall be responsible to repo
 A ministerial student’s credentials shall consist of the license, signed annually by the district superintendent and the district secretary (6260), and an annual pocket certificate of standing, issued and signed by the district secretary (6430).
 
 ###### ¶3015:5c {#p3015-5c}
-A ministerial student from another denomination will need to qualify for such license in The Wesleyan Church as set forth in ¶3015:1.
+A ministerial student from another denomination will need to qualify for such license in The Wesleyan Church as set forth in [¶3015:1](#p3015-1).
 
 ###### ¶3015:5d {#p3015-5d}
-A ministerial student, when transferring district membership ([¶3015:3c](#p3015-3c); [¶3100:1](#p3100-1)), in addition to a letter of transfer, shall be supplied by the district superintendent and the district board of ministerial development with a properly attested statement of standing in the ministerial study course.
+A ministerial student, when transferring district membership ([¶3015:3c](#p3015-3); [¶3100:1](#p3100-1)), in addition to a letter of transfer, shall be supplied by the district superintendent and the district board of ministerial development with a properly attested statement of standing in the ministerial study course.
 
 ## D. Licensed Minister *
 
@@ -106,7 +106,7 @@ _______________________
 ^*^The 2022 General Conference adopted legislation which allows districts to make Licensed Minister a terminal status. See the *Manual of Ministerial Preparation* for additional information.
 
 #### ¶3030 {#p3030}
- A licensed minister is one whose ministerial calling and gifts have been formally recognized by a district conference, through the granting of a ministerial license which serves as authorization for and appointment to actual service in the ministry, subject to supervision and evaluation, as a step toward ordination. A licensed minister may be a former ministerial student who has qualified for and been appointed to regular service in one of the categories listed in ¶3250–3345.
+ A licensed minister is one whose ministerial calling and gifts have been formally recognized by a district conference, through the granting of a ministerial license which serves as authorization for and appointment to actual service in the ministry, subject to supervision and evaluation, as a step toward ordination. A licensed minister may be a former ministerial student who has qualified for and been appointed to regular service in one of the categories listed in [¶3250–3345](/part-6/ch3-ministerial-appointments.md#p3250).
 
 #### ¶3033 {#p3033}
  A member who meets the leadership qualifications ([¶260-268](/part-1/ch4-constitution.md#p260); [¶558](/part-2/ch2-membership.md#p558)) of The Wesleyan Church who confesses a call of God to be a minister ([¶3000-3006](#p3000)), may be granted a district ministerial license by meeting the following requirements in order:
@@ -118,19 +118,19 @@ Membership in a local Wesleyan church within the district granting the license.
 Satisfactory service as a ministerial student in The Wesleyan Church for at least one year.
 
 ##### ¶3033:3 {#p3033-3}
-Certificate from the Ministerial Study Course Agency showing completion of the courses adopted as being prerequisites for licensing (6410; cf. 3170:1–4; [¶3210](/part-6/ch2-ministerial-education.md#p3210)).
+Certificate from the Ministerial Study Course Agency showing completion of the courses adopted as being prerequisites for licensing (6410; cf. [3170:1–4](/part-6/ch2-ministerial-education.md#p3170-1); [¶3210](/part-6/ch2-ministerial-education.md#p3210)).
 
 ##### ¶3033:4 {#p3033-4}
-Recommendation from the local church conference to the district conference for a district ministerial license (655:7-8).
+Recommendation from the local church conference to the district conference for a district ministerial license ([655:7-8](/part-2/ch3-conference.md#p655-7)).
 
 ##### ¶3033:5 {#p3033-5}
-Readiness to accept the district conference’s appointment to active service in one of the categories listed in ¶3250-3335; to pursue the studies with all diligence until completed; and to prepare for ordination; and to give oneself wholly to the ministry.
+Readiness to accept the district conference’s appointment to active service in one of the categories listed in [¶3250-3335](/part-6/ch3-ministerial-appointments.md#p3250); to pursue the studies with all diligence until completed; and to prepare for ordination; and to give oneself wholly to the ministry.
 
 ##### ¶3033:6 {#p3033-6}
-Examination by the district board of ministerial development ([¶1390:1](/part-3/ch6-ministerial.md#p1390-1)) relative to the qualifications for the ministry and for a district ministerial license ([¶3000-3006](#p3000); 3033:1-5), including a personal religious experience, ministerial call, and evidence thereof, matters of education, doctrine, and practice, and circumstances of personal, family, and business life which bear upon the ministry; and subsequent recommendation by the district board of ministerial development to the district conference for the granting of a district ministerial license ([¶1390:5](/part-3/ch6-ministerial.md#p1390-5)).
+Examination by the district board of ministerial development ([¶1390:1](/part-3/ch6-ministerial.md#p1390-1)) relative to the qualifications for the ministry and for a district ministerial license ([¶3000-3006](#p3000); [3033:1-5](#p3033-1)), including a personal religious experience, ministerial call, and evidence thereof, matters of education, doctrine, and practice, and circumstances of personal, family, and business life which bear upon the ministry; and subsequent recommendation by the district board of ministerial development to the district conference for the granting of a district ministerial license ([¶1390:5](/part-3/ch6-ministerial.md#p1390-5)).
 
 ##### ¶3033:7 {#p3033-7}
-Recommendation by the district board of administration for immediate appointment to one of the categories of service listed in ¶3250-3335.
+Recommendation by the district board of administration for immediate appointment to one of the categories of service listed in [¶3250-3335](/part-6/ch3-ministerial-appointments.md#p3250).
 
 ##### ¶3033:8 {#p3033-8}
 Adoption by the district conference of the separate recommendations of the district board of ministerial development ([¶3033:6](#p3033-6)) and of the district board of administration ([¶3033:7](#p3033-7)).
@@ -145,10 +145,10 @@ Issuance and signing of the license by the district superintendent and the distr
 Satisfactory service under a previous appointment, including loyalty to and compliance with the rules of The Wesleyan Church and of the district, and including the proper filing of reports. If a licensed minister fails to file the annual service report ([¶1402](/part-3/ch6-ministerial.md#p1402)), unless such failure is due to illness, injury, or a similar emergency, the license shall not be renewed ([¶1390:8](/part-3/ch6-ministerial.md#p1390-8)).
 
 ##### ¶3040:2 {#p3040-2}
-Confirmation through the annual report of the Ministerial Study Course Agency that the minister has completed at least two courses in the pre- ordination study course ([¶3210:1](/part-6/ch2-ministerial-education.md#p3210-1)). The pre-ordination study course must be completed within seven years of service under a ministerial license. The ministerial license shall not be renewed beyond the seventh year unless an extension of time is granted by the district board of ministerial development ([¶3059:1c](#p3059-1c)).
+Confirmation through the annual report of the Ministerial Study Course Agency that the minister has completed at least two courses in the pre- ordination study course ([¶3210:1](/part-6/ch2-ministerial-education.md#p3210-1)). The pre-ordination study course must be completed within seven years of service under a ministerial license. The ministerial license shall not be renewed beyond the seventh year unless an extension of time is granted by the district board of ministerial development ([¶3059:1c](#p3059-1)).
 
 ##### ¶3040:3 {#p3040-3}
-Agreement to continue under district appointment to one of the categories of service listed in ¶3250-3335 or, for one having completed the course of study for ordination, to take an appointment within the coming conference year.
+Agreement to continue under district appointment to one of the categories of service listed in [¶3250-3335](/part-6/ch3-ministerial-appointments.md#p3250) or, for one having completed the course of study for ordination, to take an appointment within the coming conference year.
 
 #### ¶3044 {#p3044}
  As long as a minister qualifies for and receives a district ministerial license, the minister shall have the right ([¶313](/part-1/ch4-constitution.md#p313)) to:
@@ -157,13 +157,13 @@ Agreement to continue under district appointment to one of the categories of ser
 Preach the gospel ([¶313:1](/part-1/ch4-constitution.md#p313-1)) and, when appointed as a pastor or full- time assistant pastor of a Wesleyan church, to administer baptism and the Lord’s Supper, to perform all parts of divine worship, and to solemnize the rite of matrimony wherever local laws will permit.
 
 ##### ¶3044:2 {#p3044-2}
-Contract the pastoral relationship with local Wesleyan churches subject to the approval of the district conference and other regulations of The Discipline ([¶313:3](/part-1/ch4-constitution.md#p313-3); 323:1-2).
+Contract the pastoral relationship with local Wesleyan churches subject to the approval of the district conference and other regulations of The Discipline ([¶313:3](/part-1/ch4-constitution.md#p313-3); [323:1-2](/part-1/ch4-constitution.md#p323-1)).
 
 ##### ¶3044:3 {#p3044-3}
 Enjoy, if appointed as a pastor, the use for religious meetings of the church building or buildings of the pastoral charge to which assigned by the district conference ([¶313:4](/part-1/ch4-constitution.md#p313-4)); and to serve the assigned pastoral charge without interference by unauthorized activities of another minister of The Wesleyan Church ([¶313:5](/part-1/ch4-constitution.md#p313-5); [¶3114](#p3114)).
 
 ##### ¶3044:4 {#p3044-4}
-Be a voting member of the district conference if an ordained minister- elect, or the pastor, or assistant pastor of a Wesleyan church in that district ([¶317](/part-1/ch4-constitution.md#p317); 1083:2-4); to be a nonvoting member if otherwise classified or appointed ([¶1090:3](/part-3/ch2-conference.md#p1090-3)); to be eligible for election to any office not restricted to ordained ministers or lay persons.
+Be a voting member of the district conference if an ordained minister- elect, or the pastor, or assistant pastor of a Wesleyan church in that district ([¶317](/part-1/ch4-constitution.md#p317); [1083:2-4](/part-3/ch2-conference.md#p1083-2)); to be a nonvoting member if otherwise classified or appointed ([¶1090:3](/part-3/ch2-conference.md#p1090-3)); to be eligible for election to any office not restricted to ordained ministers or lay persons.
 
 ##### ¶3044:5 {#p3044-5}
 Transfer in the manner prescribed by The Discipline from one district to another, subject to the concurrence of the district superintendent and the General Superintendent ([¶313:6](/part-1/ch4-constitution.md#p313-6); [¶3055:3](#p3055-3); [¶3097](#p3097); [¶3100:1](#p3100-1)).
@@ -215,7 +215,7 @@ Certification from the Ministerial Study Course Agency that the commissioned min
 Recommendation of the district board of ministerial development after consultation with the district board of administration.
 
 ###### ¶3059:1e {#p3059-1e}
-Election by the district conference by a majority vote to a commissioned minister’s status (1180:26-27).
+Election by the district conference by a majority vote to a commissioned minister’s status ([1180:26-27](/part-3/ch2-conference.md#p1180-26)).
 
 #### ¶3059:1:f {#p3059-1-f}
 Public service of commissioning ([¶5800](/part-10/ch7-commissioning.md#p5800)), in which the minister shall witness to a Christian experience, conviction of a divine call to the ministry, commitment to the doctrines and practices of The Wesleyan Church, and loyalty to The Wesleyan Church, after which the minister shall be separated to the Christian ministry through the laying on of hands in the person of the General Superintendent (if present, [¶1935](/part-4/ch4-general-administration.md#p1935)) or the representative appointed by the General Superintendent ([¶1935](/part-4/ch4-general-administration.md#p1935); [¶3091](#p3091)), the district superintendent ([¶1310:23](/part-3/ch5-administration.md#p1310-23)), and Council of Ordination ([¶1405](/part-3/ch6-ministerial.md#p1405)).
@@ -233,7 +233,7 @@ Preach the gospel and administer baptism and the Lord’s Supper, to perform all
 Be eligible for election to any office not restricted to ordained ministers or lay persons. The commissioned minister shall not be eligible for election as district superintendent, assistant district superintendent, member- at-large on the district board of administration, member of the district board of ministerial development, nor as a delegate to General Conference.
 
 ###### ¶3059:2c {#p3059-2c}
-Contract the pastoral relationship with local Wesleyan churches subject to the approval of the district conference and other regulations of The Discipline ([¶313:3](/part-1/ch4-constitution.md#p313-3); 323:1-2).
+Contract the pastoral relationship with local Wesleyan churches subject to the approval of the district conference and other regulations of The Discipline ([¶313:3](/part-1/ch4-constitution.md#p313-3); [323:1-2](/part-1/ch4-constitution.md#p323-1)).
 
 ###### ¶3059:2d {#p3059-2d}
 Enjoy, if appointed as a pastor, the use for religious meetings of the church building or buildings of the pastoral charge to which appointed by the district conference ([¶313:4](/part-1/ch4-constitution.md#p313-4)); and to serve the pastoral charge without interference by unauthorized activities of another minister of The Wesleyan Church ([¶313:5](/part-1/ch4-constitution.md#p313-5); [¶3114](#p3114)).
@@ -254,10 +254,10 @@ Have recourse, even if under discipline, to a proper court of jurisdiction in an
 Be devoted without reservation to the Christian ministry, following the leadership of the Holy Spirit and the appointment of the district conference in determining and occupying the field of service.
 
 ###### ¶3059:3b {#p3059-3b}
-Report annually to the district conference on the appropriate service report form ([¶1402](/part-3/ch6-ministerial.md#p1402); [¶3059:4c](#p3059-4c)), and to the district superintendent as required ([¶725:30](/part-2/ch4-pastors.md#p725-30)).
+Report annually to the district conference on the appropriate service report form ([¶1402](/part-3/ch6-ministerial.md#p1402); [¶3059:4c](#p3059-4)), and to the district superintendent as required ([¶725:30](/part-2/ch4-pastors.md#p725-30)).
 
 ###### ¶3059:3c {#p3059-3c}
-Voluntarily file all credentials with the district superintendent if service in one of the categories of ministry listed in ¶3250-3335 ceases for four or more consecutive years ([¶3124](#p3124)); this does not apply to those listed under 3370-3371.
+Voluntarily file all credentials with the district superintendent if service in one of the categories of ministry listed in [¶3250-3335](/part-6/ch3-ministerial-appointments.md#p3250) ceases for four or more consecutive years ([¶3124](#p3124)); this does not apply to those listed under 3370-3371.
 
 ###### ¶3059:3d {#p3059-3d}
 Voluntarily surrender credentials if guilty of an offense which would disqualify from service as a commissioned minister (Gen. Bd. Policy on Ch. Disc. 5230; 5233-5236).
@@ -272,7 +272,7 @@ A commissioned minister is amenable to the district where membership is held, an
 A commissioned minister who fails to file the annual service report ([¶1402](/part-3/ch6-ministerial.md#p1402)) for two successive years, shall be notified by the district board of ministerial development, and requested to report at the next session of the district conference. One who then fails to report shall be declared withdrawn from the district, and this person’s name shall be so entered upon the minutes of the district conference.
 
 ###### ¶3059:4d {#p3059-4d}
-When a commissioned minister surrenders the commission certificate after acknowledging guilt for an offense ([¶3059:3d](#p3059-3d)), or is ordered to surrender it after due judicial process (Gen. Bd. Policy on Ch. Disc. 5212:4), it shall be lawful to publish such fact in the official church publication.
+When a commissioned minister surrenders the commission certificate after acknowledging guilt for an offense ([¶3059:3d](#p3059-3)), or is ordered to surrender it after due judicial process (Gen. Bd. Policy on Ch. Disc. 5212:4), it shall be lawful to publish such fact in the official church publication.
 
 ## F. Ordained Minister
 
@@ -286,13 +286,13 @@ When a commissioned minister surrenders the commission certificate after acknowl
 Membership with the leadership qualifications ([¶260-268](/part-1/ch4-constitution.md#p260); [¶558](/part-2/ch2-membership.md#p558)) in a local Wesleyan church within the district granting ordination.
 
 ##### ¶3070:2 {#p3070-2}
-Satisfactory service for two years subsequent to completion of the pre- ordination study course, except for those who have been under appointment and supervision during the years spent completing said course of study. This service must be full-time (as determined by the district board of ministerial development) in one of the categories of service listed in ¶3250-3335. At least one year must have been in The Wesleyan Church within the district in which ordination is to take place except as hereinafter provided. In case of a ministerial student graduating from a three-year divinity course at an approved seminary, the service requirement is for one year. If ordination is to be in a district other than the one in which the service requirement was met, the district board of ministerial development of the appointing district must recommend the student to the ordaining district.
+Satisfactory service for two years subsequent to completion of the pre- ordination study course, except for those who have been under appointment and supervision during the years spent completing said course of study. This service must be full-time (as determined by the district board of ministerial development) in one of the categories of service listed in [¶3250-3335](/part-6/ch3-ministerial-appointments.md#p3250). At least one year must have been in The Wesleyan Church within the district in which ordination is to take place except as hereinafter provided. In case of a ministerial student graduating from a three-year divinity course at an approved seminary, the service requirement is for one year. If ordination is to be in a district other than the one in which the service requirement was met, the district board of ministerial development of the appointing district must recommend the student to the ordaining district.
 
 ##### ¶3070:3 {#p3070-3}
 Certificate from the Ministerial Study Course Agency showing completion of the pre-ordination course of study or of its equivalent (6410; [¶3170:4](/part-6/ch2-ministerial-education.md#p3170-4); [¶3210:1](/part-6/ch2-ministerial-education.md#p3210-1)).
 
 ##### ¶3070:4 {#p3070-4}
-Examination by the district board of ministerial development relative to qualifications for the ministry and for ordination ([¶3000-3006](#p3000); 3070:1-3), including a personal religious experience, ministerial call and evidence thereof; matters of education, doctrine, and practice, particularly a personal commitment without reservation to each of the Articles of Religion and the Guides and Helps to Holy Living; loyalty to The Wesleyan Church; and circumstances of personal, family, and business life which bear upon the ministry; and a subsequent report by the district board of ministerial development to the district conference ([¶1390:1](/part-3/ch6-ministerial.md#p1390-1), 5).
+Examination by the district board of ministerial development relative to qualifications for the ministry and for ordination ([¶3000-3006](#p3000); [3070:1-3](#p3070-1)), including a personal religious experience, ministerial call and evidence thereof; matters of education, doctrine, and practice, particularly a personal commitment without reservation to each of the Articles of Religion and the Guides and Helps to Holy Living; loyalty to The Wesleyan Church; and circumstances of personal, family, and business life which bear upon the ministry; and a subsequent report by the district board of ministerial development to the district conference ([¶1390:1](/part-3/ch6-ministerial.md#p1390-1), 5).
 
 ##### ¶3070:5 {#p3070-5}
 Election by the district conference to ordained minister’s orders ([¶1180:26](/part-3/ch2-conference.md#p1180-26)). In case of an emergency, a candidate who has been recommended by the district board of ministerial development may be elected to ordained minister’s orders by the district board of administration in the interim of the sessions of the district conference ([¶1233:29](/part-3/ch3-board.md#p1233-29)).
@@ -322,7 +322,7 @@ Contract the pastoral relationship with local Wesleyan churches subject to the o
 Enjoy, if appointed as a pastor, the use for religious meetings of the church building or buildings of the pastoral charge to which assigned by the district conference ([¶313:4](/part-1/ch4-constitution.md#p313-4)); and to serve the assigned pastoral charge without interference by unauthorized activities of another minister of The Wesleyan Church ([¶313:5](/part-1/ch4-constitution.md#p313-5); [¶3114](#p3114)).
 
 ##### ¶3075:5 {#p3075-5}
-Be a voting member of the district conference if under appointment, retired, on reserve, on educational leave, or a member of the district board of administration ([¶317](/part-1/ch4-constitution.md#p317); [¶1083:1](/part-3/ch2-conference.md#p1083-1); 1240:1:A-D), and a nonvoting member if without appointment or in the process of transfer (1090:1-2); and to have these conference relations changed only after careful investigation by the district board of administration, and interview if possible ([¶1233:10](/part-3/ch3-board.md#p1233-10)).
+Be a voting member of the district conference if under appointment, retired, on reserve, on educational leave, or a member of the district board of administration ([¶317](/part-1/ch4-constitution.md#p317); [¶1083:1](/part-3/ch2-conference.md#p1083-1); [1240:1](/part-3/ch3-board.md#p1240-1):A-D), and a nonvoting member if without appointment or in the process of transfer ([1090:1-2](/part-3/ch2-conference.md#p1090-1)); and to have these conference relations changed only after careful investigation by the district board of administration, and interview if possible ([¶1233:10](/part-3/ch3-board.md#p1233-10)).
 
 ##### ¶3075:6 {#p3075-6}
 Transfer in the manner prescribed by The Discipline from one district to another, subject to the concurrence of the district superintendent over the district into which transfer is sought ([¶313:6](/part-1/ch4-constitution.md#p313-6); [¶3100:1](#p3100-1)).
@@ -346,7 +346,7 @@ Attend and participate in the annual district conference, unless excused in writ
 Be faithful in attendance, in tithe, and in participation in the ministries of a local Wesleyan church, if one is within driving distance. Exceptions to this requirement may be granted only by the approval of the district board of administration.
 
 ##### ¶3085:5 {#p3085-5}
-Voluntarily file all credentials with the district superintendent if service in one of the categories of ministry listed in ¶3250-3346 ceases for four or more consecutive years ([¶3124](#p3124)); this does not apply to those given other ministerial listings set forth in ¶3350:1; 3360; 3370.
+Voluntarily file all credentials with the district superintendent if service in one of the categories of ministry listed in [¶3250-3346](/part-6/ch3-ministerial-appointments.md#p3250) ceases for four or more consecutive years ([¶3124](#p3124)); this does not apply to those given other ministerial listings set forth in [¶3350:1](/part-6/ch3-ministerial-appointments.md#p3350-1); 3360; 3370.
 
 ##### ¶3085:6 {#p3085-6}
 Voluntarily surrender credentials if guilty of an offense which would disqualify one for service as an ordained minister (Gen. Bd. Policy on Ch. Disc. 5212; 5230-5251).
@@ -411,10 +411,10 @@ You have nothing to do but to save souls; therefore spend and be spent in this w
  Each Wesleyan minister, whether ordained, commissioned, or licensed, must be a member who meets the leadership qualifications ([¶260-268](/part-1/ch4-constitution.md#p260); [¶558](/part-2/ch2-membership.md#p558)) of a local Wesleyan church ([¶310](/part-1/ch4-constitution.md#p310)). If serving as a pastor, membership is automatically transferred to the church of service ([¶578:2](/part-2/ch2-membership.md#p578-2)). If serving in some capacity other than that of a pastor, the holding and transfer of local church membership shall occur in the same manner as a lay member. A commissioned or licensed minister must be a member of a local Wesleyan church within the district where appointed or licensed. An ordained minister may be a member of a local Wesleyan church outside the district where ministerial membership is held except when regulations governing a particular appointment or office prohibit such ([¶578:2](/part-2/ch2-membership.md#p578-2); [¶1258](/part-3/ch4-officers.md#p1258); [¶1278](/part-3/ch4-officers.md#p1278)). In recognition of the undesigned but inherent potential to create divided loyalties or undermine the strengths of new pastoral leadership, ministers should be discouraged from remaining in the congregation or community immediately following pastoral service in that place. If a minister leaves a pastoral assignment to accept appointment to another service category or to begin retirement and, for such reason as a prior home purchase and/or no other Wesleyan church in the community, feels it necessary to retain membership and worship in the church where pastoral leadership was just terminated, it is recommended that said former pastor shall not accept appointment to the local board of administration ([¶755](/part-2/ch5-local-board.md#p755)).
 
 #### ¶3100 {#p3100}
- An ordained or commissioned minister shall be a member of the district where appointed to service ([¶3059:4](#p3059-4)), and each licensed minister a member of the district which issues the license ([¶3015:3b](#p3015-3b); [¶3044:4](#p3044-4); [¶3075:5](#p3075-5)). The ordained, commissioned, or licensed minister’s district membership shall be subject to the following regulations:
+ An ordained or commissioned minister shall be a member of the district where appointed to service ([¶3059:4](#p3059-4)), and each licensed minister a member of the district which issues the license ([3015:3b](#p3015-3); [¶3044:4](#p3044-4); [¶3075:5](#p3075-5)). The ordained, commissioned, or licensed minister’s district membership shall be subject to the following regulations:
 
 ##### ¶3100:1 {#p3100-1}
-If a minister desires to accept a pastoral call from a church within the bounds of another district, or if a minister not serving as a pastor desires to transfer ministerial membership to another district, the minister must first obtain the written permission of the General Superintendent and the district superintendent over the district into which transfer is desired ([¶313:6](/part-1/ch4-constitution.md#p313-6); [¶1310:19](/part-3/ch5-administration.md#p1310-19); [¶3124](#p3124)). When such has been obtained, the minister shall ask the district superintendent for a letter of transfer (6440; [¶1310:26](/part-3/ch5-administration.md#p1310-26)) to be sent directly to the district superintendent of the district into which transfer is desired ([¶3055:3](#p3055-3)). The minister shall continue to be considered as a member of the former district until a reply has been received from the district to which application has been made stating that the minister has been duly enrolled as a member of the district conference (6450; [¶1310:26](/part-3/ch5-administration.md#p1310-26)). To avoid dual listings, ministers receiving appointment by the receiving district conference prior to completion of enrollment shall be listed in that district conference journal as an ordained, commissioned, or licensed minister Pending Completion of District Transfer (1240:1:F; 1240:2:D; 1240:3:C).
+If a minister desires to accept a pastoral call from a church within the bounds of another district, or if a minister not serving as a pastor desires to transfer ministerial membership to another district, the minister must first obtain the written permission of the General Superintendent and the district superintendent over the district into which transfer is desired ([¶313:6](/part-1/ch4-constitution.md#p313-6); [¶1310:19](/part-3/ch5-administration.md#p1310-19); [¶3124](#p3124)). When such has been obtained, the minister shall ask the district superintendent for a letter of transfer (6440; [¶1310:26](/part-3/ch5-administration.md#p1310-26)) to be sent directly to the district superintendent of the district into which transfer is desired ([¶3055:3](#p3055-3)). The minister shall continue to be considered as a member of the former district until a reply has been received from the district to which application has been made stating that the minister has been duly enrolled as a member of the district conference (6450; [¶1310:26](/part-3/ch5-administration.md#p1310-26)). To avoid dual listings, ministers receiving appointment by the receiving district conference prior to completion of enrollment shall be listed in that district conference journal as an ordained, commissioned, or licensed minister Pending Completion of District Transfer ([1240:1](/part-3/ch3-board.md#p1240-1):F; [1240:2](/part-3/ch3-board.md#p1240-2):D; [1240:3](/part-3/ch3-board.md#p1240-3):C).
 
 ##### ¶3100:2 {#p3100-2}
 In an emergency, an ordained minister may serve as supply pastor of a church located within the bounds of a district other than the one in which ministerial membership is held ([¶3260:1](/part-6/ch3-ministerial-appointments.md#p3260-1)), provided that such an arrangement has the written approval of the superintendent of each district involved ([¶1310:26](/part-3/ch5-administration.md#p1310-26)), and does not continue beyond the next session of the district conference in which membership is held without the consent of the district conference.
@@ -426,7 +426,7 @@ If a minister so requests, the district superintendent may grant a letter of sta
 If a minister joins another denomination or, in writing, declares withdrawal from the Church, said action shall immediately terminate ministerial membership in The Wesleyan Church ([¶3124](#p3124)), upon recommendation of the district superintendent to the district board of administration.
 
 ##### ¶3100:5 {#p3100-5}
-If a minister leaves for parts unknown or fails to submit the annual service report ([¶1402](/part-3/ch6-ministerial.md#p1402); [¶3059:4c](#p3059-4c); [¶3089:3](#p3089-3)), the district board of administration may recommend and the district conference may order that the minister be declared withdrawn ([¶3040](#p3040); [¶3120](#p3120); [¶3124](#p3124)).
+If a minister leaves for parts unknown or fails to submit the annual service report ([¶1402](/part-3/ch6-ministerial.md#p1402); [¶3059:4c](#p3059-4); [¶3089:3](#p3089-3)), the district board of administration may recommend and the district conference may order that the minister be declared withdrawn ([¶3040](#p3040); [¶3120](#p3120); [¶3124](#p3124)).
 
 ##### ¶3100:6 {#p3100-6}
 No letters of transfer or standing shall be granted to any minister by a district superintendent until satisfactory evidence is given by the applicant that no outstanding debts are unprovided for, and that the minister has honorably withdrawn from the contract for service with the church or district.
@@ -443,10 +443,10 @@ The applicant shall complete a written application for transfer provided by the 
 If favorable to the transfer, the district superintendent shall so recommend in writing and request approval by the General Superintendent with copies of the application, credentials, and educational records submitted by the applicant.
 
 ##### ¶3104:3 {#p3104-3}
-If approval is granted by the General Superintendent, the applicant shall be examined by the district board of ministerial development relative to Christian experience, call, and qualifications for the ministry as given in ¶3000-3006 ([¶3059:1](#p3059-1); [¶3070:4](#p3070-4)), and to the nature of ordination, commission, or license.
+If approval is granted by the General Superintendent, the applicant shall be examined by the district board of ministerial development relative to Christian experience, call, and qualifications for the ministry as given in [¶3000-3006](#p3000) ([¶3059:1](#p3059-1); [¶3070:4](#p3070-4)), and to the nature of ordination, commission, or license.
 
 ##### ¶3104:4 {#p3104-4}
-If the district board of ministerial development so recommends ([¶1390:3](/part-3/ch6-ministerial.md#p1390-3)), the district conference may appoint the applicant as an ordained minister in process of transfer ([¶1180:27a](/part-3/ch2-conference.md#p1180-27a); 1240:1:G; [¶3390](/part-6/ch3-ministerial-appointments.md#p3390); [¶3067](#p3067)), a commissioned minister in process of transfer (1240:2:E; [¶3059](#p3059); [¶3391](/part-6/ch3-ministerial-appointments.md#p3391)), or a licensed minister in process of transfer (1240:3:D; [¶3391](/part-6/ch3-ministerial-appointments.md#p3391)), which relation shall continue for one year unless the district conference shall by vote extend it. While serving under this relation, the applicant is a nonvoting member of the district conference (1090:2-3), may serve as a supply pastor ([¶3260](/part-6/ch3-ministerial-appointments.md#p3260)), and shall seek to satisfy any requirements of the district board of ministerial development in ministerial training, particularly in Wesleyan doctrine, history, and polity. If at any time the district board of administration shall determine that it is not in the best interests of the district to continue the relationship, they may by majority vote terminate the relationship and any supply assignment, and thus dismiss the applicant from all ministerial relations to The Wesleyan Church. An ordained minister in the process of transfer shall have authority to administer the sacraments and perform marriages, while serving as a supply pastor ([¶3260:2](/part-6/ch3-ministerial-appointments.md#p3260-2)).
+If the district board of ministerial development so recommends ([¶1390:3](/part-3/ch6-ministerial.md#p1390-3)), the district conference may appoint the applicant as an ordained minister in process of transfer ([¶1180:27a](/part-3/ch2-conference.md#p1180-27); [1240:1](/part-3/ch3-board.md#p1240-1):G; [¶3390](/part-6/ch3-ministerial-appointments.md#p3390); [¶3067](#p3067)), a commissioned minister in process of transfer ([1240:2](/part-3/ch3-board.md#p1240-2):E; [¶3059](#p3059); [¶3391](/part-6/ch3-ministerial-appointments.md#p3391)), or a licensed minister in process of transfer ([1240:3](/part-3/ch3-board.md#p1240-3):D; [¶3391](/part-6/ch3-ministerial-appointments.md#p3391)), which relation shall continue for one year unless the district conference shall by vote extend it. While serving under this relation, the applicant is a nonvoting member of the district conference ([1090:2-3](/part-3/ch2-conference.md#p1090-2)), may serve as a supply pastor ([¶3260](/part-6/ch3-ministerial-appointments.md#p3260)), and shall seek to satisfy any requirements of the district board of ministerial development in ministerial training, particularly in Wesleyan doctrine, history, and polity. If at any time the district board of administration shall determine that it is not in the best interests of the district to continue the relationship, they may by majority vote terminate the relationship and any supply assignment, and thus dismiss the applicant from all ministerial relations to The Wesleyan Church. An ordained minister in the process of transfer shall have authority to administer the sacraments and perform marriages, while serving as a supply pastor ([¶3260:2](/part-6/ch3-ministerial-appointments.md#p3260-2)).
 
 ##### ¶3104:5 {#p3104-5}
 If the year of service is satisfactory and all requirements in ministerial training have been met, the district board of ministerial development may recommend to the district conference that the applicant be recognized as an ordained minister or commissioned or licensed minister of The Wesleyan Church and be received as a ministerial member of the district ([¶1390:3](/part-3/ch6-ministerial.md#p1390-3)). If the transferring minister has not previously joined a local Wesleyan church within the district, this must be done prior to the vote by the district conference receiving the applicant as a ministerial member of the district. If an ordained minister in process of transfer faces extensive additional academic requirements, and age or other extenuating circumstances make it doubtful to the applicant and the district board of ministerial development that such requirements can be met, the district board of ministerial development may authorize the applicant to qualify for commissioned minister’s status and proceed accordingly ([¶3059](#p3059)).
@@ -457,10 +457,10 @@ When an ordained minister or commissioned minister has been received, a proper c
 ### 4. Minister and Marriage
 
 #### ¶3108 {#p3108}
- Any minister who enters into a marriage relationship contrary to the Scriptures and to those expositions of Scripture as set forth in the Guides to Helps and Holy Living (265:5-7; 410:5-6), after having been ordained, commissioned, or licensed, shall be dismissed from ministerial standing, provided that guilt shall be established in accord with the judicial processes (*Gen. Bd. Policy on Ch. Disc.* ¶5206-5212).
+ Any minister who enters into a marriage relationship contrary to the Scriptures and to those expositions of Scripture as set forth in the Guides to Helps and Holy Living ([265:5-7](/part-1/ch4-constitution.md#p265-5); [410:5-6](/part-1/ch5-special-directions.md#p410-5)), after having been ordained, commissioned, or licensed, shall be dismissed from ministerial standing, provided that guilt shall be established in accord with the judicial processes (*Gen. Bd. Policy on Ch. Disc.* ¶5206-5212).
 
 #### ¶3111 {#p3111}
- In performing marriages, Wesleyan ministers shall not unite in marriage any person who is divorced, unless such divorce and remarriage is in keeping with the Scriptures and the Guides to Helps and Holy Living (265:5-7). In carrying out this duty, the minister shall be guided by the principles set forth in ¶410:6.
+ In performing marriages, Wesleyan ministers shall not unite in marriage any person who is divorced, unless such divorce and remarriage is in keeping with the Scriptures and the Guides to Helps and Holy Living ([265:5-7](/part-1/ch4-constitution.md#p265-5)). In carrying out this duty, the minister shall be guided by the principles set forth in [¶410:6](/part-1/ch5-special-directions.md#p410-6).
 
 #### ¶3112 {#p3112}
  In performing marriages, Wesleyan ministers shall not unite in marriage persons of the same gender.
@@ -479,4 +479,4 @@ When an ordained minister or commissioned minister has been received, a proper c
  If a licensed minister or ministerial student ceases to be licensed or is declared withdrawn from the district conference, and was neither under charges nor under discipline, the minister may at a later time again be recommended by the local church conference and qualify for and be granted a district license.
 
 #### ¶3124 {#p3124}
- An ordained minister or commissioned minister who has voluntarily filed credentials with the district superintendent ([¶3059:3c](#p3059-3c); [¶3085:5](#p3085-5)), or who has taken a letter of standing and has not used the same within the prescribed time ([¶3100:3](#p3100-3)), or who has been declared withdrawn when neither under charges nor under discipline ([¶3059:4c](#p3059-4c); [¶3089:3](#p3089-3); [¶3100:4](#p3100-4); [¶3117](#p3117); *Gen. Bd. Policy on Ch. Disc.* ¶5380), may be reinstated in the office of an ordained minister or commissioned minister in The Wesleyan Church, if such is approved by the district board of ministerial development and district board of administration of the district in which ministerial membership is sought and the district board of administration of the district in which credentials were previously held, and if such reinstatement is approved by the General Superintendent.
+ An ordained minister or commissioned minister who has voluntarily filed credentials with the district superintendent ([3059:3c](#p3059-3); [¶3085:5](#p3085-5)), or who has taken a letter of standing and has not used the same within the prescribed time ([¶3100:3](#p3100-3)), or who has been declared withdrawn when neither under charges nor under discipline ([3059:4c](#p3059-4); [¶3089:3](#p3089-3); [¶3100:4](#p3100-4); [¶3117](#p3117); *Gen. Bd. Policy on Ch. Disc.* ¶5380), may be reinstated in the office of an ordained minister or commissioned minister in The Wesleyan Church, if such is approved by the district board of ministerial development and district board of administration of the district in which ministerial membership is sought and the district board of administration of the district in which credentials were previously held, and if such reinstatement is approved by the General Superintendent.

@@ -63,7 +63,7 @@ Sunday school superintendent or spiritual formation director (if any)
 ### 1. Membership
 
 #### ¶553 {#p553}
- Persons to be admitted to membership in The Wesleyan Church shall be those who meet the conditions set forth in the Constitution (297:1-4).
+ Persons to be admitted to membership in The Wesleyan Church shall be those who meet the conditions set forth in the Constitution ([297:1-4](/part-1/ch4-constitution.md#p297-1)).
 
 ##### ¶553.1 {#p553-1}
 Candidates for membership shall be examined by the local board of administration ([¶782:8](/part-2/ch5-local-board.md#p782-8); 835-837), to determine whether they meet the requirements of the Constitution concerning their experience of regeneration, Christian baptism, their willingness to be instructed in and acceptance of the Articles of Religion, Elementary Principles, and the authority of The Discipline in matters of church government, and their willingness to enter into a membership and discipleship relationship with The Wesleyan Church through the local church.
@@ -75,7 +75,7 @@ Candidates for membership who have satisfactorily passed the examination by the 
 Candidates for membership will be asked to affirm their commitment to their experience of regeneration, Christian baptism, their acceptance of the Articles of Religion, Elementary Principles, and the authority of The Wesleyan Church in matters of church government, and their willingness to continue a membership and discipleship accountability relationship with The Wesleyan Church.
 
 ##### ¶553.4 {#p553-4}
-Persons who have been duly accepted for membership as explained in ¶553:2, should be received into membership in a public service, in which they shall make their confession and vows public, ([¶5565](/part-10/ch2-reception.md#p5565)), and be given the right hand of fellowship by the pastor or the representative of the pastor.
+Persons who have been duly accepted for membership as explained in [¶553:2](#p553-2), should be received into membership in a public service, in which they shall make their confession and vows public, ([¶5565](/part-10/ch2-reception.md#p5565)), and be given the right hand of fellowship by the pastor or the representative of the pastor.
 
 #### ¶555 {#p555}
  The rights of membership are set forth in the Constitution ([¶302](/part-1/ch4-constitution.md#p302)). The judicial process for dealing with any member charged with failure to uphold the Articles of Religion are located in the Judiciary section of *The Discipline* ([¶5000-5004](/part-8/ch1-general-principles.md#p5000)) and in the *General Board Policy on Church Discipline and Ministerial Restoration*.
@@ -84,7 +84,7 @@ Persons who have been duly accepted for membership as explained in ¶553:2, shou
  The Membership Commitments ([¶260-268](/part-1/ch4-constitution.md#p260)) are the biblically-based convictions historically held by The Wesleyan Church, which all members are encouraged to prayerfully consider and embrace.
 
 #### ¶558 Leadership Qualifications. {#p558}
- All those serving in elected or credentialed office in The Wesleyan Church shall be required to follow carefully and conscientiously the Guides and Helps to Holy Living found in paragraphs ¶260-268.
+ All those serving in elected or credentialed office in The Wesleyan Church shall be required to follow carefully and conscientiously the Guides and Helps to Holy Living found in paragraphs [¶260-268](/part-1/ch4-constitution.md#p260).
 
 ### 2. Student Membership
 
@@ -92,7 +92,7 @@ Persons who have been duly accepted for membership as explained in ¶553:2, shou
  Those children and youth who have testified to the experience of regeneration may be received as student members immediately after their conversion and baptism. The local board of administration, having provided for their examination concerning their relationship with Christ and their intention to develop toward spiritual maturity, may receive them by majority vote. Student members should be received formally in a public ceremony led by the pastor or staff pastor. The local church shall provide a program that will guide student members toward spiritual maturity and an understanding of the importance, privileges, and commitments of membership.
 
 #### ¶565 {#p565}
- Student members shall have all the rights of adult-level members except to vote and hold office. They may become adult-level members at any time the local board of administration deems they are qualified, and should be received as given in ¶553. If student members are not qualified for adult-level membership by their sixteenth birthday, every effort shall be made by the pastor and local board of administration during the following year to prepare them for adult-level membership. When they are twenty-one years of age, they must either become adult-level members or be dropped from the student membership list ([¶782:9](/part-2/ch5-local-board.md#p782-9)). Student members who desire to become adult-level members shall be received as given in ¶553.
+ Student members shall have all the rights of adult-level members except to vote and hold office. They may become adult-level members at any time the local board of administration deems they are qualified, and should be received as given in [¶553](#p553). If student members are not qualified for adult-level membership by their sixteenth birthday, every effort shall be made by the pastor and local board of administration during the following year to prepare them for adult-level membership. When they are twenty-one years of age, they must either become adult-level members or be dropped from the student membership list ([¶782:9](/part-2/ch5-local-board.md#p782-9)). Student members who desire to become adult-level members shall be received as given in [¶553](#p553).
 
 ## C. Reception of Members
 
@@ -111,7 +111,7 @@ Persons who have been duly accepted for membership as explained in ¶553:2, shou
 ## D. Transfer of Membership
 
 #### ¶575 {#p575}
- When any member shall request a letter of transfer to another Wesleyan church, the pastor and local church secretary shall grant it on the proper form as given in ¶6000–6020 providing the member is neither under discipline nor under charges. Both pastor and secretary shall sign the letter, and shall forward it to the pastor and local church secretary of the church to which the member is transferring. The letter shall be presented to the local board of administration of the receiving church at its next session, but not later than thirty days from the date of issuance, and acted upon in the manner indicated in ¶578. When the member has been duly received, the second part of the form shall be completed by the receiving church and forwarded to the church granting the transfer. The date the returned letter is received shall mark the expiration of membership in the church granting the letter, and in the official membership record the local church secretary shall enter opposite the member’s name: the date and "Withdrawn by letter of transfer."
+ When any member shall request a letter of transfer to another Wesleyan church, the pastor and local church secretary shall grant it on the proper form as given in ¶6000–6020 providing the member is neither under discipline nor under charges. Both pastor and secretary shall sign the letter, and shall forward it to the pastor and local church secretary of the church to which the member is transferring. The letter shall be presented to the local board of administration of the receiving church at its next session, but not later than thirty days from the date of issuance, and acted upon in the manner indicated in [¶578](#p578). When the member has been duly received, the second part of the form shall be completed by the receiving church and forwarded to the church granting the transfer. The date the returned letter is received shall mark the expiration of membership in the church granting the letter, and in the official membership record the local church secretary shall enter opposite the member’s name: the date and "Withdrawn by letter of transfer."
 
 #### ¶578 {#p578}
  The receiving church shall handle transfers as follows:
@@ -134,7 +134,7 @@ The membership of a pastor, senior pastor, associate pastor, or assistant pastor
  Membership in The Wesleyan Church may be terminated only by one or more of the following ([¶305](/part-1/ch4-constitution.md#p305)):
 
 ##### ¶585.1 {#p585-1}
-Voluntary withdrawal (see also 553:3).
+Voluntary withdrawal (see also [553:3](#p553-3)).
 
 ##### ¶585.2 {#p585-2}
 Joining another religious body or joining a secret order.
@@ -143,7 +143,7 @@ Joining another religious body or joining a secret order.
 Expulsion after proper hearing and conviction (Gen. Bd. Policy on Ch. Disc. 5023:5).
 
 ##### ¶585.4 {#p585-4}
-Persistent neglect of church relationship as defined in ¶600-605.
+Persistent neglect of church relationship as defined in [¶600-605](#p600).
 
 ##### ¶585.5 {#p585-5}
 Death.
@@ -173,4 +173,4 @@ delegated full responsibility in such matters to the local board of administrati
 ## F. Record of Membership
 
 #### ¶610 {#p610}
- Each local church shall have a permanent record maintained by the local church secretary, in which shall be recorded all the names of the members, category of membership, the time when received and whether by confession of faith or by letter of transfer, the time and manner of termination of membership according to the list in ¶605, or by death; and all dedications, baptisms, marriages, pastoral terms, and other information essential to a permanent written record of the life and ministry of the local church.
+ Each local church shall have a permanent record maintained by the local church secretary, in which shall be recorded all the names of the members, category of membership, the time when received and whether by confession of faith or by letter of transfer, the time and manner of termination of membership according to the list in [¶605](#p605), or by death; and all dedications, baptisms, marriages, pastoral terms, and other information essential to a permanent written record of the life and ministry of the local church.

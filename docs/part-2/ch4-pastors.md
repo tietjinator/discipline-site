@@ -7,7 +7,7 @@
 
 #### ¶678 {#p678}
  A minister who serves as the sole pastor of a church shall be referred to simply as “the pastor.” The term “senior pastor” shall be applied to the presiding
-minister of a multiple pastoral staff. The pastor shall be expected to carry out the full pastoral function as set forth in ¶675, and ultimate responsibility for the same shall rest upon the presiding pastor. An assistant pastor is a helping member of a multiple staff who normally is assigned more limited and specific aspects of the pastoral function ([¶741](#p741)).
+minister of a multiple pastoral staff. The pastor shall be expected to carry out the full pastoral function as set forth in [¶675](#p675), and ultimate responsibility for the same shall rest upon the presiding pastor. An assistant pastor is a helping member of a multiple staff who normally is assigned more limited and specific aspects of the pastoral function ([¶741](#p741)).
 
 ## B. Manner of Pastoral Voting
 
@@ -138,7 +138,7 @@ The district board of administration may, by a majority vote, order the district
  The pastor’s cash salary and other benefits, including health insurance and employer contributions for The Wesleyan Pension Fund Inc (WPF), shall be reviewed annually by the local board of administration prior to the annual session of the local church conference, whether or not a vote is being taken on the securing or retaining of a pastor. Proper health insurance coverage should be provided by the local church for pastor and family except in cases in which they have adequate coverage through other employment of pastor and/or spouse, or in the case of pastors serving in Canada, through the national health program and district supplemental insurance programs. Full participation in The Wesleyan Pension Fund Inc by the local church on behalf of all pastors is expected in the plan of support of all pastors. The obligation, responsibility, and liability for both health insurance premiums and employer contributions to WPF belong solely to the local church. The district and General Church have no obligation, responsibility, nor liability for these matters, either expressed or implied. A report of the final action on the pastor’s support shall be sent by the local board of administration in writing to the pastor (or pastor-elect, [¶691:2](#p691-2)) and the district superintendent ([¶746](#p746)).
 
 #### ¶724 Sabbatical for Pastors. {#p724}
- Every Wesleyan church is encouraged to provide a sabbatical leave for its pastor(s) at least every seven years of service. A sabbatical shall be for a minimum of four weeks in excess of vacation time with financial provisions as approved by the local board of administration. ([¶723](#p723), ¶746.)
+ Every Wesleyan church is encouraged to provide a sabbatical leave for its pastor(s) at least every seven years of service. A sabbatical shall be for a minimum of four weeks in excess of vacation time with financial provisions as approved by the local board of administration. ([¶723](#p723), [¶746](#p746).)
 
 ## D. Duties and Powers
 
@@ -163,10 +163,10 @@ Feed the flock by reading, expounding, teaching, and preaching the Word.
 Have the general guidance, under the Holy Spirit, of the religious services and cultivate the practice of corporate worship.
 
 ##### ¶725:6 {#p725-6}
-Administer, if an ordained ([¶313:1](/part-1/ch4-constitution.md#p313-1)), commissioned ([¶3059:2a](/part-6/ch1-ministerial-orders.md#p3059-2a)), or licensed minister ([¶3044:1](/part-6/ch1-ministerial-orders.md#p3044-1)), the sacraments of baptism and the Lord’s Supper. Each pastor is encouraged to provide for the observance of the Lord’s Supper at least once each month, but is required to do so at least once every three months ([¶293](/part-1/ch4-constitution.md#p293)). A supply pastor shall secure the services of an ordained ([¶313:1](/part-1/ch4-constitution.md#p313-1)), commissioned ([¶3059:2](/part-6/ch1-ministerial-orders.md#p3059-2)), or licensed minister ([¶3044:1](/part-6/ch1-ministerial-orders.md#p3044-1)) who is a pastor, for such observance ([¶3260:2](/part-6/ch3-ministerial-appointments.md#p3260-2)), except when authorization has been granted by a district superintendent as provided in ¶3260:2.
+Administer, if an ordained ([¶313:1](/part-1/ch4-constitution.md#p313-1)), commissioned ([¶3059:2a](/part-6/ch1-ministerial-orders.md#p3059-2)), or licensed minister ([¶3044:1](/part-6/ch1-ministerial-orders.md#p3044-1)), the sacraments of baptism and the Lord’s Supper. Each pastor is encouraged to provide for the observance of the Lord’s Supper at least once each month, but is required to do so at least once every three months ([¶293](/part-1/ch4-constitution.md#p293)). A supply pastor shall secure the services of an ordained ([¶313:1](/part-1/ch4-constitution.md#p313-1)), commissioned ([¶3059:2](/part-6/ch1-ministerial-orders.md#p3059-2)), or licensed minister ([¶3044:1](/part-6/ch1-ministerial-orders.md#p3044-1)) who is a pastor, for such observance ([¶3260:2](/part-6/ch3-ministerial-appointments.md#p3260-2)), except when authorization has been granted by a district superintendent as provided in [¶3260:2](/part-6/ch3-ministerial-appointments.md#p3260-2).
 
 ##### ¶725:7 {#p725-7}
-Solemnize, if an ordained ([¶313:1](/part-1/ch4-constitution.md#p313-1)), commissioned ([¶3059:2a](/part-6/ch1-ministerial-orders.md#p3059-2a)), or licensed minister ([¶3044:1](/part-6/ch1-ministerial-orders.md#p3044-1)), the rite of matrimony, in keeping with the Scriptures and The Discipline ([¶265:6](/part-1/ch4-constitution.md#p265-6); [¶3111-3112](/part-6/ch1-ministerial-orders.md#p3111)); to counsel with those being married and those already married, emphasizing the spiritual values in all phases of marital and parental life, seeking to develop the spiritual ideals and resources necessary to build permanent unions and godly homes ([¶410:6](/part-1/ch5-special-directions.md#p410-6)).
+Solemnize, if an ordained ([¶313:1](/part-1/ch4-constitution.md#p313-1)), commissioned ([¶3059:2a](/part-6/ch1-ministerial-orders.md#p3059-2)), or licensed minister ([¶3044:1](/part-6/ch1-ministerial-orders.md#p3044-1)), the rite of matrimony, in keeping with the Scriptures and The Discipline ([¶265:6](/part-1/ch4-constitution.md#p265-6); [¶3111-3112](/part-6/ch1-ministerial-orders.md#p3111)); to counsel with those being married and those already married, emphasizing the spiritual values in all phases of marital and parental life, seeking to develop the spiritual ideals and resources necessary to build permanent unions and godly homes ([¶410:6](/part-1/ch5-special-directions.md#p410-6)).
 
 ##### ¶725:8 {#p725-8}
 Comfort the bereaved and to bury the dead.
@@ -181,7 +181,7 @@ Keep all members fully conversant with the Christian lifestyle set forth in the 
 Be responsible for the instruction of all prospective members in the Articles of Religion, Guides and Helps to Holy Living, and polity of The Wesleyan Church, and in the meaning and purpose of church membership, holding or arranging for membership classes for all members ([¶566-570](/part-2/ch2-membership.md#p566); 782:8.
 
 ##### ¶725:12 {#p725-12}
-Administer the ritual of membership and to give the right hand of fellowship on behalf of the church to new members (553:4; [¶5550-5595](/part-10/ch2-reception.md#p5550)).
+Administer the ritual of membership and to give the right hand of fellowship on behalf of the church to new members ([553:4](/part-2/ch2-membership.md#p553-4); [¶5550-5595](/part-10/ch2-reception.md#p5550)).
 
 ##### ¶725:13 {#p725-13}
 Grant, in conjunction with the local church secretary, letters of transfer, recommendation, or withdrawal ([¶575](/part-2/ch2-membership.md#p575); [¶590](/part-2/ch2-membership.md#p590); [¶592](/part-2/ch2-membership.md#p592); 6000–6040).
@@ -213,10 +213,10 @@ Promote stewardship, emphasizing tithing and the storehouse plan as a part of th
 See that all church property is properly secured according to The Discipline and the local laws, with all legal papers submitted to the district superintendent for approval.
 
 ##### ¶725:22 {#p725-22}
-See that no steps are taken involving the church in financial liability without proper authorization from the local board of administration and local church conference, or without the approval of the district board of administration when such financial liability involves the mortgaging or other encumbering of the church property ([¶655:11](/part-2/ch3-conference.md#p655-11); 782:28–32; [¶1233:30](/part-3/ch3-board.md#p1233-30)).
+See that no steps are taken involving the church in financial liability without proper authorization from the local board of administration and local church conference, or without the approval of the district board of administration when such financial liability involves the mortgaging or other encumbering of the church property ([¶655:11](/part-2/ch3-conference.md#p655-11); [782:28–32](/part-2/ch5-local-board.md#p782-28); [¶1233:30](/part-3/ch3-board.md#p1233-30)).
 
 ##### ¶725:23 {#p725-23}
-See that all property and building transactions are carried out as set forth in ¶4700–4728.
+See that all property and building transactions are carried out as set forth in [¶4700–4728](/part-8/ch2-local-church-property.md#p4700).
 
 ##### ¶725:24 {#p725-24}
 Circulate holiness literature.
@@ -245,7 +245,7 @@ Attend district conference sessions, and to participate in the life and work of 
 ## E. Pastoral Staff
 
 #### ¶735 Pastor/Senior Pastor. {#p735}
- An ordained, commissioned, or licensed minister who is called of God and appointed by the Church to serve as sole pastor of a church shall be referred to simply as “the pastor.” The term “senior pastor” is applied to the presiding minister in a multiple pastoral staff who bears ultimate responsibility for carrying out the function set forth in ¶675.
+ An ordained, commissioned, or licensed minister who is called of God and appointed by the Church to serve as sole pastor of a church shall be referred to simply as “the pastor.” The term “senior pastor” is applied to the presiding minister in a multiple pastoral staff who bears ultimate responsibility for carrying out the function set forth in [¶675](#p675).
 
 #### ¶738 Clergy Couple. {#p738}
  If a clergy couple is appointed to the pastoral staff, only one shall be designated as senior pastor, unless the local church conference

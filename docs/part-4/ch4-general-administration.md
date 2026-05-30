@@ -13,7 +13,7 @@
  The General Superintendent is elected from among the ordained ministers of The Wesleyan Church by the General Conference as a general official of the Church ([¶325](/part-1/ch4-constitution.md#p325); [¶350:1](/part-1/ch4-constitution.md#p350-1); [¶1590:15](/part-4/ch1-general-conference.md#p1590-15)), and is an ex officio member of the General Conference ([¶1503:1c](/part-4/ch1-general-conference.md#p1503-1c)), the General Board ([¶1605:1](/part-4/ch2-general-board.md#p1605-1)), the Executive Board ([¶1755](/part-4/ch2-general-board.md#p1755)), and the Executive Cabinet ([¶1990](#p1990)).
 
 #### ¶1909 {#p1909}
- The term of service, amenability, and other regulations for the General Superintendent are those set forth for a general official in paragraphs ¶1800-1870.
+ The term of service, amenability, and other regulations for the General Superintendent are those set forth for a general official in paragraphs [¶1800-1870](/part-4/ch3-general-officials.md#p1800).
 
 ### 3. Duties of the General Superintendent
 
@@ -49,7 +49,7 @@ Judicial Supervision
  The General Treasurer/Chief Financial Officer has custody of the General Church funds and accounting records and is responsible for assigned fiscal management.
 
 #### ¶1976 Duties. {#p1976}
- The General Treasurer/Chief Financial Officer is elected by the General Board as a general official ([¶1800:2](/part-4/ch3-general-officials.md#p1800-2)), is an ex officio member of the General Conference ([¶1503:1c](/part-4/ch1-general-conference.md#p1503-1c)) and the Executive Cabinet, and serves as the chief financial officer for The Wesleyan Church Corporation ([¶1800:2](/part-4/ch3-general-officials.md#p1800-2); [¶4220](/part-7/ch3-twc-corporation.md#p4220)). The General Treasurer/Chief Financial Officer is amenable to the General Board, serves as a nonvoting resource person to the board, and is under the supervision of the General Superintendent ([¶1935](#p1935)). The General Treasurer/Chief Financial Officer shall exercise leadership in this office in keeping with *The Discipline*, the *General Board Policy for the General Treasurer/Chief Financial Officer*, and other directives as may be given by the General Conference, the General Board, or its Executive Board. The term of service and other regulations for this office are provided for in ¶1810-1870.
+ The General Treasurer/Chief Financial Officer is elected by the General Board as a general official ([¶1800:2](/part-4/ch3-general-officials.md#p1800-2)), is an ex officio member of the General Conference ([¶1503:1c](/part-4/ch1-general-conference.md#p1503-1c)) and the Executive Cabinet, and serves as the chief financial officer for The Wesleyan Church Corporation ([¶1800:2](/part-4/ch3-general-officials.md#p1800-2); [¶4220](/part-7/ch3-twc-corporation.md#p4220)). The General Treasurer/Chief Financial Officer is amenable to the General Board, serves as a nonvoting resource person to the board, and is under the supervision of the General Superintendent ([¶1935](#p1935)). The General Treasurer/Chief Financial Officer shall exercise leadership in this office in keeping with *The Discipline*, the *General Board Policy for the General Treasurer/Chief Financial Officer*, and other directives as may be given by the General Conference, the General Board, or its Executive Board. The term of service and other regulations for this office are provided for in [¶1810-1870](/part-4/ch3-general-officials.md#p1810).
 
 ## C. Executive Cabinet
 
@@ -67,10 +67,10 @@ Judicial Supervision
  The financial plan for the General Church shall consist of the United Stewardship Fund, special offerings, and planned gifts:
 
 ##### ¶1995:1 {#p1995-1}
-shall be established and administered as set forth in ¶2000 through 2045.
+shall be established and administered as set forth in [¶2000](#p2000) through 2045.
 
 ##### ¶1995:2 {#p1995-2}
-shall be authorized and administered as set forth in ¶2050 and may be authorized by the General Conference or the General Board.
+shall be authorized and administered as set forth in [¶2050](#p2050) and may be authorized by the General Conference or the General Board.
 
 ##### ¶1995:3 {#p1995-3}
 shall be promoted through the General Superintendent’s office and the funds shall be administered by the General Treasurer.
@@ -86,7 +86,7 @@ shall be promoted through the General Superintendent’s office and the funds sh
 , which shall provide support for General Church administration, general benevolent institutions, ministerial training, and other General Church ministries.
 
 ##### ¶2000:2 {#p2000-2}
-, which shall provide support for the approved general educational institutions as listed in ¶2365 and in a manner as set forth in ¶2040 ([¶2377](/part-4/ch8-education-clergy.md#p2377)).
+, which shall provide support for the approved general educational institutions as listed in [¶2365](/part-4/ch8-education-clergy.md#p2365) and in a manner as set forth in [¶2040](#p2040) ([¶2377](/part-4/ch8-education-clergy.md#p2377)).
 
 ##### ¶2000:3 {#p2000-3}
 , which shall provide continuing support for the planting of new churches, including the development of the leaders needed to serve in the new churches. The implementation of this fund shall be according to the General Board Policy for the Church Multiplication Fund. These funds shall be designated for church multiplication in accordance with this policy, which allows for the discretion of the district where the funds were given.
@@ -102,7 +102,7 @@ shall be promoted through the General Superintendent’s office and the funds sh
 ##### ¶2005:2 Fund Allocations. {#p2005-2}
 
 ###### ¶2005:2a {#p2005-2a}
-The percentages for determining the General Fund, the Education Fund, and the Church Multiplication Fund shall be fixed by the General Conference ([¶1590:8](/part-4/ch1-general-conference.md#p1590-8)). The percentage in each case shall be applied to the assessable income as defined in ¶2005:1 except as provided for in ¶2005:3, 4.
+The percentages for determining the General Fund, the Education Fund, and the Church Multiplication Fund shall be fixed by the General Conference ([¶1590:8](/part-4/ch1-general-conference.md#p1590-8)). The percentage in each case shall be applied to the assessable income as defined in [¶2005:1](#p2005-1) except as provided for in [¶2005:3](#p2005-3), 4.
 
 ###### ¶2005:2b {#p2005-2b}
 In the event of an emergency during the interim of General Conference sessions, the General Board may alter the percentages of the General Fund by a two-thirds majority vote of all its members ([¶1655:23](/part-4/ch2-general-board.md#p1655-23)).
@@ -110,7 +110,7 @@ In the event of an emergency during the interim of General Conference sessions, 
 ##### ¶2005:3 Limits for Capped Churches. {#p2005-3}
 
 ###### ¶2005:3a Assessment Limits and Maximum. {#p2005-3a}
- By Conference Year 2026, all churches shall be subject to full assessment on all assessable income up to $550,000. Above that level, there shall be a graduated reduction in the percentage applied. For that portion of a church’s assessable income between $550,000 and $1,100,000, there shall be a reduction of one in the total percentage divided proportionately between the General Fund, the Church Multiplication Fund, and the Education Fund. For that portion between $1,100,000 and $2,200,000, there shall be a reduction of two in the total percentage divided proportionately between the three funds. The percentage in each case shall be applied to the same base income as defined in ¶2005:1 subject to the exceptions set forth in ¶2005:4a, b.
+ By Conference Year 2026, all churches shall be subject to full assessment on all assessable income up to $550,000. Above that level, there shall be a graduated reduction in the percentage applied. For that portion of a church’s assessable income between $550,000 and $1,100,000, there shall be a reduction of one in the total percentage divided proportionately between the General Fund, the Church Multiplication Fund, and the Education Fund. For that portion between $1,100,000 and $2,200,000, there shall be a reduction of two in the total percentage divided proportionately between the three funds. The percentage in each case shall be applied to the same base income as defined in [¶2005:1](#p2005-1) subject to the exceptions set forth in [¶2005:4a](#p2005-4a), b.
 
 ###### ¶2005:3b Annual Rate. {#p2005-3b}
  The General Board shall set and publish the annual rate for capped churches based on the increase or decrease of consumer price indices for the previous year or 3 percent, whichever is less.
@@ -128,7 +128,7 @@ In the event of an emergency during the interim of General Conference sessions, 
   Each district and developing district, with the exception of the work under the Global Partners Division, shall be responsible to raise its share of the United Stewardship Fund, including the General Fund, the Education Fund, and the Church Multiplication Fund in accordance with the following regulations:
 
 ##### ¶2015:1 {#p2015-1}
-The obligation of a district or developing district shall be an amount equal to the designated percentage of the total base income, as defined in 2005:1-2, of all developing churches and churches of the district, subject to such exceptions and adjustments as are indicated in ¶2005:3. When this amount has been paid in full to the General Treasurer/Chief Financial Officer, for the General Fund, the Education Fund, and designated monies set aside in the district Church Multiplication Fund a district has met its obligation to the United Stewardship Fund. The computations for the district obligation shall be based on the financial reports of the local churches as compiled by the district statistical committee ([¶1337:6](/part-3/ch5-administration.md#p1337-6)) prior to the annual district conference.
+The obligation of a district or developing district shall be an amount equal to the designated percentage of the total base income, as defined in 2005:1-2, of all developing churches and churches of the district, subject to such exceptions and adjustments as are indicated in [¶2005:3](#p2005-3). When this amount has been paid in full to the General Treasurer/Chief Financial Officer, for the General Fund, the Education Fund, and designated monies set aside in the district Church Multiplication Fund a district has met its obligation to the United Stewardship Fund. The computations for the district obligation shall be based on the financial reports of the local churches as compiled by the district statistical committee ([¶1337:6](/part-3/ch5-administration.md#p1337-6)) prior to the annual district conference.
 
 ##### ¶2015:2 {#p2015-2}
 The district conference shall apportion its total obligation among the local churches under its jurisdiction by assigning an amount to each as its share of the General Fund, the Education Fund, and the Church Multiplication Fund respectively, under whatever plan the district conference shall adopt after receiving a recommendation from the district board of administration ([¶1233:11](/part-3/ch3-board.md#p1233-11); [¶1337:6](/part-3/ch5-administration.md#p1337-6)). Each local church shall be promptly notified of the amount assigned by the district by the person appointed by the district superintendent. The district treasurer shall promptly notify the General Treasurer/Chief Financial Officer of the district obligation on forms provided by the General Treasurer/Chief Financial Officer ([¶1337:6](/part-3/ch5-administration.md#p1337-6)).
@@ -160,7 +160,7 @@ The apportioning of the General Fund among the designated beneficiaries ([¶2035
 The beneficiaries receiving support from the Education Fund shall include the educational institutions ([¶2365](/part-4/ch8-education-clergy.md#p2365)); approved programs for subsidizing ministerial training; the Wesleyan Seminary Foundation ([¶2382](/part-4/ch8-education-clergy.md#p2382)); and the Ministerial Study Course Agency ([¶2385-2388](/part-4/ch8-education-clergy.md#p2385)).
 
 ##### ¶2040:2 {#p2040-2}
-The General Board shall determine the apportionment of the Education Fund among the beneficiaries listed in ¶2040:1.
+The General Board shall determine the apportionment of the Education Fund among the beneficiaries listed in [¶2040:1](#p2040-1).
 
 #### ¶2045 {#p2045}
  The General Superintendent’s office shall promote the raising of the United Stewardship Fund. The General Treasurer/Chief Financial Officer shall cooperate with the General Superintendent’s office in such promotion and shall administer the USF funds as provided for in *The Discipline* and as directed by the General Board ([¶1976](#p1976)).
@@ -231,4 +231,4 @@ The General Conference shall elect by majority vote the members of the General B
 Members of the General Board of Review shall recuse themselves in the case of conflict of interest. Whenever a member is disqualified, the chair shall appoint an alternate for the hearing of that particular case (*Gen. Bd. Policy on Ch. Disc.* ¶5405), provided that such appointment shall maintain the membership of the Board as five ordained ministers and four lay members who meet the leadership qualifications.
 
 #### ¶2075 {#p2075}
-  The General Conference shall elect, in the same manner described in ¶2070:3, four ordained ministers and three lay members who meet the leadership qualifications ([¶260-268](/part-1/ch4-constitution.md#p260); [¶558](/part-2/ch2-membership.md#p558)) to serve as alternate members of the General Board of Review, with the same qualifications ([¶2070:2](#p2070-2)) and term of office ([¶2070:1](#p2070-1)) as the members ([¶1590:18](/part-4/ch1-general-conference.md#p1590-18)). (Duties, powers, and procedures of the General Board of Review are located in the *General Board Policy for Church Discipline and Ministerial Restoration*.)
+  The General Conference shall elect, in the same manner described in [¶2070:3](#p2070-3), four ordained ministers and three lay members who meet the leadership qualifications ([¶260-268](/part-1/ch4-constitution.md#p260); [¶558](/part-2/ch2-membership.md#p558)) to serve as alternate members of the General Board of Review, with the same qualifications ([¶2070:2](#p2070-2)) and term of office ([¶2070:1](#p2070-1)) as the members ([¶1590:18](/part-4/ch1-general-conference.md#p1590-18)). (Duties, powers, and procedures of the General Board of Review are located in the *General Board Policy for Church Discipline and Ministerial Restoration*.)

@@ -176,7 +176,7 @@ _______________________
 
 ^(*Insert the proper term, namely ministerial student, licensed minister or licensed special worker. If licensed special worker, add the particular type of service, such as licensed special worker—director of music, director of spiritual formation, youth director, song evangelist, children’s worker, spouse in ministry, lay evangelist or social worker.)^
 
-**6430. Pocket Certificate of Standing** ([¶3015:5b](/part-6/ch1-ministerial-orders.md#p3015-5b); [¶3055:2](/part-6/ch1-ministerial-orders.md#p3055-2); [¶3059:4b](/part-6/ch1-ministerial-orders.md#p3059-4b); [¶3089:2](/part-6/ch1-ministerial-orders.md#p3089-2)).
+**6430. Pocket Certificate of Standing** ([3015:5b](/part-6/ch1-ministerial-orders.md#p3015-5); [¶3055:2](/part-6/ch1-ministerial-orders.md#p3055-2); [3059:4b](/part-6/ch1-ministerial-orders.md#p3059-4); [¶3089:2](/part-6/ch1-ministerial-orders.md#p3089-2)).
 
 This certifies that ____________________ was, on this ______ day of ___________, AD _________, a(n) ____________* in good standing of the ________________ District of The Wesleyan Church.
 

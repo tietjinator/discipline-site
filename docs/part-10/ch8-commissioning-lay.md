@@ -5,7 +5,7 @@
 
 #### ¶5855 {#p5855}
 
-*(This ritual is adaptable for use in commissioning any type of lay worker, including special workers, such as director of music, director of spiritual formation, youth director, song evangelist, children’s worker, spouse in ministry; including lay missionaries, such as doctors, nurses, teachers, spouses of ordained missionaries, office workers; and including any other lay worker commissioned by a district conference. In each case, the presiding minister (¶3091; [¶5850](#p5850)) and others helping in the commissioning service [cf. ¶1405; ¶1935; ¶3470; ¶3490] shall insert the title of the commission being granted in the blanks, and make such other adaptations or modifications as are needed.)*
+*(This ritual is adaptable for use in commissioning any type of lay worker, including special workers, such as director of music, director of spiritual formation, youth director, song evangelist, children’s worker, spouse in ministry; including lay missionaries, such as doctors, nurses, teachers, spouses of ordained missionaries, office workers; and including any other lay worker commissioned by a district conference. In each case, the presiding minister ([¶3091](/part-6/ch1-ministerial-orders.md#p3091); [¶5850](#p5850)) and others helping in the commissioning service [cf. [¶1405](/part-3/ch6-ministerial.md#p1405); [¶1935](/part-4/ch4-general-administration.md#p1935); [¶3470](/part-6/ch4-special-lay-ministries.md#p3470); [¶3490](/part-6/ch4-special-lay-ministries.md#p3490)] shall insert the title of the commission being granted in the blanks, and make such other adaptations or modifications as are needed.)*
 
 **Invocation**
 
@@ -31,21 +31,21 @@
 
 I present ____________ ____________ unto you to be commissioned as ____________.
 
-*(Then the presiding minister (¶3091; [¶5850](#p5850)) shall address the congregation, saying:)*
+*(Then the presiding minister ([¶3091](/part-6/ch1-ministerial-orders.md#p3091); [¶5850](#p5850)) shall address the congregation, saying:)*
 
 Dear Friends, these are they whom we purpose this day to commission as ____________ in The Wesleyan Church. After inquiry and examination, we discover that they have met the stated requirements of the Church, and we believe them to be worthy and proper persons for this service.
 
 **Address to Candidates**
 
 #### ¶5870 {#p5870}
- *(Then the presiding minister (¶3091; [¶5850](#p5850)) shall address the candidates, saying:)*
+ *(Then the presiding minister ([¶3091](/part-6/ch1-ministerial-orders.md#p3091); [¶5850](#p5850)) shall address the candidates, saying:)*
 
 Dear Friends, we rejoice that in the providence of God a door of usefulness has been opened to you in the service of the Church. It is with infinite wisdom that God has provided diversities of gifts for His workers, distributing and administering them according to His good pleasure through the Holy Spirit. It is with joy that we have watched God’s will revealed in your lives, and your own resolve grow firm to use your gifts for His glory. Turning aside from worldly interests and pursuits, you are devoting yourselves to the Lord’s work, and to being helpers of the ministry. You will be pouring out of your talent, your time, your possessions, your strength, your very selves in a living sacrifice to Christ. You have not entered upon this solemn responsibility lightly, and doubtless already in the sacred stillness of the sanctuary of your heart you have consecrated yourselves to this service. What you have done alone with God, you do now formally and publicly in the presence of the Church.
 
 **Questioning of Candidates**
 
 #### ¶5875 {#p5875}
- *(Then the presiding minister (¶3091; [¶5850](#p5850)) shall question the candidates:)*
+ *(Then the presiding minister ([¶3091](/part-6/ch1-ministerial-orders.md#p3091); [¶5850](#p5850)) shall question the candidates:)*
 
 Do you believe that you have been led by the Spirit and the providences of God to engage in this work and to assume the duties of this service?
 

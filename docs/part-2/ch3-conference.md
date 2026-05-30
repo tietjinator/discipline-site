@@ -13,7 +13,7 @@
 #### ¶633 Special Session. {#p633}
 
 ##### ¶633.1 General Business. {#p633-1}
- The local church conference may be called into special session by the pastor, or in times of emergency by the district superintendent, for the transaction of any business, with announcement from the pulpit in two regular services, the first of which shall be given not less than one week before the appointed time. The requirements for special sessions dealing with legal or property matters are set forth in ¶4040 and ¶4700.
+ The local church conference may be called into special session by the pastor, or in times of emergency by the district superintendent, for the transaction of any business, with announcement from the pulpit in two regular services, the first of which shall be given not less than one week before the appointed time. The requirements for special sessions dealing with legal or property matters are set forth in [¶4040](/part-7/ch1-local-church-corporations.md#p4040) and [¶4700](/part-8/ch2-local-church-property.md#p4700).
 
 ##### ¶633.2 Pastoral Vote. {#p633-2}
  The vice-chair of the local board of administration ([¶635](#p635); [¶773](/part-2/ch5-local-board.md#p773)), when authorized to do so by the local board of administration, and having notified the district superintendent, may call a special session of the local church conference to conduct a pastoral vote, with announcement at least two weeks in advance of the appointed time. During negotiations for calling a new pastor, the announcement need be made only from the pulpit and in only one regular service in advance of the appointed time.
@@ -62,7 +62,7 @@ Receiving the reports of the lay ministers.
 Granting or renewing of local licenses for lay ministers.
 
 ##### ¶650.7 {#p650-7}
-Recommending suitable members to the district conference for district licenses as ministerial students and special workers (315:3-4).
+Recommending suitable members to the district conference for district licenses as ministerial students and special workers ([315:3-4](/part-1/ch4-constitution.md#p315-3)).
 
 ##### ¶650.8 {#p650-8}
 Electing of officers and delegates.
@@ -79,7 +79,7 @@ Miscellaneous business.
 Approve by vote the reception of members and to expel or discontinue members unless it delegates full authority concerning membership to the local board of administration ([¶567](/part-2/ch2-membership.md#p567); [¶315:1](/part-1/ch4-constitution.md#p315-1)). Such authority may be withdrawn from the local board of administration at any annual session of the local church conference.
 
 ##### ¶655.2 {#p655-2}
-Call a pastor or renew the call ([¶315:2](/part-1/ch4-constitution.md#p315-2); [¶692](/part-2/ch4-pastors.md#p692); [¶705](/part-2/ch4-pastors.md#p705); [¶720](/part-2/ch4-pastors.md#p720); [¶735](/part-2/ch4-pastors.md#p735)), or to vote on the termination of a renewed call as set forth in ¶722:2.
+Call a pastor or renew the call ([¶315:2](/part-1/ch4-constitution.md#p315-2); [¶692](/part-2/ch4-pastors.md#p692); [¶705](/part-2/ch4-pastors.md#p705); [¶720](/part-2/ch4-pastors.md#p720); [¶735](/part-2/ch4-pastors.md#p735)), or to vote on the termination of a renewed call as set forth in [¶722:2](/part-2/ch4-pastors.md#p722-2).
 
 ##### ¶655.3 {#p655-3}
 Elect the church officers ([¶315:5](/part-1/ch4-constitution.md#p315-5)), which shall consist of the local church secretary (830), the local church treasurer (if any, 842), members-at-large of the local board of administration ([¶752](/part-2/ch5-local-board.md#p752)), and lay delegates to the district conference ([¶315:5](/part-1/ch4-constitution.md#p315-5), 7).
@@ -88,7 +88,7 @@ Elect the church officers ([¶315:5](/part-1/ch4-constitution.md#p315-5)), which
 Receive reports from the pastor(s), church officers, lay ministers and other persons, boards, and committees as desired, and as listed in 650:2–5.
 
 ##### ¶655.5 {#p655-5}
-Remove, when such is in the best interests of the church, by a majority vote of those present and voting, any church officer, trustee, or delegate mentioned in ¶655:4 ([¶782:23](/part-2/ch5-local-board.md#p782-23)).
+Remove, when such is in the best interests of the church, by a majority vote of those present and voting, any church officer, trustee, or delegate mentioned in [¶655:4](#p655-4) ([¶782:23](/part-2/ch5-local-board.md#p782-23)).
 
 ##### ¶655.6 {#p655-6}
 License lay ministers ([¶315:3](/part-1/ch4-constitution.md#p315-3)), and to renew or revoke such license ([¶782:18](/part-2/ch5-local-board.md#p782-18); [¶3410](/part-6/ch4-special-lay-ministries.md#p3410); [¶3420](/part-6/ch4-special-lay-ministries.md#p3420); [¶3440:2](/part-6/ch4-special-lay-ministries.md#p3440-2)). This power may be delegated to the local board of administration.
@@ -106,16 +106,16 @@ Adopt financial policies, which policies shall be administered by the local boar
 Delegate to the local board of administration ([¶782:28](/part-2/ch5-local-board.md#p782-28)) full authority over the annual budget.
 
 ##### ¶655.11 {#p655-11}
-Authorize the purchase or sale of property, the erection or major remodeling of buildings, and all mortgages or other indebtedness which encumbers the property, subject to the prior approval of the district board of administration, according to the procedure set forth in ¶4700–4720.
+Authorize the purchase or sale of property, the erection or major remodeling of buildings, and all mortgages or other indebtedness which encumbers the property, subject to the prior approval of the district board of administration, according to the procedure set forth in [¶4700–4720](/part-8/ch2-local-church-property.md#p4700).
 
 ##### ¶655.12 {#p655-12}
 Corroborate by majority vote, if not under discipline, the action of the district board of administration to discontinue the local church ([¶1233:26](/part-3/ch3-board.md#p1233-26)).
 
 ##### ¶655.13 {#p655-13}
-Petition the district board of administration for the incorporation of the local church when it is deemed necessary as set forth in ¶4000, and to authorize the local board of administration to incorporate the church when such incorporation has been approved by the district board of administration ([¶1233:30](/part-3/ch3-board.md#p1233-30)).
+Petition the district board of administration for the incorporation of the local church when it is deemed necessary as set forth in [¶4000](/part-7/ch1-local-church-corporations.md#p4000), and to authorize the local board of administration to incorporate the church when such incorporation has been approved by the district board of administration ([¶1233:30](/part-3/ch3-board.md#p1233-30)).
 
 ##### ¶655.14 {#p655-14}
-Authorize, subject to the approval of the district board of administration, the establishment and operation of a mission ([¶537](/part-2/ch1-organization.md#p537); [¶782:6](/part-2/ch5-local-board.md#p782-6); [¶1233:26](/part-3/ch3-board.md#p1233-26)).
+Authorize, subject to the approval of the district board of administration, the establishment and operation of a mission ([537](/part-2/ch1-organization.md#p537); [¶782:6](/part-2/ch5-local-board.md#p782-6); [¶1233:26](/part-3/ch3-board.md#p1233-26)).
 
 ##### ¶655.15 {#p655-15}
 Delegate such responsibilities as it shall choose to the local board of administration.

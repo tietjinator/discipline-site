@@ -24,7 +24,7 @@ The district superintendent of each district and developing district and a lay d
 One ministerial and one lay delegate elected by an established district for every seven hundred fifty members and major fraction thereof. The district superintendent and the lay delegate elected ([¶1503:1a](#p1503-1a)) shall be the representatives for the first seven hundred fifty members.
 
 ###### ¶1503:1c {#p1503-1c}
-The general officials of the Church as defined in ¶1800, the General Superintendents Emeriti, members of the General Board who are not voting members by some other right, the presidents of the educational institutions and Wesley Seminary ([¶2365](/part-4/ch8-education-clergy.md#p2365) and [¶2366](/part-4/ch8-education-clergy.md#p2366)), the general directors of Hephzibah Ministries, Wesleyan Investment Foundation, Wesleyan Pension Fund Inc, the Wesleyan Bible Conference Association, and the Immigrant Connection, and such delegates-at-large as shall be necessary to maintain parity between ordained ministers and lay members ([¶1508-1510](#p1508)).
+The general officials of the Church as defined in [¶1800](/part-4/ch3-general-officials.md#p1800), the General Superintendents Emeriti, members of the General Board who are not voting members by some other right, the presidents of the educational institutions and Wesley Seminary ([¶2365](/part-4/ch8-education-clergy.md#p2365) and [¶2366](/part-4/ch8-education-clergy.md#p2366)), the general directors of Hephzibah Ministries, Wesleyan Investment Foundation, Wesleyan Pension Fund Inc, the Wesleyan Bible Conference Association, and the Immigrant Connection, and such delegates-at-large as shall be necessary to maintain parity between ordained ministers and lay members ([¶1508-1510](#p1508)).
 
 Nonvoting Members
 
@@ -47,13 +47,13 @@ The General Board shall designate the number of nonvoting members from mission u
  The election of delegates-at-large shall be arranged for by the recommendation of the Executive Director of Communication and Administration and the approval of the General Board in accordance with the following regulations:
 
 ##### ¶1508:1 {#p1508-1}
-The parity of equal ministerial and lay membership in the General Conference shall be maintained ([¶325](/part-1/ch4-constitution.md#p325); [¶360:3b](/part-1/ch4-constitution.md#p360-3)).
+The parity of equal ministerial and lay membership in the General Conference shall be maintained ([¶325](/part-1/ch4-constitution.md#p325); [360:3b](/part-1/ch4-constitution.md#p360-3)).
 
 ##### ¶1508:2 {#p1508-2}
 The established districts shall be considered in alphabetical order, and each eligible district in turn shall be appointed to elect one delegate-at-large. A developing district shall not be eligible to elect a delegate-at-large.
 
 #### ¶1510 {#p1510}
- The General Board shall act upon the recommendation of the Executive Director of Communication and Administration in one of its sessions consistent with the provisions of paragraph ¶1512. The delegates-at-large shall be elected by the appointed districts at the same time and in the same manner as the other General Conference delegates ([¶1512-1526](#p1512)).
+ The General Board shall act upon the recommendation of the Executive Director of Communication and Administration in one of its sessions consistent with the provisions of paragraph [¶1512](#p1512). The delegates-at-large shall be elected by the appointed districts at the same time and in the same manner as the other General Conference delegates ([¶1512-1526](#p1512)).
 
 #### b. Delegates
 
@@ -86,7 +86,7 @@ The established districts shall be considered in alphabetical order, and each el
  A lay delegate must be a lay person who is a member with the leadership qualifications ([¶260-268](/part-1/ch4-constitution.md#p260); [¶558](/part-2/ch2-membership.md#p558)) of a local church in the district represented, both at the time of election and at the time of the General Conference ([¶327:3](/part-1/ch4-constitution.md#p327-3)).
 
 #### ¶1526 {#p1526}
- Whenever a lay delegate-elect shall cease to meet the requirements in ¶1524, the right to represent the district shall be vacated and an alternate lay delegate shall be certified ([¶1332:5](/part-3/ch5-administration.md#p1332-5); [¶1516](#p1516)).
+ Whenever a lay delegate-elect shall cease to meet the requirements in [¶1524](#p1524), the right to represent the district shall be vacated and an alternate lay delegate shall be certified ([¶1332:5](/part-3/ch5-administration.md#p1332-5); [¶1516](#p1516)).
 
 ## C. Sessions
 
@@ -221,7 +221,7 @@ Adopt plans for the advancement of the Church in all phases of its ministry, inc
 Define in a general way the duties of the general officials, subject to the additional definition of their duties by the General Board in the interim of General Conference sessions ([¶1845](/part-4/ch3-general-officials.md#p1845)).
 
 ##### ¶1590.10 {#p1590-10}
-Organize the work in the United States and Canada into districts and to determine their boundaries, for which a recommendation shall be received from the General Board ([¶317](/part-1/ch4-constitution.md#p317); [¶1036](/part-3/ch1-organization.md#p1036); [¶1655:34](/part-4/ch2-general-board.md#p1655-34); [¶2400-2403](/part-4/ch9-boundaries.md#p2400)); to authorize the establishing of an established national conference as set forth in ¶2610:10; and to authorize the establishing of a General Conference as set forth in ¶2620.
+Organize the work in the United States and Canada into districts and to determine their boundaries, for which a recommendation shall be received from the General Board ([¶317](/part-1/ch4-constitution.md#p317); [¶1036](/part-3/ch1-organization.md#p1036); [¶1655:34](/part-4/ch2-general-board.md#p1655-34); [¶2400-2403](/part-4/ch9-boundaries.md#p2400)); to authorize the establishing of an established national conference as set forth in [¶2610:10](/part-5/ch2-conferences.md#p2610-10); and to authorize the establishing of a General Conference as set forth in [¶2620](/part-5/ch2-conferences.md#p2620).
 
 ##### ¶1590.11 {#p1590-11}
 Authorize the establishing of a developing district ([¶1006](/part-3/ch1-organization.md#p1006)); or to reclassify an established district ([¶1042](/part-3/ch1-organization.md#p1042); [¶1045](/part-3/ch1-organization.md#p1045)).

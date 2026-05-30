@@ -9,7 +9,7 @@
  Nurtured in a devout home, John Wesley committed himself to a search after God from earliest childhood. While at Oxford, together with his brother Charles and a few other serious-minded collegians, he methodically pursued holiness through systematic Bible study, prayer, good works, intensive examination, and reproof. The group earned the nicknames of the “Holy Club” and of “Methodists,” but Wesley did not earn the assurance of salvation. Having graduated from Oxford, and having been ordained as a clergyman in the state church, he intensified his search for peace through legalism and self-discipline. The turning point came at a prayer meeting in Aldersgate Street, London, May 24, 1738, when he perceived the way of faith and found his heart “strangely warmed” in the new birth. As he went on to the experience of entire sanctification, he shared his testimony and teaching with others, and a spiritual awakening spread across the British Isles and to America.
 
 #### ¶3 {#p3}
- It was not Wesley’s purpose to found a church, but the awakening brought about the spontaneous origin of the “societies” which grew into the Methodist movement. Near the end of 1739, there came to Wesley, in London, eight or ten persons who appeared to be deeply convinced of sin and earnestly groaning for redemption. They desired, as did two or three more the next day, that he would spend some time with them in prayer, and advise them how to flee from the wrath to come, which they saw continually hanging over their heads. A day was appointed when they might all come together, which from thence forward they did every week; namely, on Thursday in the evening. To these, and as many more as desired to join with them (for their number increased daily), he gave those advices which he judged most needful for them and they always concluded their meeting with prayer. The Guides and Helps to Holy Living found in this Discipline ¶260-268 represent in revised form the General Rules which Wesley gave to the members of the societies to enable them to test the sincerity of their purpose and to guide them in holy living.
+ It was not Wesley’s purpose to found a church, but the awakening brought about the spontaneous origin of the “societies” which grew into the Methodist movement. Near the end of 1739, there came to Wesley, in London, eight or ten persons who appeared to be deeply convinced of sin and earnestly groaning for redemption. They desired, as did two or three more the next day, that he would spend some time with them in prayer, and advise them how to flee from the wrath to come, which they saw continually hanging over their heads. A day was appointed when they might all come together, which from thence forward they did every week; namely, on Thursday in the evening. To these, and as many more as desired to join with them (for their number increased daily), he gave those advices which he judged most needful for them and they always concluded their meeting with prayer. The Guides and Helps to Holy Living found in this Discipline [¶260-268](/part-1/ch4-constitution.md#p260) represent in revised form the General Rules which Wesley gave to the members of the societies to enable them to test the sincerity of their purpose and to guide them in holy living.
 
 #### ¶4 {#p4}
  The movement spread to America by the emigration of Methodists, who, beginning in 1766, began to organize the Methodist “classes” and “societies” in the colonies. In December 1784, the Methodist Episcopal Church was organized at the Christmas Conference in Baltimore, Maryland. The new church experienced a miraculous growth, especially on the frontier, and quickly became one of the major religious forces in the new nation.
@@ -65,7 +65,7 @@ The Alliance of the Reformed Baptist Church of Canada was organized in 1888 as t
  A focal point for the beginning of The Pilgrim Holiness Church as an organization was the formation of the International Holiness Union and Prayer League in September 1897, at Cincinnati, Ohio, in the home of Martin Wells Knapp. Rev. Seth C. Rees was chosen President, and Rev. Martin Wells Knapp, Vice President. The Union was not thought of as a church, nor intended as such, but was an interdenominational fellowship, marked by simplicity and the absence of restrictions. The primary purpose of the Union was to unite holiness people in promoting worldwide holiness evangelism. A fourfold emphasis was declared concerning the regeneration of sinners, the entire sanctification of believers, the premillennial and imminent return of the Lord Jesus Christ, and the evangelization of the world. The Union met the need of many people for fellowship and cooperation in the spread of scriptural holiness and grew rapidly. Extensive revival work was carried on by members of the Union, resulting in the formation of many city missions, churches, rescue homes, and camp meetings.
 
 #### ¶25 {#p25}
- In the annual meeting of the Union held in July 1900, the name was changed to International Apostolic Holiness Union in order to express more fully the aim of promoting a return to apostolic principles and practices. Also in ¶1900 the foreign missionary work began as members of the Union went out as faith missionaries to South Africa, India, Japan, the West Indies, and South America.
+ In the annual meeting of the Union held in July 1900, the name was changed to International Apostolic Holiness Union in order to express more fully the aim of promoting a return to apostolic principles and practices. Also in [¶1900](/part-4/ch4-general-administration.md#p1900) the foreign missionary work began as members of the Union went out as faith missionaries to South Africa, India, Japan, the West Indies, and South America.
 
 #### ¶26 {#p26}
  The Union gradually developed into a church organization in order to provide church homes for the converts and the conservation of the work. In 1905, the name was changed to International Apostolic Holiness Union and Churches. The interdenominational features also faded out, and in 1913, the name was altered to International Apostolic Holiness Church.
@@ -116,7 +116,7 @@ The Alliance of the Reformed Baptist Church of Canada was organized in 1888 as t
 ## H. Unit Names
 
 #### ¶80 {#p80}
- The following is a representative list of the various units of The Wesleyan Church. Security issues prohibit a full list. Unit names, not representative of legal names, are printed for information only. Included are those whose adaptation of the name have been approved in keeping with the provisions of ¶205 and ¶340:2. These are printed for information only. Changes may be authorized when necessary by the General Board ([¶340:2](/part-1/ch4-constitution.md#p340-2); [¶1655:32](/part-4/ch2-general-board.md#p1655-32)).
+ The following is a representative list of the various units of The Wesleyan Church. Security issues prohibit a full list. Unit names, not representative of legal names, are printed for information only. Included are those whose adaptation of the name have been approved in keeping with the provisions of [¶205](/part-1/ch4-constitution.md#p205) and [¶340:2](/part-1/ch4-constitution.md#p340-2). These are printed for information only. Changes may be authorized when necessary by the General Board ([¶340:2](/part-1/ch4-constitution.md#p340-2); [¶1655:32](/part-4/ch2-general-board.md#p1655-32)).
 
 Australia: The Wesleyan Methodist Church of Australia
 
@@ -126,7 +126,7 @@ Brazil: Igreja Evangelica Wesleyana
 
 British Isles: The Wesleyan Holiness Church
 
-Caribbean: (cf. ¶2565) The Wesleyan Holiness Church of the Caribbean
+Caribbean: (cf. [¶2565](/part-5/ch2-conferences.md#p2565)) The Wesleyan Holiness Church of the Caribbean
 
 Chile: Ministerio Evangelistico y Misionero “Cristo es la Unica Respuesta”
 
@@ -170,7 +170,7 @@ Pakistan: The Wesleyan Church—Pakistan
 
 Peru: Iglesia Wesleyana Peregrina
 
-Philippines (cf. ¶2560): The Wesleyan Church of the Philippines
+Philippines (cf. [¶2560](/part-5/ch2-conferences.md#p2560)): The Wesleyan Church of the Philippines
 
 Puerto Rico: Iglesia Evangélica Wesleyana
 

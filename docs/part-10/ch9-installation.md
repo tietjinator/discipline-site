@@ -9,7 +9,7 @@
 
 #### ¶5905 {#p5905}
 
-*(The district superintendent or representative shall preside over the installation of a pastor ¶1310:23. The presiding minister or other appointed minister shall give the invocation:)*
+*(The district superintendent or representative shall preside over the installation of a pastor [¶1310:23](/part-3/ch5-administration.md#p1310-23). The presiding minister or other appointed minister shall give the invocation:)*
 
 O Lord, You have made known Your will to us that we should pray for You to send forth laborers into Your harvest. We earnestly ask You to send forth into the world true teachers and ministers of Your Word, and to enlighten their minds with the knowledge of Your truth, that they may faithfully make known the whole counsel of God unto salvation, to the glory of Your name and the saving of souls; through Jesus Christ, our Lord and Savior. Amen.
 
@@ -97,7 +97,7 @@ We, the pastor and officers of this church, call upon the members and friends of
 
 #### ¶5930 {#p5930}
 
-*(The General Superintendent or representative shall be in charge of installing the district superintendent before the adjournment of the district conference in which election to the office has occurred (¶1935). The newly elected district superintendent, and such other district officers as are desired, shall be called before the General Superintendent, who shall first address the district superintendent, saying:)*
+*(The General Superintendent or representative shall be in charge of installing the district superintendent before the adjournment of the district conference in which election to the office has occurred ([¶1935](/part-4/ch4-general-administration.md#p1935)). The newly elected district superintendent, and such other district officers as are desired, shall be called before the General Superintendent, who shall first address the district superintendent, saying:)*
 
 District superintendent __________________, today you stand before us along with the other duly elected officers of the district. You have been prayerfully selected by this district conference to serve as leader of the ______________________ District of The Wesleyan Church. It is in you that the ministers and members of the various churches within the bounds of this district are investing their confidence and trust. Yours is indeed a position of significant honor and responsibility, and it is only as God is with you that you will be enabled to fill it.
 

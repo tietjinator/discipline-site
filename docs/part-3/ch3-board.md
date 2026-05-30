@@ -17,7 +17,7 @@ The district conference shall elect at least seven members-at-large to the distr
 Whenever a district conference chooses to elect more than the minimum number of members-at-large to its district board of administration, due regard shall be given to elect a proportionate number of lay members.
 
 #### ¶1206 Regulations for a Member-at-Large. {#p1206}
- Each member-at-large of a district board of administration shall be a member who meets the leadership qualifications ([¶260-268](/part-1/ch4-constitution.md#p260); [¶558](/part-2/ch2-membership.md#p558)) of a local Wesleyan church within the district of service, both at the time of election and throughout the tenure of membership. A ministerial member-at-large shall be chosen from among the ordained ministers of the district. The term of office shall be for one, two, or three years ([¶1282](/part-3/ch4-officers.md#p1282)), and the member-at-large shall serve until a successor is elected and qualified. Regulations governing the amenability of a member-at-large of the district board of administration and the declaring and filling of a vacancy in such office are the same as those for district officials set forth in ¶1265 and ¶1272 ([¶1233:24a](#p1233-24a)).
+ Each member-at-large of a district board of administration shall be a member who meets the leadership qualifications ([¶260-268](/part-1/ch4-constitution.md#p260); [¶558](/part-2/ch2-membership.md#p558)) of a local Wesleyan church within the district of service, both at the time of election and throughout the tenure of membership. A ministerial member-at-large shall be chosen from among the ordained ministers of the district. The term of office shall be for one, two, or three years ([¶1282](/part-3/ch4-officers.md#p1282)), and the member-at-large shall serve until a successor is elected and qualified. Regulations governing the amenability of a member-at-large of the district board of administration and the declaring and filling of a vacancy in such office are the same as those for district officials set forth in [¶1265](/part-3/ch4-officers.md#p1265) and [¶1272](/part-3/ch4-officers.md#p1272) ([¶1233:24a](#p1233-24)).
 
 ## C. Sessions
 
@@ -102,13 +102,13 @@ Submit resolutions directly to the district conference that will provide for a m
 Review all pastoral agreements between churches and ministers of the district ([¶690-722](/part-2/ch4-pastors.md#p690)).
 
 ###### ¶1233:10b {#p1233-10b}
-Receive a report from the district board of ministerial development concerning matters related to district conference appointments and relations as set forth in ¶1390:10.
+Receive a report from the district board of ministerial development concerning matters related to district conference appointments and relations as set forth in [¶1390:10](/part-3/ch6-ministerial.md#p1390-10).
 
 ###### ¶1233:10c {#p1233-10c}
-Submit to the district conference a comprehensive report covering all the churches and ministers of the district: recommending any necessary changes in the boundaries of the pastoral charges or in the classification of churches (1180:22-23; [¶4720-4750](/part-8/ch2-local-church-property.md#p4720)); recommending the appointment of pastors for all churches for the coming year ([¶510:1](/part-2/ch1-organization.md#p510-1)), including the approval, alteration, or veto of pastoral agreements already made by the churches and ministers ([¶323:2](/part-1/ch4-constitution.md#p323-2)), and the appointment of pastors or the delegation of responsibility for such appointment for churches otherwise without pastors ([¶1180:24](/part-3/ch2-conference.md#p1180-24)), and recommending the appointment and/or classification of all other ordained ministers ([¶3075:5](/part-6/ch1-ministerial-orders.md#p3075-5)), commissioned or licensed ministers, special workers, and the licensing of ministerial students as set forth in ¶1180:24 and ¶1240 ([¶3015:1](/part-6/ch1-ministerial-orders.md#p3015-1)).
+Submit to the district conference a comprehensive report covering all the churches and ministers of the district: recommending any necessary changes in the boundaries of the pastoral charges or in the classification of churches ([1180:22-23](/part-3/ch2-conference.md#p1180-22); [¶4720-4750](/part-8/ch2-local-church-property.md#p4720)); recommending the appointment of pastors for all churches for the coming year ([¶510:1](/part-2/ch1-organization.md#p510-1)), including the approval, alteration, or veto of pastoral agreements already made by the churches and ministers ([¶323:2](/part-1/ch4-constitution.md#p323-2)), and the appointment of pastors or the delegation of responsibility for such appointment for churches otherwise without pastors ([¶1180:24](/part-3/ch2-conference.md#p1180-24)), and recommending the appointment and/or classification of all other ordained ministers ([¶3075:5](/part-6/ch1-ministerial-orders.md#p3075-5)), commissioned or licensed ministers, special workers, and the licensing of ministerial students as set forth in [¶1180:24](/part-3/ch2-conference.md#p1180-24) and [¶1240](#p1240) ([¶3015:1](/part-6/ch1-ministerial-orders.md#p3015-1)).
 
 ##### ¶1233:11 {#p1233-11}
-Carry out the following duties concerning the United Stewardship Fund ([¶2000-2045](/part-4/ch4-general-administration.md#p2000)): submit a recommendation to the district conference for the raising of the district obligation and the apportioning to each church of its share of the district obligation ([¶2015](/part-4/ch4-general-administration.md#p2015); [¶1337:6](/part-3/ch5-administration.md#p1337-6)); approve adjustments in United Stewardship Fund assessments due to building projects as set forth in ¶2005:2; administer the district plan for raising the district obligation and see that such obligation is paid in full ([¶2015:3](/part-4/ch4-general-administration.md#p2015-3)).
+Carry out the following duties concerning the United Stewardship Fund ([¶2000-2045](/part-4/ch4-general-administration.md#p2000)): submit a recommendation to the district conference for the raising of the district obligation and the apportioning to each church of its share of the district obligation ([¶2015](/part-4/ch4-general-administration.md#p2015); [¶1337:6](/part-3/ch5-administration.md#p1337-6)); approve adjustments in United Stewardship Fund assessments due to building projects as set forth in [¶2005:2](/part-4/ch4-general-administration.md#p2005-2); administer the district plan for raising the district obligation and see that such obligation is paid in full ([¶2015:3](/part-4/ch4-general-administration.md#p2015-3)).
 
 ### Duties Relating to District Officers, Committees, and Auxiliaries
 
@@ -116,13 +116,13 @@ Carry out the following duties concerning the United Stewardship Fund ([¶2000-2
 Have the general oversight of all district officials ([¶1255](/part-3/ch4-officers.md#p1255)) and organizations of the district; approve their plans and to coordinate their work; and see that the work is administered according to The Discipline and the directives of the district conference ([¶1265-1272](/part-3/ch4-officers.md#p1265); [¶1285-1292](/part-3/ch4-officers.md#p1285); 1337:8; [¶1384](/part-3/ch6-ministerial.md#p1384)).
 
 ##### ¶1233:13 {#p1233-13}
-Incorporate the district, when so authorized by the district conference ([¶1180:19](/part-3/ch2-conference.md#p1180-19)), as provided for in ¶4100-4150]; serve as the board of directors of such corporation; have power on its own resolution to acquire, purchase, manage, sell, exchange, mortgage, deed in trust, pledge, rent, lease, and convey any property, real, personal, or mixed, as may be necessary or convenient for the purpose of the corporation; and exercise its corporate powers in accord with the provisions of The Discipline ([¶4100-4150](/part-7/ch2-district-corporations.md#p4100); [¶4500-4630](/part-9/ch1-general-regulations.md#p4500); [¶4660](/part-8/ch2-local-church-property.md#p4660); [¶4680](/part-8/ch2-local-church-property.md#p4680); [¶4800-4880](/part-8/ch3-district-property.md#p4800)).
+Incorporate the district, when so authorized by the district conference ([¶1180:19](/part-3/ch2-conference.md#p1180-19)), as provided for in [¶4100-4150](/part-7/ch2-district-corporations.md#p4100)]; serve as the board of directors of such corporation; have power on its own resolution to acquire, purchase, manage, sell, exchange, mortgage, deed in trust, pledge, rent, lease, and convey any property, real, personal, or mixed, as may be necessary or convenient for the purpose of the corporation; and exercise its corporate powers in accord with the provisions of The Discipline ([¶4100-4150](/part-7/ch2-district-corporations.md#p4100); [¶4500-4630](/part-9/ch1-general-regulations.md#p4500); [¶4660](/part-8/ch2-local-church-property.md#p4660); [¶4680](/part-8/ch2-local-church-property.md#p4680); [¶4800-4880](/part-8/ch3-district-property.md#p4800)).
 
 ##### ¶1233:14 {#p1233-14}
-) Carry out, whenever the district is not incorporated, such duties, and exercise such authority over district property and other legal affairs as set forth in ¶4500-4630 and ¶4800-4880.
+) Carry out, whenever the district is not incorporated, such duties, and exercise such authority over district property and other legal affairs as set forth in [¶4500-4630](/part-9/ch1-general-regulations.md#p4500) and [¶4800-4880](/part-8/ch3-district-property.md#p4800).
 
 ##### ¶1233:15 {#p1233-15}
-Provide for the preservation and security of all district records and archives, directing the district superintendent ([¶1310:13](/part-3/ch5-administration.md#p1310-13); [¶4760](/part-8/ch2-local-church-property.md#p4760)), the district secretary (1332:6-7), the secretary of the district board of ministerial development ([¶1387](/part-3/ch6-ministerial.md#p1387)), and any others, concerning the care of the records placed in their custody.
+Provide for the preservation and security of all district records and archives, directing the district superintendent ([¶1310:13](/part-3/ch5-administration.md#p1310-13); [¶4760](/part-8/ch2-local-church-property.md#p4760)), the district secretary ([1332:6-7](/part-3/ch5-administration.md#p1332-6)), the secretary of the district board of ministerial development ([¶1387](/part-3/ch6-ministerial.md#p1387)), and any others, concerning the care of the records placed in their custody.
 
 ##### ¶1233:16 {#p1233-16}
 Space reserved.
@@ -163,7 +163,7 @@ Any member of a board or other agency of the district by a majority vote and to 
 Organize and supervise all pastoral charges of the district in accord with The Discipline and other district directives so that each one may be an effective unit of The Wesleyan Church; to guard carefully the spiritual life and general welfare of all the churches; to plan and conduct conventions, institutes, or seminars for pastors and other workers in the district, promoting such for the purpose of spiritual refreshment, leadership development, greater efficiency, and a more united effort within the district and the General Church.
 
 ##### ¶1233:26 {#p1233-26}
-Authorize the establishment of a mission ([¶537](/part-2/ch1-organization.md#p537); [¶655:14](/part-2/ch3-conference.md#p655-14)), a developing church ([¶510](/part-2/ch1-organization.md#p510)), an urban missional church ([¶523](/part-2/ch1-organization.md#p523)), or a church ([¶518](/part-2/ch1-organization.md#p518)), and to receive a report from the district superintendent on the effecting of such organizations ([¶520:6](/part-2/ch1-organization.md#p520-6)); to reclassify an established church as a developing church when its number of members drops to thirty or fewer ([¶518:7a](/part-2/ch1-organization.md#p518-7)); and to declare a church as discontinued or abandoned ([¶1180:22](/part-3/ch2-conference.md#p1180-22); [¶4730](/part-8/ch2-local-church-property.md#p4730)). Any established church that is not under discipline may not be discontinued without a corroborating vote of the local church conference ([¶655:12](/part-2/ch3-conference.md#p655-12)).
+Authorize the establishment of a mission ([537](/part-2/ch1-organization.md#p537); [¶655:14](/part-2/ch3-conference.md#p655-14)), a developing church ([¶510](/part-2/ch1-organization.md#p510)), an urban missional church ([523](/part-2/ch1-organization.md#p523)), or a church ([¶518](/part-2/ch1-organization.md#p518)), and to receive a report from the district superintendent on the effecting of such organizations ([520:6](/part-2/ch1-organization.md#p520-6)); to reclassify an established church as a developing church when its number of members drops to thirty or fewer ([518:7a](/part-2/ch1-organization.md#p518-7)); and to declare a church as discontinued or abandoned ([¶1180:22](/part-3/ch2-conference.md#p1180-22); [¶4730](/part-8/ch2-local-church-property.md#p4730)). Any established church that is not under discipline may not be discontinued without a corroborating vote of the local church conference ([¶655:12](/part-2/ch3-conference.md#p655-12)).
 
 ##### ¶1233:27 {#p1233-27}
 Approve an annual district church multiplication plan including a report on multiplication projects of the prior year, as well as planned projects for multiplication in the coming year, and submit the same to the General Superintendent for review. Any use of funds for other than designated purposes must be approved by the General Superintendent.
@@ -175,19 +175,19 @@ Receive the report of the district superintendent concerning the actions of the 
 Approve all pastoral agreements and make all ministerial appointments in the interim of district conference sessions, subject to the final approval of the district conference ([¶715](/part-2/ch4-pastors.md#p715); [¶722:1](/part-2/ch4-pastors.md#p722-1), 3).
 
 ##### ¶1233:30 {#p1233-30}
-Approve in writing the proposal of a local church conference for the acquisition, purchase, sale, mortgage, transfer or other disposal of real property in accord with the provisions in ¶4700-4790 ([¶4000-4070](/part-7/ch1-local-church-corporations.md#p4000)); to advise a local board of administration when a local church has received an out-of-pattern contribution with value equal to or exceeding the total contributions of the preceding year ([¶782:32](/part-2/ch5-local-board.md#p782-32)); to authorize the incorporation of a local church in keeping with 4000 ([¶655:13](/part-2/ch3-conference.md#p655-13); [¶4010:6](/part-7/ch1-local-church-corporations.md#p4010-6)); to approve the name of a new church or name change or adaptation requested by a developing or established church.
+Approve in writing the proposal of a local church conference for the acquisition, purchase, sale, mortgage, transfer or other disposal of real property in accord with the provisions in [¶4700-4790](/part-8/ch2-local-church-property.md#p4700) ([¶4000-4070](/part-7/ch1-local-church-corporations.md#p4000)); to advise a local board of administration when a local church has received an out-of-pattern contribution with value equal to or exceeding the total contributions of the preceding year ([¶782:32](/part-2/ch5-local-board.md#p782-32)); to authorize the incorporation of a local church in keeping with 4000 ([¶655:13](/part-2/ch3-conference.md#p655-13); [¶4010:6](/part-7/ch1-local-church-corporations.md#p4010-6)); to approve the name of a new church or name change or adaptation requested by a developing or established church.
 
 ##### ¶1233:31 {#p1233-31}
 Supervise and coordinate the merger of two or more churches and to establish the procedures for such mergers. The plans for merger initiated by the local board or boards of administration must be submitted for approval to the district board of administration before presenting the proposals to the local church conference for consideration and vote.
 
 ##### ¶1233:32 {#p1233-32}
-Approve the plans of a local board of administration for the establishment of a day care and/or day school, and after its establishment to approve any significant change in mission, facilities, or finances ([¶655:17](/part-2/ch3-conference.md#p655-17); 782:33-34).
+Approve the plans of a local board of administration for the establishment of a day care and/or day school, and after its establishment to approve any significant change in mission, facilities, or finances ([¶655:17](/part-2/ch3-conference.md#p655-17); [782:33-34](/part-2/ch5-local-board.md#p782-33)).
 
 ##### ¶1233:33 {#p1233-33}
-Take charge of any complaints or accusations against a local church or circuit within the district and to carry out disciplinary proceedings as deemed necessary in accord with the General Board Policy on Church Discipline (5300-5325; 5221); to intervene and protect the property rights of The Wesleyan Church and the district as set forth in ¶4010:6; 4770; 4840:6; to authorize the district superintendent to call for an affirmation of loyalty; to reorganize a local church as set forth in the General Board Policy on Church Discipline (5300-5325).
+Take charge of any complaints or accusations against a local church or circuit within the district and to carry out disciplinary proceedings as deemed necessary in accord with the General Board Policy on Church Discipline (5300-5325; 5221); to intervene and protect the property rights of The Wesleyan Church and the district as set forth in [¶4010:6](/part-7/ch1-local-church-corporations.md#p4010-6); 4770; 4840:6; to authorize the district superintendent to call for an affirmation of loyalty; to reorganize a local church as set forth in the General Board Policy on Church Discipline (5300-5325).
 
 ##### ¶1233:34 {#p1233-34}
-Grant temporary recognition ([¶1390:3](/part-3/ch6-ministerial.md#p1390-3)) to ordained ministers, commissioned ministers, licensed ministers, and commissioned special workers or persons with equivalent standing, from other denominations, as being in process of transfer, subject to the action of the next district conference ([¶1180:27a](/part-3/ch2-conference.md#p1180-27a), d, e; [¶1310:26](/part-3/ch5-administration.md#p1310-26)).
+Grant temporary recognition ([¶1390:3](/part-3/ch6-ministerial.md#p1390-3)) to ordained ministers, commissioned ministers, licensed ministers, and commissioned special workers or persons with equivalent standing, from other denominations, as being in process of transfer, subject to the action of the next district conference ([¶1180:27a](/part-3/ch2-conference.md#p1180-27), [d](/part-3/ch2-conference.md#p1180-27), [e](/part-3/ch2-conference.md#p1180-27); [¶1310:26](/part-3/ch5-administration.md#p1310-26)).
 
 ##### ¶1233:35 {#p1233-35}
 Consider and pass on the proposed resignation by, or a proposed vote on, a pastor after the renewal of the call, when such is considered before the term of service expires or in the interim of quadrennial reviews ([¶722:2](/part-2/ch4-pastors.md#p722-2)); or to remove a pastor by a two-thirds majority vote of all members of the district board of administration in keeping with the provisions of 712; 722:3; 1310:20; and to appoint a supply pastor, if necessary, until another pastor has been obtained ([¶715](/part-2/ch4-pastors.md#p715)); or to remove a supply pastor by a majority vote if deemed necessary ([¶3260:5](/part-6/ch3-ministerial-appointments.md#p3260-5)); and to appoint an interim pastor or to remove an interim pastor by a majority vote ([¶3261:2](/part-6/ch3-ministerial-appointments.md#p3261-2)).
@@ -241,10 +241,10 @@ Reserve evangelists. Ordained ministers appointed as reserve evangelists ([¶327
 Ordained ministers elected by the General Conference or General Board as general officials ([¶1800](/part-4/ch3-general-officials.md#p1800); [¶3320](/part-6/ch3-ministerial-appointments.md#p3320)).
 
 ###### ¶1240:4b {#p1240-4b}
-Ordained ministers employed at the World Headquarters, or those elected or employed by the board of directors of a general subsidiary corporation other than an educational institution, for full-time General Church service in a ministerial capacity as set forth in ¶3320.
+Ordained ministers employed at the World Headquarters, or those elected or employed by the board of directors of a general subsidiary corporation other than an educational institution, for full-time General Church service in a ministerial capacity as set forth in [¶3320](/part-6/ch3-ministerial-appointments.md#p3320).
 
 ###### ¶1240:4c {#p1240-4c}
-Ordained ministers appointed by the General Board for service in a ministerial capacity as missionaries or workers under the Church Multiplication and Discipleship Division or Global Partners Division as set forth in ¶3300.
+Ordained ministers appointed by the General Board for service in a ministerial capacity as missionaries or workers under the Church Multiplication and Discipleship Division or Global Partners Division as set forth in [¶3300](/part-6/ch3-ministerial-appointments.md#p3300).
 
 ###### ¶1240:4d {#p1240-4d}
 Ordained ministers employed to serve in a ministerial capacity on the administrative staff or faculty of a educational institution of The Wesleyan Church ([¶2365](/part-4/ch8-education-clergy.md#p2365)) or one of the seminaries approved by the Wesleyan Seminary Foundation ([¶2382](/part-4/ch8-education-clergy.md#p2382)).
@@ -302,7 +302,7 @@ The sending district shall list the ordained minister as having “Applied for D
 
 G. ORDAINED MINISTERS IN PROCESS OF DENOMINATIONAL TRANSFER ([¶3104](/part-6/ch1-ministerial-orders.md#p3104); [¶3390](/part-6/ch3-ministerial-appointments.md#p3390))
 
-Ordained ministers from another denomination who have been granted recognition as ordained ministers in process of transfer ([¶1180:29a](/part-3/ch2-conference.md#p1180-29); cf. ¶1390:3; [¶3104](/part-6/ch1-ministerial-orders.md#p3104)).
+Ordained ministers from another denomination who have been granted recognition as ordained ministers in process of transfer ([1180:29a](/part-3/ch2-conference.md#p1180-29); cf. [¶1390:3](/part-3/ch6-ministerial.md#p1390-3); [¶3104](/part-6/ch1-ministerial-orders.md#p3104)).
 
 ### 2. Commissioned Ministers
 
@@ -362,7 +362,7 @@ Licensed ministers or their equivalent from other denominations who have been gr
 
 ### 4. Ministerial Students
 
-Those approved by the district conference to be licensed as ministerial students as set forth in ¶3015:1.
+Those approved by the district conference to be licensed as ministerial students as set forth in [¶3015:1](/part-6/ch1-ministerial-orders.md#p3015-1).
 
 ### 5. Lay Workers
 
@@ -372,11 +372,11 @@ List by specific category such as director of music, director of spiritual forma
 
 B. COMMISSIONED SPECIAL WORKERS IN PROCESS OF TRANSFER ([¶3450](/part-6/ch4-special-lay-ministries.md#p3450); [¶3470](/part-6/ch4-special-lay-ministries.md#p3470))
 
-List by specific category (refer to 1240:5:A).
+List by specific category (refer to [1240:5](#p1240-5):A).
 
 C. LICENSED SPECIAL WORKERS ([¶3450](/part-6/ch4-special-lay-ministries.md#p3450); [¶3460](/part-6/ch4-special-lay-ministries.md#p3460))
 
-List by specific category (refer to 1240:5:A).
+List by specific category (refer to [1240:5](#p1240-5):A).
 
 D. COMMISSIONED LAY MISSIONARIES ([¶3490](/part-6/ch4-special-lay-ministries.md#p3490))
 E. SUPPLY PASTORS ([¶3260](/part-6/ch3-ministerial-appointments.md#p3260)).

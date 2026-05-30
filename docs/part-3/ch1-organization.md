@@ -11,7 +11,7 @@
  New work, or other work which does not meet the requirements for an established district ([¶1038](#p1038)), shall be provided for by establishing a developing district.
 
 #### ¶1006 Authorization. {#p1006}
- The establishment of a developing district may be authorized by the General Conference ([¶1590:11](/part-4/ch1-general-conference.md#p1590-11)), upon recommendation of the General Board, or, in the interim of General Conference sessions, by the General Board. The authorizing act shall define the boundaries and assign an official name to the developing district. Any proposed boundaries that will alter the bounds of an established district in the interim of General Conference sessions must have the approval of such a district and shall be effected as required in ¶1060-1065 ([¶1655:34](/part-4/ch2-general-board.md#p1655-34)).
+ The establishment of a developing district may be authorized by the General Conference ([¶1590:11](/part-4/ch1-general-conference.md#p1590-11)), upon recommendation of the General Board, or, in the interim of General Conference sessions, by the General Board. The authorizing act shall define the boundaries and assign an official name to the developing district. Any proposed boundaries that will alter the bounds of an established district in the interim of General Conference sessions must have the approval of such a district and shall be effected as required in [¶1060-1065](#p1060) ([¶1655:34](/part-4/ch2-general-board.md#p1655-34)).
 
 #### ¶1009 Jurisdiction. {#p1009}
  A developing district shall be under the jurisdiction of the General Board ([¶1655:34](/part-4/ch2-general-board.md#p1655-34)). The General Superintendent shall be responsible for developing the work as rapidly as possible, in harmony with the missionary objectives of The Wesleyan Church ([¶2306](/part-4/ch7-multiplication-discipleship.md#p2306)), to the status of an established district ([¶1038](#p1038)).
@@ -39,7 +39,7 @@ Thirty churches.
 Two thousand members.
 
 ##### ¶1038:3 {#p1038-3}
-The holding of all property in trust for The Wesleyan Church as required in ¶4610, or steps taken to accomplish the same ([¶4140](/part-7/ch2-district-corporations.md#p4140); [¶4590–4630](/part-9/ch1-general-regulations.md#p4590); [¶4650–4880](/part-8/ch2-local-church-property.md#p4650)).
+The holding of all property in trust for The Wesleyan Church as required in [¶4610](/part-9/ch1-general-regulations.md#p4610), or steps taken to accomplish the same ([¶4140](/part-7/ch2-district-corporations.md#p4140); [¶4590–4630](/part-9/ch1-general-regulations.md#p4590); [¶4650–4880](/part-8/ch2-local-church-property.md#p4650)).
 
 ##### ¶1038:4 {#p1038-4}
 A reasonable degree of spiritual, organizational, and financial stability.
@@ -58,12 +58,12 @@ A recommendation by the General Superintendent.
  If a district no longer meets one or more of the requirements for an established district ([¶1038](#p1038)), it may be reclassified as a developing district by the General Conference ([¶1590:11](/part-4/ch1-general-conference.md#p1590-11)) or by the General Board.
 
 #### ¶1045 {#p1045}
- An established district, by a vote of its district conference, may petition the General Board for reclassification as a developing district if it falls below the requirements for an established district ([¶1038](#p1038)). The General Board shall have authority to reclassify it as a developing district ([¶1038](#p1038); 1655:34–35).
+ An established district, by a vote of its district conference, may petition the General Board for reclassification as a developing district if it falls below the requirements for an established district ([¶1038](#p1038)). The General Board shall have authority to reclassify it as a developing district ([¶1038](#p1038); [1655:34–35](/part-4/ch2-general-board.md#p1655-34)).
 
 ### 4. Amenability
 
 #### ¶1046 {#p1046}
- An established district is amenable to the General Conference and to the General Board. It may be placed under discipline for cause as set forth in the *General Board Policy on Church Discipline* (¶5350-5385; [¶360:3e](/part-1/ch4-constitution.md#p360-3)).
+ An established district is amenable to the General Conference and to the General Board. It may be placed under discipline for cause as set forth in the *General Board Policy on Church Discipline* (¶5350-5385; [360:3e](/part-1/ch4-constitution.md#p360-3)).
 
 ## E. Merger or Realignment of Districts
 
