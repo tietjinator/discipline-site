@@ -2,32 +2,32 @@
 
 ## A. Function of Local Churches
 
-## ¶500 {#p500}
+#### ¶500 {#p500}
  The local Wesleyan church is a body of Christian believers who hold the faith set forth in the Articles of Religion of The Wesleyan Church, who have been duly received as members of The Wesleyan Church and formally organized according to its *Discipline*, who acknowledge the ecclesiastical authority of The Wesleyan Church, who support its worldwide mission, and who meet together regularly for the purposes of evangelism, nurture, fellowship, and worship ([¶240](#p240)).
 
 ## B. Types of Organization
 
-## ¶503 {#p503}
+#### ¶503 {#p503}
  A pastoral charge may consist of a single church, or of two or more churches designated by the district conference as a circuit; is supplied as a regular pastoral appointment by the district conference; and transacts business through a local conference of the covenant members. The constitutional rights of a pastoral charge are given in [¶315](#p315). If the district conference desires to appoint a minister to serve two or more churches that shall continue as separate pastoral charges, it may appoint the minister as pastor of one church and supply pastor of the other ([¶3255–3260](#p3255–3260)).
 
 ### 1. Developing Church
 
-## ¶510 {#p510}
+#### ¶510 {#p510}
  A developing church is either a formerly established church that has been reclassified by the district board of administration because it no longer meets the qualifications in [¶518](#p518), or a church planting project supervised by a parent church, a cluster of parenting church partners, the district board of administration, or the Church Multiplication and Discipleship Division. A developing church is eventually intended to become an established church, but does not yet meet all requirements for this classification ([¶518](#p518)). Its local organization shall be in keeping with [¶807](#p807). A developing church shall be authorized by the district conference ([¶1180:24](#p1180-24)) or the district board of administration ([¶1233:26](#p1233-26)), and shall be governed as follows:
 
-### ¶510.1 {#p510-1}
+##### ¶510.1 {#p510-1}
 The pastor shall be selected by the district board of administration and appointed by the district conference, except in the interim of district conference sessions when the district board of administration shall have full power of appointment.
 
-### ¶510.2 {#p510-2}
+##### ¶510.2 {#p510-2}
 A membership roll shall be maintained, ordinarily for one to twenty-four members. Candidates for membership shall be examined and recommended by the pastor until such a time as a local advisory council is formed and assumes this duty; and their reception shall be authorized by the district superintendent ([¶1310:15](/part-3/ch5-administration.md#p1310-15)).
 
-### ¶510.3 {#p510-3}
+##### ¶510.3 {#p510-3}
 As soon as qualified members are available, the district superintendent, in cooperation with the pastor, may appoint a local advisory council of three to five members, and may designate one of them as the vice-chair. The pastor shall serve as chair of this council (cf. 807; [¶1310:15](/part-3/ch5-administration.md#p1310-15)). The council shall exercise the duties and powers of a local board of administration ([¶782](/part-2/ch5-local-board.md#p782)), making all recommendations to the district superintendent or the district board of administration instead of the local church conference ([¶1310:15](/part-3/ch5-administration.md#p1310-15)). The vice-chair shall provide oversight for the pastor’s compensation and benefits when neither the district superintendent nor a representative of the district superintendent is present. All investments in land, buildings, and equipment ([¶1233:30](/part-3/ch3-board.md#p1233-30); [¶4650–4670](/part-8/ch2-local-church-property.md#p4650)), matters involving employed staff, and other major decisions must be authorized by the district board of administration; and all actions of the local advisory council shall be subject to the review and approval of the district superintendent. The local advisory council shall be responsible to assist the district superintendent in qualifying the church as quickly as possible for organization as an established church.
 
-### ¶510.4 {#p510-4}
+##### ¶510.4 {#p510-4}
 All property of a developing church shall be held by the district, with titles secured as given in [¶4660](/part-8/ch2-local-church-property.md#p4660).
 
-### ¶510.5 {#p510-5}
+##### ¶510.5 {#p510-5}
 A developing church may have one lay delegate to the district conference when so assigned by the district board of administration ([¶1086](/part-3/ch2-conference.md#p1086); [¶1100:2](/part-3/ch2-conference.md#p1100-2); [¶1103](/part-3/ch2-conference.md#p1103)).
 
 ## ¶510.6 {#p510-6}
@@ -47,25 +47,25 @@ Restart project (a former developing or established church temporarily closed by
 
 ### 2. Established Church
 
-## ¶518 Authorization for Organization. {#p518}
+#### ¶518 Authorization for Organization. {#p518}
   The organization of a developing church as a fully established church, or of a group of believers who have applied to a district superintendent for organization as a Wesleyan church, empowering it to assemble for business as a local church conference and to elect a local board of administration, and investing it with all the rights, powers, and duties of a local church as given in the Constitution ([¶315](#p315)) and as set forth elsewhere in The Discipline, may be authorized by the district board of administration and effected by the district superintendent when it meets these requirements:
 
-### ¶518.1 {#p518-1}
+##### ¶518.1 {#p518-1}
 Twenty-five or more persons who are members or are approved and ready to be received as members when the organization shall be effected.
 
-### ¶518.2 {#p518-2}
+##### ¶518.2 {#p518-2}
 Effective evangelism and a record of new converts and/or believers’ baptisms incorporated into the church.
 
-### ¶518.3 {#p518-3}
+##### ¶518.3 {#p518-3}
 An intentional investment of financial and human resources into community and global needs.
 
-### ¶518.4 {#p518-4}
+##### ¶518.4 {#p518-4}
 A reasonable degree of financial stability, including the meeting of such obligations as it may have to the General Church and the district.
 
-### ¶518.5 {#p518-5}
+##### ¶518.5 {#p518-5}
 A reasonable degree of leadership and organizational maturity, with sufficient qualified persons to staff the minimum organization provided for in 810.
 
-### ¶518.6 {#p518-6}
+##### ¶518.6 {#p518-6}
 The holding of all property in trust for The Wesleyan Church as required in [¶4610](/part-9/ch1-general-regulations.md#p4610) ([¶4680](/part-8/ch2-local-church-property.md#p4680)) or steps taken to accomplish the same.
 
 ## ¶518.7 {#p518-7}
@@ -86,7 +86,7 @@ If it has consistently declined in attendance over the past seven years; or
 #### ¶518.7.e {#p518-7-e}
 If it ceases to meet one or more of the other conditions set forth in 518:2–5 ([¶4670](/part-8/ch2-local-church-property.md#p4670)).
 
-## ¶520 Organizational Meeting. {#p520}
+#### ¶520 Organizational Meeting. {#p520}
  When the organization of an established church has been authorized by the district board of administration, the district superintendent shall consult with the pastor and the local advisory council, or if there are none, with those interested in forming the church, and appoint a time for an organizational meeting. The organizational meeting shall be conducted by the district superintendent or a representative appointed by the district superintendent as follows:
 
 ### ¶520.1'' {#p520-1''}

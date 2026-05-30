@@ -143,8 +143,8 @@ export default defineConfig({
     },
 
     outline: {
-      level: [2, 3],
-      label: 'Paragraphs on this page'
+      level: [2, 6],
+      label: 'On this page'
     },
 
     editLink: {

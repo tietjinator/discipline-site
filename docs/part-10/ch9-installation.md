@@ -2,12 +2,12 @@
 
 ## A. General Regulations
 
-## ¶5900 {#p5900}
+#### ¶5900 {#p5900}
  The installation ceremonies provided herewith shall normally be used as a part of some general service of worship, and in most instances the other parts of the service, such as hymns, Scripture readings, and prayers, will need to be supplied, being chosen in such a manner as to give the entire service unity and dignity.
 
 ## B. Installation of a Pastor
 
-## ¶5905 {#p5905}
+#### ¶5905 {#p5905}
 
 *(The district superintendent or representative shall preside over the installation of a pastor [¶1310:23](#p1310-23). The presiding minister or other appointed minister shall give the invocation:)*
 
@@ -63,7 +63,7 @@ The Lord bless you that you may bring forth much fruit and that your fruit may r
 
 ## C. Installation of Local Church Officers
 
-## ¶5915 {#p5915}
+#### ¶5915 {#p5915}
 
 *(This installation may be held during a Sunday morning service or other appropriate service just prior to the time when the newly elected officers shall assume their duties. The congregation may join in singing a hymn, such as: “A Charge to Keep I Have,” or “I’ll Live for Him Who Died for Me.” The pastor may read a Scripture lesson such as Acts 2:41–44 and 6:1–8. Depending upon the number of officers involved, the pastor may wish to read something concerning their duties from The Discipline. At the proper time, the pastor shall call the newly elected officers before the congregation, and shall address them, saying:)*
 
@@ -75,7 +75,7 @@ Therefore, we, the pastor and the people of this church, call upon you to hear a
 
 **The Officers’ Pledge**
 
-## ¶5920 {#p5920}
+#### ¶5920 {#p5920}
  Trusting in Jesus Christ, the great head of the church, I humbly promise Him and His church that I will be faithful to the extent of my ability to all known duties and responsibilities assigned to me as an officer of this church. I will endeavor to be regular in my attendance, cheerful in my service, wholehearted in my giving, open-minded in my planning, patient in the face of trials, persistent in the face of difficulty, and Christlike in my faithfulness to His service. I will seek by example and precept the promotion of Christian fellowship among all our members and the spreading of the message of full salvation at home and abroad. Do you cheerfully and yet solemnly accept the obligations of this pledge?
 
 *Answer:* I do.
@@ -86,7 +86,7 @@ We, the pastor and officers of this church, call upon the members and friends of
 
 **The Church’s Pledge**
 
-## ¶5925 {#p5925}
+#### ¶5925 {#p5925}
  Having chosen these officers to guide us in the administration of the church, we, its members and friends, do now pledge our loyalty to its work and promise our consideration of the plans and our friendly cooperation in the service suggested to us. We acknowledge our duty and declare our determination to pray for all our leaders and to share with them in the glorious responsibility of spreading the good news, thus hastening the coming of Christ. Do you cheerfully and yet solemnly accept the obligations of this pledge?
 
 *Answer:* We do.
@@ -95,7 +95,7 @@ We, the pastor and officers of this church, call upon the members and friends of
 
 ## D. Installation of District Superintendent
 
-## ¶5930 {#p5930}
+#### ¶5930 {#p5930}
 
 *(The General Superintendent or representative shall be in charge of installing the district superintendent before the adjournment of the district conference in which election to the office has occurred ([¶1935](#p1935)). The newly elected district superintendent, and such other district officers as are desired, shall be called before the General Superintendent, who shall first address the district superintendent, saying:)*
 
@@ -121,7 +121,7 @@ As representative of The Wesleyan Church, I charge you with this responsibility 
 
 ## E. Installation of General Officials
 
-## ¶5935 {#p5935}
+#### ¶5935 {#p5935}
 
 *(In the parts of the service prior to the actual installation, a Scripture lesson such as 1 Corinthians 12:14–28 shall be read. The person appointed to preside over the service shall be responsible for giving the various charges, and shall address the congregation, saying:)*
 
@@ -198,7 +198,7 @@ Through Christ we bring this petition. Amen.
 
 ## F. Installation of a College or University President
 
-## ¶5945 {#p5945}
+#### ¶5945 {#p5945}
 
 *(The General Superintendent, chair of the board of trustees or other appointed official shall formally and officially install a college/university president at the proper time during the convocation of inauguration. The chair shall address the president, saying:)*
 

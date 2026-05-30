@@ -1,6 +1,6 @@
 # Chapter 2 — Mission of The Wesleyan Church
 
-## ¶100 {#p100}
+#### ¶100 {#p100}
  The Wesleyan Church has grown out of a revival movement which has historically given itself to one mission—the spreading of scriptural holiness throughout every land. The message which ignited the Wesleyan revival was the announcement that God through Christ can forgive men and women of their sins, transform them, free them from inbred sin, enable them to live a holy life, and bear witness to their hearts that they are indeed children of God. The message was based on the Scriptures, was verified in personal experience, and came not only in word but in the power of the Spirit. It was dynamic and contagious, and was communicated from heart to heart and from land to land. It adapted itself and gave new vitality and purpose to various kinds of church organizations.
 
 ## ¶105' {#p105'}

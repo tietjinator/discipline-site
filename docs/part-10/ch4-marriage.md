@@ -2,7 +2,7 @@
 
 ## A. Marriage Ceremony - Longer Form
 
-## ¶5650 {#p5650}
+#### ¶5650 {#p5650}
  *(At the day and time appointed for the solemnizing of matrimony, the persons to be married standing together, the man on the right hand of the woman, the minister shall say:)*
 
 Dearly beloved, we are gathered together in the sight of God, and in the presence of these witnesses, to join together this man and this woman in holy matrimony, which is an honorable estate, instituted of God, and signifying unto us the mystical union which exists between Christ and His church. It is therefore not to be entered into unadvisedly, but reverently, discreetly and in the fear of God. Into this holy estate these two persons come now to be joined.
@@ -64,7 +64,7 @@ God the Father, God the Son, God the Holy Spirit, bless, preserve, and keep you;
 
 ## B. Marriage Ceremony - Shorter Form
 
-## ¶5680 {#p5680}
+#### ¶5680 {#p5680}
  *(At the day and time appointed for the solemnizing of matrimony, the persons to be married standing together, the man on the right hand of the woman, the minister shall say:)*
 
 My friends, the ordinance of marriage was instituted by God Himself in the garden of Eden, and is one of the most solemn and binding of obligations, because it involves the sacred relations of the home and the family. Your happiness for the future will largely depend upon the faithfulness with which the marriage vows are cherished and kept. There must be mutual affection the one for the other, and the marriage covenant must be kept in purity of spirit, as well as in actual word and deed, if you would reap the full fruition of happiness in your marriage.

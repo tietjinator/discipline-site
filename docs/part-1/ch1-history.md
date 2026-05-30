@@ -50,7 +50,7 @@ The Hephzibah Faith Missionary Society was organized in 1893 and eventually esta
 ### ¶17.2' {#p17-2'}
 The Missionary Bands of the World, organized in 1885 as the Pentecost Bands, an auxiliary of the Free Methodist Church, became a separate organization in 1895, changed names in 1925, and in 1958 merged its churches in Indiana and its mission fields in central India and Jamaica with The Wesleyan Methodist Church.
 
-### ¶17.3 {#p17-3}
+##### ¶17.3 {#p17-3}
 The Alliance of the Reformed Baptist Church of Canada was organized in 1888 as the result of the sanctification of several Baptist ministers. In 1966, it merged its churches in New Brunswick, Nova Scotia, and Maine, and its mission fields in Africa with The Wesleyan Methodist Church.
 
 ## ¶18' {#p18'}

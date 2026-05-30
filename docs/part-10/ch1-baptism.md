@@ -2,7 +2,7 @@
 
 ## A. Dedication of Infants
 
-## ¶5500 {#p5500}
+#### ¶5500 {#p5500}
  (*When the parents, guardians or other sponsors have presented themselves with their children before the minister, the minister shall say:*)
 
 Dear friends, you have brought *these children*^*^ whom God has given you to be dedicated to God and to His service. By this act you testify to your faith in the Christian religion, and also your desire that your *children* shall receive the benefits of consecration to God, and of the prayers of the church, and may early learn to know and follow the will of God; and therefore may live a Christian life.
@@ -25,7 +25,7 @@ ____________ ___________, on behalf of your parents and of this congregation, I 
 
 ## B. Baptism of Infants
 
-## ¶5510 {#p5510}
+#### ¶5510 {#p5510}
  (*When the parents, guardians or other sponsors have presented themselves with their children before the minister, the minister shall say:*)
 
 Dear friends, you have brought *these children* whom God has given you to be baptized, thereby testifying to your own commitment of faith in Christ and the assurance you hold that the grace of God is even now at work in their lives. Forasmuch as *these children* are now presented by you, it will be your duty as *parents* to teach *them* as soon as *they are* able to learn, the nature and meaning of this sacrament. In order to testify to your faith and to your desire to nurture your *children* within this faith, please respond to these questions.
@@ -48,7 +48,7 @@ ____________ ____________, I baptize you in the name of the Father, and of the S
 
 ## C. Baptism of Believers
 
-## ¶5515 {#p5515}
+#### ¶5515 {#p5515}
  (*When the candidates for baptism have presented themselves before the minister, the minister shall say:*)
 
 Dear *friends*, in keeping with the example of Jesus, you have presented *yourselves* this day that you might receive the sacrament of baptism. Baptism is not itself the door to salvation, but rather is an outward sign of the new birth which God has wrought in your heart. It proclaims to all the world that you have taken Christ Jesus as the Lord of your lives, and that it is your purpose always to obey Him. In order that we may hear your testimony of what God has done for you, and that we may know that you understand the significance of the step you are taking, we want to ask you these questions:
@@ -69,7 +69,7 @@ ____________ ____________, I baptize you in the name of the Father, and of the S
 
 ## D. Affirmation of Parental Vows
 
-## ¶5530 {#p5530}
+#### ¶5530 {#p5530}
  (*Persons who were baptized as infants, upon coming to maturity and being converted, and desiring to make personal the vows earlier taken in their behalf by their parents, may do so by publicly answering the questions in the ritual of baptism as given in [¶5515](#p5515) and as directed by the pastor.*)
 
 Dear friends, ______________ were presented by *their parents* for baptism as children. *They* now desire to make personal the vows made in *their* behalf by publicly declaring their commitment to the faith in which *they were* baptized.

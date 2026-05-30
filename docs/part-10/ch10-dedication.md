@@ -2,7 +2,7 @@
 
 ## A. Dedication of a Church Building
 
-## ¶5950 {#p5950}
+#### ¶5950 {#p5950}
 
 **Call to Worship**
 
@@ -112,7 +112,7 @@ May You, O Lord our God, make this house Your abiding place from this day forth,
 
 ## B. Dedication of Parsonage
 
-## ¶5975 {#p5975}
+#### ¶5975 {#p5975}
 
 *(At the time appointed for the dedication service, an appropriate hymn may be sung by the congregation or by a soloist or choir. Suitable numbers include: “Happy the Home When God Is There,” and “Bless This House.” Then the pastor or other appointed minister shall give an extemporaneous prayer. Then the pastor or other appointed minister shall give a Scripture reading, such as 1 Corinthians 9:7-10, 13–14. Then the district superintendent ([¶1310:14](#p1310-14)) or representative shall address the congregation, saying:)*
 

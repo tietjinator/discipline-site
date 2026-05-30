@@ -2,7 +2,7 @@
 
 ## A. General Directions
 
-## ¶5600 {#p5600}
+#### ¶5600 {#p5600}
  Each local church is encouraged to provide for the observance of the Lord’s Supper at least once each month but is required to do so at least once every three months ([¶293](#p293); [¶725:6](#p725-6)).
 
 **5605.** It is expected that Wesleyan ministers shall carefully admonish the people that only those who are in right relations with God and with their neighbors should come to the Lord’s Table, and that others should come only if in so doing they are expressing repentance and seeking forgiveness.

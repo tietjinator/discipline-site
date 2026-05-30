@@ -237,6 +237,15 @@
 .dark .vp-doc h3 {
   color: #BDE6FA;
 }
+.dark .vp-doc h4 {
+  color: #CCC;
+}
+.dark .vp-doc h5 {
+  color: #AAA;
+}
+.dark .vp-doc h6 {
+  color: #999;
+}
 .dark .vp-doc h1 {
   color: #5BB8E8;
   border-bottom-color: #39AAE1;
@@ -338,6 +347,22 @@
   font-size: 0.95rem;
   font-weight: 600;
   color: var(--twc-dark-gray);
+}
+
+.vp-doc h5 {
+  font-family: 'Open Sans', system-ui, sans-serif;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--twc-dark-gray);
+  margin-top: 1em;
+}
+
+.vp-doc h6 {
+  font-family: 'Open Sans', system-ui, sans-serif;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #555;
+  margin-top: 0.75em;
 }
 
 /* Chapter/Part headings (h1) */

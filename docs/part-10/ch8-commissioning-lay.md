@@ -1,15 +1,15 @@
 # Chapter 8 — Commissioning of Lay Workers
 
-## ¶5850 {#p5850}
+#### ¶5850 {#p5850}
  The commissioning service shall be planned by the Council of Ordination ([¶1405](#p1405)) and shall be presided over by the General Superintendent when present ([¶1935](#p1935)) or, if absent, by a representative appointed by the General Superintendent ([¶3091](#p3091)) or by the district superintendent ([¶1310:23](#p1310-23)).
 
-## ¶5855 {#p5855}
+#### ¶5855 {#p5855}
 
 *(This ritual is adaptable for use in commissioning any type of lay worker, including special workers, such as director of music, director of spiritual formation, youth director, song evangelist, children’s worker, spouse in ministry; including lay missionaries, such as doctors, nurses, teachers, spouses of ordained missionaries, office workers; and including any other lay worker commissioned by a district conference. In each case, the presiding minister ([¶3091](#p3091); [¶5850](#p5850)) and others helping in the commissioning service [cf. [¶1405](#p1405); [¶1935](#p1935); [¶3470](#p3470); [¶3490](#p3490)] shall insert the title of the commission being granted in the blanks, and make such other adaptations or modifications as are needed.)*
 
 **Invocation**
 
-## ¶5860 {#p5860}
+#### ¶5860 {#p5860}
  *(The presiding minister or other appointed minister shall give an extemporaneous invocation.)*
 
 **Hymn**
@@ -26,7 +26,7 @@
 
 **Presentation of Candidates**
 
-## ¶5865 {#p5865}
+#### ¶5865 {#p5865}
  *(Then the district superintendent shall present the candidates individually to the General Superintendent, saying:)*
 
 I present ____________ ____________ unto you to be commissioned as ____________.
@@ -37,14 +37,14 @@ Dear Friends, these are they whom we purpose this day to commission as _________
 
 **Address to Candidates**
 
-## ¶5870 {#p5870}
+#### ¶5870 {#p5870}
  *(Then the presiding minister ([¶3091](#p3091); [¶5850](#p5850)) shall address the candidates, saying:)*
 
 Dear Friends, we rejoice that in the providence of God a door of usefulness has been opened to you in the service of the Church. It is with infinite wisdom that God has provided diversities of gifts for His workers, distributing and administering them according to His good pleasure through the Holy Spirit. It is with joy that we have watched God’s will revealed in your lives, and your own resolve grow firm to use your gifts for His glory. Turning aside from worldly interests and pursuits, you are devoting yourselves to the Lord’s work, and to being helpers of the ministry. You will be pouring out of your talent, your time, your possessions, your strength, your very selves in a living sacrifice to Christ. You have not entered upon this solemn responsibility lightly, and doubtless already in the sacred stillness of the sanctuary of your heart you have consecrated yourselves to this service. What you have done alone with God, you do now formally and publicly in the presence of the Church.
 
 **Questioning of Candidates**
 
-## ¶5875 {#p5875}
+#### ¶5875 {#p5875}
  *(Then the presiding minister ([¶3091](#p3091); [¶5850](#p5850)) shall question the candidates:)*
 
 Do you believe that you have been led by the Spirit and the providences of God to engage in this work and to assume the duties of this service?
@@ -69,7 +69,7 @@ Will you cheerfully accept the direction of those whom the Church may place over
 
 **Consecration of Candidates**
 
-## ¶5880 {#p5880}
+#### ¶5880 {#p5880}
  *(Then the candidates shall kneel for a brief season of silent prayer, after which the presiding minister or other appointed minister shall pray extemporaneously or use the following:)*
 
 Our Father, who called Stephen, Philip, and other lay members into the service of Your church, look upon these Your servants who are to be set apart to service as ____________. Give, we pray, such understanding of Your holy gospel, such firmness of Christian purpose, such diligence in service, and such beauty of life in Christ, that they may be to all whom they teach or serve a worthy revelation of the meaning and power of the Christian life. May they so order their time and nourish their minds and hearts that they may constantly grow in grace and in the knowledge of our Lord Jesus Christ, and steadily increase in the ability to lead others unto Him. Grant that they may have strength of body, mind, and soul for the fulfillment of Your will in the holy task to which You have called them; and grant them Your Holy Spirit, that they may worthily discharge the work committed to them, to the blessing of all people and to the praise of Christ our Savior. Amen.
@@ -80,7 +80,7 @@ May the Spirit of the living God descend upon you and abide with you always. May
 
 **Act of Commissioning**
 
-## ¶5885 {#p5885}
+#### ¶5885 {#p5885}
  *(Then the candidates shall rise, and the presiding minister shall take each by the hand and say:)*
 
 I commission you to service as ____________ in The Wesleyan Church, in the name of the Father, and of the Son, and of the Holy Spirit. Amen.

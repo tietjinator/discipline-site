@@ -1,6 +1,6 @@
 # Chapter 5 — Burial of the Dead
 
-## ¶5700 At the House, Church or Funeral Chapel. {#p5700}
+#### ¶5700 At the House, Church or Funeral Chapel. {#p5700}
 
 ### Opening Sentences
 
@@ -52,7 +52,7 @@ O God of life, as we have learned to do in all our experiences, we come to You i
 
 May the grace of the Lord Jesus Christ, the love of God the Father, and the communion of the Holy Spirit abide with us now and evermore. Amen.
 
-## ¶5725 {#p5725}
+#### ¶5725 {#p5725}
 
 ### Scripture Readings
 
