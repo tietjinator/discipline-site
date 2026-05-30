@@ -1,0 +1,407 @@
+/* ============================================
+   DIRECTION: WARM
+   Inviting, pastoral, human. The congregation welcomed into governance.
+   Yellow (#FDBF51) as warmth accent. Light blue (#BDE6FA) as generous ground.
+   Green (#83B841) for organic hierarchy markers.
+   Open Sans dominates; Raleway appears for ceremony.
+   ============================================ */
+
+:root {
+  /* ── Warm direction tokens ── */
+  --w-yellow:       #FDBF51;           /* warmth accent */
+  --w-yellow-soft:  rgba(253,191,81,0.15);
+  --w-blue-bg:      #EEF7FC;           /* very light BDE6FA tint — ground color */
+  --w-blue-bg-mid:  #D6EEFA;           /* slightly stronger for cards */
+  --w-green:        #83B841;           /* organic hierarchy marker */
+  --w-green-soft:   rgba(131,184,65,0.12);
+  --w-dark-blue:    #0B496F;           /* links + headings */
+  --w-blue-black:   #03344D;           /* deepest dark */
+  --w-light-blue:   #39AAE1;           /* interactive light blue */
+  --w-text:         #333132;           /* dark gray body */
+  --w-muted:        #64748B;           /* secondary text */
+  --w-rule:         #CBD5E1;           /* soft rule */
+  --w-bg:           #FAFCFF;           /* warm blue-white ground */
+
+  /* Re-map VitePress brand tokens */
+  --vp-c-brand-1:   #0B496F;
+  --vp-c-brand-2:   #39AAE1;
+  --vp-c-brand-3:   #03344D;
+  --vp-c-brand-soft: rgba(189,230,250,0.4);
+
+  --vp-c-bg:        var(--w-bg);
+  --vp-c-bg-soft:   var(--w-blue-bg);
+  --vp-c-bg-mute:   var(--w-blue-bg-mid);
+  --vp-c-divider:   var(--w-rule);
+  --vp-c-text-1:    var(--w-text);
+  --vp-c-text-2:    var(--w-muted);
+
+  --vp-doc-line-height: 1.85;
+}
+
+/* --- Dark mode: Evening hospitality --- */
+.dark {
+  --w-yellow:       #FDBF51;
+  --w-yellow-soft:  rgba(253,191,81,0.12);
+  --w-blue-bg:      #1A2D3D;
+  --w-blue-bg-mid:  #243548;
+  --w-green:        #83B841;
+  --w-green-soft:   rgba(131,184,65,0.10);
+  --w-dark-blue:    #5BB8E8;
+  --w-blue-black:   #BDE6FA;
+  --w-light-blue:   #39AAE1;
+  --w-text:         #D4D9E0;
+  --w-muted:        #8899AA;
+  --w-rule:         #334458;
+  --w-bg:           #151E28;
+  --vp-c-brand-1:   #5BB8E8;
+  --vp-c-brand-2:   #39AAE1;
+  --vp-c-brand-3:   #BDE6FA;
+  --vp-c-brand-soft: rgba(189,230,250,0.15);
+  --vp-c-bg:        var(--w-bg);
+  --vp-c-bg-soft:   var(--w-blue-bg);
+  --vp-c-bg-mute:   var(--w-blue-bg-mid);
+  --vp-c-divider:   var(--w-rule);
+  --vp-c-text-1:    var(--w-text);
+  --vp-c-text-2:    var(--w-muted);
+}
+
+.dark .vp-doc { color: var(--w-text); }
+.dark .vp-doc h1 { color: var(--w-green); border-bottom-color: var(--w-green); }
+.dark .vp-doc h2 { color: var(--w-dark-blue); border-bottom-color: var(--w-rule); }
+.dark .vp-doc h3 { color: var(--w-blue-black); }
+.dark .vp-doc a[href*="#p"] { color: var(--w-light-blue); border-bottom-color: var(--w-light-blue); }
+.dark .vp-doc a[href*="#p"]:hover { color: var(--w-yellow); border-bottom-color: var(--w-yellow); }
+
+
+
+/* ── Nav bar — welcoming, warm underline ── */
+.VPNav {
+  background: #FFFFFF !important;
+  border-bottom: 3px solid var(--w-yellow) !important;   /* yellow warmth accent */
+  box-shadow: 0 1px 4px rgba(253,191,81,0.12) !important;
+}
+
+.VPNavBarTitle .title {
+  font-family: 'Raleway', system-ui, sans-serif;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  color: var(--w-dark-blue);
+  text-transform: none;                 /* not uppercase — friendlier */
+  font-size: 0.95rem;
+}
+
+/* Nav links */
+.VPNavBar .VPNavBarMenu .item .link {
+  font-family: 'Open Sans', system-ui, sans-serif;
+  font-size: 0.85rem;
+  color: var(--w-muted);
+  font-weight: 400;
+}
+
+.VPNavBar .VPNavBarMenu .item .link:hover,
+.VPNavBar .VPNavBarMenu .item .link.active {
+  color: var(--w-dark-blue);
+}
+
+/* ── Hero — welcoming, light blue ground ── */
+.VPHero {
+  background: linear-gradient(160deg, var(--w-blue-bg) 0%, #FFFFFF 60%) !important;
+  padding-top: 5rem;
+  padding-bottom: 5.5rem;
+  border-bottom: 1px solid var(--w-rule);
+}
+
+.VPHero .name {
+  font-family: 'Raleway', system-ui, sans-serif;
+  font-weight: 700 !important;
+  color: var(--w-dark-blue) !important;
+  background: none !important;
+  -webkit-text-fill-color: var(--w-dark-blue) !important;
+  font-size: 3.4rem;
+  letter-spacing: 0.03em;
+  text-transform: none;
+  line-height: 1.15;
+}
+
+.VPHero .text {
+  font-family: 'Open Sans', system-ui, sans-serif;
+  font-weight: 400;
+  color: var(--w-text) !important;
+  font-size: 1.05rem;
+}
+
+.VPHero .tagline {
+  font-family: 'Open Sans', system-ui, sans-serif;
+  color: var(--w-muted) !important;
+  font-size: 0.95rem;
+}
+
+/* Hero action buttons — yellow warmth primary */
+.VPButton.medium.brand {
+  background: var(--w-yellow) !important;
+  border-color: var(--w-yellow) !important;
+  color: var(--w-blue-black) !important;
+  font-family: 'Open Sans', system-ui, sans-serif;
+  font-weight: 600;
+  border-radius: 4px !important;
+}
+
+.VPButton.medium.brand:hover {
+  background: #E9AE3D !important;
+  border-color: #E9AE3D !important;
+}
+
+.VPButton.medium.alt {
+  border-color: var(--w-dark-blue) !important;
+  color: var(--w-dark-blue) !important;
+  border-radius: 4px !important;
+  font-family: 'Open Sans', system-ui, sans-serif;
+  font-weight: 600;
+}
+
+/* ── Sidebar — light blue tinted, green active marker ── */
+.VPSidebar {
+  background: var(--w-blue-bg) !important;
+  border-right: 1px solid var(--w-rule) !important;
+}
+
+.VPSidebarItem .text {
+  font-family: 'Open Sans', system-ui, sans-serif;
+  font-size: 0.85rem;
+  color: var(--w-muted);
+}
+
+.VPSidebarItem.is-active > .item .text {
+  color: var(--w-dark-blue);
+  font-weight: 600;
+}
+
+.VPSidebarItem.is-active > .item {
+  border-left: 3px solid var(--w-green);   /* green — organic, not institutional */
+  padding-left: 0.5em;
+  background: var(--w-green-soft);
+  border-radius: 0 4px 4px 0;
+}
+
+.VPSidebarItem .item:hover .text {
+  color: var(--w-dark-blue);
+}
+
+/* Sidebar group headers */
+.VPSidebarItem.level-0 > .item .text {
+  font-family: 'Raleway', system-ui, sans-serif;
+  font-weight: 700;
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--w-dark-blue);
+}
+
+/* ── Document body ── */
+.vp-doc {
+  font-family: 'Open Sans', system-ui, sans-serif;
+  font-size: 1.0rem;
+  line-height: 1.85;
+  color: var(--w-text);
+}
+
+/* ── Chapter heading (h1) — ceremonial Raleway, green accent ── */
+.vp-doc h1 {
+  font-family: 'Raleway', system-ui, sans-serif;
+  font-size: 1.9rem;
+  font-weight: 700;
+  color: var(--w-dark-blue);
+  border-bottom: 3px solid var(--w-green);   /* green — not dark blue */
+  padding-bottom: 0.4em;
+  letter-spacing: 0.04em;
+  text-transform: none;                       /* no caps — friendlier */
+}
+
+/* ── Paragraph headings (h2 — ¶NNN) ── */
+.vp-doc h2 {
+  font-family: 'Raleway', system-ui, sans-serif;
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--w-dark-blue);
+  border-bottom: 1px solid var(--w-blue-bg-mid);   /* light blue rule — gentle */
+  padding-bottom: 0.25em;
+  margin-top: 2.75em;
+  letter-spacing: 0.02em;
+  text-transform: none;                              /* NOT uppercase */
+}
+
+/* ── Subparagraph headings (h3) ── */
+.vp-doc h3 {
+  font-family: 'Open Sans', system-ui, sans-serif;
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--w-text);
+  margin-top: 1.75em;
+  letter-spacing: 0.01em;
+}
+
+/* ── h4 ── */
+.vp-doc h4 {
+  font-family: 'Open Sans', system-ui, sans-serif;
+  font-size: 0.88rem;
+  font-weight: 600;
+  color: var(--w-muted);
+}
+
+/* ── Cross-reference links — warm and clear ── */
+.vp-doc a[href*="#p"] {
+  color: var(--w-dark-blue);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--w-light-blue);
+  font-variant-numeric: tabular-nums;
+}
+
+.vp-doc a[href*="#p"]:hover {
+  color: var(--w-dark-blue);
+  border-bottom: 1px solid var(--w-yellow);   /* yellow warmth on hover */
+  background: var(--w-yellow-soft);
+  border-radius: 2px;
+  padding: 0 1px;
+}
+
+/* ── Scripture cite blocks — green pastoral accent ── */
+.vp-doc cite {
+  font-style: italic;
+  color: var(--w-muted);
+  font-size: 0.9em;
+  display: block;
+  margin: 0.75em 0 0.75em 1.25em;
+  border-left: 3px solid var(--w-green);     /* green — organic */
+  padding-left: 0.75em;
+  background: var(--w-green-soft);
+  padding: 0.4em 0.75em;
+  border-radius: 0 4px 4px 0;
+}
+
+/* ── Right-hand outline ── */
+.VPDocOutlineItem a {
+  font-family: 'Open Sans', system-ui, sans-serif;
+  font-size: 0.78rem;
+  color: var(--w-muted);
+}
+
+.VPDocOutlineItem.active a {
+  color: var(--w-dark-blue);
+  font-weight: 600;
+}
+
+/* ── Feature cards — light blue tint, yellow warmth top ── */
+.VPFeature {
+  border: 1px solid var(--w-rule) !important;
+  border-top: 3px solid var(--w-yellow) !important;   /* yellow warmth accent */
+  background: #FFFFFF !important;
+  border-radius: 6px !important;
+  box-shadow: 0 2px 8px rgba(189,230,250,0.3) !important;
+}
+
+.VPFeature .title {
+  font-family: 'Raleway', system-ui, sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  color: var(--w-dark-blue);
+  text-transform: none;
+  font-size: 0.95rem;
+}
+
+.VPFeature .details {
+  font-family: 'Open Sans', system-ui, sans-serif;
+  font-size: 0.88rem;
+  color: var(--w-muted);
+  line-height: 1.6;
+}
+
+/* ── Search bar — warm focus ── */
+.DocSearch-Button {
+  border: 1px solid var(--w-rule) !important;
+  background: #FFFFFF !important;
+  border-radius: 4px !important;
+  color: var(--w-muted) !important;
+}
+
+.DocSearch-Button:hover {
+  border-color: var(--w-light-blue) !important;
+  box-shadow: 0 0 0 2px var(--w-blue-bg) !important;
+}
+
+/* ── Footer — light blue warmth ── */
+.VPFooter {
+  background: var(--w-blue-bg);
+  border-top: 2px solid var(--w-light-blue);
+  font-family: 'Open Sans', system-ui, sans-serif;
+}
+
+.VPFooter .message,
+.VPFooter .copyright {
+  color: var(--w-muted);
+  font-size: 0.82rem;
+}
+
+/* ── General content links ── */
+.vp-doc a:not([href*="#p"]) {
+  color: var(--w-dark-blue);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(57,170,225,0.4);
+}
+
+.vp-doc a:not([href*="#p"]):hover {
+  color: var(--w-blue-black);
+  border-bottom-color: var(--w-yellow);
+}
+
+/* ── Blockquotes — generous, welcoming ── */
+.vp-doc blockquote {
+  border-left: 4px solid var(--w-yellow);
+  background: var(--w-yellow-soft);
+  padding: 0.75em 1.25em;
+  color: var(--w-text);
+  margin: 1.5em 0;
+  font-style: italic;
+  border-radius: 0 6px 6px 0;
+}
+
+/* ── Body background — subtle light blue tint ── */
+body {
+  background-color: var(--w-bg);
+}
+
+.VPContent {
+  background: var(--w-bg);
+}
+
+/* Generous paragraph spacing for readability */
+.vp-doc p {
+  margin-bottom: 1.1em;
+}
+
+/* ── Table — warm, accessible ── */
+.vp-doc th {
+  background: var(--w-dark-blue);
+  color: #fff;
+  font-family: 'Open Sans', system-ui, sans-serif;
+  font-weight: 600;
+  font-size: 0.85rem;
+  padding: 0.6em 0.8em;
+  text-align: left;
+}
+
+.vp-doc td {
+  border-bottom: 1px solid var(--w-blue-bg-mid);
+  padding: 0.6em 0.8em;
+}
+
+.vp-doc tr:nth-child(even) td {
+  background: var(--w-blue-bg);
+}
+
+/* ── Print ── */
+@media print {
+  .VPNav, .VPSidebar, .VPDocAside { display: none !important; }
+  .vp-doc { font-size: 11pt; line-height: 1.7; color: #000; }
+  .vp-doc h1, .vp-doc h2, .vp-doc h3 { color: #000; border-color: #999; }
+  a[href*="#p"]::after { content: " (" attr(href) ")"; font-size: 0.75em; color: #666; }
+}

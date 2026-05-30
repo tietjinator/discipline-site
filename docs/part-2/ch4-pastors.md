@@ -221,7 +221,7 @@ See that all property and building transactions are carried out as set forth in 
 ### ¶725:24 {#p725-24}
 Circulate holiness literature.
 
-### ¶725:25'' {#p725-25}
+### ¶725:25 {#p725-25}
 Have general supervision of the spiritual formation of the local church, organizing classes for the instruction of adults, youth, and children in the Word of God and for Christian living, and providing for the instruction and inspiration of the leaders in spiritual formation.
 
 ### ¶725:26 {#p725-26}

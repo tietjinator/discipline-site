@@ -208,7 +208,7 @@ To appoint the desired number of ordained ministers as a council of ordination (
 
 ### 1. Ordained Ministers
 
-A. APPOINTED ORDAINED MINISTERS ([¶3250-3390](#p3250-3390)). ]
+A. APPOINTED ORDAINED MINISTERS ([¶3250-3390](#p3250-3390)).
 
 ## ¶1240.1 District Service. {#p1240-1}
 
@@ -267,19 +267,19 @@ Ordained ministers serving in active ministry not otherwise provided for, if suc
 ### ¶1240:8 Affiliate Church Pastor {#p1240-8}
  ([¶3346](/part-6/ch3-ministerial-appointments.md#p3346); [¶7010](#p7010)).
 Ordained ministers appointed by the district conference to service on staff of an affiliate church.
-B. RETIRED ORDAINED MINISTERS ([¶3370](/part-6/ch3-ministerial-appointments.md#p3370)) ]
+B. RETIRED ORDAINED MINISTERS ([¶3370](/part-6/ch3-ministerial-appointments.md#p3370))
 
 Ordained ministers retired because of age or incapacitated by infirmity, provided they were either on the appointed list, on reserve, or on educational leave at the time of such incapacitation or retirement.
 
-C. RESERVE ORDAINED MINISTERS ([¶3360](/part-6/ch3-ministerial-appointments.md#p3360)) ]
+C. RESERVE ORDAINED MINISTERS ([¶3360](/part-6/ch3-ministerial-appointments.md#p3360))
 
 Ordained ministers available for but without appointment. An ordained minister who remains on reserve for two consecutive years shall be automatically transferred to the list of ordained ministers without appointment unless continued on reserve by vote of the district conference.
 
-D. ORDAINED MINISTERS ON EDUCATIONAL LEAVE ([¶3350:1](/part-6/ch3-ministerial-appointments.md#p3350-1)) ]
+D. ORDAINED MINISTERS ON EDUCATIONAL LEAVE ([¶3350:1](/part-6/ch3-ministerial-appointments.md#p3350-1))
 
 Ordained ministers enrolled in a seminary or other graduate school for advanced training for church service.
 
-E. ORDAINED MINISTERS WITHOUT APPOINTMENT ([¶3380](/part-6/ch3-ministerial-appointments.md#p3380)) ]
+E. ORDAINED MINISTERS WITHOUT APPOINTMENT ([¶3380](/part-6/ch3-ministerial-appointments.md#p3380))
 
 ### ¶E1 {#pE1}
 Ordained ministers not available for appointment.
@@ -290,7 +290,7 @@ Ordained ministers employed in other than a ministerial capacity by the General 
 ### ¶E.3 {#pE-3}
 Ordained ministers not otherwise listed.
 
-F. ORDAINED MINISTERS IN PROCESS OF DISTRICT TRANSFER ]
+F. ORDAINED MINISTERS IN PROCESS OF DISTRICT TRANSFER
 
 Ordained ministers receiving appointment by the district conference to 1240:1:A, B, C or D but whose processes of transfer between districts of The Wesleyan Church are not yet completed.
 
@@ -300,21 +300,21 @@ The receiving district shall list the ordained minister under the appropriate ca
 ### ¶F.2 {#pF-2}
 The sending district shall list the ordained minister as having “Applied for District Transfer.” The ordained minister shall be a voting member of the sending district until completion of the district transfer ([¶3100:1](/part-6/ch1-ministerial-orders.md#p3100-1); [¶1083:5](/part-3/ch2-conference.md#p1083-5)).
 
-G. ORDAINED MINISTERS IN PROCESS OF DENOMINATIONAL TRANSFER ([¶3104](/part-6/ch1-ministerial-orders.md#p3104); [¶3390](/part-6/ch3-ministerial-appointments.md#p3390)) ]
+G. ORDAINED MINISTERS IN PROCESS OF DENOMINATIONAL TRANSFER ([¶3104](/part-6/ch1-ministerial-orders.md#p3104); [¶3390](/part-6/ch3-ministerial-appointments.md#p3390))
 
 Ordained ministers from another denomination who have been granted recognition as ordained ministers in process of transfer (1180:29a; cf. [¶1390:3](/part-3/ch6-ministerial.md#p1390-3); [¶3104](/part-6/ch1-ministerial-orders.md#p3104)).
 
 ### 2. Commissioned Ministers
 
-A. PASTORS ([¶3255](/part-6/ch3-ministerial-appointments.md#p3255)) ]
+A. PASTORS ([¶3255](/part-6/ch3-ministerial-appointments.md#p3255))
 
 Commissioned ministers appointed as pastors or as full-time assistant pastors of Wesleyan churches in that district ([¶317](/part-1/ch4-constitution.md#p317); [¶1083:3](/part-3/ch2-conference.md#p1083-3)).
 
-B. OTHER APPOINTMENTS. ]
+B. OTHER APPOINTMENTS.
 
 Commissioned ministers appointed to service in a local church spiritual formation or Christian education program ([¶3310:2](/part-6/ch3-ministerial-appointments.md#p3310-2)) or in a ministerial capacity to district, denominational, or interchurch service ([¶3250](/part-6/ch3-ministerial-appointments.md#p3250); [¶3300](/part-6/ch3-ministerial-appointments.md#p3300); [¶3320](/part-6/ch3-ministerial-appointments.md#p3320); [¶3335](/part-6/ch3-ministerial-appointments.md#p3335)); itinerant Bible teachers ([¶3310:3](/part-6/ch3-ministerial-appointments.md#p3310-3)).
 
-C. COMMISSIONED MINISTERS WITHOUT APPOINTMENT ([¶3380](/part-6/ch3-ministerial-appointments.md#p3380)). ]
+C. COMMISSIONED MINISTERS WITHOUT APPOINTMENT ([¶3380](/part-6/ch3-ministerial-appointments.md#p3380)).
 
 ### ¶1240.2.C.1 {#p1240-2-C-1}
 Commissioned ministers not available for appointment.
@@ -322,31 +322,31 @@ Commissioned ministers not available for appointment.
 ### ¶1240.2.C.2 {#p1240-2-C-2}
 Commissioned ministers employed in other than a ministerial capacity by the General Church ([¶3320](/part-6/ch3-ministerial-appointments.md#p3320)), by a general educational institution or one of the seminaries connected with the Wesleyan Seminary Foundation ([¶3310](/part-6/ch3-ministerial-appointments.md#p3310)) or in interchurch service ([¶3335](/part-6/ch3-ministerial-appointments.md#p3335)).
 
-D. COMMISSIONED MINISTERS IN PROCESS OF DISTRICT TRANSFER. ]
+D. COMMISSIONED MINISTERS IN PROCESS OF DISTRICT TRANSFER.
 
 Commissioned ministers receiving appointment by the district conference to 1240:2:A or B but whose processes of transfer from another district of The Wesleyan Church are not yet completed.
 
 **1.** The receiving district shall list the commissioned minister under the appropriate category of service, followed by the notation, “Pending Completion of District Transfer.” The commissioned minister shall be a nonvoting member of this district until completion of the transfer ([¶3100:1](/part-6/ch1-ministerial-orders.md#p3100-1)).
 **2.** The sending district shall list the commissioned minister as having “Applied for District Transfer.” The commissioned minister shall remain a nonvoting member of the sending district until completion of the transfer ([¶1083:3](/part-3/ch2-conference.md#p1083-3)).
-E. COMMISSIONED MINISTERS IN PROCESS OF DENOMINATIONAL TRANSFER. ]
+E. COMMISSIONED MINISTERS IN PROCESS OF DENOMINATIONAL TRANSFER.
 
 Commissioned ministers or their equivalent from other denominations who have been granted recognition as commissioned ministers in process of transfer ([¶3104](/part-6/ch1-ministerial-orders.md#p3104)).
 
-F. RETIRED COMMISSIONED MINISTERS ([¶3371](/part-6/ch3-ministerial-appointments.md#p3371)) ]
+F. RETIRED COMMISSIONED MINISTERS ([¶3371](/part-6/ch3-ministerial-appointments.md#p3371))
 
 Commissioned ministers retired because of age or incapacitated by infirmity, provided they were either on the appointed list, on reserve, or on educational leave at the time of such incapacitation or retirement.
 
 ### 3. Licensed Ministers
 
-A. PASTORS ([¶3255](/part-6/ch3-ministerial-appointments.md#p3255)). ]
+A. PASTORS ([¶3255](/part-6/ch3-ministerial-appointments.md#p3255)).
 
 Licensed ministers appointed as pastors, associate pastors or assistant pastors of Wesleyan churches in that district ([¶317](/part-1/ch4-constitution.md#p317); [¶1083:3](/part-3/ch2-conference.md#p1083-3)).
 
-B. OTHER APPOINTMENTS. ]
+B. OTHER APPOINTMENTS.
 
 Licensed ministers appointed to service in a local church spiritual formation or Christian education program ([¶3310:2](/part-6/ch3-ministerial-appointments.md#p3310-2)) or in a ministerial capacity to district, denominational, or interchurch service ([¶3250](/part-6/ch3-ministerial-appointments.md#p3250); [¶3300](/part-6/ch3-ministerial-appointments.md#p3300); [¶3320](/part-6/ch3-ministerial-appointments.md#p3320); [¶3335](/part-6/ch3-ministerial-appointments.md#p3335)); itinerant Bible teachers ([¶3310:3](/part-6/ch3-ministerial-appointments.md#p3310-3)).
 
-C. IN PROCESS OF DISTRICT TRANSFER. ]
+C. IN PROCESS OF DISTRICT TRANSFER.
 
 Licensed ministers receiving appointment by the district conference to 1240:3:A or B but whose processes of transfer from another district of The Wesleyan Church are not yet completed.
 
@@ -356,7 +356,7 @@ The receiving district shall list the licensed minister under the appropriate ca
 ### ¶C.2 {#pC-2}
 The sending district shall list the licensed minister as “Applied for District Transfer.” Unless a licensed minister is an ordained minister-elect, said minister shall remain a nonvoting member of the sending district until completion of the district transfer (1083:2, 3).
 
-D. IN PROCESS OF DENOMINATIONAL TRANSFER. ]
+D. IN PROCESS OF DENOMINATIONAL TRANSFER.
 
 Licensed ministers or their equivalent from other denominations who have been granted recognition as licensed ministers in process of transfer ([¶3104](/part-6/ch1-ministerial-orders.md#p3104)).
 
@@ -366,20 +366,20 @@ Those approved by the district conference to be licensed as ministerial students
 
 ### 5. Lay Workers
 
-A. COMMISSIONED SPECIAL WORKERS ([¶3450](/part-6/ch4-special-lay-ministries.md#p3450); [¶3470](/part-6/ch4-special-lay-ministries.md#p3470)) ]
+A. COMMISSIONED SPECIAL WORKERS ([¶3450](/part-6/ch4-special-lay-ministries.md#p3450); [¶3470](/part-6/ch4-special-lay-ministries.md#p3470))
 
 List by specific category such as director of music, director of spiritual formation or Christian education, youth director, song evangelist, children’s worker, lay evangelist, social worker, or spouse in ministry.
 
-B. COMMISSIONED SPECIAL WORKERS IN PROCESS OF TRANSFER ([¶3450](/part-6/ch4-special-lay-ministries.md#p3450); [¶3470](/part-6/ch4-special-lay-ministries.md#p3470)) ]
+B. COMMISSIONED SPECIAL WORKERS IN PROCESS OF TRANSFER ([¶3450](/part-6/ch4-special-lay-ministries.md#p3450); [¶3470](/part-6/ch4-special-lay-ministries.md#p3470))
 
 List by specific category (refer to 1240:5:A).
 
-C. LICENSED SPECIAL WORKERS ([¶3450](/part-6/ch4-special-lay-ministries.md#p3450); [¶3460](/part-6/ch4-special-lay-ministries.md#p3460)) ]
+C. LICENSED SPECIAL WORKERS ([¶3450](/part-6/ch4-special-lay-ministries.md#p3450); [¶3460](/part-6/ch4-special-lay-ministries.md#p3460))
 
 List by specific category (refer to 1240:5:A).
 
-D. COMMISSIONED LAY MISSIONARIES ([¶3490](/part-6/ch4-special-lay-ministries.md#p3490)) ]
-E. SUPPLY PASTORS ([¶3260](/part-6/ch3-ministerial-appointments.md#p3260)). ]
+D. COMMISSIONED LAY MISSIONARIES ([¶3490](/part-6/ch4-special-lay-ministries.md#p3490))
+E. SUPPLY PASTORS ([¶3260](/part-6/ch3-ministerial-appointments.md#p3260)).
 
 ## G. Executive Committee
 

@@ -1,0 +1,366 @@
+/* ============================================
+   DIRECTION: HERITAGE
+   Traditional, bookish, editorial — a leather-bound reference volume.
+   Dark blue used sparingly; warmth comes from neutrals, not color.
+   ============================================ */
+
+:root {
+  /* ── Heritage direction tokens ── */
+  --h-bg:           #FAFAF7;          /* warm parchment white */
+  --h-surface:      #F2EFE9;          /* parchment card */
+  --h-rule:         #CCCAC3;          /* warm thin rule */
+  --h-rule-strong:  #A09C94;          /* for section dividers */
+  --h-text:         #2C2A28;          /* warm near-black body text */
+  --h-muted:        #7D7A72;          /* footnote/secondary text */
+  --h-accent:       #0B496F;          /* dark blue — used sparingly */
+  --h-accent-light: rgba(11,73,111,0.07);
+  --h-link:         #0B496F;          /* bibliographic dark blue */
+  --h-link-hover:   #03344D;
+
+  /* Re-map VitePress brand tokens */
+  --vp-c-brand-1:   #0B496F;
+  --vp-c-brand-2:   #39AAE1;
+  --vp-c-brand-3:   #03344D;
+  --vp-c-brand-soft: rgba(11,73,111,0.06);
+
+  /* Site background — parchment warmth */
+  --vp-c-bg:        var(--h-bg);
+  --vp-c-bg-soft:   var(--h-surface);
+  --vp-c-bg-mute:   #EAE8E2;
+  --vp-c-divider:   var(--h-rule);
+  --vp-c-text-1:    var(--h-text);
+  --vp-c-text-2:    var(--h-muted);
+
+  /* Generous reading measure */
+  --vp-doc-line-height: 1.9;
+}
+
+/* --- Dark mode: Lamplight reading --- */
+.dark {
+  --h-bg:           #1E1C18;
+  --h-surface:      #262420;
+  --h-rule:         #3E3A34;
+  --h-rule-strong:  #5A5550;
+  --h-text:         #D4CFC6;
+  --h-muted:        #9A948C;
+  --h-accent:       #5BB8E8;
+  --h-accent-light: rgba(91,184,232,0.08);
+  --h-link:         #5BB8E8;
+  --h-link-hover:   #BDE6FA;
+  --vp-c-brand-1:   #5BB8E8;
+  --vp-c-brand-2:   #39AAE1;
+  --vp-c-brand-3:   #BDE6FA;
+  --vp-c-brand-soft: rgba(91,184,232,0.08);
+  --vp-c-bg:        var(--h-bg);
+  --vp-c-bg-soft:   var(--h-surface);
+  --vp-c-bg-mute:   #2E2B24;
+  --vp-c-divider:   var(--h-rule);
+  --vp-c-text-1:    var(--h-text);
+  --vp-c-text-2:    var(--h-muted);
+}
+
+.dark .vp-doc { color: var(--h-text); }
+.dark .vp-doc h1 { color: var(--h-accent); border-bottom-color: var(--h-rule-strong); }
+.dark .vp-doc h2 { color: var(--h-accent); border-bottom-color: var(--h-rule); }
+.dark .vp-doc h3 { color: #BDE6FA; }
+.dark .vp-doc a[href*="#p"] { color: var(--h-link); border-bottom-color: var(--h-link); }
+.dark .vp-doc a[href*="#p"]:hover { color: var(--h-link-hover); }
+
+
+
+/* ── Nav bar — understated masthead ── */
+.VPNav {
+  background: var(--h-bg) !important;
+  border-bottom: 1px solid var(--h-rule) !important;  /* thin rule, not thick brand bar */
+  box-shadow: none !important;
+}
+
+.VPNavBarTitle .title {
+  font-family: 'Raleway', system-ui, sans-serif;
+  font-weight: 300;                     /* thin weight for elegance */
+  letter-spacing: 0.18em;
+  color: var(--h-accent);
+  text-transform: uppercase;
+  font-size: 0.78rem;
+}
+
+.VPNavBar .VPNavBarMenu .item .link {
+  font-family: 'Open Sans', system-ui, sans-serif;
+  font-size: 0.82rem;
+  letter-spacing: 0.04em;
+  color: var(--h-muted);
+  font-weight: 400;
+}
+
+.VPNavBar .VPNavBarMenu .item .link:hover,
+.VPNavBar .VPNavBarMenu .item .link.active {
+  color: var(--h-accent);
+}
+
+/* ── Hero — editorial title page feel ── */
+.VPHero {
+  background: var(--h-bg) !important;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+.VPHero .name {
+  font-family: 'Raleway', system-ui, sans-serif;
+  font-weight: 200 !important;          /* thin weight — like a pressed title */
+  color: var(--h-accent) !important;
+  background: none !important;
+  -webkit-text-fill-color: var(--h-accent) !important;
+  font-size: 3.8rem;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  line-height: 1.15;
+}
+
+.VPHero .text {
+  font-family: 'Raleway', system-ui, sans-serif;
+  font-weight: 300;
+  color: var(--h-text) !important;
+  letter-spacing: 0.06em;
+  font-size: 1.1rem;
+}
+
+.VPHero .tagline {
+  font-family: 'Open Sans', system-ui, sans-serif;
+  font-size: 0.9rem;
+  color: var(--h-muted) !important;
+  font-style: italic;
+  letter-spacing: 0.02em;
+}
+
+/* Hero divider line below name — like a title page rule */
+.VPHero .main::after {
+  content: '';
+  display: block;
+  width: 4rem;
+  height: 1px;
+  background: var(--h-rule-strong);
+  margin: 1.5rem auto;
+}
+
+/* ── Sidebar — restrained, reference-book index feel ── */
+.VPSidebar {
+  background: var(--h-bg) !important;
+  border-right: 1px solid var(--h-rule) !important;
+}
+
+.VPSidebarItem .text {
+  font-family: 'Open Sans', system-ui, sans-serif;
+  font-size: 0.8rem;
+  color: var(--h-muted);
+  letter-spacing: 0.01em;
+}
+
+.VPSidebarItem.is-active > .item .text {
+  color: var(--h-accent);
+  font-weight: 400;                     /* not bold — refined active state */
+  border-left: 2px solid var(--h-accent);
+  padding-left: 0.6em;
+  margin-left: -0.6em;
+}
+
+.VPSidebarItem .item:hover .text {
+  color: var(--h-accent);
+}
+
+/* Sidebar section headers */
+.VPSidebarItem .section-title {
+  font-family: 'Raleway', system-ui, sans-serif;
+  font-weight: 600;
+  font-size: 0.7rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--h-rule-strong);
+}
+
+/* ── Document body ── */
+.vp-doc {
+  font-family: 'Open Sans', system-ui, sans-serif;
+  font-size: 1.0rem;
+  line-height: 1.9;
+  color: var(--h-text);
+}
+
+/* ── Chapter heading (h1) — title page treatment ── */
+.vp-doc h1 {
+  font-family: 'Raleway', system-ui, sans-serif;
+  font-size: 1.8rem;
+  font-weight: 600;                     /* less heavy than base 800 */
+  color: var(--h-text);                 /* warm near-black, not brand blue */
+  border-bottom: 1px solid var(--h-rule);
+  padding-bottom: 0.6em;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  margin-bottom: 2rem;
+}
+
+/* ── Paragraph headings (h2 — ¶NNN) ── */
+.vp-doc h2 {
+  font-family: 'Raleway', system-ui, sans-serif;
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: var(--h-text);                 /* NOT brand blue — bookish black */
+  border-bottom: 1px solid var(--h-rule);
+  padding-bottom: 0.2em;
+  margin-top: 3em;                      /* generous spacing */
+  letter-spacing: 0.03em;
+  text-transform: none;                 /* NOT uppercase — more readable */
+}
+
+/* Subtle pilcrow / paragraph marker in brand blue */
+.vp-doc h2::before {
+  content: '¶';
+  display: none;                        /* placeholder; enable if markup supports it */
+}
+
+/* ── Subparagraph headings (h3) ── */
+.vp-doc h3 {
+  font-family: 'Open Sans', system-ui, sans-serif;
+  font-size: 0.92rem;
+  font-weight: 600;
+  font-style: italic;
+  color: var(--h-muted);               /* muted — subordinate in hierarchy */
+  margin-top: 2em;
+  letter-spacing: 0.02em;
+}
+
+/* ── h4 ── */
+.vp-doc h4 {
+  font-family: 'Open Sans', system-ui, sans-serif;
+  font-size: 0.88rem;
+  font-weight: 600;
+  color: var(--h-text);
+  text-transform: none;
+}
+
+/* ── Cross-reference links — bibliographic footnote feel ── */
+.vp-doc a[href*="#p"] {
+  color: var(--h-link);                /* dark blue — not #39AAE1 light blue */
+  text-decoration: none;
+  border-bottom: 1px solid rgba(11,73,111,0.3);
+  font-variant-numeric: tabular-nums;
+  font-size: 0.95em;
+}
+
+.vp-doc a[href*="#p"]:hover {
+  color: var(--h-link-hover);
+  border-bottom-color: var(--h-link-hover);
+  border-bottom-style: solid;
+}
+
+/* ── Scripture cite blocks — indented marginalia ── */
+.vp-doc cite {
+  font-style: italic;
+  color: var(--h-muted);
+  font-size: 0.88em;
+  display: block;
+  margin: 0.75em 0 0.75em 2em;
+  border-left: 1px solid var(--h-rule-strong);
+  padding-left: 1em;
+  font-family: 'Open Sans', system-ui, sans-serif;
+}
+
+/* ── Right-hand outline (TOC) ── */
+.VPDocOutlineItem a {
+  font-family: 'Open Sans', system-ui, sans-serif;
+  font-size: 0.75rem;
+  color: var(--h-muted);
+  letter-spacing: 0.01em;
+}
+
+.VPDocOutlineItem.active a {
+  color: var(--h-accent);
+  font-weight: 400;
+}
+
+/* ── Feature cards — framed panels, no color accents ── */
+.VPFeature {
+  border: 1px solid var(--h-rule) !important;
+  border-top: 1px solid var(--h-rule) !important;  /* no colored top — override base */
+  background: var(--h-surface) !important;
+  box-shadow: none !important;
+}
+
+.VPFeature .title {
+  font-family: 'Raleway', system-ui, sans-serif;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  color: var(--h-text);
+  font-size: 0.9rem;
+  text-transform: uppercase;
+}
+
+.VPFeature .details {
+  font-family: 'Open Sans', system-ui, sans-serif;
+  font-size: 0.85rem;
+  color: var(--h-muted);
+}
+
+/* ── Search bar ── */
+.VPLocalSearchBox {
+  --vp-local-search-highlight-bg: var(--h-surface);
+}
+
+.DocSearch-Button {
+  border: 1px solid var(--h-rule) !important;
+  background: var(--h-bg) !important;
+  color: var(--h-muted) !important;
+}
+
+.DocSearch-Button:hover {
+  border-color: var(--h-accent) !important;
+}
+
+/* ── Footer — colophon treatment ── */
+.VPFooter {
+  border-top: 1px solid var(--h-rule);  /* thin rule, not thick brand bar */
+  background: var(--h-surface);
+  font-family: 'Open Sans', system-ui, sans-serif;
+  font-size: 0.8rem;
+  color: var(--h-muted);
+  letter-spacing: 0.02em;
+}
+
+.VPFooter .message,
+.VPFooter .copyright {
+  color: var(--h-muted);
+}
+
+/* ── General link treatment in content ── */
+.vp-doc a:not([href*="#p"]) {
+  color: var(--h-link);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(11,73,111,0.2);
+}
+
+.vp-doc a:not([href*="#p"]):hover {
+  color: var(--h-link-hover);
+  border-bottom-color: var(--h-link-hover);
+}
+
+/* ── Blockquotes — indented secondary voice ── */
+.vp-doc blockquote {
+  border-left: 2px solid var(--h-rule-strong);
+  background: transparent;
+  padding: 0.5em 0 0.5em 1.5em;
+  color: var(--h-muted);
+  font-style: italic;
+  margin: 1.5em 0;
+}
+
+/* ── Paragraph spacing — breath between provisions ── */
+.vp-doc p {
+  margin-bottom: 1em;
+}
+
+/* ── Print ── */
+@media print {
+  .VPNav, .VPSidebar, .VPDocAside { display: none !important; }
+  .vp-doc { font-size: 11pt; line-height: 1.7; color: #000; }
+  .vp-doc h1, .vp-doc h2, .vp-doc h3 { color: #000; border-color: #999; }
+  a[href*="#p"]::after { content: " (" attr(href) ")"; font-size: 0.75em; color: #666; }
+}

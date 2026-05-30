@@ -73,7 +73,7 @@ chair may also preside over other sessions of the local board of administration 
 ## ¶781 {#p781}
  The health and growth of the local church is a shared responsibility, with the board focused on governing, the pastor on leading, the staff (employed or volunteer) on managing, and the congregation on ministering to the community and to one another. 
 
-The local board of administration governs the local church primarily by ]
+The local board of administration governs the local church primarily by
 
 #### ¶781.lba.a {#p781-lba-a}
 clarifying its mission and stating the primary outcomes it exists to achieve;
@@ -87,7 +87,7 @@ periodically evaluating the established goals in consultation with the district 
 #### ¶781.lba.d {#p781-lba-d}
 protecting the pastor, staff, and church by dealing with problem issues and persons that threaten fulfillment of the mission.
 
-As leader of the local church, the pastor is responsible for ]
+As leader of the local church, the pastor is responsible for
 
 #### ¶781.pastor.a {#p781-pastor-a}
 inspiring and teaching the congregation through word and example;

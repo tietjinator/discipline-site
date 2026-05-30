@@ -12,7 +12,7 @@
 ## ¶1080 {#p1080}
  The district conference, as required by the Constitution ([¶317](/part-1/ch4-constitution.md#p317)), shall be composed of an equal number of ministerial members and lay members as voting members, chosen in a way that maintains the principle of equal representation, and other non-voting members as listed herewith.
 
-a. Voting Members ]
+a. Voting Members
 
 ## ¶1083 Ministers. {#p1083}
  The ministerial voting members of the district conference are those who meet the following requirements:
@@ -35,7 +35,7 @@ Ordained ministers (including licensed ministers who are ordained ministers-elec
 ## ¶1086 Laity. {#p1086}
  The lay members of the district conference with voting rights are those elected as delegates by the churches or circuits of that district ([¶315:7](/part-1/ch4-constitution.md#p315-7); [¶317](/part-1/ch4-constitution.md#p317); [¶1100–1109](#p1100–1109)) and the lay members of the district board of administration ([¶317](/part-1/ch4-constitution.md#p317)). The total number of lay members with voting rights shall be determined as set forth in [¶1100:1](#p1100-1) while maintaining the principle of equal representation of the ministry and the laity. Each established church or circuit is entitled to a minimum of one lay delegate as its constitutional right ([¶315:7](/part-1/ch4-constitution.md#p315-7); [¶503](/part-2/ch1-organization.md#p503)), and, according to its number of members, to additional lay delegates allotted by the district board of administration (1100:1-5). A developing church which is judged to be qualified may be allotted one lay delegate ([¶510:5](/part-2/ch1-organization.md#p510-5); [¶1100:2](#p1100-2); [¶1103](#p1103)).
 
-b. Nonvoting Members ]
+b. Nonvoting Members
 
 ## ¶1090 {#p1090}
  The nonvoting members of the district conference, with a voice but without a vote, are ([¶317](/part-1/ch4-constitution.md#p317)):
@@ -161,7 +161,7 @@ The district shall promptly notify each pastor of the exact number of lay delega
 ## ¶1159 {#p1159}
  The district conference shall have such committees as are required by *The Discipline*, and may create and define the duties of such other committees as are deemed necessary.
 
-a. District Conference Action Committee ]
+a. District Conference Action Committee
 
 ## ¶1165 {#p1165}
  A district conference may establish a district conference action committee ([¶1180:9](#p1180-9)) that shall perform the functions of a resolutions committee. It shall consist of the district superintendent, the district treasurer, and from three to nine other members elected by the conference with due consideration for lay representation (cf. [¶1175:2](#p1175-2)). The district conference may delegate the election of the committee members to the district board of administration. The district superintendent shall be the chair or shall appoint another to serve instead, and the committee shall elect a secretary and other officers as deemed necessary.
@@ -184,7 +184,7 @@ To review the standing rules of the district in order to make recommendations to
 ### ¶1168:5 {#p1168-5}
 To provide, if possible, all delegates to the district conference with copies of resolutions or memorials, properly classified, at least ten days before the opening of the district conference.
 
-b. District Conference Nominating Committee ]
+b. District Conference Nominating Committee
 
 ## ¶1172 District Conference Nominating Committee. {#p1172}
  Each district shall have a district conference nominating committee consisting of the district superintendent as chair, and two or more ministers, and an equal number of lay members elected by the district conference ([¶1180:9](#p1180-9)). The elected members of the nominating committee shall not succeed themselves and may not be reelected until after a lapse of one year. The committee shall organize itself. It shall serve for one year and shall meet as called by the chair.
