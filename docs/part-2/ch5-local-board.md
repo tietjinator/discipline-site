@@ -195,7 +195,7 @@ Fill all vacancies occurring in those offices elected by the local church confer
 ### Property and Finance
 
 ##### ¶782.25 {#p782-25}
-Serve as the local board of trustees in the maintenance of church property, the signing of notes and mortgages, and the attending to all legal matters connected with the church, in keeping with the requirements of local laws ([¶4510](/part-9/ch1-general-regulations.md#p4510)), and The Discipline (850–859; [¶4500–4720](/part-9/ch1-general-regulations.md#p4500); [¶4760](/part-8/ch2-local-church-property.md#p4760)).
+Serve as the local board of trustees in the maintenance of church property, the signing of notes and mortgages, and the attending to all legal matters connected with the church, in keeping with the requirements of local laws ([¶4510](/part-8/ch1-general-principles.md#p4510)), and The Discipline (850–859; [¶4500–4720](/part-8/ch1-general-principles.md#p4500); [¶4760](/part-8/ch2-local-church-property.md#p4760)).
 
 ##### ¶782.26 {#p782-26}
 Serve as the local board of trustees to secure sufficient property and liability insurance to cover all buildings and vehicles owned and operated by the local church (856:6).

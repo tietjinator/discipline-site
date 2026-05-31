@@ -8,7 +8,7 @@
 ## B. Ownership
 
 #### ¶4920 {#p4920}
- All grants, conveyances, devises, gifts, transfers, and assignments now owned or hereafter made of any property, real, personal, or mixed, to or for The Wesleyan Church, or any general office, department, institution, agency, or organization connected thereto, with the exception of those that are separately incorporated ([¶1590:6](/part-4/ch1-general-conference.md#p1590-6); [¶4300](/part-7/ch4-subsidiary-corporations.md#p4300)), shall be held by and/or conveyed to The Wesleyan Church Corporation in its corporate name, for the use and benefit of the members and ministers of The Wesleyan Church, subject to its *Discipline*, regulations, and appointments as from time to time legislated and declared ([¶4570](/part-9/ch1-general-regulations.md#p4570)).
+ All grants, conveyances, devises, gifts, transfers, and assignments now owned or hereafter made of any property, real, personal, or mixed, to or for The Wesleyan Church, or any general office, department, institution, agency, or organization connected thereto, with the exception of those that are separately incorporated ([¶1590:6](/part-4/ch1-general-conference.md#p1590-6); [¶4300](/part-7/ch4-subsidiary-corporations.md#p4300)), shall be held by and/or conveyed to The Wesleyan Church Corporation in its corporate name, for the use and benefit of the members and ministers of The Wesleyan Church, subject to its *Discipline*, regulations, and appointments as from time to time legislated and declared ([¶4570](/part-8/ch1-general-principles.md#p4570)).
 
 ## C. Suggested Forms for Bequests and Devises
 

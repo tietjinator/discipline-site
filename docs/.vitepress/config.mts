@@ -127,7 +127,7 @@ export default defineConfig({
       '/part-8/': [{
         text: 'Part 8 — Property',
         items: [
-          { text: 'Ch. 1 — General Principles (¶4500–4549)', link: '/part-8/ch1-general-principles' },
+          { text: 'Ch. 1 — General Regulations (¶4500–4549)', link: '/part-8/ch1-general-principles' },
           { text: 'Ch. 2 — Local Church Property (¶4550–4699)', link: '/part-8/ch2-local-church-property' },
           { text: 'Ch. 3 — District Property (¶4700–4849)', link: '/part-8/ch3-district-property' },
           { text: 'Ch. 4 — General Church Property (¶4850–4999)', link: '/part-8/ch4-general-church-property' },
@@ -136,7 +136,7 @@ export default defineConfig({
       '/part-9/': [{
         text: 'Part 9 — Judiciary',
         items: [
-          { text: 'Ch. 1 — General Regulations (¶5000–5004)', link: '/part-9/ch1-general-regulations' },
+          { text: 'Ch. 1 — General Principles (¶5000–5004)', link: '/part-9/ch1-general-regulations' },
         ]
       }],
       '/part-10/': [{

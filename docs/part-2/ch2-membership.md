@@ -78,7 +78,7 @@ Candidates for membership will be asked to affirm their commitment to their expe
 Persons who have been duly accepted for membership as explained in [¶553:2](#p553-2), should be received into membership in a public service, in which they shall make their confession and vows public, ([¶5565](/part-10/ch2-reception.md#p5565)), and be given the right hand of fellowship by the pastor or the representative of the pastor.
 
 #### ¶555 {#p555}
- The rights of membership are set forth in the Constitution ([¶302](/part-1/ch4-constitution.md#p302)). The judicial process for dealing with any member charged with failure to uphold the Articles of Religion are located in the Judiciary section of *The Discipline* ([¶5000-5004](/part-8/ch1-general-principles.md#p5000)) and in the *General Board Policy on Church Discipline and Ministerial Restoration*.
+ The rights of membership are set forth in the Constitution ([¶302](/part-1/ch4-constitution.md#p302)). The judicial process for dealing with any member charged with failure to uphold the Articles of Religion are located in the Judiciary section of *The Discipline* ([¶5000-5004](/part-9/ch1-general-regulations.md#p5000)) and in the *General Board Policy on Church Discipline and Ministerial Restoration*.
 
 #### ¶557 . Guides and Helps to Holy Living. {#p557}
  The Membership Commitments ([¶260-268](/part-1/ch4-constitution.md#p260)) are the biblically-based convictions historically held by The Wesleyan Church, which all members are encouraged to prayerfully consider and embrace.

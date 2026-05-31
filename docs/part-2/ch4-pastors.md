@@ -187,7 +187,7 @@ Administer the ritual of membership and to give the right hand of fellowship on 
 Grant, in conjunction with the local church secretary, letters of transfer, recommendation, or withdrawal ([¶575](/part-2/ch2-membership.md#p575); [¶590](/part-2/ch2-membership.md#p590); [¶592](/part-2/ch2-membership.md#p592); 6000–6040).
 
 ##### ¶725:14 {#p725-14}
-Receive any complaint or accusation against any member of a church under personal care, and to give such prompt and careful attention as required under the Judiciary ([¶5000–5004](/part-8/ch1-general-principles.md#p5000)) and the General Board Policy on Church Discipline and Ministerial Restoration, and to refer any matter requiring official investigation or judicial proceedings to the local board of administration for disposition ([¶782:10](/part-2/ch5-local-board.md#p782-10)).
+Receive any complaint or accusation against any member of a church under personal care, and to give such prompt and careful attention as required under the Judiciary ([¶5000–5004](/part-9/ch1-general-regulations.md#p5000)) and the General Board Policy on Church Discipline and Ministerial Restoration, and to refer any matter requiring official investigation or judicial proceedings to the local board of administration for disposition ([¶782:10](/part-2/ch5-local-board.md#p782-10)).
 
 ##### ¶725:15 {#p725-15}
 Preside as chair of the local church conference and the local board of administration except as otherwise provided ([¶635](/part-2/ch3-conference.md#p635); [¶770–773](/part-2/ch5-local-board.md#p770)), and to oversee and direct all departments and local church organizations as the chief executive officer.

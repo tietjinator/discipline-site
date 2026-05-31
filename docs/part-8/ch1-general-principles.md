@@ -1,63 +1,75 @@
-# Chapter 1 — General Principles
+# Chapter 1 — General Regulations
 
-## A. Meaning and Purpose of Church Discipline
+## A. Application
 
-#### ¶5000 {#p5000}
- The Church has the responsibility to provide a holy and harmonious environment that fosters Christlike conduct and relationships. The purpose of church discipline is the vindication of the truth, the preservation of the integrity of the body, the restoration and salvation of the guilty, and the warning of the careless.
+#### ¶4500 {#p4500}
+ The general regulations set forth in this chapter shall be binding on all trustees and their governing bodies of The Wesleyan Church, whether local, district, or General Church, including all institutions, subsidiary corporations, and similar bodies, unless otherwise stated in *The Discipline* or in the articles of incorporation and bylaws governing such trustees.
 
-## B. The Administration of Church Discipline
+## B. Local Laws
 
-#### ¶5002 {#p5002}
- In order that the purposes of the church may be realized, discipline in The Wesleyan Church shall be administered in accord with the following principles:
+#### ¶4510 {#p4510}
+ All provisions of *The Discipline* relating to property, both real and personal, and relating to the formation and operation of any corporation, are conditioned upon their being in conformity with the local laws ([¶4580](#p4580)) of the country, state, territory, or other like political unit within the geographical bounds in which the property is located; and in the event of conflict therewith, said provisions of *The Discipline* shall be modified to the extent required to conform with any such local laws. This regulation, however, shall not be construed to give the consent of The Wesleyan Church to deprivation of its property without due process of law, or to the regulation of its affairs by statute where such regulation violates the constitutional right of freedom of religion, separation of church and state, or the rights of the Church to maintain its polity.
 
-##### ¶5002:1 {#p5002-1}
-A prayerful and Christlike spirit shall be maintained at all times by all parties.<sup class="footnote-ref"><a href="#fn1" id="fnref1">1</a></sup>
+## C. Requirements
 
-##### ¶5002:2 {#p5002-2}
-Every effort shall be made to bring back to the Lord any who have wandered from Him ([¶268](/part-1/ch4-constitution.md#p268)).<sup class="footnote-ref"><a href="#fn2" id="fnref2">2</a></sup>
+#### ¶4520 {#p4520}
+ A trustee must be a Wesleyan Church member who meets the leadership qualifications ([¶260–268](/part-1/ch4-constitution.md#p260); [¶558](/part-2/ch2-membership.md#p558)). Whenever a trustee ceases to be a member with said qualifications for any reason, the office as trustee shall be declared vacant and a successor shall be elected for the unexpired term in the manner provided in *The Discipline*.
 
-##### ¶5002:3 {#p5002-3}
-A sincere and reasonable effort shall be made to resolve an accusation or to deal with an offending person in keeping with scriptural admonitions.<sup class="footnote-ref"><a href="#fn3" id="fnref3">3</a></sup>
+#### ¶4530 {#p4530}
+ All trustees shall administer their duties in accord with *The Discipline* as from time to time amended, as directed by the governing body to which they are amenable, and subject to local laws as set forth in [¶4510](#p4510). Whenever a trustee refuses to carry out properly given orders and instructions and submit to the authority to which amenable, the trustee may be removed from office and a successor shall be elected for the unexpired term as provided for in *The Discipline*.
 
-##### ¶5002:4 {#p5002-4}
-Each accusation and all proceedings shall receive prompt and careful attention by the proper authorities.
+#### ¶4540 {#p4540}
+ A board of trustees shall have and hold in trust for the use and benefit of the members and ministers of The Wesleyan Church any and all property committed to it; shall see that titles are good; that deeds and all written instrumentalities are in harmony with *The Discipline* and with local laws as set forth in [¶4510](#p4510); that all property deeds and titles contain the required trust clause as set forth in [¶4610](#p4610); that they are promptly recorded; that abstracts and all other legal papers are properly stored and secured; and shall perform such other duties as are required of them in *The Discipline* or by the governing body to which they are amenable, and in the case of incorporated bodies, as set forth in the articles of incorporation and bylaws or charter of the corporation.
 
-##### ¶5002:5 {#p5002-5}
-Any offending person shall be dealt with kindly, yet faithfully, according to the seriousness of the offense and as provided for in The Discipline of The Wesleyan Church and the General Board Policy for Church Discipline and Ministerial Restoration.
+## D. Restrictions
 
-<div class="footnotes">
-<ol>
-<li id="fn1">1 Cor. 13:4; Eph. 4:15; 2 Tim. 4:2 <a href="#fnref1" class="footnote-backref">&#x21A9;</a></li>
-<li id="fn2">See 1 Thess. 5:14; Jude 22–23. <a href="#fnref2" class="footnote-backref">&#x21A9;</a></li>
-<li id="fn3">Matt. 18:15–18; Gal. 6:1–2; James 5:16, 19–20. <a href="#fnref3" class="footnote-backref">&#x21A9;</a></li>
-</ol>
-</div>
+#### ¶4550 {#p4550}
+ A trustee or board of trustees and/or its governing body may not divert property from the ownership and use of The Wesleyan Church.
 
-## C. Conflict Resolution
+#### ¶4560 {#p4560}
+ A board of trustees shall not normally accept a deed which contains a clause by which the land conveyed may revert to the original grantor, the heirs, or assigns of the original owners.
 
-#### ¶5004 {#p5004}
- The person having the grievance shall be first required to follow the Lord's directions in Matthew 18:15-17.
+## E. Terms
 
-##### ¶5004:1 {#p5004-1}
-The person having the grievance should go to the accused and point out the issue, just between the two of them.
+#### ¶4570 {#p4570}
+ *"The Discipline"* shall always refer to *The Discipline of The Wesleyan Church* as from time to time legislated and declared ([¶125–185](/part-1/ch3-church-law.md#p125); [1590:1–2](/part-4/ch1-general-conference.md#p1590-1); [¶2066](/part-4/ch4-general-administration.md#p2066)).
 
-##### ¶5004:2 {#p5004-2}
-If unresolved, the person having the grievance shall seek counsel from the official having jurisdiction (pastor, district superintendent, general officer) relative to the steps to be taken.<sup class="footnote-ref"><a href="#fn4" id="fnref4">4</a></sup>
+#### ¶4580 {#p4580}
+ "Local laws," whenever used in *The Discipline*, shall be construed to mean laws, including regulations and case law, of the civil jurisdiction(s) applicable to the matter at hand. With respect to property matters, this would normally be the law of the jurisdiction within which the property is located, and with respect to any other legal matters, would normally be the law of the civil jurisdiction(s) within which the matters arise.
 
-##### ¶5004:3 {#p5004-3}
-If the personal grievance remains unresolved or affects the body of believers, the official having jurisdiction or a designated representative shall privately inquire, and, if necessary, instruct and admonish an offending person. If there is an acknowledgment of the fault and correction is made, the matter shall be dropped.
+## F. Trust Clause and Release Therefrom
 
-##### ¶5004:4 {#p5004-4}
-If the grievance continues, the official in charge shall provide intervention. If the conflict remains unresolved, and if the matter rises to the level of a fair and impartial hearing of charges pending, procedures shall be followed according to The General Board Policy for Church Discipline and Ministerial Restoration.
+#### ¶4590 {#p4590}
+ All property, whether real, personal, or mixed, acquired by any local church, circuit, district, institution, agency, or other similar body of The Wesleyan Church, whether incorporated or unincorporated, shall be held in trust for The Wesleyan Church, incorporated as The Wesleyan Church Corporation under the laws of the state of Indiana, and shall contain the trust clause as set forth in [¶4610](#p4610) ([¶315:6](/part-1/ch4-constitution.md#p315-6); [¶323:8](/part-1/ch4-constitution.md#p323-8)). The absence of the trust clause in the evidence of the title or other written instruments, regardless of whether such absence is due to mistake, inadvertence, or willful omission, shall in no way exclude a local church, circuit, district, institution, agency, or similar body, whether incorporated or unincorporated, from or relieve it of its responsibility to The Wesleyan Church and subjection to the authority of said Church, and such property can only be sold, transferred, or otherwise disposed of in accord with the provisions of *The Discipline*, concerning the sale, transfer, or encumbrance of property.
 
-<div class="footnotes">
-<p><em>Paragraphs 5010-5450 were relocated by the 2016 General Conference to the General Board Policy on Church Discipline. A copy of the publication may be obtained by request at communications@wesleyan.org.</em></p>
-<ol start="4">
-<li id="fn4">See 2 Cor. 6:1-8 <a href="#fnref4" class="footnote-backref">&#x21A9;</a></li>
-</ol>
-</div>
+##### ¶4590:1 {#p4590-1}
+For property in developing districts see 542; 4650; 4800; 4920; 4200–4260; 4500–4630.
 
-5006
+##### ¶4590:2 {#p4590-2}
+Space reserved.
 
-#### ¶5008 {#p5008}
- Left intentionally blank.
+##### ¶4590:3 {#p4590-3}
+For local property in established districts see [¶510:4](/part-2/ch1-organization.md#p510-4); [¶518:6](/part-2/ch1-organization.md#p518-6); [¶528:5](/part-2/ch1-organization.md#p528-5); [¶655:11](/part-2/ch3-conference.md#p655-11); [¶725:21–22](/part-2/ch4-pastors.md#p725-21); [¶782:25–26](/part-2/ch5-local-board.md#p782-25), 29, 32; 850–856; [¶1038:3](/part-3/ch1-organization.md#p1038-3); [¶1180:19–20](/part-3/ch2-conference.md#p1180-19); [¶1233:13–14](/part-3/ch3-board.md#p1233-13); [¶1310:11](/part-3/ch5-administration.md#p1310-11); 1360–1365; 4000–4070; 4100–4150; 4500–4630; 4660–4780; 4240–4250; 4830–4880.
+
+##### ¶4590:4 {#p4590-4}
+For district property in established districts see [¶1038:3](/part-3/ch1-organization.md#p1038-3); [¶1180:19–20](/part-3/ch2-conference.md#p1180-19); [¶1233:13–14](/part-3/ch3-board.md#p1233-13); [¶1310:11](/part-3/ch5-administration.md#p1310-11); 1360–1365; 4100–4150; 4240–4250; 4500–4630; 4830–4880.
+
+##### ¶4590:5 {#p4590-5}
+For General Church property see [¶4200–4270](/part-7/ch3-twc-corporation.md#p4200); 4500–4630; 4900–4940; 475.
+
+##### ¶4590:6 {#p4590-6}
+For property of a educational institution see [¶4500–4630](#p4500); 2362; 4250.
+
+##### ¶4590:7 {#p4590-7}
+For property of a subsidiary corporation, board, or institution other than a educational institution see [¶4300–4370](/part-7/ch4-subsidiary-corporations.md#p4300); 4500–4630; 4240–4250.
+
+#### ¶4610 {#p4610}
+ All titles, deeds, and other written instruments for the conveyance of property to or for The Wesleyan Church as set forth in [¶4590](#p4590) shall contain the following trust clause:
+
+In trust for the use and benefit of the ministry and members of The Wesleyan Church, incorporated under the laws of the state of Indiana as The Wesleyan Church Corporation, subject to *The Discipline*, regulations, and appointments of said Church as from time to time legislated and declared.
+
+#### ¶4620 {#p4620}
+ Real property acquired by a conveyance containing the foregoing trust clause in [¶4610](#p4610) may be sold in conformity with the provisions of *The Discipline*, and when such provisions have been complied with, the real property so sold or conveyed shall be released from the foregoing trust clause, and the trustees enabled to give a good and sufficient deed ([¶4690:1](/part-8/ch2-local-church-property.md#p4690-1)).
+
+#### ¶4630 {#p4630}
+ Real property acquired by a conveyance containing the foregoing trust clause in [¶4610](#p4610) may be mortgaged or otherwise encumbered in conformity with the provisions of *The Discipline*, and when such provisions have been complied with, the foregoing trust clause shall be subordinated to the mortgage lien ([¶4690:2](/part-8/ch2-local-church-property.md#p4690-2)).

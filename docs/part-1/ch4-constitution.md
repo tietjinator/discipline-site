@@ -496,7 +496,7 @@ Take such actions and adopt such rules as it shall judge necessary to promote th
 Elect its own officers as outlined in The Discipline and to dismiss them for cause.
 
 ##### ¶323.8 {#p323-8}
-Elect in the manner prescribed by The Discipline its own board of trustees and through them to receive, hold, encumber, and dispose of all district property within the bounds of the district, including local property held by the district, according to the provisions of The Discipline and the laws of the state. All properties held by the district shall be held in trust for the use and benefit of the ministry and members of The Wesleyan Church and subject to its regulations and appointments as from time to time legislated and declared ([¶4610](/part-9/ch1-general-regulations.md#p4610)).
+Elect in the manner prescribed by The Discipline its own board of trustees and through them to receive, hold, encumber, and dispose of all district property within the bounds of the district, including local property held by the district, according to the provisions of The Discipline and the laws of the state. All properties held by the district shall be held in trust for the use and benefit of the ministry and members of The Wesleyan Church and subject to its regulations and appointments as from time to time legislated and declared ([¶4610](/part-8/ch1-general-principles.md#p4610)).
 
 ##### ¶323.9 {#p323-9}
 Be represented in the lay and ministerial voting membership of the General Conference, if not under discipline.

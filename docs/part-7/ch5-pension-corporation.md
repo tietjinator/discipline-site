@@ -6,7 +6,7 @@
  The Wesleyan Church shall maintain and conduct a pension plan to be known and incorporated as Wesleyan Pension Fund Inc, for the benefit of its ministers and other persons as defined in the bylaws.
 
 #### ¶4405 {#p4405}
- All matters pertaining to Wesleyan Pension Fund Inc shall be administered by a Board of Pensions who shall govern Wesleyan Pension Fund Inc in accord with *The Discipline* ([¶4570](/part-9/ch1-general-regulations.md#p4570)) and its articles of incorporation and bylaws. The Board of Pensions is amenable to the General Board.
+ All matters pertaining to Wesleyan Pension Fund Inc shall be administered by a Board of Pensions who shall govern Wesleyan Pension Fund Inc in accord with *The Discipline* ([¶4570](/part-8/ch1-general-principles.md#p4570)) and its articles of incorporation and bylaws. The Board of Pensions is amenable to the General Board.
 
 #### ¶4410 {#p4410}
  This corporation shall receive and administer new trusts and funds and shall be and is directed and authorized to honor and carry out all commitments made by The Pilgrim Pension Plan, Inc., to its members through its bylaws and the commitments made by The Wesleyan Methodist Church of America to its ministers through the Superannuated Ministers’ Aid Society and the Wesleyan Retirement Plan, as stated herewith:

@@ -66,7 +66,7 @@ A reasonable degree of financial stability, including the meeting of such obliga
 A reasonable degree of leadership and organizational maturity, with sufficient qualified persons to staff the minimum organization provided for in 810.
 
 ##### ¶518.6 {#p518-6}
-The holding of all property in trust for The Wesleyan Church as required in [¶4610](/part-9/ch1-general-regulations.md#p4610) ([¶4680](/part-8/ch2-local-church-property.md#p4680)) or steps taken to accomplish the same.
+The holding of all property in trust for The Wesleyan Church as required in [¶4610](/part-8/ch1-general-principles.md#p4610) ([¶4680](/part-8/ch2-local-church-property.md#p4680)) or steps taken to accomplish the same.
 
 ##### ¶518.7 {#p518-7}
   An established church may be reclassified by the district conference or the district board of administration as a developing church if such is recommended by the district superintendent and:

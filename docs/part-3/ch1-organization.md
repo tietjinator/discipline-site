@@ -39,7 +39,7 @@ Thirty churches.
 Two thousand members.
 
 ##### ¶1038:3 {#p1038-3}
-The holding of all property in trust for The Wesleyan Church as required in [¶4610](/part-9/ch1-general-regulations.md#p4610), or steps taken to accomplish the same ([¶4140](/part-7/ch2-district-corporations.md#p4140); [¶4590–4630](/part-9/ch1-general-regulations.md#p4590); [¶4650–4880](/part-8/ch2-local-church-property.md#p4650)).
+The holding of all property in trust for The Wesleyan Church as required in [¶4610](/part-8/ch1-general-principles.md#p4610), or steps taken to accomplish the same ([¶4140](/part-7/ch2-district-corporations.md#p4140); [¶4590–4630](/part-8/ch1-general-principles.md#p4590); [¶4650–4880](/part-8/ch2-local-church-property.md#p4650)).
 
 ##### ¶1038:4 {#p1038-4}
 A reasonable degree of spiritual, organizational, and financial stability.

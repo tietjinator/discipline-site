@@ -14,7 +14,7 @@ This index covers the main topics and subtopics of *The Discipline of The Wesley
   - classification of — [¶125–190](/part-1/ch3-church-law.md#p125)
   - elementary principles governing — [¶270–286](/part-1/ch4-constitution.md#p270)
   - interpretation of — [¶375:1–6](/part-1/ch4-constitution.md#p375-1); [¶2060–2068](/part-4/ch4-general-administration.md#p2060)
-  - Judiciary — [¶5000–5004](/part-8/ch1-general-principles.md#p5000)
+  - Judiciary — [¶5000–5004](/part-9/ch1-general-regulations.md#p5000)
   - *see appendix b*
   - church member, membership — [¶550–610](/part-2/ch2-membership.md#p550)
   - assistant pastor’s — [¶578:2](/part-2/ch2-membership.md#p578-2)
@@ -146,7 +146,7 @@ This index covers the main topics and subtopics of *The Discipline of The Wesley
 
 **conflict of laws** — [¶1796–1799](/part-4/ch2-general-board.md#p1796)
 
-**conflict resolution** — [¶5004](/part-8/ch1-general-principles.md#p5004)
+**conflict resolution** — [¶5004](/part-9/ch1-general-regulations.md#p5004)
 
 **Connecticut. See Northeast District**
 
@@ -180,7 +180,7 @@ This index covers the main topics and subtopics of *The Discipline of The Wesley
   - continuing education — [¶3240](/part-6/ch2-ministerial-education.md#p3240)
   - contract, pastoral — [¶697](/part-2/ch4-pastors.md#p697); [¶723](/part-2/ch4-pastors.md#p723)
   - conversion — [¶228](/part-1/ch4-constitution.md#p228); [¶230](/part-1/ch4-constitution.md#p230); [¶297:1](/part-1/ch4-constitution.md#p297-1); [¶553:1](/part-2/ch2-membership.md#p553-1)
-  - corporate offense — [¶5010](/part-8/ch1-general-principles.md) Gen. Bd. **Policy on Ch. Disc.**
+  - corporate offense — [¶5010](/part-9/ch1-general-regulations.md) Gen. Bd. **Policy on Ch. Disc.**
 
 **Corporation, The Wesleyan Church** — [¶4200–4270](/part-7/ch3-twc-corporation.md#p4200)
 
@@ -217,9 +217,9 @@ This index covers the main topics and subtopics of *The Discipline of The Wesley
 
 **credentials**
 
-**[¶5230](/part-8/ch1-general-principles.md)**
+**[¶5230](/part-9/ch1-general-regulations.md)**
 
-**[¶5212:2](/part-8/ch1-general-principles.md)**
+**[¶5212:2](/part-9/ch1-general-regulations.md)**
 
 **of commissioned minister** — [¶3059:4b](/part-6/ch1-ministerial-orders.md#p3059-4b)
 
@@ -291,28 +291,28 @@ This index covers the main topics and subtopics of *The Discipline of The Wesley
   - special worker — [¶3450–3480](/part-6/ch4-special-lay-ministries.md#p3450)
 
 **discipline**
-  - meaning and purpose of, Gen. Bd. **Policy on Ch. Disc. [¶5000–5002](/part-8/ch1-general-principles.md#p5000)**
+  - meaning and purpose of, Gen. Bd. **Policy on Ch. Disc. [¶5000–5002](/part-9/ch1-general-regulations.md#p5000)**
 
 **subjects of** — [¶260](/part-1/ch4-constitution.md#p260); Gen. Bd. Policy on
 
-**Ch. Disc. [¶5200–5248](/part-8/ch1-general-principles.md); [¶5270–5288](/part-8/ch1-general-principles.md)**
+**Ch. Disc. [¶5200–5248](/part-9/ch1-general-regulations.md); [¶5270–5288](/part-9/ch1-general-regulations.md)**
 
 **discipline, book of: for mission units** — [¶340:2](/part-1/ch4-constitution.md#p340-2); [¶2610:6](/part-5/ch2-conferences.md#p2610-6)
 
 **discipline, consequences of being under**
   - for districts — [¶323:9](/part-1/ch4-constitution.md#p323-9); [¶327:1](/part-1/ch4-constitution.md#p327-1); [¶360:3e](/part-1/ch4-constitution.md);
 
-**[¶5066](/part-8/ch1-general-principles.md)**
+**[¶5066](/part-9/ch1-general-regulations.md)**
 
-**[¶5365](/part-8/ch1-general-principles.md); [¶5375](/part-8/ch1-general-principles.md)**
+**[¶5365](/part-9/ch1-general-regulations.md); [¶5375](/part-9/ch1-general-regulations.md)**
 
-**for local churches** — [¶315:7](/part-1/ch4-constitution.md#p315-7); Gen. Bd. **Policy on Ch. Disc. [¶5066](/part-8/ch1-general-principles.md); [¶5310](/part-8/ch1-general-principles.md);**
+**for local churches** — [¶315:7](/part-1/ch4-constitution.md#p315-7); Gen. Bd. **Policy on Ch. Disc. [¶5066](/part-9/ch1-general-regulations.md); [¶5310](/part-9/ch1-general-regulations.md);**
 
-**for members** — [¶302:3](/part-1/ch4-constitution.md#p302-3); [¶575](/part-2/ch2-membership.md#p575); [¶590](/part-2/ch2-membership.md#p590); Gen. **Bd. Policy on Ch. Disc. [¶5052](/part-8/ch1-general-principles.md); [¶5115](/part-8/ch1-general-principles.md)**
+**for members** — [¶302:3](/part-1/ch4-constitution.md#p302-3); [¶575](/part-2/ch2-membership.md#p575); [¶590](/part-2/ch2-membership.md#p590); Gen. **Bd. Policy on Ch. Disc. [¶5052](/part-9/ch1-general-regulations.md); [¶5115](/part-9/ch1-general-regulations.md)**
 
 **for ministers** — [¶313](/part-1/ch4-constitution.md#p313); Gen. Bd. Policy on
 
-**Ch. Disc. [¶5052](/part-8/ch1-general-principles.md); [¶5115](/part-8/ch1-general-principles.md); [¶5212–5215](/part-8/ch1-general-principles.md);**
+**Ch. Disc. [¶5052](/part-9/ch1-general-regulations.md); [¶5115](/part-9/ch1-general-regulations.md); [¶5212–5215](/part-9/ch1-general-regulations.md);**
 
 **discipline, the, of the North American**
 
@@ -338,11 +338,11 @@ This index covers the main topics and subtopics of *The Discipline of The Wesley
 **dismissal**
   - definition of, Gen. Bd. Policy on Ch.
 
-**Disc. [¶5115:5](/part-8/ch1-general-principles.md); [¶5212:5](/part-8/ch1-general-principles.md)**
+**Disc. [¶5115:5](/part-9/ch1-general-regulations.md); [¶5212:5](/part-9/ch1-general-regulations.md)**
 
 **power of** — [¶315:1](/part-1/ch4-constitution.md#p315-1); [¶655:1](/part-2/ch3-conference.md#p655-1)
 
-**reasons for** — [¶276](/part-1/ch4-constitution.md#p276); [¶305](/part-1/ch4-constitution.md#p305); [¶585](/part-2/ch2-membership.md#p585); Gen. Bd. **Policy on Ch. Disc. [¶5115:5](/part-8/ch1-general-principles.md); [¶5212:5](/part-8/ch1-general-principles.md)**
+**reasons for** — [¶276](/part-1/ch4-constitution.md#p276); [¶305](/part-1/ch4-constitution.md#p305); [¶585](/part-2/ch2-membership.md#p585); Gen. Bd. **Policy on Ch. Disc. [¶5115:5](/part-9/ch1-general-regulations.md); [¶5212:5](/part-9/ch1-general-regulations.md)**
 
 **district**
   - amenability — [¶1050](/part-3/ch1-organization.md)
@@ -365,10 +365,10 @@ This index covers the main topics and subtopics of *The Discipline of The Wesley
   - developing — [¶1003–1015](/part-3/ch1-organization.md#p1003)
   - directory — [¶1332:8](/part-3/ch5-administration.md#p1332-8)
   - disputes with General Conference — [¶375:6](/part-1/ch4-constitution.md#p375-6); Gen. Bd. Policy on Ch. Disc.
-  - [¶5445:4](/part-8/ch1-general-principles.md)
+  - [¶5445:4](/part-9/ch1-general-regulations.md)
   - disputes with other districts — [¶375:4](/part-1/ch4-constitution.md#p375-4);
 
-**[¶5350](/part-8/ch1-general-principles.md)**
+**[¶5350](/part-9/ch1-general-regulations.md)**
 
 **established** — [¶360:3e](/part-1/ch4-constitution.md); [¶1036–1050](/part-3/ch1-organization.md#p1036)
 
@@ -579,7 +579,7 @@ de Island. See Northeast District**
 
 **in process of transfer** — [¶1240:5b](/part-3/ch3-board.md) listing, [¶1240:5a](/part-3/ch3-board.md)–c
 
-**specification of charges** — [¶5024](/part-8/ch1-general-principles.md) Gen. Bd. **Policy on Ch. Disc.**
+**specification of charges** — [¶5024](/part-9/ch1-general-regulations.md) Gen. Bd. **Policy on Ch. Disc.**
 
 **Spirit, Holy** — [¶210](/part-1/ch4-constitution.md#p210); [¶216](/part-1/ch4-constitution.md#p216); [¶230](/part-1/ch4-constitution.md#p230); [¶236](/part-1/ch4-constitution.md#p236); [¶238](/part-1/ch4-constitution.md#p238)
 
@@ -656,19 +656,19 @@ de Island. See Northeast District**
 
 **Gen. Bd. Policy on Ch. Disc.**
 
-**[¶5115:5](/part-8/ch1-general-principles.md); [¶5120:1](/part-8/ch1-general-principles.md)** — 4, 5
+**[¶5115:5](/part-9/ch1-general-regulations.md); [¶5120:1](/part-9/ch1-general-regulations.md)** — 4, 5
 
 **joining another body** — [¶305:2](/part-1/ch4-constitution.md#p305-2); [¶585:2](/part-2/ch2-membership.md#p585-2); [¶595](/part-2/ch2-membership.md#p595)
 
 **reinstatement, Gen. Bd. Policy on Ch.**
 
-**Disc. [¶5130](/part-8/ch1-general-principles.md)**
+**Disc. [¶5130](/part-9/ch1-general-regulations.md)**
 
 **withdrawal** — [¶305:1](/part-1/ch4-constitution.md#p305-1); [¶575](/part-2/ch2-membership.md#p575); [¶585:1](/part-2/ch2-membership.md#p585-1);
 
 **[¶590–595](/part-2/ch2-membership.md#p590); Gen. Bd. Policy on Ch.**
 
-**Disc.; [¶5048](/part-8/ch1-general-principles.md); [¶6040](/part-11/ch1-church-letters.md)**
+**Disc.; [¶5048](/part-9/ch1-general-regulations.md); [¶6040](/part-11/ch1-church-letters.md)**
 
 **Texas, See Mountain Plains District**
 
@@ -718,18 +718,18 @@ de Island. See Northeast District**
 
 **trust clause** — [¶315:6](/part-1/ch4-constitution.md#p315-6); [¶323:8](/part-1/ch4-constitution.md#p323-8); [¶518:6](/part-2/ch1-organization.md#p518-6);
 
-**[¶4590–4630](/part-9/ch1-general-regulations.md#p4590); [¶4680](/part-8/ch2-local-church-property.md#p4680); [¶4690](/part-8/ch2-local-church-property.md#p4690)**
+**[¶4590–4630](/part-8/ch1-general-principles.md#p4590); [¶4680](/part-8/ch2-local-church-property.md#p4680); [¶4690](/part-8/ch2-local-church-property.md#p4690)**
 
 **trustees**
   - circuit — [¶532](/part-2/ch1-organization.md#p532)
   - district — [¶323:8](/part-1/ch4-constitution.md#p323-8); [¶1180:20](/part-3/ch2-conference.md#p1180-20); [¶1360–1365](/part-3/ch5-administration.md#p1360);
   - educational institutions — [¶340:2](/part-1/ch4-constitution.md#p340-2); [¶2362](/part-4/ch8-education-clergy.md#p2362)
   - General Church — [¶340](/part-1/ch4-constitution.md#p340); [¶1655:15–21](/part-4/ch2-general-board.md#p1655-15)
-  - general regulations — [¶4520–4540](/part-9/ch1-general-regulations.md#p4520)
+  - general regulations — [¶4520–4540](/part-8/ch1-general-principles.md#p4520)
   - local church — [¶315:6](/part-1/ch4-constitution.md#p315-6); [¶850–859](/part-2/ch6-officers.md)
 ## U
 
-**under accusation, withdrawal while** — [¶592](/part-2/ch2-membership.md#p592); [¶5048](/part-8/ch1-general-principles.md)
+**under accusation, withdrawal while** — [¶592](/part-2/ch2-membership.md#p592); [¶5048](/part-9/ch1-general-regulations.md)
 
 **under charges**
   - consequences of being — [¶575](/part-2/ch2-membership.md#p575); [¶590](/part-2/ch2-membership.md#p590)
@@ -739,21 +739,21 @@ de Island. See Northeast District**
 
 **Gen. Bd. Policy on Ch. Disc.**
 
-**[¶5066](/part-8/ch1-general-principles.md); [¶5365](/part-8/ch1-general-principles.md); [¶5375](/part-8/ch1-general-principles.md)**
+**[¶5066](/part-9/ch1-general-regulations.md); [¶5365](/part-9/ch1-general-regulations.md); [¶5375](/part-9/ch1-general-regulations.md)**
 
-**for local churches** — [¶315:7](/part-1/ch4-constitution.md#p315-7); Gen. Bd. **Policy on Ch. Disc. [¶5066](/part-8/ch1-general-principles.md); [¶5310](/part-8/ch1-general-principles.md);**
+**for local churches** — [¶315:7](/part-1/ch4-constitution.md#p315-7); Gen. Bd. **Policy on Ch. Disc. [¶5066](/part-9/ch1-general-regulations.md); [¶5310](/part-9/ch1-general-regulations.md);**
 
-**for members** — [¶302:6](/part-1/ch4-constitution.md#p302-6); [¶575](/part-2/ch2-membership.md#p575); [¶590](/part-2/ch2-membership.md#p590); Gen. **Bd. Policy on Ch. Disc. [¶5052](/part-8/ch1-general-principles.md);**
+**for members** — [¶302:6](/part-1/ch4-constitution.md#p302-6); [¶575](/part-2/ch2-membership.md#p575); [¶590](/part-2/ch2-membership.md#p590); Gen. **Bd. Policy on Ch. Disc. [¶5052](/part-9/ch1-general-regulations.md);**
 
 **for ministers** — [¶313](/part-1/ch4-constitution.md#p313); Gen. Bd. Policy
 
-**on Ch. Disc. [¶5052](/part-8/ch1-general-principles.md); [¶5115](/part-8/ch1-general-principles.md);**
+**on Ch. Disc. [¶5052](/part-9/ch1-general-regulations.md); [¶5115](/part-9/ch1-general-regulations.md);**
 
-**[¶5212–5215](/part-8/ch1-general-principles.md); [¶5288](/part-8/ch1-general-principles.md)**
+**[¶5212–5215](/part-9/ch1-general-regulations.md); [¶5288](/part-9/ch1-general-regulations.md)**
 
 **withdrawal while** — [¶592](/part-2/ch2-membership.md#p592); Gen. Bd. Policy
 
-**on Ch. Disc. [¶5048](/part-8/ch1-general-principles.md)**
+**on Ch. Disc. [¶5048](/part-9/ch1-general-regulations.md)**
 
 **United Stewardship Fund (USF)** — [¶2000–2045](/part-4/ch4-general-administration.md#p2000)
 
@@ -795,7 +795,7 @@ de Island. See Northeast District**
 
 **Board of Review, Gen. Bd. Policy on**
 
-**Ch. Disc. [¶5408](/part-8/ch1-general-principles.md)**
+**Ch. Disc. [¶5408](/part-9/ch1-general-regulations.md)**
 
 **district officials, officers** — [¶1272](/part-3/ch4-officers.md#p1272); [¶1292](/part-3/ch4-officers.md#p1292)
 
@@ -927,15 +927,15 @@ de Island. See Northeast District**
 **withdrawal**
   - of local church, unlawful — [¶4780](/part-8/ch2-local-church-property.md#p4780)
   - of member. See withdrawal of member
-  - of minister — [¶1310:29](/part-3/ch5-administration.md#p1310-29); [¶3100:3–5](/part-6/ch1-ministerial-orders.md#p3100-3); Gen. **Bd. Policy on Ch. Disc. [¶5048](/part-8/ch1-general-principles.md); [¶6460](/part-11/ch2-service-credentials.md)**
+  - of minister — [¶1310:29](/part-3/ch5-administration.md#p1310-29); [¶3100:3–5](/part-6/ch1-ministerial-orders.md#p3100-3); Gen. **Bd. Policy on Ch. Disc. [¶5048](/part-9/ch1-general-regulations.md); [¶6460](/part-11/ch2-service-credentials.md)**
 
-**of special worker** — [¶1310:29](/part-3/ch5-administration.md#p1310-29); [¶3480](/part-6/ch4-special-lay-ministries.md#p3480); Gen. **Bd. Policy on Ch. Disc. [¶5048](/part-8/ch1-general-principles.md); [¶6460](/part-11/ch2-service-credentials.md)**
+**of special worker** — [¶1310:29](/part-3/ch5-administration.md#p1310-29); [¶3480](/part-6/ch4-special-lay-ministries.md#p3480); Gen. **Bd. Policy on Ch. Disc. [¶5048](/part-9/ch1-general-regulations.md); [¶6460](/part-11/ch2-service-credentials.md)**
 
 **request for, Gen. Bd. Policy on Ch. Disc.**
 
 *see also under transfer*
 
-**withdrawal of member** — [¶305:1](/part-1/ch4-constitution.md#p305-1); Gen. Bd. **Policy on Ch. Disc.[¶5048](/part-8/ch1-general-principles.md)**
+**withdrawal of member** — [¶305:1](/part-1/ch4-constitution.md#p305-1); Gen. Bd. **Policy on Ch. Disc.[¶5048](/part-9/ch1-general-regulations.md)**
 
 **by letter of recommendation** — [¶590](/part-2/ch2-membership.md#p590);
 
@@ -947,11 +947,11 @@ de Island. See Northeast District**
 
 **under accusation** — [¶592](/part-2/ch2-membership.md#p592); Gen. Bd. Policy
 
-**on Ch. Disc. [¶5048](/part-8/ch1-general-principles.md)**
+**on Ch. Disc. [¶5048](/part-9/ch1-general-regulations.md)**
 
 **under charges** — [¶592](/part-2/ch2-membership.md#p592); Gen. Bd. Policy on
 
-**Ch. Disc. [¶5048](/part-8/ch1-general-principles.md)**
+**Ch. Disc. [¶5048](/part-9/ch1-general-regulations.md)**
 
 *see also under transfer*
 
