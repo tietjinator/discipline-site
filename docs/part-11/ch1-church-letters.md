@@ -10,11 +10,8 @@ This certifies that ______________ is a member in good standing in the _________
 
 By authority and in behalf of the ______________ Wesleyan Church, this ______ day of ________, AD ________.
 
-________________________ Pastor ________________________ Local Church Secretary
+________________________ Pastor ________________________ Local Church Secretary<sup class="footnote-ref"><a href="#ch1-church-letters-fn1" id="fnref-ch1-church-letters-fn1">1</a></sup>
 
-_______________________
-
-^(The member’s relationship at the church granting the letter continues until the member is duly received by the church to which the member is being transferred.)^
 
 **6010. Acknowledgment Sent by Receiving Church** ([¶575](/part-2/ch2-membership.md#p575)).
 
@@ -38,11 +35,8 @@ ________________________ Pastor ________________________ Local Church Secretary
 This certifies that ____________, the bearer, has been up to this date an acceptable member of the _______________ Wesleyan Church, and being desirous of removing from said Church, is hereby released and cordially recommended to the Christian confidence of those to whom this certificate may be presented.
 By authority and in behalf of the ______________ Wesleyan Church, this ______ day of __________, AD ________.
 
-________________________ Pastor ________________________ Local Church Secretary
+________________________ Pastor ________________________ Local Church Secretary<sup class="footnote-ref"><a href="#ch1-church-letters-fn2" id="fnref-ch1-church-letters-fn2">2</a></sup>
 
-_______________________
-
-^(It is understood that this letter of recommendation terminates the bearer’s membership in The Wesleyan Church immediately.)^
 
 ## C. Letter of Membership Withdrawal
 
@@ -53,11 +47,8 @@ member of the ______________ Wesleyan Church, and being desirous of withdrawing 
 
 By authority and in behalf of the ______________ Wesleyan Church, this ______ day of __________, AD ________.
 
-________________________ Pastor ________________________ Local Church Secretary
+________________________ Pastor ________________________ Local Church Secretary<sup class="footnote-ref"><a href="#ch1-church-letters-fn3" id="fnref-ch1-church-letters-fn3">3</a></sup>
 
-_______________________
-
-^(It is understood that this letter of withdrawal terminates the bearer’s membership in The Wesleyan Church immediately.)^
 
 ## D. Member Certificates
 
@@ -90,3 +81,12 @@ ________________________ Pastor ________________________ Local Church Secretary
 This is to certify that ______________________has publicly confessed Jesus Christ as Lord and Savior and has been received as a student member of The Wesleyan Church and locally of the _____________________ in __________________ on this ___________ day of ______________, AD_________.
 
 ________________________ Pastor ________________________ Local Church Secretary
+
+<div class="footnotes">
+<ol>
+<li id="ch1-church-letters-fn1">The member’s relationship at the church granting the letter continues until the member is duly received by the church to which the member is being transferred. <a href="#fnref-ch1-church-letters-fn1" class="footnote-backref">&#x21A9;</a></li>
+<li id="ch1-church-letters-fn2">It is understood that this letter of recommendation terminates the bearer’s membership in The Wesleyan Church immediately. <a href="#fnref-ch1-church-letters-fn2" class="footnote-backref">&#x21A9;</a></li>
+<li id="ch1-church-letters-fn3">It is understood that this letter of withdrawal terminates the bearer’s membership in The Wesleyan Church immediately. <a href="#fnref-ch1-church-letters-fn3" class="footnote-backref">&#x21A9;</a></li>
+</ol>
+</div>
+

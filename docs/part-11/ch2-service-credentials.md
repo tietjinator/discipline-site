@@ -8,11 +8,8 @@ This certifies that ___________________, having been duly examined concerning __
 
 By order and on behalf of the local church conference of ____________ Wesleyan Church, this ______ day of ____________, AD ________.
 
-________________________ Pastor ________________________ Local Church Secretary
+________________________ Pastor ________________________ Local Church Secretary<sup class="footnote-ref"><a href="#ch2-service-credentials-fn1" id="fnref-ch2-service-credentials-fn1">1</a></sup>
 
-_______________________
-
-^(This license may be renewed annually, and when so renewed, notation shall be made on the reverse side of this form of the date on which such renewal was ordered, and the same shall be attested by the signature of the pastor and the local church secretary.)^
 
 **6220. Lay Minister’s Letter of Standing** ([¶3440:3](/part-6/ch4-special-lay-ministries.md#p3440-3)).
 
@@ -40,15 +37,12 @@ ________________________ District Superintendent ________________________ Distri
 
 **6260. District License** ([¶3015:1](/part-6/ch1-ministerial-orders.md#p3015-1), 5b; [¶3033:9](/part-6/ch1-ministerial-orders.md#p3033-9)).
 
-This certifies that ___________________, having been duly examined concerning _____________ gifts, graces, and usefulness, and being deemed qualified for such service, is hereby made a _____________* according to the usages of The Wesleyan Church, for one year, provided that ____________ spirit, practice, and ministry are in keeping with the Scriptures and *The Discipline of The Wesleyan Church*.
+This certifies that ___________________, having been duly examined concerning _____________ gifts, graces, and usefulness, and being deemed qualified for such service, is hereby made a _____________<sup class="footnote-ref"><a href="#ch2-service-credentials-fn2" id="fnref-ch2-service-credentials-fn2">2</a></sup> according to the usages of The Wesleyan Church, for one year, provided that ____________ spirit, practice, and ministry are in keeping with the Scriptures and *The Discipline of The Wesleyan Church*.
 
 By order and on behalf of the district conference of the _____________ District of The Wesleyan Church, this ______ day of __________, AD ________.
 
 ________________________ District Superintendent ________________________ District Secretary
 
-_______________________
-
-^(*Insert the proper term, namely licensed minister or ministerial student. This license may be renewed annually; and when so renewed notation shall be made on the reverse side of this form on which such renewal was ordered, and the same shall be attested by the signature of the district superintendent and the district secretary.)^
 
 **6280. Commission Certificate for a Minister** ([¶3059:1](/part-6/ch1-ministerial-orders.md#p3059-1)).
 
@@ -78,51 +72,36 @@ This certificate is valid only when accompanied by a currently dated pocket cert
 
 **6320. Certificate of Validation for Minister Transferring from Another Denomination** ([¶3104](/part-6/ch1-ministerial-orders.md#p3104)).
 
-This certifies that the ________________ District Conference of The Wesleyan Church, having examined the credentials of _____________, a(n) _____________* of the ____________ Church, and having received other testimonials of ____________ gifts, graces, and usefulness, and being satisfied that ____________ is a person worthy and well qualified for such a ministry, has this day accepted and recognized _____________ in due form as a(n) ____________* in The Wesleyan Church, entitled to exercise under its authority all the functions pertaining to a(n) ________________* so long as ____________________ spirit, practice, and ministry are in keeping with the Scriptures and The Discipline of The Wesleyan Church.
+This certifies that the ________________ District Conference of The Wesleyan Church, having examined the credentials of _____________, a(n) _____________<sup class="footnote-ref"><a href="#ch2-service-credentials-fn3" id="fnref-ch2-service-credentials-fn3">3</a></sup> of the ____________ Church, and having received other testimonials of ____________ gifts, graces, and usefulness, and being satisfied that ____________ is a person worthy and well qualified for such a ministry, has this day accepted and recognized _____________ in due form as a(n) ____________<sup class="footnote-ref"><a href="#ch2-service-credentials-fn3">3</a></sup> in The Wesleyan Church, entitled to exercise under its authority all the functions pertaining to a(n) ________________<sup class="footnote-ref"><a href="#ch2-service-credentials-fn3">3</a></sup> so long as ____________________ spirit, practice, and ministry are in keeping with the Scriptures and The Discipline of The Wesleyan Church.
 
 By order and on behalf of the district conference of the __________ District of The Wesleyan Church, this ______ day of _________, AD _______.
 
 ________________________ General Superintendent ________________________ District Superintendent ________________________ District Secretary
 
-_______________________
-
-^(*Insert the proper term, namely ordained minister, commissioned minister or licensed minister.)^
 
 **6340. General Evangelist’s Certificate** ([¶3285](/part-6/ch3-ministerial-appointments.md#p3285)).
 
-This certifies that ________________, a(n) ________________* of the ____________ District of The Wesleyan Church, having been appointed by the district to the work of evangelism and being recommended by that district as a person qualified for such service to the Church at large, is hereby authorized to exercise the ministry of a general evangelist for one year from the date hereto affixed and is recommended to all whom it may concern for employment as an evangelist.
+This certifies that ________________, a(n) ________________<sup class="footnote-ref"><a href="#ch2-service-credentials-fn4" id="fnref-ch2-service-credentials-fn4">4</a></sup> of the ____________ District of The Wesleyan Church, having been appointed by the district to the work of evangelism and being recommended by that district as a person qualified for such service to the Church at large, is hereby authorized to exercise the ministry of a general evangelist for one year from the date hereto affixed and is recommended to all whom it may concern for employment as an evangelist.
 
 By order and in behalf of the district conference of the ___________ District of The Wesleyan Church, this ______ day of __________, AD ________.
 
 ___________________________ Executive Director of Church Multiplication and Discipleship
 ___________________________ District Superintendent
-___________________________ District Secretary
-
-_______________________
-
-^(*Insert the proper term, namely ordained minister or commissioned minister.)^
-
-^(This certificate may be renewed annually; and when so renewed, notation shall be made on the reverse side of this form of the date on which such renewal was ordered, and the same shall be attested by the signature of the district superintendent and the district secretary.)^
+___________________________ District Secretary<sup class="footnote-ref"><a href="#ch2-service-credentials-fn5" id="fnref-ch2-service-credentials-fn5">5</a></sup>
 
 ## B. Special Worker's Credentials
 
 **6360. Special Worker’s License** ([¶3460](/part-6/ch4-special-lay-ministries.md#p3460)).
 
-This certifies that ____________, having been duly examined concerning ________ gifts, graces, and usefulness, and being deemed qualified for such service, is hereby made a licensed special worker according to the usages of The Wesleyan Church, and is authorized to serve as a __________* for one year, provided that _________ spirit, practice, and service are in keeping with the Scriptures and *The Discipline of The Wesleyan Church*.
+This certifies that ____________, having been duly examined concerning ________ gifts, graces, and usefulness, and being deemed qualified for such service, is hereby made a licensed special worker according to the usages of The Wesleyan Church, and is authorized to serve as a __________<sup class="footnote-ref"><a href="#ch2-service-credentials-fn6" id="fnref-ch2-service-credentials-fn6">6</a></sup> for one year, provided that _________ spirit, practice, and service are in keeping with the Scriptures and *The Discipline of The Wesleyan Church*.
 
 By order and in behalf of the district conference of the __________ District of The Wesleyan Church, this ______ day of ___________, AD _________.
 
-________________________ District Superintendent ________________________ District Secretary
-
-_______________________
-
-^(*Insert the proper term, such as director of music, director of spiritual formation, youth director, song evangelist, children’s worker, spouse in ministry, lay evangelist or social worker.)^
-
-^(This license may be renewed annually; and when so renewed, notation shall be made on the reverse side of this form of the date on which such renewal was ordered, and the same shall be attested by the signature of the district superintendent and the district secretary.)^
+________________________ District Superintendent ________________________ District Secretary<sup class="footnote-ref"><a href="#ch2-service-credentials-fn7" id="fnref-ch2-service-credentials-fn7">7</a></sup>
 
 **6380. Special Worker’s Commission** ([¶3470](/part-6/ch4-special-lay-ministries.md#p3470)).
 
-This certifies that _________________ has this day been consecrated according to the usages of The Wesleyan Church to service as a commissioned special worker, having been judged worthy and well qualified for such service, and this commission shall recommend _______________ to all whom it may concern as a proper person to do the work of a _____________* so long as ____________ spirit, practice, and service are in keeping with the Scriptures and The Discipline of The Wesleyan Church, and ______________ continues to be actively engaged in such work.
+This certifies that _________________ has this day been consecrated according to the usages of The Wesleyan Church to service as a commissioned special worker, having been judged worthy and well qualified for such service, and this commission shall recommend _______________ to all whom it may concern as a proper person to do the work of a _____________<sup class="footnote-ref"><a href="#ch2-service-credentials-fn8" id="fnref-ch2-service-credentials-fn8">8</a></sup> so long as ____________ spirit, practice, and service are in keeping with the Scriptures and The Discipline of The Wesleyan Church, and ______________ continues to be actively engaged in such work.
 
 By order and in behalf of the district conference of the __________ District of The Wesleyan Church, this ______ day of __________, AD ________.
 
@@ -130,69 +109,51 @@ ___________________________ General Superintendent
 ___________________________ District Superintendent
 ___________________________ District Secretary
 
-_______________________
-
-^(*Insert the proper term, such as director of music, director of spiritual formation, youth director, song evangelist, children’s worker, spouse in ministry, lay evangelist or social worker.)^
 
 **6400. Lay Missionary’s Commission** ([¶3490](/part-6/ch4-special-lay-ministries.md#p3490)).
 
-This certifies that ____________ has been appointed by the General Board of The Wesleyan Church to service as a lay missionary under the direction of the ___________ Division,* that ____________ has been consecrated to such service by the ____________ District of The Wesleyan Church, and that this commission shall remain in effect throughout ___________ period of service under such appointment and direction as listed on the reverse side of this commission.
+This certifies that ____________ has been appointed by the General Board of The Wesleyan Church to service as a lay missionary under the direction of the ___________ Division,<sup class="footnote-ref"><a href="#ch2-service-credentials-fn9" id="fnref-ch2-service-credentials-fn9">9</a></sup> that ____________ has been consecrated to such service by the ____________ District of The Wesleyan Church, and that this commission shall remain in effect throughout ___________ period of service under such appointment and direction as listed on the reverse side of this commission.
 
 By order and in behalf of the district conference of the ___________ District of The Wesleyan Church, this ______ day of _________, AD ________.
 
 ___________________________ General Superintendent
 ___________________________ District Superintendent
-___________________________ District Secretary
-
-_______________________
-
-^(*Global Partners or Church Multiplication and Discipleship.)^
-
-^(This certificate may be renewed annually; and when so renewed, notation shall be made on the reverse side of this form of the date on which such renewal was ordered, and the same shall be attested by the signature of the district superintendent and the district secretary.)^
+___________________________ District Secretary<sup class="footnote-ref"><a href="#ch2-service-credentials-fn10" id="fnref-ch2-service-credentials-fn10">10</a></sup>
 
 ## C. General Credentials
 
 **6410. Course of Study Certificate** ([¶3033:3](/part-6/ch1-ministerial-orders.md#p3033-3); [¶3040:2](/part-6/ch1-ministerial-orders.md#p3040-2); [¶3070:3](/part-6/ch1-ministerial-orders.md#p3070-3); [¶3170](/part-6/ch2-ministerial-education.md#p3170); [¶3200](/part-6/ch2-ministerial-education.md#p3200); [¶3470](/part-6/ch4-special-lay-ministries.md#p3470)).
 
-This certifies that ____________, has completed the Course of Study for ______________* authorized in The Discipline of The Wesleyan Church and provided by the General Board, or the equivalent of said Course, having satisfactorily passed examination in each subject.
+This certifies that ____________, has completed the Course of Study for ______________<sup class="footnote-ref"><a href="#ch2-service-credentials-fn11" id="fnref-ch2-service-credentials-fn11">11</a></sup> authorized in The Discipline of The Wesleyan Church and provided by the General Board, or the equivalent of said Course, having satisfactorily passed examination in each subject.
 
 In testimony whereof, we have herewith set our hand, the ______ day of __________, AD ________.
 
 ___________________________________ Director of Ministerial Study Course Agency
 
-_______________________
-
-^(*Insert the name of the particular Course of Study, namely that of lay minister, pre-ordination, ministers of music, ministers of spiritual formation, special workers, directors of music, directors of Christian education, evangelistic singers, children’s workers, spouses in ministry, lay evangelists or social workers.)^
 
 **6420. Recommendation for District License** ([¶3015:1](/part-6/ch1-ministerial-orders.md#p3015-1); [¶3033:4](/part-6/ch1-ministerial-orders.md#p3033-4); [¶3410](/part-6/ch4-special-lay-ministries.md#p3410); [¶3460](/part-6/ch4-special-lay-ministries.md#p3460)).
 
-This certifies that _____________, a member with leadership qualifications in good standing of the _____________________ Wesleyan Church, is hereby recommended by ____________ local church conference to the _____________ District Conference of The Wesleyan Church as having the gifts, graces, usefulness, and other qualifications necessary for district authorization to serve as a __________*.
+This certifies that _____________, a member with leadership qualifications in good standing of the _____________________ Wesleyan Church, is hereby recommended by ____________ local church conference to the _____________ District Conference of The Wesleyan Church as having the gifts, graces, usefulness, and other qualifications necessary for district authorization to serve as a __________<sup class="footnote-ref"><a href="#ch2-service-credentials-fn12" id="fnref-ch2-service-credentials-fn12">12</a></sup>.
 
 By order and in behalf of the local church conference of the ____________ Wesleyan Church, this ______ day of ________, AD ______.
 
 ________________________ Pastor ________________________ Local Church Secretary
 
-_______________________
-
-^(*Insert the proper term, namely ministerial student, licensed minister or licensed special worker. If licensed special worker, add the particular type of service, such as licensed special worker—director of music, director of spiritual formation, youth director, song evangelist, children’s worker, spouse in ministry, lay evangelist or social worker.)^
 
 **6430. Pocket Certificate of Standing** ([3015:5b](/part-6/ch1-ministerial-orders.md#p3015-5); [¶3055:2](/part-6/ch1-ministerial-orders.md#p3055-2); [3059:4b](/part-6/ch1-ministerial-orders.md#p3059-4); [¶3089:2](/part-6/ch1-ministerial-orders.md#p3089-2)).
 
-This certifies that ____________________ was, on this ______ day of ___________, AD _________, a(n) ____________* in good standing of the ________________ District of The Wesleyan Church.
+This certifies that ____________________ was, on this ______ day of ___________, AD _________, a(n) ____________<sup class="footnote-ref"><a href="#ch2-service-credentials-fn13" id="fnref-ch2-service-credentials-fn13">13</a></sup> in good standing of the ________________ District of The Wesleyan Church.
 
 ___________________________ District Secretary
 
 Valid only for one year, and only when signed by the secretary.
 
-_______________________
-
-^(*Insert the proper term such as ordained minister, commissioned minister, licensed minister, ministerial student, commissioned special worker or licensed special worker.)^
 
 **6440. District Letter of Transfer** ([¶3100:1](/part-6/ch1-ministerial-orders.md#p3100-1); [¶3480](/part-6/ch4-special-lay-ministries.md#p3480)).
 
 To the superintendent of the ___________________ District of The Wesleyan Church.
 
-This certifies that _______________ is a(n) ______________* in good standing in the _________________ District of The Wesleyan Church, and, having requested a transfer, is hereby transferred and recommended to your district, subject to the action of said district.
+This certifies that _______________ is a(n) ______________<sup class="footnote-ref"><a href="#ch2-service-credentials-fn14" id="fnref-ch2-service-credentials-fn14">14</a></sup> in good standing in the _________________ District of The Wesleyan Church, and, having requested a transfer, is hereby transferred and recommended to your district, subject to the action of said district.
 
 By the authority and on behalf of the _________________ District of The Wesleyan Church, this ______ day of __________, AD ________.
 
@@ -200,27 +161,21 @@ ________________________ District Superintendent
 
 The person for whom the letter is granted shall continue as a member of the district granting the letter until the district receiving the letter replies on form ¶6450.
 
-_______________________
-
-^(*Insert the proper term, namely appointed ordained minister, ordained minister on reserve, ordained minister on educational leave, retired ordained minister, ordained minister without appointment, commissioned minister, licensed minister, ministerial student, commissioned special worker or licensed special worker. If licensed special worker, add the particular type of service, such as licensed special worker—director of music, director of spiritual formation, youth director, song evangelist, children’s worker, spouse in ministry, lay evangelist or social worker. If the person being transferred is a licensed minister or licensed special worker, the transfer is not valid unless accompanied by a properly attested statement of standing in the course of study and of the person’s service record in the district.)^
 
 **6450. Acknowledgment of District Letter of Transfer** ([¶3100:1](/part-6/ch1-ministerial-orders.md#p3100-1); [¶3480](/part-6/ch4-special-lay-ministries.md#p3480)).
 
 To the superintendent of the _____________________ District of The Wesleyan Church.
 
-This certifies that _______________, for whom you issued a letter of transfer as a(n) ______________* dated the ______ day of ____________, AD ____________, has been duly enrolled by the District as a(n) ______________*, the transfer having been completed on the ______ day of __________, AD ________, and we send you this acknowledgment in order that you may complete your record of the transfer.
+This certifies that _______________, for whom you issued a letter of transfer as a(n) ______________<sup class="footnote-ref"><a href="#ch2-service-credentials-fn15" id="fnref-ch2-service-credentials-fn15">15</a></sup> dated the ______ day of ____________, AD ____________, has been duly enrolled by the District as a(n) ______________<sup class="footnote-ref"><a href="#ch2-service-credentials-fn15">15</a></sup>, the transfer having been completed on the ______ day of __________, AD ________, and we send you this acknowledgment in order that you may complete your record of the transfer.
 
 By the authority and on behalf of the _____________ District of The Wesleyan Church, this ______ day of __________, AD ________.
 
 ________________________ District Superintendent
 
-_______________________
-
-^(*Insert the proper term, namely appointed ordained minister, ordained minister on reserve, ordained minister on educational leave, retired ordained minister, ordained minister without appointment, commissioned minister, licensed minister, ministerial student, commissioned special worker or licensed special worker. If licensed special worker, add the particular type of service, such as licensed special worker—director of music, director of spiritual formation, youth director, song evangelist, children’s worker, spouse in ministry, lay evangelist or social worker.)^
 
 **6460. District Letter of Standing** ([¶3100:3](/part-6/ch1-ministerial-orders.md#p3100-3); [¶3480](/part-6/ch4-special-lay-ministries.md#p3480)).
 
-This certifies that ____________ has been up to this date a(n) _______________* in good standing in the ______________ District of The Wesleyan Church, and being desirous of removing from The Wesleyan Church, is hereby released and cordially recommended to the Christian confidence of those to whom this letter may be presented.
+This certifies that ____________ has been up to this date a(n) _______________<sup class="footnote-ref"><a href="#ch2-service-credentials-fn16" id="fnref-ch2-service-credentials-fn16">16</a></sup> in good standing in the ______________ District of The Wesleyan Church, and being desirous of removing from The Wesleyan Church, is hereby released and cordially recommended to the Christian confidence of those to whom this letter may be presented.
 
 By the authority and on behalf of the _________________ District of The Wesleyan Church, this ______ day of __________, AD ________.
 
@@ -228,6 +183,25 @@ ________________________ District Superintendent
 
 It is understood that this letter terminates immediately any relationship the bearer may have had to The Wesleyan Church as a minister or special worker.
 
-_______________________
+<div class="footnotes">
+<ol>
+<li id="ch2-service-credentials-fn1">This license may be renewed annually, and when so renewed, notation shall be made on the reverse side of this form of the date on which such renewal was ordered, and the same shall be attested by the signature of the pastor and the local church secretary. <a href="#fnref-ch2-service-credentials-fn1" class="footnote-backref">&#x21A9;</a></li>
+<li id="ch2-service-credentials-fn2">Insert the proper term, namely licensed minister or ministerial student. This license may be renewed annually; and when so renewed notation shall be made on the reverse side of this form on which such renewal was ordered, and the same shall be attested by the signature of the district superintendent and the district secretary. <a href="#fnref-ch2-service-credentials-fn2" class="footnote-backref">&#x21A9;</a></li>
+<li id="ch2-service-credentials-fn3">Insert the proper term, namely ordained minister, commissioned minister or licensed minister. <a href="#fnref-ch2-service-credentials-fn3" class="footnote-backref">&#x21A9;</a></li>
+<li id="ch2-service-credentials-fn4">Insert the proper term, namely ordained minister or commissioned minister. <a href="#fnref-ch2-service-credentials-fn4" class="footnote-backref">&#x21A9;</a></li>
+<li id="ch2-service-credentials-fn5">This certificate may be renewed annually; and when so renewed, notation shall be made on the reverse side of this form of the date on which such renewal was ordered, and the same shall be attested by the signature of the district superintendent and the district secretary. <a href="#fnref-ch2-service-credentials-fn5" class="footnote-backref">&#x21A9;</a></li>
+<li id="ch2-service-credentials-fn6">Insert the proper term, such as director of music, director of spiritual formation, youth director, song evangelist, children’s worker, spouse in ministry, lay evangelist or social worker. <a href="#fnref-ch2-service-credentials-fn6" class="footnote-backref">&#x21A9;</a></li>
+<li id="ch2-service-credentials-fn7">This license may be renewed annually; and when so renewed, notation shall be made on the reverse side of this form of the date on which such renewal was ordered, and the same shall be attested by the signature of the district superintendent and the district secretary. <a href="#fnref-ch2-service-credentials-fn7" class="footnote-backref">&#x21A9;</a></li>
+<li id="ch2-service-credentials-fn8">Insert the proper term, such as director of music, director of spiritual formation, youth director, song evangelist, children’s worker, spouse in ministry, lay evangelist or social worker. <a href="#fnref-ch2-service-credentials-fn8" class="footnote-backref">&#x21A9;</a></li>
+<li id="ch2-service-credentials-fn9">Global Partners or Church Multiplication and Discipleship. <a href="#fnref-ch2-service-credentials-fn9" class="footnote-backref">&#x21A9;</a></li>
+<li id="ch2-service-credentials-fn10">This certificate may be renewed annually; and when so renewed, notation shall be made on the reverse side of this form of the date on which such renewal was ordered, and the same shall be attested by the signature of the district superintendent and the district secretary. <a href="#fnref-ch2-service-credentials-fn10" class="footnote-backref">&#x21A9;</a></li>
+<li id="ch2-service-credentials-fn11">Insert the name of the particular Course of Study, namely that of lay minister, pre-ordination, ministers of music, ministers of spiritual formation, special workers, directors of music, directors of Christian education, evangelistic singers, children’s workers, spouses in ministry, lay evangelists or social workers. <a href="#fnref-ch2-service-credentials-fn11" class="footnote-backref">&#x21A9;</a></li>
+<li id="ch2-service-credentials-fn12">Insert the proper term, namely ministerial student, licensed minister or licensed special worker. If licensed special worker, add the particular type of service, such as licensed special worker—director of music, director of spiritual formation, youth director, song evangelist, children’s worker, spouse in ministry, lay evangelist or social worker. <a href="#fnref-ch2-service-credentials-fn12" class="footnote-backref">&#x21A9;</a></li>
+<li id="ch2-service-credentials-fn13">Insert the proper term such as ordained minister, commissioned minister, licensed minister, ministerial student, commissioned special worker or licensed special worker. <a href="#fnref-ch2-service-credentials-fn13" class="footnote-backref">&#x21A9;</a></li>
+<li id="ch2-service-credentials-fn14">Insert the proper term, namely appointed ordained minister, ordained minister on reserve, ordained minister on educational leave, retired ordained minister, ordained minister without appointment, commissioned minister, licensed minister, ministerial student, commissioned special worker or licensed special worker. If licensed special worker, add the particular type of service, such as licensed special worker—director of music, director of spiritual formation, youth director, song evangelist, children’s worker, spouse in ministry, lay evangelist or social worker. If the person being transferred is a licensed minister or licensed special worker, the transfer is not valid unless accompanied by a properly attested statement of standing in the course of study and of the person’s service record in the district. <a href="#fnref-ch2-service-credentials-fn14" class="footnote-backref">&#x21A9;</a></li>
+<li id="ch2-service-credentials-fn15">Insert the proper term, namely appointed ordained minister, ordained minister on reserve, ordained minister on educational leave, retired ordained minister, ordained minister without appointment, commissioned minister, licensed minister, ministerial student, commissioned special worker or licensed special worker. If licensed special worker, add the particular type of service, such as licensed special worker—director of music, director of spiritual formation, youth director, song evangelist, children’s worker, spouse in ministry, lay evangelist or social worker. <a href="#fnref-ch2-service-credentials-fn15" class="footnote-backref">&#x21A9;</a></li>
+<li id="ch2-service-credentials-fn16">Insert the proper term, namely ordained minister, commissioned minister, licensed minister, ministerial student, commissioned special worker or licensed special worker. If licensed special worker, add the particular type of service, such as licensed special worker—director of music, director of spiritual formation, youth director, song evangelist, children’s worker, spouse in ministry, lay evangelist or social worker. <a href="#fnref-ch2-service-credentials-fn16" class="footnote-backref">&#x21A9;</a></li>
+</ol>
+</div>
 
-^(*Insert the proper term, namely ordained minister, commissioned minister, licensed minister, ministerial student, commissioned special worker or licensed special worker. If licensed special worker, add the particular type of service, such as licensed special worker—director of music, director of spiritual formation, youth director, song evangelist, children’s worker, spouse in ministry, lay evangelist or social worker.)^
+
