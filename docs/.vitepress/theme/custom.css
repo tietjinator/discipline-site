@@ -279,9 +279,12 @@
   flex-grow: 1;
   padding-left: 2rem;
 }
+#local-search {
+  width: 100%;
+  max-width: 480px;
+}
 .DocSearch-Button {
   width: 100% !important;
-  max-width: 480px;
 }
 
 /* Dropdown menu items */
