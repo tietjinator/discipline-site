@@ -5,7 +5,7 @@
 #### ¶5500 {#p5500}
  (*When the parents, guardians or other sponsors have presented themselves with their children before the minister, the minister shall say:*)
 
-Dear friends, you have brought *these children*^*^ whom God has given you to be dedicated to God and to His service. By this act you testify to your faith in the Christian religion, and also your desire that your *children* shall receive the benefits of consecration to God, and of the prayers of the church, and may early learn to know and follow the will of God; and therefore may live a Christian life.
+Dear friends, you have brought *these children*<sup class="footnote-ref"><a href="#ch1-baptism-fn1" id="fnref-ch1-baptism-fn1">1</a></sup> whom God has given you to be dedicated to God and to His service. By this act you testify to your faith in the Christian religion, and also your desire that your *children* shall receive the benefits of consecration to God, and of the prayers of the church, and may early learn to know and follow the will of God; and therefore may live a Christian life.
 
 In order for this to happen, it will be your duty as parents to teach your *children* early the fear of the Lord; to watch over their education, that they may not be led astray by false teachings or doctrines, to direct *their minds* to the Holy Scriptures as expressing the will and authority of God for all people, and to direct *their* feet to the sanctuary, to restrain *them* from evil associates and habits; and, as much as you are able, to bring them up in the Lord’s discipline and instruction. Will you endeavor to do so, by the help of the Lord?
 
@@ -22,6 +22,12 @@ We will.
 ____________ ___________, on behalf of your parents and of this congregation, I dedicate you unto the Father, and the Son, and the Holy Spirit. Amen.
 
 (*Then the minister may pray.*)
+
+<div class="footnotes">
+<ol>
+<li id="ch1-baptism-fn1">Throughout the ritual, whenever instructions are given to the officiating minister, or a word may change form due to the gender or number of persons involved in the ritual on a given occasion, that word(s) is printed in italics to alert the minister who reads. “These children” may become “this child,” “he” may become “she” or “they,” etc. <a href="#fnref-ch1-baptism-fn1" class="footnote-backref">&#x21A9;</a></li>
+</ol>
+</div>
 
 ## B. Baptism of Infants
 
