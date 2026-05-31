@@ -45,6 +45,7 @@ export default defineConfig({
         ]
       },
       { text: 'Paragraph Index', link: '/index-of-paragraphs' },
+      { text: 'Topical Index', link: '/index-topical' },
     ],
 
     sidebar: {
