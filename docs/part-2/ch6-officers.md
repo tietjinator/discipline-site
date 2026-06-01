@@ -42,7 +42,7 @@ vice-chair of local board of administration ([¶773](/part-2/ch5-local-board.md#
 ##### ¶815:3 {#p815-3}
  They shall carry out their duties as given in *The Discipline* and as further defined by the local church conference and the local board of administration.
 ##### ¶815:4 {#p815-4}
- They shall be under the general supervision of the pastor, shall be amenable to the local church conference, and may be removed for cause or when the best interests of the church so require, by a majority vote of the local board of administration ([¶752:1](/part-2/ch5-local-board.md#p752-1); [[¶815](#p815):2](#p815-2); [[¶825](#p825):4](#p825-4)).
+ They shall be under the general supervision of the pastor, shall be amenable to the local church conference, and may be removed for cause or when the best interests of the church so require, by a majority vote of the local board of administration ([¶752:1](/part-2/ch5-local-board.md#p752-1); [¶815:2](#p815-2); [¶825:4](#p825-4)).
 
 ### Nominating Committee
 
@@ -117,7 +117,7 @@ vice-chair of local board of administration ([¶773](/part-2/ch5-local-board.md#
 ##### ¶845:1 {#p845-1}
  An assistant treasurer may be elected by the local board of administration, with authority to sign checks when the treasurer is unable to do so.
 ##### ¶845:2 {#p845-2}
- A financial secretary or tithing secretary may be elected by the local board of administration to assist the treasurer in keeping the record of individual tithes and offerings ([[¶842](#p842):5](#p842-5)).
+ A financial secretary or tithing secretary may be elected by the local board of administration to assist the treasurer in keeping the record of individual tithes and offerings ([¶842:5](#p842-5)).
 ##### ¶845:3 {#p845-3}
  One or more tellers shall be elected by the local board of administration to assist the treasurer in the counting of all tithes and offerings, all moneys being counted by two or more persons and recorded as to date of reception, purpose of the offering, and amount. These records shall be preserved and made available to the auditor or auditing committee.
 
@@ -155,7 +155,7 @@ vice-chair of local board of administration ([¶773](/part-2/ch5-local-board.md#
  The local board of trustees shall be subject to the following restrictions:
 
 ##### ¶859:1 {#p859-1}
- The local board of trustees must carry out the instructions of the local board of administration, the local church conference, and the district board of administration. If a local trustee refuses to carry out such instructions when the instructions meet all the requirements of local laws and of *The Discipline*, the trustee may be removed from office as given in [[¶815](#p815):4](#p815-4) ([¶4530](/part-8/ch1-general-principles.md#p4530)).
+ The local board of trustees must carry out the instructions of the local board of administration, the local church conference, and the district board of administration. If a local trustee refuses to carry out such instructions when the instructions meet all the requirements of local laws and of *The Discipline*, the trustee may be removed from office as given in [¶815:4](#p815-4) ([¶4530](/part-8/ch1-general-principles.md#p4530)).
 ##### ¶859:2 {#p859-2}
  The local board of trustees cannot mortgage or otherwise encumber local church property without the express authorization of the local church conference and the approval of the district board of administration as set forth in [¶4700–4720](/part-8/ch2-local-church-property.md#p4700).
 ##### ¶859:3 {#p859-3}
