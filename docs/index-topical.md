@@ -2665,7 +2665,7 @@ This index covers the main topics and subtopics of *The Discipline of The Wesley
   - lay missionary — [¶3490](/part-6/ch4-special-lay-ministries.md#p3490)
   - special worker — [¶3450–3480](/part-6/ch4-special-lay-ministries.md#p3450)
 
-**special offerings — [¶2050:1](/part-4/ch4-general-administration.md#p2050-1), [¶3](/part-1/ch1-history.md#p3)**
+**special offerings — [¶2050:1](/part-4/ch4-general-administration.md#p2050-1)**
 
 **Special Nominations, Committee on — [¶1580](/part-4/ch1-general-conference.md#p1580)**
 
