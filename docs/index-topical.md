@@ -1,2700 +1,3056 @@
 ---
+title: Topical Index
 pageClass: topical-index-page
 ---
 
 # Topical Index
 
-<nav class="topical-alpha" aria-label="Topical index alphabet"><a href="#a">A</a> <a href="#b">B</a> <a href="#c">C</a> <a href="#d">D</a> <a href="#e">E</a> <a href="#f">F</a> <a href="#g">G</a> <a href="#h">H</a> <a href="#i">I</a> <a href="#j">J</a> <a href="#k">K</a> <a href="#l">L</a> <a href="#m">M</a> <a href="#n">N</a> <a href="#o">O</a> <a href="#p">P</a> <a href="#q">Q</a> <a href="#r">R</a> <a href="#s">S</a> <a href="#t">T</a> <a href="#u">U</a> <a href="#v">V</a> <a href="#w">W</a> <a href="#y">Y</a> <a href="#z">Z</a></nav>
+This index covers the main topics and subtopics of *The Discipline of The Wesleyan Church 2022*. Paragraph numbers link directly to the relevant section. Entries labeled *see* or *see also* are cross-references to related topics.
+
+<nav class="topical-alpha" aria-label="Topical index alphabet"><a href="#a">A</a><a href="#b">B</a><a href="#c">C</a><a href="#d">D</a><a href="#e">E</a><a href="#f">F</a><a href="#g">G</a><a href="#h">H</a><a href="#i">I</a><a href="#j">J</a><a href="#k">K</a><a href="#l">L</a><a href="#m">M</a><a href="#n">N</a><a href="#o">O</a><a href="#p">P</a><a href="#q">Q</a><a href="#r">R</a><a href="#s">S</a><a href="#t">T</a><a href="#u">U</a><a href="#v">V</a><a href="#w">W</a><a href="#y">Y</a><a href="#z">Z</a></nav>
 
 ## A {#a}
 
-**abandoned church property, 4730** [¶4730](/part-8/ch2-local-church-property.md#p4730)  
+**abandoned church property — [¶4730](/part-8/ch2-local-church-property.md#p4730)**
 
-**abortion, 410:11** [¶410:11](/part-1/ch5-special-directions.md#p410-11)  
+**abortion — [¶410:11](/part-1/ch5-special-directions.md#p410-11)**
 
-**absentee ballots, 695** [¶695](/part-2/ch4-pastors.md#p695)  
+**absentee ballots — [¶695](/part-2/ch4-pastors.md#p695)**
 
-**abstinence, 265:2–10** [¶265:2](/part-1/ch4-constitution.md#p265-2)  
+**abstinence — [¶265:2–10](/part-1/ch4-constitution.md#p265-2)**
 
-**abuse, 265:7** [¶265:7](/part-1/ch4-constitution.md#p265-7)  
+**abuse — [¶265:7](/part-1/ch4-constitution.md#p265-7)**
 
-**accusation:**  
+**accusation:**
 
-**proper form and handling, Gen. Bd. Policy on Ch. Disc. 5002:3–4; 5022; 5206** ¶5022 ¶5206  
+  - proper form and handling, Gen. Bd. Policy on Ch. Disc. 5002:3–4; 5022; 5206
+  - withdrawal of members when under, [¶592](/part-2/ch2-membership.md#p592); Gen. Bd. Policy on Ch. Disc. 5048
 
-**withdrawal of members when under, 592; Gen. Bd. Policy on Ch. Disc. 5048**  
+**adjunct entities — [¶4370](/part-7/ch4-subsidiary-corporations.md#p4370)**
 
-**adjunct entities, 4370** [¶4370](/part-7/ch4-subsidiary-corporations.md#p4370)  
+**administrators, ministers serving as — [¶3320](/part-6/ch3-ministerial-appointments.md#p3320)**
 
-**administrators, ministers serving as, 3320** [¶3320](/part-6/ch3-ministerial-appointments.md#p3320)  
+**admonition, Gen. Bd. Policy on Ch. Disc.**
 
-**admonition, Gen. Bd. Policy on Ch. Disc. 5023:1, 5115** ¶5115  
+  - 5023:1 — 5115
 
-**adoption, 230** [¶230](/part-1/ch4-constitution.md#p230)  
+**adoption — [¶230](/part-1/ch4-constitution.md#p230)**
 
-**adultery, basis for divorce, 265:6** [¶265:6](/part-1/ch4-constitution.md#p265-6)  
+**adultery, basis for divorce — [¶265:6](/part-1/ch4-constitution.md#p265-6)**
 
-**affiliate church, 548** [¶548](/part-2/ch1-organization.md#p548)  
+**affiliate church — [¶548](/part-2/ch1-organization.md#p548)**
 
-**Africa, 17:3; 18; 25; 33; 35; 65; 80**  
+**Africa — [¶17:3](/part-1/ch1-history.md#p17-3); [¶18](/part-1/ch1-history.md#p18); [¶25](/part-1/ch1-history.md#p25); [¶33](/part-1/ch1-history.md#p33); [¶35](/part-1/ch1-history.md#p35); [¶65](/part-1/ch1-history.md#p65); [¶80](/part-1/ch1-history.md#p80)**
 
-**Africa Evangelistic Mission, 33**  
+**Africa Evangelistic Mission — [¶33](/part-1/ch1-history.md#p33)**
 
-**Alabama. See South Coastal District**  
+**Alabama. See South Coastal District**
 
-**Alaska. See Northwest District**  
+**Alaska. See Northwest District**
 
-**Alberta. See Central Canada District**  
+**Alberta. See Central Canada District**
 
-**alcoholic beverages, 265:4; 410:4** [¶265:4](/part-1/ch4-constitution.md#p265-4) [¶410:4](/part-1/ch5-special-directions.md#p410-4)  
+**alcoholic beverages — [¶265:4](/part-1/ch4-constitution.md#p265-4); [¶410:4](/part-1/ch5-special-directions.md#p410-4)**
 
-**Alliance of the Reformed Baptist Church of Canada, The, 17:3**  
+**Alliance of the Reformed Baptist Church of Canada, The — [¶17:3](/part-1/ch1-history.md#p17-3)**
 
-**alternate delegates:**  
+**alternate delegates:**
 
-**Board of Review, Gen. Bd. Policy on Ch. Disc. 5405**  
+  - Board of Review, Gen. Bd. Policy on Ch. Disc. 5405
+  - district conference — [¶1106](/part-3/ch2-conference.md#p1106)
+  - General Conference — [¶1516–1518](/part-4/ch1-general-conference.md#p1516)
 
-**district conference, 1106** [¶1106](/part-3/ch2-conference.md#p1106)  
+**ancestry, discrimination forbidden — [¶360:3d](/part-1/ch4-constitution.md#p360-3)**
 
-**General Conference, 1516–1518** [¶1516](/part-4/ch1-general-conference.md#p1516) [¶1518](/part-4/ch1-general-conference.md#p1518)  
+**Andover, MA — [¶7](/part-1/ch1-history.md#p7)**
 
-**ancestry, discrimination forbidden, 360:3d** ¶360:3d  
+**annual service report — [¶1402](/part-3/ch6-ministerial.md#p1402)**
 
-**Andover, MA, 7**  
+**annuities — [¶475](/part-1/ch5-special-directions.md#p475)**
 
-**annual service report, 1402** [¶1402](/part-3/ch6-ministerial.md#p1402)  
+**Antigua — [¶35](/part-1/ch1-history.md#p35)**
 
-**annuities, 475** [¶475](/part-1/ch5-special-directions.md#p475)  
+**appeal, judicial district conference’s right of — [¶1180:38–39](/part-3/ch2-conference.md#p1180-38)**
 
-**Antigua, 35**  
+  - district member’s right of — [¶323:6](/part-1/ch4-constitution.md#p323-6)
+  - members’ right of — [¶302:6](/part-1/ch4-constitution.md#p302-6)
+  - minister’s right of — [¶313:7](/part-1/ch4-constitution.md#p313-7)
 
-**appeal, judicial**  
+**appeal, questions of order:**
 
-**district conference’s right of, 1180:38–39** [¶1180:38](/part-3/ch2-conference.md#p1180-38)  
+  - in district conference — [¶1144](/part-3/ch2-conference.md#p1144)
+  - in General Conference — [¶1550](/part-4/ch1-general-conference.md#p1550)
 
-**district member’s right of, 323:6** [¶323:6](/part-1/ch4-constitution.md#p323-6)  
+**appointed ordained ministers — [¶317](/part-1/ch4-constitution.md#p317)**
 
-**members’ right of, 302:6** [¶302:6](/part-1/ch4-constitution.md#p302-6)  
+  - [¶1240:1](/part-3/ch3-board.md#p1240-1); [¶3250–3390](/part-6/ch3-ministerial-appointments.md#p3250)
 
-**minister’s right of, 313:7** [¶313:7](/part-1/ch4-constitution.md#p313-7)  
+**appointments, ministerial — [¶3250–3391](/part-6/ch3-ministerial-appointments.md#p3250)**
 
-**appeal, questions of order:**  
+**area representatives on General Board — [¶340:1](/part-1/ch4-constitution.md#p340-1); [¶1605:2](/part-4/ch2-general-board.md#p1605-2)**
 
-**in district conference, 1144** [¶1144](/part-3/ch2-conference.md#p1144)  
+**Arizona. See Pacific Southwest District**
 
-**in General Conference, 1550** [¶1550](/part-4/ch1-general-conference.md#p1550)  
+**Arkansas. See Tri-State District**
 
-**appointed ordained ministers, 317; 1240:1; 3250–3390** [¶3250](/part-6/ch3-ministerial-appointments.md#p3250) [¶3390](/part-6/ch3-ministerial-appointments.md#p3390)  
+**Articles of Religion — [¶210–250](/part-1/ch4-constitution.md#p210); [¶297:3](/part-1/ch4-constitution.md#p297-3)**
 
-**appointments, ministerial, 3250–3391** [¶3250](/part-6/ch3-ministerial-appointments.md#p3250) [¶3391](/part-6/ch3-ministerial-appointments.md#p3391)  
+  - [¶553:1](/part-2/ch2-membership.md#p553-1)
+  - summary of — [¶299](/part-1/ch4-constitution.md#p299)
 
-**area representatives on General Board, 340:1; 1605:2** [¶340:1](/part-1/ch4-constitution.md#p340-1) [¶1605:2](/part-4/ch2-general-board.md#p1605-2)  
+**assessments. See United Stewardship Fund**
 
-**Arizona. See Pacific Southwest District**  
+**assistant:**
 
-**Arkansas. See Tri-State District**  
+  - district superintendent — [¶1320–1327](/part-3/ch5-administration.md#p1320)
+  - pastor — [¶678](/part-2/ch4-pastors.md#p678); [¶725:27](/part-2/ch4-pastors.md#p725-27); [¶741](/part-2/ch4-pastors.md#p741)
+  - treasurer, local — 845:1
 
-**Articles of Religion, 210–250; 297:3; 553:1** [¶210](/part-1/ch4-constitution.md#p210) [¶250](/part-1/ch4-constitution.md#p250) [¶297:3](/part-1/ch4-constitution.md#p297-3) [¶553:1](/part-2/ch2-membership.md#p553-1)  
+**Atlantic District — [¶2403:1](/part-4/ch9-boundaries.md#p2403-1); [¶2435](/part-4/ch9-boundaries.md#p2435)**
 
-**summary of, 299** [¶299](/part-1/ch4-constitution.md#p299)  
+**atonement, Article of Religion — [¶226](/part-1/ch4-constitution.md#p226)**
 
-**assessments. See United Stewardship Fund**  
+**audit, General Board ordered — [¶1655:20](/part-4/ch2-general-board.md#p1655-20)**
 
-**assistant:**  
+**auditing committee, district — [¶1340](/part-3/ch5-administration.md#p1340)**
 
-**district superintendent, 1320–1327** [¶1320](/part-3/ch5-administration.md#p1320) [¶1327](/part-3/ch5-administration.md#p1327)  
+  - local church — 800:2
 
-**pastor, 678; 725:27; 741** [¶678](/part-2/ch4-pastors.md#p678) [¶725:27](/part-2/ch4-pastors.md#p725-27) [¶741](/part-2/ch4-pastors.md#p741)  
+**Australia — [¶18](/part-1/ch1-history.md#p18); [¶80](/part-1/ch1-history.md#p80)**
 
-**treasurer, local, 845:1** ¶845:1  
+**authority, for Church law — [¶185](/part-1/ch3-church-law.md#p185)**
 
-**Atlantic District, 2403:1; 2435** [¶2403:1](/part-4/ch9-boundaries.md#p2403-1) [¶2435](/part-4/ch9-boundaries.md#p2435)  
+**auxiliaries:**
 
-**atonement, Article of Religion, 226** [¶226](/part-1/ch4-constitution.md#p226)  
-
-**audit, General Board ordered, 1655:20** [¶1655:20](/part-4/ch2-general-board.md#p1655-20)  
-
-**auditing committee**  
-
-**district, 1340** [¶1340](/part-3/ch5-administration.md#p1340)  
-
-**local church, 800:2** ¶800:2  
-
-**Australia, 18; 80**  
-
-**authority, for Church law, 185** [¶185](/part-1/ch3-church-law.md#p185)  
-
-**auxiliaries:**  
-
-**annual audit, 1655:20** [¶1655:20](/part-4/ch2-general-board.md#p1655-20)  
-
-**election of boards, trustees, managers, 1655:19** [¶1655:19](/part-4/ch2-general-board.md#p1655-19)  
-
-**financial policies, 1655:23** [¶1655:23](/part-4/ch2-general-board.md#p1655-23)  
-
-**official policies, 1655:27** [¶1655:27](/part-4/ch2-general-board.md#p1655-27)  
-
-**overall correlation, 1785:3** [¶1785:3](/part-4/ch2-general-board.md#p1785-3)  
+  - annual audit — [¶1655:20](/part-4/ch2-general-board.md#p1655-20)
+  - election of boards, trustees, managers — [¶1655:19](/part-4/ch2-general-board.md#p1655-19)
+  - financial policies — [¶1655:23](/part-4/ch2-general-board.md#p1655-23)
+  - official policies — [¶1655:27](/part-4/ch2-general-board.md#p1655-27)
+  - overall correlation — [¶1785:3](/part-4/ch2-general-board.md#p1785-3)
 
 ## B {#b}
 
-**backsliding, 234** [¶234](/part-1/ch4-constitution.md#p234)  
+**backsliding — [¶234](/part-1/ch4-constitution.md#p234)**
 
-**baptism:**  
+**baptism:**
 
-**administrants of, 313:1; 3044:1; 3059:2a; 3075:1** [¶313:1](/part-1/ch4-constitution.md#p313-1) [¶3044:1](/part-6/ch1-ministerial-orders.md#p3044-1) [¶3059:2a](/part-6/ch1-ministerial-orders.md#p3059-2a) [¶3075:1](/part-6/ch1-ministerial-orders.md#p3075-1)  
+  - administrants of — [¶313:1](/part-1/ch4-constitution.md#p313-1); [¶3044:1](/part-6/ch1-ministerial-orders.md#p3044-1); [¶3059:2a](/part-6/ch1-ministerial-orders.md#p3059-2a); [¶3075:1](/part-6/ch1-ministerial-orders.md#p3075-1)
+  - Articles of Religion — [¶242](/part-1/ch4-constitution.md#p242)
+  - believers — [¶290](/part-1/ch4-constitution.md#p290); [¶5515](/part-10/ch1-baptism.md#p5515)
+  - children — [¶290](/part-1/ch4-constitution.md#p290); [¶5510](/part-10/ch1-baptism.md#p5510)
+  - condition of membership — [¶297:2](/part-1/ch4-constitution.md#p297-2); [¶553:1](/part-2/ch2-membership.md#p553-1)
+  - infants — [¶290](/part-1/ch4-constitution.md#p290); [¶5500–5510](/part-10/ch1-baptism.md#p5500)
+  - modes of — [¶290](/part-1/ch4-constitution.md#p290)
+  - right of access to — [¶302:2](/part-1/ch4-constitution.md#p302-2)
+  - ritual of — [¶5500–5530](/part-10/ch1-baptism.md#p5500)
+  - sacrament — [¶242](/part-1/ch4-constitution.md#p242)
 
-**Articles of Religion, 242** [¶242](/part-1/ch4-constitution.md#p242)  
+**baptism of the Holy Spirit — [¶236](/part-1/ch4-constitution.md#p236)**
 
-**believers, 290; 5515** [¶290](/part-1/ch4-constitution.md#p290) [¶5515](/part-10/ch1-baptism.md#p5515)  
+**Barbados — [¶35](/part-1/ch1-history.md#p35)**
 
-**children, 290; 5510** [¶290](/part-1/ch4-constitution.md#p290) [¶5510](/part-10/ch1-baptism.md#p5510)  
+**Barbuda — [¶35](/part-1/ch1-history.md#p35)**
 
-**condition of membership, 297:2; 553:1** [¶297:2](/part-1/ch4-constitution.md#p297-2) [¶553:1](/part-2/ch2-membership.md#p553-1)  
+**bequests:**
 
-**infants, 290; 5500–5510** [¶5500](/part-10/ch1-baptism.md#p5500) [¶5510](/part-10/ch1-baptism.md#p5510)  
+  - forms for — [¶4940](/part-8/ch4-general-church-property.md#p4940)
+  - special direction concerning — [¶475](/part-1/ch5-special-directions.md#p475)
 
-**modes of, 290** [¶290](/part-1/ch4-constitution.md#p290)  
+**Bible, [¶218](/part-1/ch4-constitution.md#p218). See also Holy Scriptures**
 
-**right of access to, 302:2** [¶302:2](/part-1/ch4-constitution.md#p302-2)  
+**Bible reading in public schools — [¶410:8](/part-1/ch5-special-directions.md#p410-8)**
 
-**ritual of, 5500–5530** [¶5500](/part-10/ch1-baptism.md#p5500) [¶5530](/part-10/ch1-baptism.md#p5530)  
+**birth sin — [¶224](/part-1/ch4-constitution.md#p224)**
 
-**sacrament, 242** [¶242](/part-1/ch4-constitution.md#p242)  
+**Board of Pensions — [¶4405](/part-7/ch5-pension-corporation.md#p4405); [¶4410:1](/part-7/ch5-pension-corporation.md#p4410-1)**
 
-**baptism of the Holy Spirit, 236** [¶236](/part-1/ch4-constitution.md#p236)  
+  - see Wesleyan Pension Fund Inc
 
-**Barbados, 35**  
+**board of review, district, Gen. Bd. Policy on Ch. Disc. 5218–5221**
 
-**Barbuda, 35**  
+**Board of Review, General — [¶370–380](/part-1/ch4-constitution.md#p370)**
 
-**bequests:**  
+  - Gen. Bd. Policy on Ch. Disc.
+  - 5400–5450
 
-**forms for, 4940** [¶4940](/part-8/ch4-general-church-property.md#p4940)  
+**board of trustees. See Trustees**
 
-**special direction concerning, 475** [¶475](/part-1/ch5-special-directions.md#p475)  
+**boards of administration:**
 
-**Bible, 218. See also Holy Scriptures**  
+  - district — [¶1200–1245](/part-3/ch3-board.md#p1200)
+  - General — [¶1600–1799](/part-4/ch2-general-board.md#p1600)
+  - local — [¶750–782](/part-2/ch5-local-board.md#p750)
 
-**Bible reading in public schools, 410:8** [¶410:8](/part-1/ch5-special-directions.md#p410-8)  
+**body of Christ — [¶240](/part-1/ch4-constitution.md#p240)**
 
-**birth sin, 224** [¶224](/part-1/ch4-constitution.md#p224)  
+**bonding of treasurers:**
 
-**Board of Pensions, 4405; 4410:1** [¶4405](/part-7/ch5-pension-corporation.md#p4405) [¶4410:1](/part-7/ch5-pension-corporation.md#p4410-1)  
+  - district — [¶1233:17](/part-3/ch3-board.md#p1233-17); [¶1337:2](/part-3/ch5-administration.md#p1337-2)
+  - General — [¶1655:28](/part-4/ch2-general-board.md#p1655-28)
 
-**see Wesleyan Pension Fund Inc**  
+**Bougainville — [¶80](/part-1/ch1-history.md#p80)**
 
-**board of review, district, Gen. Bd. Policy on Ch. Disc. 5218–5221**  
+**boundaries — [¶2400–2445](/part-4/ch9-boundaries.md#p2400)**
 
-**Board of Review, General, 370–380; Gen. Bd. Policy on Ch. Disc. 5400–5450**  
+  - district — [¶2400–2403](/part-4/ch9-boundaries.md#p2400)
+  - representative areas — [¶2430–2445](/part-4/ch9-boundaries.md#p2430)
 
-**board of trustees. See Trustees**  
+**Brazil — [¶35](/part-1/ch1-history.md#p35); [¶80](/part-1/ch1-history.md#p80)**
 
-**boards of administration:**  
+**British Columbia. See Central Canada District**
 
-**district, 1200–1245** [¶1200](/part-3/ch3-board.md#p1200) [¶1245](/part-3/ch3-board.md#p1245)  
+**British Isles — [¶80](/part-1/ch1-history.md#p80)**
 
-**General, 1600–1799** [¶1600](/part-4/ch2-general-board.md#p1600) [¶1799](/part-4/ch2-general-board.md#p1799)  
+**budget:**
 
-**local, 750–782** [¶750](/part-2/ch5-local-board.md#p750) [¶782](/part-2/ch5-local-board.md#p782)  
+  - district — [¶1180:15](/part-3/ch2-conference.md#p1180-15)
+  - General Church — [¶1655:23](/part-4/ch2-general-board.md#p1655-23); [¶1995–2045](/part-4/ch4-general-administration.md#p1995)
+  - local — [¶655:10](/part-2/ch3-conference.md#p655-10)
 
-**body of Christ, 240** [¶240](/part-1/ch4-constitution.md#p240)  
+**building construction — [¶655:11](/part-2/ch3-conference.md#p655-11); [¶782:29](/part-2/ch5-local-board.md#p782-29)**
 
-**bonding of treasurers:**  
+**buildings, church owned, use of — [¶313:4](/part-1/ch4-constitution.md#p313-4)**
 
-**district, 1233:17; 1337:2** [¶1233:17](/part-3/ch3-board.md#p1233-17) [¶1337:2](/part-3/ch5-administration.md#p1337-2)  
+**burial of dead, ritual — [¶5700–5725](/part-10/ch5-burial.md#p5700)**
 
-**General, 1655:28** [¶1655:28](/part-4/ch2-general-board.md#p1655-28)  
-
-**Bougainville, 80**  
-
-**boundaries, 2400–2445** [¶2400](/part-4/ch9-boundaries.md#p2400) [¶2445](/part-4/ch9-boundaries.md#p2445)  
-
-**district, 2400–2403** [¶2400](/part-4/ch9-boundaries.md#p2400) [¶2403](/part-4/ch9-boundaries.md#p2403)  
-
-**representative areas, 2430–2445** [¶2430](/part-4/ch9-boundaries.md#p2430) [¶2445](/part-4/ch9-boundaries.md#p2445)  
-
-**Brazil, 35; 80**  
-
-**British Columbia. See Central Canada District**  
-
-**British Isles, 80**  
-
-**budget:**  
-
-**district, 1180:15** [¶1180:15](/part-3/ch2-conference.md#p1180-15)  
-
-**General Church, 1655:23; 1995–2045** [¶1995](/part-4/ch4-general-administration.md#p1995) [¶2045](/part-4/ch4-general-administration.md#p2045)  
-
-**local, 655:10** [¶655:10](/part-2/ch3-conference.md#p655-10)  
-
-**building construction, 655:11; 782:29** [¶655:11](/part-2/ch3-conference.md#p655-11) [¶782:29](/part-2/ch5-local-board.md#p782-29)  
-
-**buildings, church owned, use of, 313:4** [¶313:4](/part-1/ch4-constitution.md#p313-4)  
-
-**burial of dead, ritual, 5700–5725** [¶5700](/part-10/ch5-burial.md#p5700) [¶5725](/part-10/ch5-burial.md#p5725)  
-
-**business meeting, local church, 625–655** [¶625](/part-2/ch3-conference.md#p625) [¶655](/part-2/ch3-conference.md#p655)  
+**business meeting, local church — [¶625–655](/part-2/ch3-conference.md#p625)**
 
 ## C {#c}
 
-**California. See Pacific Southwest District**  
+**California. See Pacific Southwest District**
 
-**calling a pastor, 690–722** [¶690](/part-2/ch4-pastors.md#p690) [¶722](/part-2/ch4-pastors.md#p722)  
+**calling a pastor — [¶690–722](/part-2/ch4-pastors.md#p690)**
 
-**Canada:**  
+**Canada:**
 
-**area boundaries, 2435** [¶2435](/part-4/ch9-boundaries.md#p2435)  
+  - area boundaries — [¶2435](/part-4/ch9-boundaries.md#p2435)
+  - district boundaries — [¶2400](/part-4/ch9-boundaries.md#p2400); [¶2403:1–2](/part-4/ch9-boundaries.md#p2403-1)
+  - The Wesleyan Church of — [¶70](/part-1/ch1-history.md#p70)
 
-**district boundaries, 2400; 2403:1–2** [¶2403:1](/part-4/ch9-boundaries.md#p2403-1)  
+**candidates for license, commission, and ordination, examination of — [¶1390:1](/part-3/ch6-ministerial.md#p1390-1), [¶3–4](/part-1/ch1-history.md#p3); [¶3033:6](/part-6/ch1-ministerial-orders.md#p3033-6); [¶3070:4](/part-6/ch1-ministerial-orders.md#p3070-4); [¶3104:3](/part-6/ch1-ministerial-orders.md#p3104-3)**
 
-**The Wesleyan Church of, 70**  
+  - [¶3460](/part-6/ch4-special-lay-ministries.md#p3460); [¶3470](/part-6/ch4-special-lay-ministries.md#p3470)
 
-**candidates for license, commission, and ordination, examination of, 1390:1, 3–4; 3033:6; 3070:4; 3104:3; 3460; 3470** [¶3033:6](/part-6/ch1-ministerial-orders.md#p3033-6) [¶3070:4](/part-6/ch1-ministerial-orders.md#p3070-4) [¶3104:3](/part-6/ch1-ministerial-orders.md#p3104-3) [¶3460](/part-6/ch4-special-lay-ministries.md#p3460) [¶3470](/part-6/ch4-special-lay-ministries.md#p3470)  
+**Canon, the — [¶218](/part-1/ch4-constitution.md#p218)**
 
-**Canon, the, 218** [¶218](/part-1/ch4-constitution.md#p218)  
+**Caribbean — [¶35](/part-1/ch1-history.md#p35); [¶65](/part-1/ch1-history.md#p65); [¶80](/part-1/ch1-history.md#p80); [¶2565](/part-5/ch2-conferences.md#p2565); 6750:2**
 
-**Caribbean, 35; 65; 80; 2565; 6750:2** [¶2565](/part-5/ch2-conferences.md#p2565) ¶6750:2  
+**Central America — [¶27](/part-1/ch1-history.md#p27)**
 
-**Central America, 27**  
+**Central Canada District — [¶2403:2](/part-4/ch9-boundaries.md#p2403-2); [¶2435](/part-4/ch9-boundaries.md#p2435)**
 
-**Central Canada District, 2403:2; 2435** [¶2403:2](/part-4/ch9-boundaries.md#p2403-2) [¶2435](/part-4/ch9-boundaries.md#p2435)  
+**ceremonies of churches — [¶420](/part-1/ch5-special-directions.md#p420)**
 
-**ceremonies of churches, 420** [¶420](/part-1/ch5-special-directions.md#p420)  
+**certificate:**
 
-**certificate:**  
+  - commission — 6280
+  - membership — 6052
+  - general evangelists — [¶3285:1](/part-6/ch3-ministerial-appointments.md#p3285-1); 6340
+  - interim pastor’s authorization — 6250
+  - ordination — [¶3070:7](/part-6/ch1-ministerial-orders.md#p3070-7); 6300
+  - pocket, of standing — 6430
+  - student membership — 6070
+  - study course — [¶3033:3](/part-6/ch1-ministerial-orders.md#p3033-3); [¶3059:1g](/part-6/ch1-ministerial-orders.md#p3059-1g); [¶3070:3](/part-6/ch1-ministerial-orders.md#p3070-3); 6410
+  - supply pastor’s authorization — [¶3260:4](/part-6/ch3-ministerial-appointments.md#p3260-4); 6240
+  - validating ordination, commission, or license — [¶3104:5](/part-6/ch1-ministerial-orders.md#p3104-5); 6320
 
-**commission, 6280** ¶6280  
+**chaplains:**
 
-**membership, 6052** ¶6052  
+  - Committee on — [¶2395](/part-4/ch8-education-clergy.md#p2395)
+  - institutional — [¶3330](/part-6/ch3-ministerial-appointments.md#p3330)
+  - military — [¶3330](/part-6/ch3-ministerial-appointments.md#p3330)
 
-**general evangelists, 3285:1; 6340** [¶3285:1](/part-6/ch3-ministerial-appointments.md#p3285-1) ¶6340  
+**charity, Christian — [¶220](/part-1/ch4-constitution.md#p220); [¶265:3](/part-1/ch4-constitution.md#p265-3)**
 
-**interim pastor’s authorization, 6250** ¶6250  
+**Charter, International Conference — [¶125](/part-1/ch3-church-law.md#p125)**
 
-**ordination, 3070:7; 6300** [¶3070:7](/part-6/ch1-ministerial-orders.md#p3070-7) ¶6300  
+  - [¶1590:4](/part-4/ch1-general-conference.md#p1590-4); 2640; [¶2680](/part-5/ch3-international.md#p2680); appendix a — 6500–6770
 
-**pocket, of standing, 6430** ¶6430  
+**Chesapeake District — [¶2403:3](/part-4/ch9-boundaries.md#p2403-3); [¶2435](/part-4/ch9-boundaries.md#p2435)**
 
-**student membership, 6070** ¶6070  
+**Chief Financial Officer/General Treasurer — [¶1970–1976](/part-4/ch4-general-administration.md#p1970)**
 
-**study course, 3033:3; 3059:1g; 3070:3; 6410** [¶3033:3](/part-6/ch1-ministerial-orders.md#p3033-3) [¶3059:1g](/part-6/ch1-ministerial-orders.md#p3059-1g) [¶3070:3](/part-6/ch1-ministerial-orders.md#p3070-3) ¶6410  
+**children, responsibility to — [¶265:7](/part-1/ch4-constitution.md#p265-7)**
 
-**supply pastor’s authorization, 3260:4; 6240** [¶3260:4](/part-6/ch3-ministerial-appointments.md#p3260-4) ¶6240  
+**children’s worker — [¶3210:5](/part-6/ch2-ministerial-education.md#p3210-5); [¶3450–3480](/part-6/ch4-special-lay-ministries.md#p3450)**
 
-**validating ordination, commission, or license, 3104:5; 6320** [¶3104:5](/part-6/ch1-ministerial-orders.md#p3104-5) ¶6320  
+  - 6360–6380
 
-**chaplains:**  
+**Chile — [¶80](/part-1/ch1-history.md#p80)**
 
-**Committee on, 2395** [¶2395](/part-4/ch8-education-clergy.md#p2395)  
+**Christ:**
 
-**institutional, 3330** [¶3330](/part-6/ch3-ministerial-appointments.md#p3330)  
+  - atonement of — [¶226](/part-1/ch4-constitution.md#p226)
+  - body of — [¶240](/part-1/ch4-constitution.md#p240)
+  - member of Trinity — [¶210](/part-1/ch4-constitution.md#p210)
+  - merits for justification — [¶230](/part-1/ch4-constitution.md#p230)
+  - resurrection of — [¶214](/part-1/ch4-constitution.md#p214)
+  - sacraments commanded by — [¶242](/part-1/ch4-constitution.md#p242)
+  - second coming of — [¶214](/part-1/ch4-constitution.md#p214); [¶244](/part-1/ch4-constitution.md#p244); [¶246](/part-1/ch4-constitution.md#p246)
+  - Son of God — [¶214](/part-1/ch4-constitution.md#p214)
 
-**military, 3330** [¶3330](/part-6/ch3-ministerial-appointments.md#p3330)  
+**Christian liberty, special direction concerning — [¶440](/part-1/ch5-special-directions.md#p440)**
 
-**charity, Christian, 220; 265:3** [¶220](/part-1/ch4-constitution.md#p220) [¶265:3](/part-1/ch4-constitution.md#p265-3)  
+**Christian perfection, see entire sanctification**
 
-**Charter, International Conference, 125; 1590:4; 2640; 2680; appendix a, 6500–6770** ¶6500 ¶6770  
+**Christian social concern — [¶410](/part-1/ch5-special-directions.md#p410); [¶1655:45](/part-4/ch2-general-board.md#p1655-45)**
 
-**Chesapeake District, 2403:3; 2435** [¶2403:3](/part-4/ch9-boundaries.md#p2403-3) [¶2435](/part-4/ch9-boundaries.md#p2435)  
+**Christian unity — [¶450](/part-1/ch5-special-directions.md#p450)**
 
-**Chief Financial Officer/General Treasurer, 1970–1976** [¶1970](/part-4/ch4-general-administration.md#p1970) [¶1976](/part-4/ch4-general-administration.md#p1976)  
+**Christian worship — [¶420](/part-1/ch5-special-directions.md#p420)**
 
-**children, responsibility to, 265:7** [¶265:7](/part-1/ch4-constitution.md#p265-7)  
+**church:**
 
-**children’s worker, 3210:5; 3450–3480; 6360–6380** ¶6360 ¶6380  
+  - Article of Religion — [¶240](/part-1/ch4-constitution.md#p240)
+  - Christ the only head of — [¶270](/part-1/ch4-constitution.md#p270)
+  - Guides and Helps to Holy Living — [¶265](/part-1/ch4-constitution.md#p265)
+  - see also local church; Wesleyan Church
 
-**Chile, 80**  
+**church board — [¶750–782](/part-2/ch5-local-board.md#p750)**
 
-**Christ:**  
+**church buildings:**
 
-**atonement of, 226** [¶226](/part-1/ch4-constitution.md#p226)  
+  - dedication, ritual — [¶5950](/part-10/ch10-dedication.md#p5950)
+  - use of [¶313:4](/part-1/ch4-constitution.md#p313-4)
 
-**body of, 240** [¶240](/part-1/ch4-constitution.md#p240)  
+**church, developing — [¶510](/part-2/ch1-organization.md#p510)**
 
-**member of Trinity, 210** [¶210](/part-1/ch4-constitution.md#p210)  
+  - categories of — [¶510:6](/part-2/ch1-organization.md#p510-6)
+  - delegate to district conference — [¶510:5](/part-2/ch1-organization.md#p510-5)
+  - government of — [¶510:3](/part-2/ch1-organization.md#p510-3)
+  - in developing district — [¶542](/part-2/ch1-organization.md#p542)
+  - local advisory council of — [¶510:2–3](/part-2/ch1-organization.md#p510-2)
+  - membership in — [¶510:2](/part-2/ch1-organization.md#p510-2)
+  - minimum organization — 807
+  - pastoral appointment for — [¶510:1](/part-2/ch1-organization.md#p510-1)
+  - property of, [¶510:4](/part-2/ch1-organization.md#p510-4). See also property, local church
 
-**merits for justification, 230** [¶230](/part-1/ch4-constitution.md#p230)  
+**Church discipline:**
 
-**resurrection of, 214** [¶214](/part-1/ch4-constitution.md#p214)  
+  - for members — [¶260](/part-1/ch4-constitution.md#p260), [¶268](/part-1/ch4-constitution.md#p268)
+  - judicial — [¶5000–5004](/part-9/ch1-general-regulations.md#p5000)
+  - meaning and purpose of — [¶5000](/part-9/ch1-general-regulations.md#p5000)
+  - principles of administering — [¶5002](/part-9/ch1-general-regulations.md#p5002)
 
-**sacraments commanded by, 242** [¶242](/part-1/ch4-constitution.md#p242)  
+**church growth. See Church Multiplication and Discipleship**
 
-**second coming of, 214; 244; 246** [¶214](/part-1/ch4-constitution.md#p214) [¶244](/part-1/ch4-constitution.md#p244) [¶246](/part-1/ch4-constitution.md#p246)  
+**Church hearings: [¶276](/part-1/ch4-constitution.md#p276)**
 
-**Son of God, 214** [¶214](/part-1/ch4-constitution.md#p214)  
+**Church law:**
 
-**Christian liberty, special direction concerning, 440** [¶440](/part-1/ch5-special-directions.md#p440)  
+  - classification of — [¶125–190](/part-1/ch3-church-law.md#p125)
+  - elementary principles governing — [¶270–286](/part-1/ch4-constitution.md#p270)
+  - interpretation of — [¶375:1–6](/part-1/ch4-constitution.md#p375-1); [¶2060–2068](/part-4/ch4-general-administration.md#p2060)
+  - Judiciary — [¶5000–5004](/part-9/ch1-general-regulations.md#p5000)
+  - see appendix b
 
-**Christian perfection, see entire sanctification**  
+**church member, membership — [¶550–610](/part-2/ch2-membership.md#p550)**
 
-**Christian social concern, 410; 1655:45** [¶410](/part-1/ch5-special-directions.md#p410) [¶1655:45](/part-4/ch2-general-board.md#p1655-45)  
+  - assistant pastor’s — [¶578:2](/part-2/ch2-membership.md#p578-2)
+  - categories of — [¶295](/part-1/ch4-constitution.md#p295)
+  - classes for — [¶568](/part-2/ch2-membership.md#p568); [¶725:11](/part-2/ch4-pastors.md#p725-11); [¶782:8](/part-2/ch5-local-board.md#p782-8)
+  - conditions of — [¶295](/part-1/ch4-constitution.md#p295); [¶297](/part-1/ch4-constitution.md#p297); [¶553](/part-2/ch2-membership.md#p553)
+  - constitutionally established — [¶295](/part-1/ch4-constitution.md#p295)
+  - developing church — [¶510](/part-2/ch1-organization.md#p510)
+  - elementary principle governing — [¶272](/part-1/ch4-constitution.md#p272)
+  - essence and meaning of — [¶260](/part-1/ch4-constitution.md#p260); [¶550](/part-2/ch2-membership.md#p550)
+  - judicial procedure against — [¶555](/part-2/ch2-membership.md#p555)
+  - letters and certificates — 6000–6070
+  - minister’s [¶310](/part-1/ch4-constitution.md#p310); [¶578:2](/part-2/ch2-membership.md#p578-2); [¶3097–3100](/part-6/ch1-ministerial-orders.md#p3097)
+  - pastor’s — [¶578:2](/part-2/ch2-membership.md#p578-2)
+  - reception of — [¶566–570](/part-2/ch2-membership.md#p566)
+  - records — [¶610](/part-2/ch2-membership.md#p610)
+  - restoration of — [¶268](/part-1/ch4-constitution.md#p268)
+  - rights of — [¶302](/part-1/ch4-constitution.md#p302), [¶555](/part-2/ch2-membership.md#p555)
+  - ritual — [¶295](/part-1/ch4-constitution.md#p295); [¶5550–5595](/part-10/ch2-reception.md#p5550)
+  - termination of. See termination of membership
 
-**Christian unity, 450** [¶450](/part-1/ch5-special-directions.md#p450)  
+**church member, membership, student [¶552](/part-2/ch2-membership.md#p552) — [¶564–565](/part-2/ch2-membership.md#p564), [¶610](/part-2/ch2-membership.md#p610)**
 
-**Christian worship, 420** [¶420](/part-1/ch5-special-directions.md#p420)  
+  - certificate of — 6070
 
-**church:**  
+**church members, relations with one another — [¶265:8–13](/part-1/ch4-constitution.md#p265-8)**
 
-**Article of Religion, 240** [¶240](/part-1/ch4-constitution.md#p240)  
+**Church Multiplication and Discipleship Division — [¶2305–2307](/part-4/ch7-multiplication-discipleship.md#p2305)**
 
-**Christ the only head of, 270** [¶270](/part-1/ch4-constitution.md#p270)  
+**church officers; officials:**
 
-**Guides and Helps to Holy Living, 265** [¶265](/part-1/ch4-constitution.md#p265)  
+  - district — [¶1250–1292](/part-3/ch4-officers.md#p1250)
+  - General — [¶1800–1870](/part-4/ch3-general-officials.md#p1800)
+  - local — 800; 815
 
-**see also local church; Wesleyan Church**  
+**church plant — [¶510:6](/part-2/ch1-organization.md#p510-6)**
 
-**church board, 750–782** [¶750](/part-2/ch5-local-board.md#p750) [¶782](/part-2/ch5-local-board.md#p782)  
+**church property. See abandoned church property; property, district;**
 
-**church buildings:**  
+  - property, General; property, General Church; property, local church
 
-**dedication, ritual, 5950** [¶5950](/part-10/ch10-dedication.md#p5950)  
+**church secretary — [¶775](/part-2/ch5-local-board.md#p775); 830**
 
-**use of, 313:4** [¶313:4](/part-1/ch4-constitution.md#p313-4)  
+**church treasurer — [¶752:1](/part-2/ch5-local-board.md#p752-1); 842**
 
-**church, developing, 510** [¶510](/part-2/ch1-organization.md#p510)  
+**Cincinnati, OH — [¶24](/part-1/ch1-history.md#p24)**
 
-**categories of, 510:6** [¶510:6](/part-2/ch1-organization.md#p510-6)  
+**circuit — [¶525–535](/part-2/ch1-organization.md#p525)**
 
-**delegate to district conference, 510:5** [¶510:5](/part-2/ch1-organization.md#p510-5)  
+  - boundaries set by district — [¶323:5](/part-1/ch4-constitution.md#p323-5)
+  - developing district — [¶542](/part-2/ch1-organization.md#p542)
+  - pastoral charge, a type of — [¶315](/part-1/ch4-constitution.md#p315)
+  - pastor’s membership — [¶578:2](/part-2/ch2-membership.md#p578-2)
 
-**government of, 510:3** [¶510:3](/part-2/ch1-organization.md#p510-3)  
+**civil rights, [¶220](/part-1/ch4-constitution.md#p220); [¶265:12](/part-1/ch4-constitution.md#p265-12); [¶360:3d](/part-1/ch4-constitution.md#p360-3) see also rights**
 
-**in developing district, 542** [¶542](/part-2/ch1-organization.md#p542)  
+**classification of Church law — [¶125–190](/part-1/ch3-church-law.md#p125)**
 
-**local advisory council of, 510:2–3** [¶510:2](/part-2/ch1-organization.md#p510-2)  
+**clergy development. See Education and Clergy Development Division**
 
-**membership in, 510:2** [¶510:2](/part-2/ch1-organization.md#p510-2)  
+**college/university:**
 
-**minimum organization, 807** ¶807  
+  - by local churches — [¶1180:25](/part-3/ch2-conference.md#p1180-25)
+  - president, ritual for installation — [¶5945](/part-10/ch9-installation.md#p5945)
+  - program of study for ministry — [¶3170:2](/part-6/ch2-ministerial-education.md#p3170-2)
+  - trustees — [¶2362](/part-4/ch8-education-clergy.md#p2362)
+  - see also educational institutions, general
 
-**pastoral appointment for, 510:1** [¶510:1](/part-2/ch1-organization.md#p510-1)  
+**Colombia — [¶18](/part-1/ch1-history.md#p18); [¶80](/part-1/ch1-history.md#p80)**
 
-**property of, 510:4. See also property, local church**  
+**Colorado. See Mountain Plains District**
 
-**Church discipline:**  
+**commissioned lay missionary:**
 
-**for members, 260, 268** [¶260](/part-1/ch4-constitution.md#p260) [¶268](/part-1/ch4-constitution.md#p268)  
+  - commission form — 6400
+  - listing of, [¶1240:5d](/part-3/ch3-board.md#p1240-5) regulations governing — [¶3490](/part-6/ch4-special-lay-ministries.md#p3490)
 
-**judicial, 5000–5004** [¶5000](/part-9/ch1-general-regulations.md#p5000) [¶5004](/part-9/ch1-general-regulations.md#p5004)  
+**commissioned minister:**
 
-**meaning and purpose of, 5000** [¶5000](/part-9/ch1-general-regulations.md#p5000)  
+  - certificate for commission — 6280
+  - course of study — [¶3210:3](/part-6/ch2-ministerial-education.md#p3210-3)
+  - district listing of — [¶1240](/part-3/ch3-board.md#p1240)
+  - duties of — [¶3059:3](/part-6/ch1-ministerial-orders.md#p3059-3)
+  - qualifications for — [¶3059:1](/part-6/ch1-ministerial-orders.md#p3059-1)
+  - regulations for — [¶3059:4](/part-6/ch1-ministerial-orders.md#p3059-4)
+  - rights of — [¶3059:2](/part-6/ch1-ministerial-orders.md#p3059-2)
 
-**principles of administering, 5002** [¶5002](/part-9/ch1-general-regulations.md#p5002)  
+**commissioned special worker:**
 
-**church growth. See Church Multiplication and Discipleship**  
+  - in process of transfer — [¶1240:5b](/part-3/ch3-board.md#p1240-5); [¶3470](/part-6/ch4-special-lay-ministries.md#p3470)
+  - listing of, [¶1240:5a](/part-3/ch3-board.md#p1240-5) regulations governing — [¶3470–3480](/part-6/ch4-special-lay-ministries.md#p3470)
 
-**Church hearings: 276**  
+**commissioning:**
 
-**Church law:**  
+  - of lay missionaries — [¶3490](/part-6/ch4-special-lay-ministries.md#p3490), [¶5850](/part-10/ch8-commissioning-lay.md#p5850)
+  - of lay workers — [¶5850](/part-10/ch8-commissioning-lay.md#p5850)
+  - of ministers — [¶5800](/part-10/ch7-commissioning.md#p5800)
+  - of special workers — [¶3470](/part-6/ch4-special-lay-ministries.md#p3470)
 
-**classification of, 125–190** [¶125](/part-1/ch3-church-law.md#p125) [¶190](/part-1/ch3-church-law.md#p190)  
+**commitments, membership — [¶260–268](/part-1/ch4-constitution.md#p260)**
 
-**elementary principles governing, 270–286** [¶270](/part-1/ch4-constitution.md#p270) [¶286](/part-1/ch4-constitution.md#p286)  
+**committees:**
 
-**interpretation of, 375:1–6; 2060–2068** [¶2060](/part-4/ch4-general-administration.md#p2060) [¶2068](/part-4/ch4-general-administration.md#p2068)  
+  - Chaplains — [¶2395](/part-4/ch8-education-clergy.md#p2395); [¶3330](/part-6/ch3-ministerial-appointments.md#p3330)
+  - district — [¶1250](/part-3/ch4-officers.md#p1250)
+  - General Conference, [¶1563–1585](/part-4/ch1-general-conference.md#p1563) editing — [¶1585](/part-4/ch1-general-conference.md#p1585)
+  - General Conference Planning — [¶1570](/part-4/ch1-general-conference.md#p1570)
+  - local church — 800
+  - special nominations — [¶1580](/part-4/ch1-general-conference.md#p1580)
 
-**Judiciary, 5000–5004** [¶5000](/part-9/ch1-general-regulations.md#p5000) [¶5004](/part-9/ch1-general-regulations.md#p5004)  
+**Communication and Administration Division — [¶2100–2110](/part-4/ch5-communication-admin.md#p2100)**
 
-**see appendix b**  
+**Communion — [¶242](/part-1/ch4-constitution.md#p242); [¶293](/part-1/ch4-constitution.md#p293)**
 
-**church member, membership, 550–610** [¶550](/part-2/ch2-membership.md#p550) [¶610](/part-2/ch2-membership.md#p610)  
+**compensation of ministers — [¶286](/part-1/ch4-constitution.md#p286); [¶782:14](/part-2/ch5-local-board.md#p782-14)**
 
-**assistant pastor’s, 578:2** [¶578:2](/part-2/ch2-membership.md#p578-2)  
+**complaints:**
 
-**categories of, 295** [¶295](/part-1/ch4-constitution.md#p295)  
+  - against course of study books — [¶375:5](/part-1/ch4-constitution.md#p375-5)
+  - against ministers — [¶313:7](/part-1/ch4-constitution.md#p313-7)
 
-**classes for, 568; 725:11; 782:8** [¶568](/part-2/ch2-membership.md#p568) [¶725:11](/part-2/ch4-pastors.md#p725-11) [¶782:8](/part-2/ch5-local-board.md#p782-8)  
+**conditions of membership — [¶297](/part-1/ch4-constitution.md#p297)**
 
-**conditions of, 295; 297; 553** [¶295](/part-1/ch4-constitution.md#p295) [¶297](/part-1/ch4-constitution.md#p297) [¶553](/part-2/ch2-membership.md#p553)  
+**conference. See circuit: conference;**
 
-**constitutionally established, 295** [¶295](/part-1/ch4-constitution.md#p295)  
+  - district conference; General Conference; local church conference
 
-**developing church, 510** [¶510](/part-2/ch1-organization.md#p510)  
+**conflict of laws — [¶1796–1799](/part-4/ch2-general-board.md#p1796)**
 
-**elementary principle governing, 272** [¶272](/part-1/ch4-constitution.md#p272)  
+**conflict resolution — [¶5004](/part-9/ch1-general-regulations.md#p5004)**
 
-**essence and meaning of, 260; 550** [¶260](/part-1/ch4-constitution.md#p260) [¶550](/part-2/ch2-membership.md#p550)  
+**Connecticut. See Northeast District**
 
-**judicial procedure against, 555** [¶555](/part-2/ch2-membership.md#p555)  
+**conscientious objector — [¶410:3](/part-1/ch5-special-directions.md#p410-3)**
 
-**letters and certificates, 6000–6070** ¶6000 ¶6070  
+**Constitution of the North American General Conference, The — [¶200–385](/part-1/ch4-constitution.md#p200)**
 
-**minister’s 310; 578:2; 3097–3100** [¶3097](/part-6/ch1-ministerial-orders.md#p3097) [¶3100](/part-6/ch1-ministerial-orders.md#p3100)  
+  - adoption of — [¶50](/part-1/ch1-history.md#p50)
+  - amendments — [¶385](/part-1/ch4-constitution.md#p385)
+  - current authority for — [¶185](/part-1/ch3-church-law.md#p185)
+  - function — [¶145](/part-1/ch3-church-law.md#p145)
+  - identification of — [¶135](/part-1/ch3-church-law.md#p135)
+  - summary of contents — [¶135–145](/part-1/ch3-church-law.md#p135); [¶200](/part-1/ch4-constitution.md#p200)
+  - text of — [¶200–385](/part-1/ch4-constitution.md#p200)
+  - type of Church law — [¶135–145](/part-1/ch3-church-law.md#p135)
 
-**pastor’s, 578:2** [¶578:2](/part-2/ch2-membership.md#p578-2)  
+**constitutional law — [¶125–145](/part-1/ch3-church-law.md#p125)**
 
-**reception of, 566–570** [¶566](/part-2/ch2-membership.md#p566) [¶570](/part-2/ch2-membership.md#p570)  
+**constitutionality:**
 
-**records, 610** [¶610](/part-2/ch2-membership.md#p610)  
+  - of district conference acts — [¶375:2](/part-1/ch4-constitution.md#p375-2)
+  - of General Conference acts — [¶375:1](/part-1/ch4-constitution.md#p375-1)
 
-**restoration of, 268** [¶268](/part-1/ch4-constitution.md#p268)  
+**continuing education — [¶3240](/part-6/ch2-ministerial-education.md#p3240)**
 
-**rights of, 302; 555** [¶302](/part-1/ch4-constitution.md#p302) [¶555](/part-2/ch2-membership.md#p555)  
+**contract, pastoral — [¶697](/part-2/ch4-pastors.md#p697); [¶723](/part-2/ch4-pastors.md#p723)**
 
-**ritual, 295; 5550–5595** [¶5550](/part-10/ch2-reception.md#p5550) [¶5595](/part-10/ch2-reception.md#p5595)  
+**conversion — [¶228](/part-1/ch4-constitution.md#p228); [¶230](/part-1/ch4-constitution.md#p230); [¶297:1](/part-1/ch4-constitution.md#p297-1); [¶553:1](/part-2/ch2-membership.md#p553-1)**
 
-**termination of. See termination of membership**  
+**corporate offense, 5010 Gen. Bd.**
 
-**church member, membership, student**  
+  - Policy on Ch. Disc.
 
-**552, 564–565, 610** [¶564](/part-2/ch2-membership.md#p564) [¶565](/part-2/ch2-membership.md#p565) [¶610](/part-2/ch2-membership.md#p610)  
+**Corporation, The Wesleyan Church — [¶4200–4270](/part-7/ch3-twc-corporation.md#p4200)**
 
-**certificate of, 6070** ¶6070  
+**corporations, affiliate — [¶4300–4425](/part-7/ch4-subsidiary-corporations.md#p4300)**
 
-**church members, relations with one another, 265:8–13** [¶265:8](/part-1/ch4-constitution.md#p265-8)  
+**corporations, district — [¶4100–4150](/part-7/ch2-district-corporations.md#p4100)**
 
-**Church Multiplication and Discipleship Division, 2305–2307** [¶2305](/part-4/ch7-multiplication-discipleship.md#p2305) [¶2307](/part-4/ch7-multiplication-discipleship.md#p2307)  
+**corporations, local church — [¶4000–4070](/part-7/ch1-local-church-corporations.md#p4000)**
 
-**church officers; officials:**  
+**corporations, subsidiary — [¶4300–4425](/part-7/ch4-subsidiary-corporations.md#p4300)**
 
-**district, 1250–1292** [¶1250](/part-3/ch4-officers.md#p1250) [¶1292](/part-3/ch4-officers.md#p1292)  
+**correspondence study courses — [¶2385–2388](/part-4/ch8-education-clergy.md#p2385); [¶3170:3](/part-6/ch2-ministerial-education.md#p3170-3)**
 
-**General, 1800–1870** [¶1800](/part-4/ch3-general-officials.md#p1800) [¶1870](/part-4/ch3-general-officials.md#p1870)  
+**Costa Rica — [¶80](/part-1/ch1-history.md#p80)**
 
-**local, 800; 815** ¶800 ¶815  
+**council, advisory:**
 
-**church plant, 510:6** [¶510:6](/part-2/ch1-organization.md#p510-6)  
+  - circuit — [¶530](/part-2/ch1-organization.md#p530)
+  - developing church — [¶510:3](/part-2/ch1-organization.md#p510-3)
 
-**church property. See abandoned church property; property, district; property, General; property, General Church; property, local church**  
+**Council of Ordination — [¶1405](/part-3/ch6-ministerial.md#p1405)**
 
-**church secretary, 775; 830** [¶775](/part-2/ch5-local-board.md#p775) ¶830  
+**Council, Wesleyan Educational — [¶2355](/part-4/ch8-education-clergy.md#p2355)**
 
-**church treasurer, 752:1; 842** [¶752:1](/part-2/ch5-local-board.md#p752-1) ¶842  
+**counseling:**
 
-**Cincinnati, OH, 24**  
+  - concerning divorce — [¶265:6](/part-1/ch4-constitution.md#p265-6)
+  - minister as counselor — [¶725:9](/part-2/ch4-pastors.md#p725-9)
 
-**circuit, 525–535** [¶525](/part-2/ch1-organization.md#p525) [¶535](/part-2/ch1-organization.md#p535)  
+**courses of study — [¶2385–2388](/part-4/ch8-education-clergy.md#p2385); [¶3170–3240](/part-6/ch2-ministerial-education.md#p3170)**
 
-**boundaries set by district, 323:5** [¶323:5](/part-1/ch4-constitution.md#p323-5)  
+  - certificate of completion — 6410
+  - commissioned minister’s — [¶3210:3](/part-6/ch2-ministerial-education.md#p3210-3)
+  - development of — [¶3200](/part-6/ch2-ministerial-education.md#p3200)
+  - lay minister’s — [¶3210:4](/part-6/ch2-ministerial-education.md#p3210-4)
+  - pre-ordination — [¶3210:1](/part-6/ch2-ministerial-education.md#p3210-1)
+  - special workers’ — [¶3210:5](/part-6/ch2-ministerial-education.md#p3210-5)
+  - specialized ministries — [¶3210:2](/part-6/ch2-ministerial-education.md#p3210-2)
 
-**developing district, 542** [¶542](/part-2/ch1-organization.md#p542)  
+**credentials:**
 
-**pastoral charge, a type of, 315** [¶315](/part-1/ch4-constitution.md#p315)  
+  - Gen. Bd. Policy on Ch. Disc. 5230; 5212:2
+  - of commissioned minister, [¶3059:4b](/part-6/ch1-ministerial-orders.md#p3059-4b) of ordained minister — [¶3089:2](/part-6/ch1-ministerial-orders.md#p3089-2)
+  - of licensed minister — [¶3055:2](/part-6/ch1-ministerial-orders.md#p3055-2)
+  - of ministerial student — [¶3015:5b](/part-6/ch1-ministerial-orders.md#p3015-5b)
 
-**pastor’s membership, 578:2** [¶578:2](/part-2/ch2-membership.md#p578-2)  
+**Crossroads District — [¶2403:4](/part-4/ch9-boundaries.md#p2403-4); [¶2430](/part-4/ch9-boundaries.md#p2430)**
 
-**civil rights, 220; 265:12; 360:3d** [¶220](/part-1/ch4-constitution.md#p220) [¶265:12](/part-1/ch4-constitution.md#p265-12) ¶360:3d  
+**Curacao — [¶35](/part-1/ch1-history.md#p35)**
 
-**see also rights**  
-
-**classification of Church law, 125–190** [¶125](/part-1/ch3-church-law.md#p125) [¶190](/part-1/ch3-church-law.md#p190)  
-
-**clergy development. See Education and Clergy Development Division**  
-
-**college/university:**  
-
-**by local churches, 1180:25** [¶1180:25](/part-3/ch2-conference.md#p1180-25)  
-
-**president, ritual for installation, 5945** [¶5945](/part-10/ch9-installation.md#p5945)  
-
-**program of study for ministry, 3170:2** [¶3170:2](/part-6/ch2-ministerial-education.md#p3170-2)  
-
-**trustees, 2362** [¶2362](/part-4/ch8-education-clergy.md#p2362)  
-
-**see also educational institutions, general**  
-
-**Colombia, 18; 80**  
-
-**Colorado. See Mountain Plains District**  
-
-**commissioned lay missionary:**  
-
-**commission form, 6400** ¶6400  
-
-**listing of, 1240:5d** ¶1240:5d  
-
-**regulations governing, 3490** [¶3490](/part-6/ch4-special-lay-ministries.md#p3490)  
-
-**commissioned minister:**  
-
-**certificate for commission, 6280** ¶6280  
-
-**course of study, 3210:3** [¶3210:3](/part-6/ch2-ministerial-education.md#p3210-3)  
-
-**district listing of, 1240** [¶1240](/part-3/ch3-board.md#p1240)  
-
-**duties of, 3059:3** [¶3059:3](/part-6/ch1-ministerial-orders.md#p3059-3)  
-
-**qualifications for, 3059:1** [¶3059:1](/part-6/ch1-ministerial-orders.md#p3059-1)  
-
-**regulations for, 3059:4** [¶3059:4](/part-6/ch1-ministerial-orders.md#p3059-4)  
-
-**rights of, 3059:2** [¶3059:2](/part-6/ch1-ministerial-orders.md#p3059-2)  
-
-**commissioned special worker:**  
-
-**in process of transfer, 1240:5b; 3470** [¶3470](/part-6/ch4-special-lay-ministries.md#p3470) ¶1240:5b  
-
-**listing of, 1240:5a** ¶1240:5a  
-
-**regulations governing, 3470–3480** [¶3470](/part-6/ch4-special-lay-ministries.md#p3470) [¶3480](/part-6/ch4-special-lay-ministries.md#p3480)  
-
-**commissioning:**  
-
-**of lay missionaries, 3490, 5850** [¶3490](/part-6/ch4-special-lay-ministries.md#p3490) [¶5850](/part-10/ch8-commissioning-lay.md#p5850)  
-
-**of lay workers, 5850** [¶5850](/part-10/ch8-commissioning-lay.md#p5850)  
-
-**of ministers, 5800** [¶5800](/part-10/ch7-commissioning.md#p5800)  
-
-**of special workers, 3470** [¶3470](/part-6/ch4-special-lay-ministries.md#p3470)  
-
-**commitments, membership, 260–268** [¶260](/part-1/ch4-constitution.md#p260) [¶268](/part-1/ch4-constitution.md#p268)  
-
-**committees:**  
-
-**Chaplains, 2395; 3330** [¶2395](/part-4/ch8-education-clergy.md#p2395) [¶3330](/part-6/ch3-ministerial-appointments.md#p3330)  
-
-**district, 1250** [¶1250](/part-3/ch4-officers.md#p1250)  
-
-**General Conference, 1563–1585** [¶1563](/part-4/ch1-general-conference.md#p1563) [¶1585](/part-4/ch1-general-conference.md#p1585)  
-
-**editing, 1585** [¶1585](/part-4/ch1-general-conference.md#p1585)  
-
-**General Conference Planning, 1570** [¶1570](/part-4/ch1-general-conference.md#p1570)  
-
-**local church, 800** ¶800  
-
-**special nominations, 1580** [¶1580](/part-4/ch1-general-conference.md#p1580)  
-
-**Communication and Administration Division, 2100–2110** [¶2100](/part-4/ch5-communication-admin.md#p2100) [¶2110](/part-4/ch5-communication-admin.md#p2110)  
-
-**Communion, 242; 293** [¶242](/part-1/ch4-constitution.md#p242) [¶293](/part-1/ch4-constitution.md#p293)  
-
-**compensation of ministers, 286; 782:14** [¶286](/part-1/ch4-constitution.md#p286) [¶782:14](/part-2/ch5-local-board.md#p782-14)  
-
-**complaints:**  
-
-**against course of study books, 375:5** [¶375:5](/part-1/ch4-constitution.md#p375-5)  
-
-**against ministers, 313:7** [¶313:7](/part-1/ch4-constitution.md#p313-7)  
-
-**conditions of membership, 297** [¶297](/part-1/ch4-constitution.md#p297)  
-
-**conference. See circuit; conference; district conference; General Conference; local church conference**  
-
-**conflict of laws, 1796–1799** [¶1796](/part-4/ch2-general-board.md#p1796) [¶1799](/part-4/ch2-general-board.md#p1799)  
-
-**conflict resolution, 5004** [¶5004](/part-9/ch1-general-regulations.md#p5004)  
-
-**Connecticut. See Northeast District**  
-
-**conscientious objector, 410:3** [¶410:3](/part-1/ch5-special-directions.md#p410-3)  
-
-**Constitution of the North American General Conference, The, 200–385** [¶200](/part-1/ch4-constitution.md#p200) [¶385](/part-1/ch4-constitution.md#p385)  
-
-**adoption of, 50**  
-
-**amendments, 385** [¶385](/part-1/ch4-constitution.md#p385)  
-
-**current authority for, 185** [¶185](/part-1/ch3-church-law.md#p185)  
-
-**function, 145** [¶145](/part-1/ch3-church-law.md#p145)  
-
-**identification of, 135** [¶135](/part-1/ch3-church-law.md#p135)  
-
-**summary of contents, 135–145; 200** [¶135](/part-1/ch3-church-law.md#p135) [¶145](/part-1/ch3-church-law.md#p145) [¶200](/part-1/ch4-constitution.md#p200)  
-
-**text of, 200–385** [¶200](/part-1/ch4-constitution.md#p200) [¶385](/part-1/ch4-constitution.md#p385)  
-
-**type of Church law, 135–145** [¶135](/part-1/ch3-church-law.md#p135) [¶145](/part-1/ch3-church-law.md#p145)  
-
-**constitutional law, 125–145** [¶125](/part-1/ch3-church-law.md#p125) [¶145](/part-1/ch3-church-law.md#p145)  
-
-**constitutionality:**  
-
-**of district conference acts, 375:2** [¶375:2](/part-1/ch4-constitution.md#p375-2)  
-
-**of General Conference acts, 375:1** [¶375:1](/part-1/ch4-constitution.md#p375-1)  
-
-**continuing education, 3240** [¶3240](/part-6/ch2-ministerial-education.md#p3240)  
-
-**contract, pastoral, 697; 723** [¶697](/part-2/ch4-pastors.md#p697) [¶723](/part-2/ch4-pastors.md#p723)  
-
-**conversion, 228; 230; 297:1; 553:1** [¶228](/part-1/ch4-constitution.md#p228) [¶230](/part-1/ch4-constitution.md#p230) [¶297:1](/part-1/ch4-constitution.md#p297-1) [¶553:1](/part-2/ch2-membership.md#p553-1)  
-
-**corporate offense, 5010 Gen. Bd. Policy on Ch. Disc.**  
-
-**Corporation, The Wesleyan Church, 4200–4270** [¶4200](/part-7/ch3-twc-corporation.md#p4200) [¶4270](/part-7/ch3-twc-corporation.md#p4270)  
-
-**corporations, affiliate, 4300–4425** [¶4300](/part-7/ch4-subsidiary-corporations.md#p4300) [¶4425](/part-7/ch5-pension-corporation.md#p4425)  
-
-**corporations, district, 4100–4150** [¶4100](/part-7/ch2-district-corporations.md#p4100) [¶4150](/part-7/ch2-district-corporations.md#p4150)  
-
-**corporations, local church, 4000–4070** [¶4000](/part-7/ch1-local-church-corporations.md#p4000) [¶4070](/part-7/ch1-local-church-corporations.md#p4070)  
-
-**corporations, subsidiary, 4300–4425** [¶4300](/part-7/ch4-subsidiary-corporations.md#p4300) [¶4425](/part-7/ch5-pension-corporation.md#p4425)  
-
-**correspondence study courses, 2385–2388; 3170:3** [¶2385](/part-4/ch8-education-clergy.md#p2385) [¶2388](/part-4/ch8-education-clergy.md#p2388) [¶3170:3](/part-6/ch2-ministerial-education.md#p3170-3)  
-
-**Costa Rica, 80**  
-
-**council, advisory:**  
-
-**circuit, 530** [¶530](/part-2/ch1-organization.md#p530)  
-
-**developing church, 510:3** [¶510:3](/part-2/ch1-organization.md#p510-3)  
-
-**Council of Ordination, 1405** [¶1405](/part-3/ch6-ministerial.md#p1405)  
-
-**Council, Wesleyan Educational, 2355** [¶2355](/part-4/ch8-education-clergy.md#p2355)  
-
-**counseling:**  
-
-**concerning divorce, 265:6** [¶265:6](/part-1/ch4-constitution.md#p265-6)  
-
-**minister as counselor, 725:9** [¶725:9](/part-2/ch4-pastors.md#p725-9)  
-
-**courses of study, 2385–2388; 3170–3240** [¶3170](/part-6/ch2-ministerial-education.md#p3170) [¶3240](/part-6/ch2-ministerial-education.md#p3240)  
-
-**certificate of completion, 6410** ¶6410  
-
-**commissioned minister’s, 3210:3** [¶3210:3](/part-6/ch2-ministerial-education.md#p3210-3)  
-
-**development of, 3200** [¶3200](/part-6/ch2-ministerial-education.md#p3200)  
-
-**lay minister’s, 3210:4** [¶3210:4](/part-6/ch2-ministerial-education.md#p3210-4)  
-
-**pre-ordination, 3210:1** [¶3210:1](/part-6/ch2-ministerial-education.md#p3210-1)  
-
-**special worker’s, 3210:5** [¶3210:5](/part-6/ch2-ministerial-education.md#p3210-5)  
-
-**specialized ministries, 3210:2** [¶3210:2](/part-6/ch2-ministerial-education.md#p3210-2)  
-
-**credentials:**  
-
-**Gen. Bd. Policy on Ch. Disc. 5230; 5212:2** ¶5212:2  
-
-**of commissioned minister, 3059:4b** [¶3059:4b](/part-6/ch1-ministerial-orders.md#p3059-4b)  
-
-**of ordained minister, 3089:2** [¶3089:2](/part-6/ch1-ministerial-orders.md#p3089-2)  
-
-**of licensed minister, 3055:2** [¶3055:2](/part-6/ch1-ministerial-orders.md#p3055-2)  
-
-**of ministerial student, 3015:5b** [¶3015:5b](/part-6/ch1-ministerial-orders.md#p3015-5b)  
-
-**Crossroads District, 2403:4; 2430** [¶2403:4](/part-4/ch9-boundaries.md#p2403-4) [¶2430](/part-4/ch9-boundaries.md#p2430)  
-
-**Curacao, 35**  
-
-**current authority for Church law, 185** [¶185](/part-1/ch3-church-law.md#p185)  
+**current authority for Church law — [¶185](/part-1/ch3-church-law.md#p185)**
 
 ## D {#d}
 
-**daughter church, 510:6b** ¶510:6b  
+**daughter church — [¶510:6b](/part-2/ch1-organization.md#p510-6)**
 
-**day care and/or day schools:**  
+**day care and/or day schools:**
 
-**authorization, 655:18** [¶655:18](/part-2/ch3-conference.md#p655-18)  
+  - authorization — [¶655:18](/part-2/ch3-conference.md#p655-18)
+  - approval by DBA — [¶782:33](/part-2/ch5-local-board.md#p782-33); [¶1233:32](/part-3/ch3-board.md#p1233-32)
+  - financial policies — 782:36
+  - governance — 782:36
+  - separate treasury — 782:37
 
-**approval by DBA, 782:33; 1233:32** [¶782:33](/part-2/ch5-local-board.md#p782-33) [¶1233:32](/part-3/ch3-board.md#p1233-32)  
+**De Wesleyaanse Gemeente, Suriname — [¶80](/part-1/ch1-history.md#p80)**
 
-**financial policies, 782:36** ¶782:36  
+**dedication:**
 
-**governance, 782:36** ¶782:36  
+  - of church buildings — [¶5950](/part-10/ch10-dedication.md#p5950)
+  - of infants — [¶290](/part-1/ch4-constitution.md#p290); [¶5500](/part-10/ch1-baptism.md#p5500)
+  - of parsonages — [¶5975](/part-10/ch10-dedication.md#p5975)
 
-**separate treasury, 782:37** ¶782:37  
+**deity, respect for name of — [¶265:1](/part-1/ch4-constitution.md#p265-1)**
 
-**De Wesleyaanse Gemeente, Suriname, 80**  
+**Delaware. See Chesapeake District**
 
-**dedication:**  
+**delegates to district conference:**
 
-**of church buildings, 5950** [¶5950](/part-10/ch10-dedication.md#p5950)  
+  - allotment — [¶1100](/part-3/ch2-conference.md#p1100)
+  - alternate — [¶1106](/part-3/ch2-conference.md#p1106)
+  - certification — 830:4
+  - election — [¶317](/part-1/ch4-constitution.md#p317); [¶528:3](/part-2/ch1-organization.md#p528-3); 965; [¶1103](/part-3/ch2-conference.md#p1103)
+  - function and general regulations — [¶315:7](/part-1/ch4-constitution.md#p315-7); [¶317](/part-1/ch4-constitution.md#p317); [¶1086](/part-3/ch2-conference.md#p1086)
+  - laity elected — [¶1086](/part-3/ch2-conference.md#p1086)
+  - qualifications — [¶1109](/part-3/ch2-conference.md#p1109)
 
-**of infants, 290; 5500** [¶290](/part-1/ch4-constitution.md#p290) [¶5500](/part-10/ch1-baptism.md#p5500)  
+**delegates to General Conference:**
 
-**of parsonages, 5975** [¶5975](/part-10/ch10-dedication.md#p5975)  
+  - alternate — [¶1516–1518](/part-4/ch1-general-conference.md#p1516)
+  - at-large — [¶1508–1510](/part-4/ch1-general-conference.md#p1508)
+  - certification — [¶1332:5](/part-3/ch5-administration.md#p1332-5); [¶1512](/part-4/ch1-general-conference.md#p1512)
+  - developing district — [¶1015](/part-3/ch1-organization.md#p1015)
+  - election — [¶1180:4](/part-3/ch2-conference.md#p1180-4); [¶1508–1518](/part-4/ch1-general-conference.md#p1508)
+  - function and general regulations — [¶323:9](/part-1/ch4-constitution.md#p323-9); [¶1500–1506](/part-4/ch1-general-conference.md#p1500)
+  - lay — [¶1503:1b](/part-4/ch1-general-conference.md#p1503-1b); [¶1516](/part-4/ch1-general-conference.md#p1516); [¶1524–1526](/part-4/ch1-general-conference.md#p1524)
+  - ministerial — [¶1503:1b](/part-4/ch1-general-conference.md#p1503-1b); [¶1516](/part-4/ch1-general-conference.md#p1516); [¶1520–1522](/part-4/ch1-general-conference.md#p1520)
+  - qualifications — [¶1520–1526](/part-4/ch1-general-conference.md#p1520)
 
-**deity, respect for name of, 265:1** [¶265:1](/part-1/ch4-constitution.md#p265-1)  
+**denominational service, ministers appointed to — [¶1240:1a](/part-3/ch3-board.md#p1240-1)4**
 
-**Delaware. See Chesapeake District**  
+**depravity, inherited — [¶224](/part-1/ch4-constitution.md#p224)**
 
-**delegates to district conference:**  
+**destiny, Article of Religion — [¶250](/part-1/ch4-constitution.md#p250)**
 
-**allotment, 1100** [¶1100](/part-3/ch2-conference.md#p1100)  
+**developing church. See church, developing**
 
-**alternate, 1106** [¶1106](/part-3/ch2-conference.md#p1106)  
+**developing district. See district, developing**
 
-**certification, 830:4** ¶830:4  
+**director of music:**
 
-**election, 317; 528:3; 965; 1103** [¶317](/part-1/ch4-constitution.md#p317) [¶528:3](/part-2/ch1-organization.md#p528-3) [¶1103](/part-3/ch2-conference.md#p1103) ¶965  
+  - course of study — [¶3210:5](/part-6/ch2-ministerial-education.md#p3210-5)
+  - local — 870
+  - special worker — [¶3450–3480](/part-6/ch4-special-lay-ministries.md#p3450)
 
-**function and general regulations, 315:7; 317; 1086** [¶315:7](/part-1/ch4-constitution.md#p315-7) [¶317](/part-1/ch4-constitution.md#p317) [¶1086](/part-3/ch2-conference.md#p1086)  
+**director of youth ministries:**
 
-**laity elected, 1086** [¶1086](/part-3/ch2-conference.md#p1086)  
+  - course of study — [¶3210:5](/part-6/ch2-ministerial-education.md#p3210-5)
+  - special worker — [¶3450–3480](/part-6/ch4-special-lay-ministries.md#p3450)
 
-**qualifications, 1109** [¶1109](/part-3/ch2-conference.md#p1109)  
+**discipline:**
 
-**delegates to General Conference:**  
+  - meaning and purpose of, Gen. Bd. Policy on Ch. Disc. 5000–5002
+  - subjects of, [¶260](/part-1/ch4-constitution.md#p260); Gen. Bd. Policy on Ch. Disc. 5200–5248; 5270–5288
 
-**alternate, 1516–1518** [¶1516](/part-4/ch1-general-conference.md#p1516) [¶1518](/part-4/ch1-general-conference.md#p1518)  
+**discipline, book of: for mission units — [¶340:2](/part-1/ch4-constitution.md#p340-2); [¶2610:6](/part-5/ch2-conferences.md#p2610-6)**
 
-**at-large, 1508–1510** [¶1508](/part-4/ch1-general-conference.md#p1508) [¶1510](/part-4/ch1-general-conference.md#p1510)  
+**discipline, consequences of being under:**
 
-**certification, 1332:5; 1512** [¶1332:5](/part-3/ch5-administration.md#p1332-5) [¶1512](/part-4/ch1-general-conference.md#p1512)  
+  - for districts, [¶323:9](/part-1/ch4-constitution.md#p323-9); [¶327:1](/part-1/ch4-constitution.md#p327-1); [¶360:3e](/part-1/ch4-constitution.md#p360-3); Gen. Bd. Policy on Ch. Disc. 5066; 5365; 5375
+  - for local churches, [¶315:7](/part-1/ch4-constitution.md#p315-7); Gen. Bd. Policy on Ch. Disc. 5066; 5310; 5320
+  - for members, [¶302:3](/part-1/ch4-constitution.md#p302-3); [¶575](/part-2/ch2-membership.md#p575); [¶590](/part-2/ch2-membership.md#p590); Gen. Bd. Policy on Ch. Disc. 5052; 5115
+  - for ministers, [¶313](/part-1/ch4-constitution.md#p313); Gen. Bd. Policy on Ch. Disc. 5052; 5115; 5212–5215; 5288
 
-**developing district, 1015** [¶1015](/part-3/ch1-organization.md#p1015)  
+**discipline, the, of the North American General Conference:**
 
-**election, 1180:4; 1508–1518** [¶1508](/part-4/ch1-general-conference.md#p1508) [¶1518](/part-4/ch1-general-conference.md#p1518)  
+  - amendment of — [¶125–165](/part-1/ch3-church-law.md#p125)
+  - authoritative edition of — [¶185](/part-1/ch3-church-law.md#p185)
+  - First, of The Wesleyan Church — [¶50](/part-1/ch1-history.md#p50)
+  - interpretations of, [¶2060–2061](/part-4/ch4-general-administration.md#p2060); Appendix B
 
-**function and general regulations, 323:9; 1500–1506** [¶1500](/part-4/ch1-general-conference.md#p1500) [¶1506](/part-4/ch1-general-conference.md#p1506)  
+**discontinue church: [¶1180:22](/part-3/ch2-conference.md#p1180-22) — [¶1233:26](/part-3/ch3-board.md#p1233-26), [¶4730](/part-8/ch2-local-church-property.md#p4730)**
 
-**lay, 1503:1b; 1516; 1524–1526** [¶1524](/part-4/ch1-general-conference.md#p1524) [¶1526](/part-4/ch1-general-conference.md#p1526)  
+**discontinue church members:**
 
-**ministerial, 1503:1b; 1516; 1520–1522** [¶1520](/part-4/ch1-general-conference.md#p1520) ¶1522  
+  - power to — [¶315:1](/part-1/ch4-constitution.md#p315-1); [¶655:1](/part-2/ch3-conference.md#p655-1)
+  - procedure of — [¶600–605](/part-2/ch2-membership.md#p600)
+  - reason for — [¶305](/part-1/ch4-constitution.md#p305); [¶585](/part-2/ch2-membership.md#p585); [¶600–605](/part-2/ch2-membership.md#p600)
 
-**qualifications, 1520–1526** [¶1520](/part-4/ch1-general-conference.md#p1520) [¶1526](/part-4/ch1-general-conference.md#p1526)  
+**discrimination forbidden — [¶265:12](/part-1/ch4-constitution.md#p265-12)**
 
-**denominational service, ministers appointed to, 1240:1a4** ¶1240:1a4  
+  - [¶360:3d](/part-1/ch4-constitution.md#p360-3)
 
-**depravity, inherited, 224** [¶224](/part-1/ch4-constitution.md#p224)  
+**dismissal:**
 
-**destiny, Article of Religion, 250** [¶250](/part-1/ch4-constitution.md#p250)  
+  - definition of, Gen. Bd. Policy on Ch. Disc. 5115:5; 5212:5
+  - power of — [¶315:1](/part-1/ch4-constitution.md#p315-1); [¶655:1](/part-2/ch3-conference.md#p655-1)
+  - reasons for, [¶276](/part-1/ch4-constitution.md#p276); [¶305](/part-1/ch4-constitution.md#p305); [¶585](/part-2/ch2-membership.md#p585); Gen. Bd. Policy on Ch. Disc. 5115:5; 5212:5
 
-**developing church. See church, developing**  
+**district:**
 
-**developing district. See district, developing**  
+  - amenability — 1050
+  - appeal from its actions — [¶323:6](/part-1/ch4-constitution.md#p323-6)
+  - assignment to representative area — [¶1590:12](/part-4/ch1-general-conference.md#p1590-12)
+  - assistant superintendent — [¶1320–1327](/part-3/ch5-administration.md#p1320)
+  - auditing committee or auditor — [¶1340](/part-3/ch5-administration.md#p1340)
+  - authorization — [¶1036](/part-3/ch1-organization.md#p1036)
+  - board of administration — [¶1200–1245](/part-3/ch3-board.md#p1200)
+  - board of ministerial development — [¶1375–1390](/part-3/ch6-ministerial.md#p1375)
+  - boundaries — [¶2400–2403](/part-4/ch9-boundaries.md#p2400)
+  - committees, list of — [¶1250](/part-3/ch4-officers.md#p1250)
+  - committees, regulations for — [¶1278–1292](/part-3/ch4-officers.md#p1278)
+  - conducts a local mission — [¶537](/part-2/ch1-organization.md#p537); [¶655:14](/part-2/ch3-conference.md#p655-14); [¶1180:22](/part-3/ch2-conference.md#p1180-22); [¶1233:26](/part-3/ch3-board.md#p1233-26)
+  - conference — [¶1075–1180](/part-3/ch2-conference.md#p1075)
+  - corporation — [¶4100–4150](/part-7/ch2-district-corporations.md#p4100)
+  - definition — [¶317](/part-1/ch4-constitution.md#p317); [¶1000](/part-3/ch1-organization.md#p1000)
+  - departmental officers — [¶1278–1292](/part-3/ch4-officers.md#p1278)
+  - developing — [¶1003–1015](/part-3/ch1-organization.md#p1003)
+  - directory — [¶1332:8](/part-3/ch5-administration.md#p1332-8)
+  - disputes with General Conference, [¶375:6](/part-1/ch4-constitution.md#p375-6); Gen. Bd. Policy on Ch. Disc. 5445:4
+  - disputes with other districts, [¶375:4](/part-1/ch4-constitution.md#p375-4); Gen. Bd. Policy on Ch. Disc. 5350
 
-**director of music:**  
+**established — [¶360:3e](/part-1/ch4-constitution.md#p360-3); [¶1036–1050](/part-3/ch1-organization.md#p1036)**
 
-**course of study, 3210:5** [¶3210:5](/part-6/ch2-ministerial-education.md#p3210-5)  
+**financial plan — [¶1180:15](/part-3/ch2-conference.md#p1180-15)**
 
-**local, 870** ¶870  
+**fiscal year — [¶1180:17](/part-3/ch2-conference.md#p1180-17)**
 
-**special worker, 3450–3480** [¶3450](/part-6/ch4-special-lay-ministries.md#p3450) [¶3480](/part-6/ch4-special-lay-ministries.md#p3480)  
+**function — [¶317](/part-1/ch4-constitution.md#p317); [¶1000](/part-3/ch1-organization.md#p1000)**
 
-**director of youth ministries:**  
+**government — [¶1000–1405](/part-3/ch1-organization.md#p1000)**
 
-**course of study, 3210:5** [¶3210:5](/part-6/ch2-ministerial-education.md#p3210-5)  
+**journal — [¶1178](/part-3/ch2-conference.md#p1178)**
 
-**special worker, 3450–3480** [¶3450](/part-6/ch4-special-lay-ministries.md#p3450) [¶3480](/part-6/ch4-special-lay-ministries.md#p3480)  
+**may request special session of General Conference — [¶330:2](/part-1/ch4-constitution.md#p330-2)**
 
-**discipline:**  
+**membership of ministers — [¶310](/part-1/ch4-constitution.md#p310); [¶313:6](/part-1/ch4-constitution.md#p313-6)**
 
-**meaning and purpose of, Gen. Bd. Policy on Ch. Disc. 5000–5002**  
+  - [¶3100](/part-6/ch1-ministerial-orders.md#p3100)
 
-**subjects of, 260; Gen. Bd. Policy on Ch. Disc. 5200–5248; 5270–5288** ¶5270 ¶5288  
+**merger — [¶1060–1065](/part-3/ch1-organization.md#p1060)**
 
-**discipline, book of: for mission units, 340:2; 2610:6** [¶340:2](/part-1/ch4-constitution.md#p340-2) [¶2610:6](/part-5/ch2-conferences.md#p2610-6)  
+**ministerial development, board of — [¶1375–1390](/part-3/ch6-ministerial.md#p1375)**
 
-**discipline, consequences of being under: for districts, 323:9; 327:1; 360:3e; Gen. Bd. Policy on Ch. Disc. 5066; 5365; 5375** ¶5365 ¶5375  
+**nominating committee, district conference — [¶1172–1175](/part-3/ch2-conference.md#p1172)**
 
-**for local churches, 315:7; Gen. Bd. Policy on Ch. Disc. 5066; 5310; 5320** ¶5310 ¶5320  
+**officers, list of — [¶1250](/part-3/ch4-officers.md#p1250)**
 
-**for members, 302:3; 575; 590; Gen. Bd. Policy on Ch. Disc. 5052; 5115** ¶5115  
+**officers, regulations for — [¶323:7](/part-1/ch4-constitution.md#p323-7)**
 
-**for ministers, 313; Gen. Bd. Policy on Ch. Disc. 5052**  
+  - [¶1255–1292](/part-3/ch4-officers.md#p1255)
 
-**INDEX**  
+**officials — [¶1255–1272](/part-3/ch4-officers.md#p1255)**
 
-**discontinue church: 1180:22, 1233:26, 4730** [¶1233:26](/part-3/ch3-board.md#p1233-26) [¶4730](/part-8/ch2-local-church-property.md#p4730)  
+**organization — [¶317](/part-1/ch4-constitution.md#p317); [¶1000–1065](/part-3/ch1-organization.md#p1000)**
 
-**discontinue church members:**  
+**organizing conference — [¶1040](/part-3/ch1-organization.md#p1040)**
 
-**power to, 315:1; 655:1** [¶315:1](/part-1/ch4-constitution.md#p315-1) [¶655:1](/part-2/ch3-conference.md#p655-1)  
+**powers — [¶323](/part-1/ch4-constitution.md#p323); [¶1180](/part-3/ch2-conference.md#p1180)**
 
-**procedure of, 600–605** [¶600](/part-2/ch2-membership.md#p600) [¶605](/part-2/ch2-membership.md#p605)  
+**property. See Property, district**
 
-**reason for, 305; 585; 600–605** [¶600](/part-2/ch2-membership.md#p600) [¶605](/part-2/ch2-membership.md#p605)  
+**realignment — [¶1060–1065](/part-3/ch1-organization.md#p1060)**
 
-**discrimination forbidden, 265:12; 360:3d** [¶265:12](/part-1/ch4-constitution.md#p265-12) ¶360:3d  
+**reclassification — [¶1042–1045](/part-3/ch1-organization.md#p1042); [¶1935](/part-4/ch4-general-administration.md#p1935)**
 
-**dismissal:**  
+**requirements for — [¶1038](/part-3/ch1-organization.md#p1038)**
 
-**definition of, Gen. Bd. Policy on Ch. Disc. 5115:5; 5212:5** ¶5212:5  
+**reorganization of, Gen. Bd. Policy on Ch. Disc. 5275**
 
-**power of, 315:1; 655:1** [¶315:1](/part-1/ch4-constitution.md#p315-1) [¶655:1](/part-2/ch3-conference.md#p655-1)  
+**review, board of, [¶1370](/part-3/ch5-administration.md#p1370); Gen. Bd. Policy on Ch. Disc. 5218–5221**
 
-**reasons for, 276; 305; 585; Gen. Bd. Policy on Ch. Disc. 5115:5; 5212:5** ¶5212:5  
+**rights — [¶323](/part-1/ch4-constitution.md#p323)**
 
-**district:**  
+**secretary — [¶1330–1332](/part-3/ch5-administration.md#p1330)**
 
-**amenability, 1050** ¶1050  
+**service, ministerial appointment to — [¶1390:1](/part-3/ch6-ministerial.md#p1390-1); [¶3320](/part-6/ch3-ministerial-appointments.md#p3320)**
 
-**appeal from its actions, 323:6** [¶323:6](/part-1/ch4-constitution.md#p323-6)  
+**superintendent — [¶1300–1310](/part-3/ch5-administration.md#p1300)**
 
-**assignment to representative area, 1590:12** [¶1590:12](/part-4/ch1-general-conference.md#p1590-12)  
+**superintendent’s representative — [¶520](/part-2/ch1-organization.md#p520)**
 
-**assistant superintendent, 1320–1327** [¶1320](/part-3/ch5-administration.md#p1320) [¶1327](/part-3/ch5-administration.md#p1327)  
+  - [¶692:2](/part-2/ch4-pastors.md#p692-2); [¶1310:12](/part-3/ch5-administration.md#p1310-12)
 
-**auditing committee or auditor, 1340** [¶1340](/part-3/ch5-administration.md#p1340)  
+**treasurer — [¶1335–1337](/part-3/ch5-administration.md#p1335)**
 
-**authorization, 1036** [¶1036](/part-3/ch1-organization.md#p1036)  
+**trustees, board of — [¶1360–1365](/part-3/ch5-administration.md#p1360)**
 
-**board of administration, 1200–1245** [¶1200](/part-3/ch3-board.md#p1200) [¶1245](/part-3/ch3-board.md#p1245)  
+**see also developing district**
 
-**board of ministerial development, 1375–1390** [¶1375](/part-3/ch6-ministerial.md#p1375) [¶1390](/part-3/ch6-ministerial.md#p1390)  
+**district board of ministerial development — [¶1375–1405](/part-3/ch6-ministerial.md#p1375)**
 
-**boundaries, 2400–2403** [¶2400](/part-4/ch9-boundaries.md#p2400) [¶2403](/part-4/ch9-boundaries.md#p2403)  
+  - duties — [¶1390](/part-3/ch6-ministerial.md#p1390)
+  - function — [¶1375](/part-3/ch6-ministerial.md#p1375)
+  - membership — [¶1378](/part-3/ch6-ministerial.md#p1378)
+  - organization — [¶1381](/part-3/ch6-ministerial.md#p1381)
+  - records — [¶1387](/part-3/ch6-ministerial.md#p1387)
+  - sessions — [¶1384](/part-3/ch6-ministerial.md#p1384)
 
-**committees, list of, 1250** [¶1250](/part-3/ch4-officers.md#p1250)  
+**district conference — [¶1075–1180](/part-3/ch2-conference.md#p1075)**
 
-**committees, regulations for, 1278–1292** [¶1278](/part-3/ch4-officers.md#p1278) [¶1292](/part-3/ch4-officers.md#p1292)  
+  - allotment of lay delegates — [¶510:5](/part-2/ch1-organization.md#p510-5); [¶528:3](/part-2/ch1-organization.md#p528-3); [¶1080](/part-3/ch2-conference.md#p1080); [¶1100](/part-3/ch2-conference.md#p1100)
+  - alternate delegates — [¶1106](/part-3/ch2-conference.md#p1106)
+  - appeals on questions of order — [¶1144](/part-3/ch2-conference.md#p1144)
+  - chair — [¶350:3](/part-1/ch4-constitution.md#p350-3); [¶1120](/part-3/ch2-conference.md#p1120)
+  - committees — [¶1159–1175](/part-3/ch2-conference.md#p1159)
+  - duties and powers — [¶1180](/part-3/ch2-conference.md#p1180)
+  - function — [¶1075](/part-3/ch2-conference.md#p1075)
+  - journal — [¶1178](/part-3/ch2-conference.md#p1178)
+  - legislation — [¶1147](/part-3/ch2-conference.md#p1147)
+  - membership — [¶317](/part-1/ch4-constitution.md#p317); [¶1080–1090](/part-3/ch2-conference.md#p1080)
+  - memorials — [¶1153](/part-3/ch2-conference.md#p1153)
+  - minutes — [¶1178](/part-3/ch2-conference.md#p1178)
+  - nominating committee — [¶1172–1175](/part-3/ch2-conference.md#p1172)
+  - procedure — [¶1126–1147](/part-3/ch2-conference.md#p1126)
+  - quorum — [¶1129](/part-3/ch2-conference.md#p1129)
+  - reconvened session — [¶1115](/part-3/ch2-conference.md#p1115)
+  - resolutions — [¶1150–1156](/part-3/ch2-conference.md#p1150); [¶1233:9](/part-3/ch3-board.md#p1233-9)
+  - rights — [¶1126](/part-3/ch2-conference.md#p1126)
+  - rules of order — [¶1138](/part-3/ch2-conference.md#p1138)
+  - secretary — [¶1123](/part-3/ch2-conference.md#p1123)
+  - sessions — [¶1112–1115](/part-3/ch2-conference.md#p1112)
+  - suspension of rules — [¶1141](/part-3/ch2-conference.md#p1141)
+  - voting — [¶1135](/part-3/ch2-conference.md#p1135)
 
-**conducts a local mission, 537; 655:14; 1180:22; 1233:26** [¶537](/part-2/ch1-organization.md#p537) [¶655:14](/part-2/ch3-conference.md#p655-14) [¶1180:22](/part-3/ch2-conference.md#p1180-22) [¶1233:26](/part-3/ch3-board.md#p1233-26)  
+**district, developing — [¶1003–1015](/part-3/ch1-organization.md#p1003)**
 
-**conference, 1075–1180** [¶1075](/part-3/ch2-conference.md#p1075) [¶1180](/part-3/ch2-conference.md#p1180)  
+  - authorization — [¶1006](/part-3/ch1-organization.md#p1006)
+  - General Conference representation — [¶1015](/part-3/ch1-organization.md#p1015)
+  - jurisdiction over — [¶1009](/part-3/ch1-organization.md#p1009)
+  - local churches in — [¶542](/part-2/ch1-organization.md#p542)
+  - ordination, commissioning, and licensing — [¶1012](/part-3/ch1-organization.md#p1012)
+  - organization of — [¶1012](/part-3/ch1-organization.md#p1012)
+  - property — [¶4800](/part-8/ch3-district-property.md#p4800)
+  - purpose — [¶1003](/part-3/ch1-organization.md#p1003)
 
-**corporation, 4100–4150** [¶4100](/part-7/ch2-district-corporations.md#p4100) [¶4150](/part-7/ch2-district-corporations.md#p4150)  
+**district forms:**
 
-**definition, 317; 1000** [¶317](/part-1/ch4-constitution.md#p317) [¶1000](/part-3/ch1-organization.md#p1000)  
+  - acknowledgment of letter of transfer — 6450
+  - letter of standing — 6460
+  - letter of transfer — 6440
+  - license — 6260
+  - recommendation for district license — 6420
 
-**departmental officers, 1278–1292** [¶1278](/part-3/ch4-officers.md#p1278) [¶1292](/part-3/ch4-officers.md#p1292)  
+**district membership of ministers — [¶3100](/part-6/ch1-ministerial-orders.md#p3100)**
 
-**developing, 1003–1015** [¶1003](/part-3/ch1-organization.md#p1003) [¶1015](/part-3/ch1-organization.md#p1015)  
+**District of Columbia, see Chesapeake District**
 
-**directory, 1332:8** [¶1332:8](/part-3/ch5-administration.md#p1332-8)  
+**district superintendent — [¶1300–1310](/part-3/ch5-administration.md#p1300)**
 
-**disputes with General Conference, 375:6; Gen. Bd. Policy on Ch. Disc. 5445:4**  
+  - amenability — [¶323:1](/part-1/ch4-constitution.md#p323-1); [¶1307](/part-3/ch5-administration.md#p1307)
+  - assistant — [¶1320–1327](/part-3/ch5-administration.md#p1320)
+  - duties — [¶1310](/part-3/ch5-administration.md#p1310)
+  - election — [¶1303:1](/part-3/ch5-administration.md#p1303-1)
+  - function — [¶1300](/part-3/ch5-administration.md#p1300)
+  - installation ritual — [¶5930](/part-10/ch9-installation.md#p5930)
+  - nomination of — [¶1303:7](/part-3/ch5-administration.md#p1303-7); [¶1935](/part-4/ch4-general-administration.md#p1935)
+  - developing district — [¶1003–1015](/part-3/ch1-organization.md#p1003)
+  - qualifications and tenure — [¶1303](/part-3/ch5-administration.md#p1303)
+  - reelection — [¶1303:3](/part-3/ch5-administration.md#p1303-3)
+  - term of office — [¶1303:2](/part-3/ch5-administration.md#p1303-2)
+  - vacancy — [¶1303:6](/part-3/ch5-administration.md#p1303-6)
 
-**disputes with other districts, 375:4; Gen. Bd. Policy on Ch. Disc. 5350**  
+**divided house:**
 
-**established, 360:3e; 1036–1050** [¶1036](/part-3/ch1-organization.md#p1036) ¶1050  
+  - in district conference vote — [¶320](/part-1/ch4-constitution.md#p320); [¶1135](/part-3/ch2-conference.md#p1135)
+  - in General Conference vote — [¶338](/part-1/ch4-constitution.md#p338); [¶1545](/part-4/ch1-general-conference.md#p1545)
 
-**financial plan, 1180:15** [¶1180:15](/part-3/ch2-conference.md#p1180-15)  
+**divorce:**
 
-**fiscal year, 1180:17** [¶1180:17](/part-3/ch2-conference.md#p1180-17)  
+  - abuse — [¶265:7](/part-1/ch4-constitution.md#p265-7)
+  - biblical grounds for — [¶265:6](/part-1/ch4-constitution.md#p265-6); [¶410:6](/part-1/ch5-special-directions.md#p410-6)
+  - marriage of divorced persons — [¶3111](/part-6/ch1-ministerial-orders.md#p3111)
+  - ministers — [¶3012](/part-6/ch1-ministerial-orders.md#p3012); [¶3108](/part-6/ch1-ministerial-orders.md#p3108); [¶3111](/part-6/ch1-ministerial-orders.md#p3111)
+  - remarriage — [¶410:6](/part-1/ch5-special-directions.md#p410-6)
+  - see also marriage; remarriage
 
-**function, 317; 1000** [¶317](/part-1/ch4-constitution.md#p317) [¶1000](/part-3/ch1-organization.md#p1000)  
-
-**government, 1000–1405** [¶1000](/part-3/ch1-organization.md#p1000) [¶1405](/part-3/ch6-ministerial.md#p1405)  
-
-**journal, 1178** [¶1178](/part-3/ch2-conference.md#p1178)  
-
-**may request special session of General Conference, 330:2** [¶330:2](/part-1/ch4-constitution.md#p330-2)  
-
-**membership of ministers, 310; 313:6; 3100** [¶310](/part-1/ch4-constitution.md#p310) [¶313:6](/part-1/ch4-constitution.md#p313-6) [¶3100](/part-6/ch1-ministerial-orders.md#p3100)  
-
-**merger, 1060–1065** [¶1060](/part-3/ch1-organization.md#p1060) [¶1065](/part-3/ch1-organization.md#p1065)  
-
-**ministerial development, board of, 1375–1390** [¶1375](/part-3/ch6-ministerial.md#p1375) [¶1390](/part-3/ch6-ministerial.md#p1390)  
-
-**nominating committee, district conference, 1172–1175** [¶1172](/part-3/ch2-conference.md#p1172) [¶1175](/part-3/ch2-conference.md#p1175)  
-
-**officers, list of, 1250** [¶1250](/part-3/ch4-officers.md#p1250)  
-
-**officers, regulations for, 323:7; 1255–1292** [¶1255](/part-3/ch4-officers.md#p1255) [¶1292](/part-3/ch4-officers.md#p1292)  
-
-**officials, 1255–1272** [¶1255](/part-3/ch4-officers.md#p1255) [¶1272](/part-3/ch4-officers.md#p1272)  
-
-**organization, 317; 1000–1065** [¶1000](/part-3/ch1-organization.md#p1000) [¶1065](/part-3/ch1-organization.md#p1065)  
-
-**organizing conference, 1040** [¶1040](/part-3/ch1-organization.md#p1040)  
-
-**powers, 323; 1180** [¶323](/part-1/ch4-constitution.md#p323) [¶1180](/part-3/ch2-conference.md#p1180)  
-
-**property. See Property, district**  
-
-**realignment, 1060–1065** [¶1060](/part-3/ch1-organization.md#p1060) [¶1065](/part-3/ch1-organization.md#p1065)  
-
-**reclassification, 1042–1045; 1935** [¶1042](/part-3/ch1-organization.md#p1042) [¶1045](/part-3/ch1-organization.md#p1045) [¶1935](/part-4/ch4-general-administration.md#p1935)  
-
-**requirements for, 1038** [¶1038](/part-3/ch1-organization.md#p1038)  
-
-**reorganization of, Gen. Bd. Policy on Ch. Disc. 5275**  
-
-**review, board of, 1370; Gen. Bd. Policy on Ch. Disc. 5218–5221**  
-
-**rights, 323** [¶323](/part-1/ch4-constitution.md#p323)  
-
-**secretary, 1330–1332** [¶1330](/part-3/ch5-administration.md#p1330) [¶1332](/part-3/ch5-administration.md#p1332)  
-
-**service, ministerial appointment to, 1390:1; 3320** [¶1390:1](/part-3/ch6-ministerial.md#p1390-1) [¶3320](/part-6/ch3-ministerial-appointments.md#p3320)  
-
-**superintendent, 1300–1310** [¶1300](/part-3/ch5-administration.md#p1300) [¶1310](/part-3/ch5-administration.md#p1310)  
-
-**superintendent’s representative, 520; 692:2; 1310:12** [¶520](/part-2/ch1-organization.md#p520) [¶692:2](/part-2/ch4-pastors.md#p692-2) [¶1310:12](/part-3/ch5-administration.md#p1310-12)  
-
-**treasurer,1335–1337** [¶1335](/part-3/ch5-administration.md#p1335) [¶1337](/part-3/ch5-administration.md#p1337)  
-
-**trustees, board of, 1360–1365** [¶1360](/part-3/ch5-administration.md#p1360) [¶1365](/part-3/ch5-administration.md#p1365)  
-
-**see also developing district**  
-
-**district board of ministerial development, 1375–1405** [¶1375](/part-3/ch6-ministerial.md#p1375) [¶1405](/part-3/ch6-ministerial.md#p1405)  
-
-**duties, 1390** [¶1390](/part-3/ch6-ministerial.md#p1390)  
-
-**function, 1375** [¶1375](/part-3/ch6-ministerial.md#p1375)  
-
-**membership, 1378** [¶1378](/part-3/ch6-ministerial.md#p1378)  
-
-**organization, 1381** [¶1381](/part-3/ch6-ministerial.md#p1381)  
-
-**records, 1387** [¶1387](/part-3/ch6-ministerial.md#p1387)  
-
-**sessions, 1384** [¶1384](/part-3/ch6-ministerial.md#p1384)  
-
-**district conference, 1075–1180** [¶1075](/part-3/ch2-conference.md#p1075) [¶1180](/part-3/ch2-conference.md#p1180)  
-
-**allotment of lay delegates, 510:5; 528:3; 1080; 1100** [¶510:5](/part-2/ch1-organization.md#p510-5) [¶528:3](/part-2/ch1-organization.md#p528-3) [¶1080](/part-3/ch2-conference.md#p1080) [¶1100](/part-3/ch2-conference.md#p1100)  
-
-**alternate delegates, 1106** [¶1106](/part-3/ch2-conference.md#p1106)  
-
-**appeals on questions of order, 1144** [¶1144](/part-3/ch2-conference.md#p1144)  
-
-**chair, 350:3; 1120** [¶350:3](/part-1/ch4-constitution.md#p350-3) [¶1120](/part-3/ch2-conference.md#p1120)  
-
-**committees, 1159–1175** [¶1159](/part-3/ch2-conference.md#p1159) [¶1175](/part-3/ch2-conference.md#p1175)  
-
-**duties and powers, 1180** [¶1180](/part-3/ch2-conference.md#p1180)  
-
-**function, 1075** [¶1075](/part-3/ch2-conference.md#p1075)  
-
-**journal, 1178** [¶1178](/part-3/ch2-conference.md#p1178)  
-
-**legislation, 1147** [¶1147](/part-3/ch2-conference.md#p1147)  
-
-**membership, 317; 1080–1090** [¶1080](/part-3/ch2-conference.md#p1080) [¶1090](/part-3/ch2-conference.md#p1090)  
-
-**memorials, 1153** [¶1153](/part-3/ch2-conference.md#p1153)  
-
-**minutes, 1178** [¶1178](/part-3/ch2-conference.md#p1178)  
-
-**nominating committee, 1172–1175** [¶1172](/part-3/ch2-conference.md#p1172) [¶1175](/part-3/ch2-conference.md#p1175)  
-
-**procedure, 1126–1147** [¶1126](/part-3/ch2-conference.md#p1126) [¶1147](/part-3/ch2-conference.md#p1147)  
-
-**quorum, 1129** [¶1129](/part-3/ch2-conference.md#p1129)  
-
-**reconvened session, 1115** [¶1115](/part-3/ch2-conference.md#p1115)  
-
-**resolutions, 1150–1156; 1233:9** [¶1150](/part-3/ch2-conference.md#p1150) [¶1156](/part-3/ch2-conference.md#p1156) [¶1233:9](/part-3/ch3-board.md#p1233-9)  
-
-**rights, 1126** [¶1126](/part-3/ch2-conference.md#p1126)  
-
-**rules of order, 1138** [¶1138](/part-3/ch2-conference.md#p1138)  
-
-**secretary, 1123** [¶1123](/part-3/ch2-conference.md#p1123)  
-
-**sessions, 1112–1115** [¶1112](/part-3/ch2-conference.md#p1112) [¶1115](/part-3/ch2-conference.md#p1115)  
-
-**suspension of rules, 1141** [¶1141](/part-3/ch2-conference.md#p1141)  
-
-**voting, 1135** [¶1135](/part-3/ch2-conference.md#p1135)  
-
-**district, developing, 1003–1015** [¶1003](/part-3/ch1-organization.md#p1003) [¶1015](/part-3/ch1-organization.md#p1015)  
-
-**authorization, 1006** [¶1006](/part-3/ch1-organization.md#p1006)  
-
-**General Conference representation, 1015** [¶1015](/part-3/ch1-organization.md#p1015)  
-
-**jurisdiction over, 1009** [¶1009](/part-3/ch1-organization.md#p1009)  
-
-**local churches in, 542** [¶542](/part-2/ch1-organization.md#p542)  
-
-**ordination, commissioning, and licensing, 1012** [¶1012](/part-3/ch1-organization.md#p1012)  
-
-**organization of, 1012** [¶1012](/part-3/ch1-organization.md#p1012)  
-
-**property, 4800** [¶4800](/part-8/ch3-district-property.md#p4800)  
-
-**purpose, 1003** [¶1003](/part-3/ch1-organization.md#p1003)  
-
-**district forms:**  
-
-**acknowledgment of letter of transfer, 6450** ¶6450  
-
-**letter of standing, 6460** ¶6460  
-
-**letter of transfer, 6440** ¶6440  
-
-**license, 6260** ¶6260  
-
-**recommendation for district license, 6420** ¶6420  
-
-**district membership of ministers, 3100** [¶3100](/part-6/ch1-ministerial-orders.md#p3100)  
-
-**District of Columbia, see Chesapeake District**  
-
-**district superintendent, 1300–1310** [¶1300](/part-3/ch5-administration.md#p1300) [¶1310](/part-3/ch5-administration.md#p1310)  
-
-**assistant, 1320–1327** [¶1320](/part-3/ch5-administration.md#p1320) [¶1327](/part-3/ch5-administration.md#p1327)  
-
-**duties, 1310** [¶1310](/part-3/ch5-administration.md#p1310)  
-
-**election, 1303:1** [¶1303:1](/part-3/ch5-administration.md#p1303-1)  
-
-**function, 1300** [¶1300](/part-3/ch5-administration.md#p1300)  
-
-**installation ritual, 5930** [¶5930](/part-10/ch9-installation.md#p5930)  
-
-**nomination of, 1303:7; 1935** [¶1303:7](/part-3/ch5-administration.md#p1303-7) [¶1935](/part-4/ch4-general-administration.md#p1935)  
-
-**developing district, 1003–1015** [¶1003](/part-3/ch1-organization.md#p1003) [¶1015](/part-3/ch1-organization.md#p1015)  
-
-**qualifications and tenure, 1303** [¶1303](/part-3/ch5-administration.md#p1303)  
-
-**reelection, 1303:3** [¶1303:3](/part-3/ch5-administration.md#p1303-3)  
-
-**term of office, 1303:2** [¶1303:2](/part-3/ch5-administration.md#p1303-2)  
-
-**vacancy, 1303:6** [¶1303:6](/part-3/ch5-administration.md#p1303-6)  
-
-**divided house:**  
-
-**in district conference vote, 320; 1135** [¶320](/part-1/ch4-constitution.md#p320) [¶1135](/part-3/ch2-conference.md#p1135)  
-
-**in General Conference vote, 338; 1545** [¶338](/part-1/ch4-constitution.md#p338) [¶1545](/part-4/ch1-general-conference.md#p1545)  
-
-**divorce:**  
-
-**abuse, 265:7** [¶265:7](/part-1/ch4-constitution.md#p265-7)  
-
-**biblical grounds for, 265:6; 410:6** [¶265:6](/part-1/ch4-constitution.md#p265-6) [¶410:6](/part-1/ch5-special-directions.md#p410-6)  
-
-**marriage of divorced persons, 3111** [¶3111](/part-6/ch1-ministerial-orders.md#p3111)  
-
-**ministers, 3012; 3108; 3111** [¶3012](/part-6/ch1-ministerial-orders.md#p3012) [¶3108](/part-6/ch1-ministerial-orders.md#p3108) [¶3111](/part-6/ch1-ministerial-orders.md#p3111)  
-
-**remarriage, 410:6** [¶410:6](/part-1/ch5-special-directions.md#p410-6)  
-
-**see also marriage; remarriage**  
-
-**domestic violence, 265:7** [¶265:7](/part-1/ch4-constitution.md#p265-7)  
+**domestic violence — [¶265:7](/part-1/ch4-constitution.md#p265-7)**
 
 ## E {#e}
 
-**Education and Clergy Development Division, 2338–2340** [¶2338](/part-4/ch8-education-clergy.md#p2338) [¶2340](/part-4/ch8-education-clergy.md#p2340)  
+**Education and Clergy Development Division — [¶2338–2340](/part-4/ch8-education-clergy.md#p2338)**
 
-**educational institutions**  
+**educational institutions, curriculum requirements — [¶2365–2368](/part-4/ch8-education-clergy.md#p2365)**
 
-**educational leave, ordained ministers on:**  
+  - financial support — [¶2377](/part-4/ch8-education-clergy.md#p2377)
+  - General Board’s role — [¶2362](/part-4/ch8-education-clergy.md#p2362)
+  - General Conference’s role — [¶2362](/part-4/ch8-education-clergy.md#p2362)
+  - Ministerial Study Course Agency — [¶2385–2388](/part-4/ch8-education-clergy.md#p2385)
+  - names of institutions — [¶2365](/part-4/ch8-education-clergy.md#p2365), [¶2366](/part-4/ch8-education-clergy.md#p2366)
+  - ownership and control — [¶2358](/part-4/ch8-education-clergy.md#p2358)
+  - presidents, [¶325](/part-1/ch4-constitution.md#p325); [¶1503:1c](/part-4/ch1-general-conference.md#p1503-1c) spiritual priorities — [¶2358](/part-4/ch8-education-clergy.md#p2358)
+  - Standards of the General Board for Educational Institutions — [¶2362:4](/part-4/ch8-education-clergy.md#p2362-4)
+  - Wesleyan Educational Council — [¶2355](/part-4/ch8-education-clergy.md#p2355)
+  - Wesleyan Seminary Foundation — [¶2382](/part-4/ch8-education-clergy.md#p2382)
 
-**educational objectives, 2339** [¶2339](/part-4/ch8-education-clergy.md#p2339)  
+**educational leave, ordained ministers on:**
 
-**educators, ministers appointed as, 3310** [¶3310](/part-6/ch3-ministerial-appointments.md#p3310)  
+  - category of service — [¶3350:1](/part-6/ch3-ministerial-appointments.md#p3350-1)
+  - district listing — [¶1240](/part-3/ch3-board.md#p1240)
 
-**Egypt, 80**  
+**educational objectives — [¶2339](/part-4/ch8-education-clergy.md#p2339)**
 
-**Elementary Principles, 270–286; 297:3; 553:1** [¶270](/part-1/ch4-constitution.md#p270) [¶286](/part-1/ch4-constitution.md#p286) [¶297:3](/part-1/ch4-constitution.md#p297-3) [¶553:1](/part-2/ch2-membership.md#p553-1)  
+**educators, ministers appointed as — [¶3310](/part-6/ch3-ministerial-appointments.md#p3310)**
 
-**elementary schools. See day care and/or day schools**  
+**Egypt — [¶80](/part-1/ch1-history.md#p80)**
 
-**eligibility to hold office:**  
+**Elementary Principles — [¶270–286](/part-1/ch4-constitution.md#p270)**
 
-**Emeritus or Emerita title, 1503:1c; 1590:20; 1945** [¶1503:1c](/part-4/ch1-general-conference.md#p1503-1c) [¶1590:20](/part-4/ch1-general-conference.md#p1590-20) [¶1945](/part-4/ch4-general-administration.md#p1945)  
+  - [¶297:3](/part-1/ch4-constitution.md#p297-3); [¶553:1](/part-2/ch2-membership.md#p553-1)
 
-**emergencies:**  
+**elementary schools. See day care and/or day schools**
 
-**Emmanuel Wesleyan Church:**  
+**eligibility to hold office:**
 
-**England, 35**  
+  - commissioned ministers, [¶3059:2b](/part-6/ch1-ministerial-orders.md#p3059-2b) full members — [¶302:4](/part-1/ch4-constitution.md#p302-4)
+  - ordained ministers — [¶313:2](/part-1/ch4-constitution.md#p313-2)
 
-**entertainment, 410:12** [¶410:12](/part-1/ch5-special-directions.md#p410-12)  
+**Emeritus or Emerita title — [¶1503:1c](/part-4/ch1-general-conference.md#p1503-1c)**
 
-**entire sanctification:**  
+  - [¶1590:20](/part-4/ch1-general-conference.md#p1590-20); [¶1945](/part-4/ch4-general-administration.md#p1945)
 
-**episcopacy, 6–8**  
+**emergencies:**
 
-**equal ministerial and lay representation:**  
+  - discipline of officials — [¶1785:7](/part-4/ch2-general-board.md#p1785-7)
+  - General Conference sessions — [¶1530](/part-4/ch1-general-conference.md#p1530)
+  - ordination service — [¶3070:5](/part-6/ch1-ministerial-orders.md#p3070-5)
+  - USF, change of percentage — [¶1655:22](/part-4/ch2-general-board.md#p1655-22)
 
-**equal rights, 220; 265:12; 360:3d; 410:1** [¶220](/part-1/ch4-constitution.md#p220) [¶265:12](/part-1/ch4-constitution.md#p265-12) [¶410:1](/part-1/ch5-special-directions.md#p410-1) ¶360:3d  
+**Emmanuel Wesleyan Church:**
 
-**Essentials of The Wesleyan Church**  
+  - South Africa Bantu — [¶80](/part-1/ch1-history.md#p80)
+  - Swaziland — [¶80](/part-1/ch1-history.md#p80)
+  - Transkei — [¶80](/part-1/ch1-history.md#p80)
 
-**established church:**  
+**England — [¶35](/part-1/ch1-history.md#p35)**
 
-**established district, 360:3e; 1036–1050** [¶1036](/part-3/ch1-organization.md#p1036) ¶1050  
+**entertainment — [¶410:12](/part-1/ch5-special-directions.md#p410-12)**
 
-**estate planning, 475** [¶475](/part-1/ch5-special-directions.md#p475)  
+**entire sanctification:**
 
-**evaluation report of general officials, 1785:6** [¶1785:6](/part-4/ch2-general-board.md#p1785-6)  
+  - Article of Religion — [¶236](/part-1/ch4-constitution.md#p236)
+  - historical background — [¶1–2](/part-1/ch1-history.md#p1); [¶12–13](/part-1/ch1-history.md#p12); [¶24](/part-1/ch1-history.md#p24)
+  - see also holiness, scriptural
 
-**evaluation sessions:**  
+**episcopacy — [¶6–8](/part-1/ch1-history.md#p6)**
 
-**evangelistic service, 1240:1a3; 3270–3295** [¶3270](/part-6/ch3-ministerial-appointments.md#p3270) [¶3295](/part-6/ch3-ministerial-appointments.md#p3295)  
+**equal ministerial and lay representation:**
 
-**evangelists:**  
+  - General Conference may not change, [¶360:3b](/part-1/ch4-constitution.md#p360-3) historical background — [¶8](/part-1/ch1-history.md#p8)
+  - in district conference — [¶317](/part-1/ch4-constitution.md#p317); [¶1080](/part-3/ch2-conference.md#p1080); [¶1100](/part-3/ch2-conference.md#p1100)
+  - in General Conference — [¶325](/part-1/ch4-constitution.md#p325); [¶1503](/part-4/ch1-general-conference.md#p1503)
 
-**examination of candidates for license, commission, or ordination, 1390:1, 3–4; 3033:6; 3070:4; 3104:3; 3460; 3470** [¶3033:6](/part-6/ch1-ministerial-orders.md#p3033-6) [¶3070:4](/part-6/ch1-ministerial-orders.md#p3070-4) [¶3104:3](/part-6/ch1-ministerial-orders.md#p3104-3) [¶3460](/part-6/ch4-special-lay-ministries.md#p3460) [¶3470](/part-6/ch4-special-lay-ministries.md#p3470)  
+**equal rights — [¶220](/part-1/ch4-constitution.md#p220); [¶265:12](/part-1/ch4-constitution.md#p265-12); [¶360:3d](/part-1/ch4-constitution.md#p360-3)**
 
-**excommunication, 276; 315:1; 655:1; Gen. Bd. Policy on Ch. Disc. 5115:5; 5212:5** ¶5212:5  
+  - [¶410:1](/part-1/ch5-special-directions.md#p410-1)
 
-**Executive Board, 1750–1790** [¶1750](/part-4/ch2-general-board.md#p1750) [¶1790](/part-4/ch2-general-board.md#p1790)  
+**Essentials of The Wesleyan Church — [¶125](/part-1/ch3-church-law.md#p125); [¶340:2](/part-1/ch4-constitution.md#p340-2); [¶1590:1](/part-4/ch1-general-conference.md#p1590-1); [¶2500:3](/part-5/ch1-basic-principles.md#p2500-3); [¶2610:7](/part-5/ch2-conferences.md#p2610-7)**
 
-**Executive Cabinet, 1990** [¶1990](/part-4/ch4-general-administration.md#p1990)  
+  - [¶2660](/part-5/ch3-international.md#p2660)
 
-**Executive Director**  
+**established church:**
 
-**extended call regulations, 720** [¶720](/part-2/ch4-pastors.md#p720)  
+  - authorization for organization — [¶518](/part-2/ch1-organization.md#p518)
+  - procedure of organization — [¶520](/part-2/ch1-organization.md#p520)
 
-**extension, church (historical), 16**  
+**established district — [¶360:3e](/part-1/ch4-constitution.md#p360-3); [¶1036–1050](/part-3/ch1-organization.md#p1036)**
+
+**estate planning — [¶475](/part-1/ch5-special-directions.md#p475)**
+
+  - assist with wills, bequests; annuities
+
+**evaluation report of general officials — [¶1785:6](/part-4/ch2-general-board.md#p1785-6)**
+
+**evaluation sessions:**
+
+  - district board — [¶1218](/part-3/ch3-board.md#p1218)
+  - General Board — [¶1625](/part-4/ch2-general-board.md#p1625)
+  - local board — [¶767](/part-2/ch5-local-board.md#p767)
+
+**evangelistic service — [¶1240:1a](/part-3/ch3-board.md#p1240-1)3**
+
+  - [¶3270–3295](/part-6/ch3-ministerial-appointments.md#p3270)
+
+**evangelists:**
+
+  - examination — [¶3275](/part-6/ch3-ministerial-appointments.md#p3275)
+  - function — [¶3270](/part-6/ch3-ministerial-appointments.md#p3270)
+  - general, associate — 3280
+  - general and reserve general; [¶3285:1–2](/part-6/ch3-ministerial-appointments.md#p3285-1)
+  - historical background — [¶13](/part-1/ch1-history.md#p13)
+  - reports — [¶3295](/part-6/ch3-ministerial-appointments.md#p3295)
+
+**examination of candidates for license, commission, or ordination — [¶1390:1](/part-3/ch6-ministerial.md#p1390-1), [¶3–4](/part-1/ch1-history.md#p3); [¶3033:6](/part-6/ch1-ministerial-orders.md#p3033-6); [¶3070:4](/part-6/ch1-ministerial-orders.md#p3070-4); [¶3104:3](/part-6/ch1-ministerial-orders.md#p3104-3); [¶3460](/part-6/ch4-special-lay-ministries.md#p3460)**
+
+  - [¶3470](/part-6/ch4-special-lay-ministries.md#p3470)
+
+**excommunication — [¶276](/part-1/ch4-constitution.md#p276); [¶315:1](/part-1/ch4-constitution.md#p315-1); [¶655:1](/part-2/ch3-conference.md#p655-1)**
+
+  - Gen. Bd. Policy on Ch. Disc. 5115:5;
+  - 5212:5
+
+**Executive Board — [¶1750–1790](/part-4/ch2-general-board.md#p1750)**
+
+  - chair — [¶1765](/part-4/ch2-general-board.md#p1765)
+  - duties and powers — [¶1785–1790](/part-4/ch2-general-board.md#p1785)
+  - function — [¶1750](/part-4/ch2-general-board.md#p1750)
+  - membership — [¶1755](/part-4/ch2-general-board.md#p1755)
+  - minutes — [¶1790](/part-4/ch2-general-board.md#p1790)
+  - organization — [¶1765–1780](/part-4/ch2-general-board.md#p1765)
+  - quorum — [¶1775](/part-4/ch2-general-board.md#p1775)
+  - secretary — [¶1770](/part-4/ch2-general-board.md#p1770)
+  - sessions — [¶1760](/part-4/ch2-general-board.md#p1760)
+  - vice-chair — [¶1655:12](/part-4/ch2-general-board.md#p1655-12)
+  - voting — [¶1780](/part-4/ch2-general-board.md#p1780)
+
+**Executive Cabinet — [¶1990](/part-4/ch4-general-administration.md#p1990)**
+
+  - as the General Conference planning committee — [¶1570–1576](/part-4/ch1-general-conference.md#p1570)
+
+**Executive Director,**
+
+**Church Multiplication and Discipleship Division — [¶2307](/part-4/ch7-multiplication-discipleship.md#p2307)**
+
+**Communication and Administration Division — [¶2110](/part-4/ch5-communication-admin.md#p2110)**
+
+**Education and Clergy Development Division — [¶2340](/part-4/ch8-education-clergy.md#p2340)**
+
+**Global Partners Division — [¶2261](/part-4/ch6-global-partners.md#p2261)**
+
+**extended call regulations — [¶720](/part-2/ch4-pastors.md#p720)**
+
+**extension, church (historical) — [¶16](/part-1/ch1-history.md#p16)**
 
 ## F {#f}
 
-**faith, Article of Religion on, 228** [¶228](/part-1/ch4-constitution.md#p228)  
+**faith, Article of Religion on — [¶228](/part-1/ch4-constitution.md#p228)**
 
-**family:**  
+**family:**
 
-**fasting, 265:9** [¶265:9](/part-1/ch4-constitution.md#p265-9)  
+  - Article of Religion — [¶222](/part-1/ch4-constitution.md#p222)
+  - duties to — [¶265:6–7](/part-1/ch4-constitution.md#p265-6)
 
-**Father, The, Article of Religion, 212** [¶212](/part-1/ch4-constitution.md#p212)  
+**fasting — [¶265:9](/part-1/ch4-constitution.md#p265-9)**
 
-**financial policies:**  
+**Father, The, Article of Religion — [¶212](/part-1/ch4-constitution.md#p212)**
 
-**financial secretary, local, 845:2** ¶845:2  
+**financial policies:**
 
-**financial support of educational institutions, 2377** [¶2377](/part-4/ch8-education-clergy.md#p2377)  
+  - district — [¶1180:15](/part-3/ch2-conference.md#p1180-15)
+  - General Church — [¶1995–2050](/part-4/ch4-general-administration.md#p1995)
+  - local church — [¶655:9](/part-2/ch3-conference.md#p655-9); [¶782:28](/part-2/ch5-local-board.md#p782-28)
 
-**fiscal year:**  
+**financial secretary, local — 845:2**
 
-**Florida District, 2403:5; 2440** [¶2403:5](/part-4/ch9-boundaries.md#p2403-5) [¶2440](/part-4/ch9-boundaries.md#p2440)  
+**financial support of educational institutions — [¶2377](/part-4/ch8-education-clergy.md#p2377)**
 
-**forfeiture of representation:**  
+**fiscal year:**
 
-**forms:**  
+  - district — [¶1180:18](/part-3/ch2-conference.md#p1180-18)
+  - local church — [¶1180:18](/part-3/ch2-conference.md#p1180-18)
 
-**forms, general credentials:**  
+**Florida District — [¶2403:5](/part-4/ch9-boundaries.md#p2403-5); [¶2440](/part-4/ch9-boundaries.md#p2440)**
 
-**forms, ministerial credentials:**  
+**forfeiture of representation:**
 
-**forms, special worker’s credentials:**  
+  - district, [¶1506](/part-4/ch1-general-conference.md#p1506); Gen. Bd. Policy on Ch. Disc. 5365
+  - local church, [¶1095](/part-3/ch2-conference.md#p1095); Gen. Bd. Policy on Ch. Disc. 5310
 
-**free will, 224** [¶224](/part-1/ch4-constitution.md#p224)  
+**forms:**
 
-**fund raising, methods of, 470** [¶470](/part-1/ch5-special-directions.md#p470)  
+  - bequests and devises — [¶4940](/part-8/ch4-general-church-property.md#p4940)
+  - church letters — 6000–6040
+  - district — 6420–6460
+  - general credentials — 6200–6340
+  - service credentials — 6200–6460
+  - special worker’s credentials — 6360–6400
+
+**forms, general credentials:**
+
+  - acknowledgment of district letter of transfer — 6450
+  - course of study certificate — 6410
+  - district letter of standing — 6460
+  - district letter of transfer — 6440
+  - pocket certificate of standing — 6430
+  - recommendation for district license — 6420
+
+**forms, ministerial credentials:**
+
+  - commission certificate for ministers — 6280
+  - district license for ministerial students, and licensed ministers — 6260
+  - general evangelist’s certificate — 6340
+  - interim pastor’s certificate — 6250
+  - lay minister’s letter of standing — 6220
+  - lay minister’s license — 6200
+  - ordination certificate — 6300
+  - supply pastor’s certificate — 6240
+  - validation certificate for ordained ministers, commissioned, or licensed ministers — 6320
+
+**forms, special worker’s credentials:**
+
+  - lay missionary’s commission — 6400
+  - special worker’s commission — 6380
+  - special worker’s license — 6360
+
+**free will — [¶224](/part-1/ch4-constitution.md#p224)**
+
+**fund raising, methods of — [¶470](/part-1/ch5-special-directions.md#p470)**
 
 ## G {#g}
 
-**gambling, abstain from, membership commitment, 265:4** [¶265:4](/part-1/ch4-constitution.md#p265-4)  
+**gambling, abstain from, membership commitment — [¶265:4](/part-1/ch4-constitution.md#p265-4)**
 
-**General Assembly, Pilgrim Holiness, 24; 29; 32; 34; 50**  
+**General Assembly, Pilgrim Holiness — [¶24](/part-1/ch1-history.md#p24); [¶29](/part-1/ch1-history.md#p29); [¶32](/part-1/ch1-history.md#p32); [¶34](/part-1/ch1-history.md#p34); [¶50](/part-1/ch1-history.md#p50)**
 
-**General Board:**  
+**General Board:**
 
-**general evangelists:**  
+  - bylaws — [¶1650](/part-4/ch2-general-board.md#p1650)
+  - chair — [¶1630](/part-4/ch2-general-board.md#p1630)
+  - duties and powers — [¶323:1](/part-1/ch4-constitution.md#p323-1); [¶330](/part-1/ch4-constitution.md#p330); [¶340](/part-1/ch4-constitution.md#p340); [¶360:2](/part-1/ch4-constitution.md#p360-2); [¶1655](/part-4/ch2-general-board.md#p1655)
+  - Executive Board — [¶1750–1790](/part-4/ch2-general-board.md#p1750)
+  - function — [¶340](/part-1/ch4-constitution.md#p340); [¶1600](/part-4/ch2-general-board.md#p1600)
+  - membership — [¶340:1](/part-1/ch4-constitution.md#p340-1); [¶1605](/part-4/ch2-general-board.md#p1605)
+  - nonvoting participants — [¶1606](/part-4/ch2-general-board.md#p1606)
+  - organization — [¶1630–1650](/part-4/ch2-general-board.md#p1630)
+  - policies. See General Board policies procedure — [¶1630–1650](/part-4/ch2-general-board.md#p1630)
+  - quorum — [¶1640](/part-4/ch2-general-board.md#p1640)
+  - secretary — [¶1635](/part-4/ch2-general-board.md#p1635)
+  - sessions — [¶1610–1625](/part-4/ch2-general-board.md#p1610)
+  - vacancies — [¶1655:11](/part-4/ch2-general-board.md#p1655-11)
+  - vice-chair — [¶1630](/part-4/ch2-general-board.md#p1630); [¶1655:12](/part-4/ch2-general-board.md#p1655-12)
+  - voting — [¶1645](/part-4/ch2-general-board.md#p1645)
 
-**General Board of Review, 370–380; 2070–2075** [¶2070](/part-4/ch4-general-administration.md#p2070) [¶2075](/part-4/ch4-general-administration.md#p2075)  
+**General Board policies:**
 
-**General Church corporation, 4200–4270** [¶4200](/part-7/ch3-twc-corporation.md#p4200) [¶4270](/part-7/ch3-twc-corporation.md#p4270)  
+  - administered by General Superintendent — [¶1935](/part-4/ch4-general-administration.md#p1935)
+  - Church Multiplication and Discipleship Division — [¶2307](/part-4/ch7-multiplication-discipleship.md#p2307)
+  - Communication and Administration Division — [¶2110](/part-4/ch5-communication-admin.md#p2110)
+  - Education and Clergy Development Division — [¶2340](/part-4/ch8-education-clergy.md#p2340)
+  - Executive Cabinet — [¶1990](/part-4/ch4-general-administration.md#p1990)
+  - Global Partners Division — [¶2261](/part-4/ch6-global-partners.md#p2261)
+  - General Treasurer/Chief Executive Officer — [¶1976](/part-4/ch4-general-administration.md#p1976)
 
-**General Church financial plan, 1995–2050** [¶1995](/part-4/ch4-general-administration.md#p1995) [¶2050](/part-4/ch4-general-administration.md#p2050)  
+**General Board of Review — [¶370–380](/part-1/ch4-constitution.md#p370)**
 
-**General Church government, 1500** [¶1500](/part-4/ch1-general-conference.md#p1500)  
+  - [¶2070–2075](/part-4/ch4-general-administration.md#p2070)
 
-**General Church property, 4900–4940** [¶4900](/part-8/ch4-general-church-property.md#p4900) [¶4940](/part-8/ch4-general-church-property.md#p4940)  
+**General Church corporation — [¶4200–4270](/part-7/ch3-twc-corporation.md#p4200)**
 
-**General Conference, 325–338** [¶325](/part-1/ch4-constitution.md#p325) [¶338](/part-1/ch4-constitution.md#p338)  
+**General Church financial plan — [¶1995–2050](/part-4/ch4-general-administration.md#p1995)**
 
-**General Conferences:**  
+  - budget procedure — [¶1655:23](/part-4/ch2-general-board.md#p1655-23)
+  - planned gifts — [¶1995](/part-4/ch4-general-administration.md#p1995)
+  - special offerings — [¶2050](/part-4/ch4-general-administration.md#p2050)
+  - summary — [¶1995](/part-4/ch4-general-administration.md#p1995)
+  - United Stewardship Fund — [¶2000–2045](/part-4/ch4-general-administration.md#p2000)
+
+**General Church government — [¶1500](/part-4/ch1-general-conference.md#p1500)**
+
+**General Church property — [¶4900–4940](/part-8/ch4-general-church-property.md#p4900)**
+
+**General Conference — [¶325–338](/part-1/ch4-constitution.md#p325)**
+
+  - alternate delegates — [¶1516–1518](/part-4/ch1-general-conference.md#p1516)
+  - appeals on questions of order — [¶1550](/part-4/ch1-general-conference.md#p1550)
+  - chair — [¶332](/part-1/ch4-constitution.md#p332); [¶350:3](/part-1/ch4-constitution.md#p350-3); [¶1536](/part-4/ch1-general-conference.md#p1536)
+  - committees — [¶1563–1585](/part-4/ch1-general-conference.md#p1563)
+  - dates of — [¶1528](/part-4/ch1-general-conference.md#p1528)
+  - delegates — [¶1508–1526](/part-4/ch1-general-conference.md#p1508); 1541
+  - delegates-at-large — [¶1508–1510](/part-4/ch1-general-conference.md#p1508)
+  - dispute with a district, [¶375:6](/part-1/ch4-constitution.md#p375-6); Gen. Bd. Policy on Ch. Disc. 5440:5
+  - duties and powers — [¶295](/part-1/ch4-constitution.md#p295); [¶310](/part-1/ch4-constitution.md#p310); [¶317](/part-1/ch4-constitution.md#p317); [¶323:1](/part-1/ch4-constitution.md#p323-1); [¶325](/part-1/ch4-constitution.md#p325); [¶327:1](/part-1/ch4-constitution.md#p327-1); [¶330:1](/part-1/ch4-constitution.md#p330-1); [¶340:1](/part-1/ch4-constitution.md#p340-1); [¶350:1](/part-1/ch4-constitution.md#p350-1), [¶4](/part-1/ch1-history.md#p4); [¶360](/part-1/ch4-constitution.md#p360); [¶370](/part-1/ch4-constitution.md#p370); [¶380](/part-1/ch4-constitution.md#p380); [¶385](/part-1/ch4-constitution.md#p385); [¶1590](/part-4/ch1-general-conference.md#p1590)
+  - editing committee — [¶1585](/part-4/ch1-general-conference.md#p1585)
+  - equal ministerial and lay representation — [¶325](/part-1/ch4-constitution.md#p325); [¶360:3b](/part-1/ch4-constitution.md#p360-3); [¶1503](/part-4/ch1-general-conference.md#p1503)
+  - forfeiture of representation by districts — [¶1506](/part-4/ch1-general-conference.md#p1506)
+  - function — [¶1500](/part-4/ch1-general-conference.md#p1500)
+  - General Conference Planning Committee — [¶1570–1576](/part-4/ch1-general-conference.md#p1570)
+  - journal — [¶1585](/part-4/ch1-general-conference.md#p1585)
+  - lay delegates — [¶1524–1526](/part-4/ch1-general-conference.md#p1524)
+  - membership — [¶323:9](/part-1/ch4-constitution.md#p323-9); [¶325–327](/part-1/ch4-constitution.md#p325); [¶1503–1526](/part-4/ch1-general-conference.md#p1503)
+  - memorials — [¶1557–1560](/part-4/ch1-general-conference.md#p1557)
+  - memorials committee — [¶1565](/part-4/ch1-general-conference.md#p1565)
+  - ministerial delegates — [¶1520–1522](/part-4/ch1-general-conference.md#p1520)
+  - minutes — [¶1585](/part-4/ch1-general-conference.md#p1585)
+  - nominations, committee on special — [¶1580](/part-4/ch1-general-conference.md#p1580)
+  - officers — [¶334](/part-1/ch4-constitution.md#p334); [¶1800](/part-4/ch3-general-officials.md#p1800)
+  - officials — [¶325](/part-1/ch4-constitution.md#p325); [¶1800–1880](/part-4/ch3-general-officials.md#p1800)
+  - organization — [¶1536–1585](/part-4/ch1-general-conference.md#p1536)
+  - Pilgrim Holiness — [¶23–50](/part-1/ch1-history.md#p23)
+  - place — [¶330:1](/part-1/ch4-constitution.md#p330-1); [¶1528](/part-4/ch1-general-conference.md#p1528)
+  - Planning Committee — [¶1570–1576](/part-4/ch1-general-conference.md#p1570)
+  - presidency — [¶332](/part-1/ch4-constitution.md#p332); [¶350:3](/part-1/ch4-constitution.md#p350-3); [¶1536](/part-4/ch1-general-conference.md#p1536)
+  - procedure — 1541–1553
+  - program — [¶1576](/part-4/ch1-general-conference.md#p1576)
+  - quorum — [¶336](/part-1/ch4-constitution.md#p336); [¶1543](/part-4/ch1-general-conference.md#p1543)
+  - rules of order — [¶1547](/part-4/ch1-general-conference.md#p1547)
+  - secretary — [¶334](/part-1/ch4-constitution.md#p334); [¶1539](/part-4/ch1-general-conference.md#p1539)
+  - sessions — [¶330](/part-1/ch4-constitution.md#p330); [¶1528–1534](/part-4/ch1-general-conference.md#p1528)
+  - suspension of rules — [¶1553](/part-4/ch1-general-conference.md#p1553)
+  - voting — [¶1545](/part-4/ch1-general-conference.md#p1545)
+  - Wesleyan Methodist — [¶11–18](/part-1/ch1-history.md#p11); [¶50](/part-1/ch1-history.md#p50)
+
+**General Conferences:**
+
+  - General Conference — [¶2610](/part-5/ch2-conferences.md#p2610)
+  - General Conference interrelations — [¶2630–2640](/part-5/ch2-conferences.md#p2630)
+  - North American — [¶2550](/part-5/ch2-conferences.md#p2550)
+
+**general evangelists:**
+
+  - associate general evangelists — 3280
+  - certification form — 6340
+  - general regulations — [¶3270–3295](/part-6/ch3-ministerial-appointments.md#p3270)
+  - listing — [¶1240:1a](/part-3/ch3-board.md#p1240-1)3
+  - reserve general evangelist — [¶3285:2](/part-6/ch3-ministerial-appointments.md#p3285-2)
+
+**general officers/officials of the church — [¶340:1](/part-1/ch4-constitution.md#p340-1); [¶1800–1880](/part-4/ch3-general-officials.md#p1800)**
+
+  - amenability — [¶1830](/part-4/ch3-general-officials.md#p1830)
+  - district membership — [¶1860](/part-4/ch3-general-officials.md#p1860)
+  - evaluation report — [¶1785:6](/part-4/ch2-general-board.md#p1785-6); [¶1935](/part-4/ch4-general-administration.md#p1935)
+  - identification — [¶1800](/part-4/ch3-general-officials.md#p1800)
+  - installation ritual — [¶5935](/part-10/ch9-installation.md#p5935)
+  - General Conference membership, [¶1503:1c](/part-4/ch1-general-conference.md#p1503-1c) local church membership — [¶1860](/part-4/ch3-general-officials.md#p1860)
+  - qualifications — [¶1810](/part-4/ch3-general-officials.md#p1810)
+  - reports — [¶1840](/part-4/ch3-general-officials.md#p1840)
+  - term of office — [¶1820](/part-4/ch3-general-officials.md#p1820)
+  - vacancies — [¶1850](/part-4/ch3-general-officials.md#p1850)
+
+**general offices and divisions, listing of — [¶1870](/part-4/ch3-general-officials.md#p1870)**
+
+**general representative — [¶350:3](/part-1/ch4-constitution.md#p350-3); [¶1180:7](/part-3/ch2-conference.md#p1180-7)**
+
+**general secretary. See Executive Director of the Communication and Administration Division**
+
+**General Superintendent:**
+
+  - duties and powers — [¶1935](/part-4/ch4-general-administration.md#p1935)
+  - election — [¶1590:15](/part-4/ch1-general-conference.md#p1590-15); [¶1903](/part-4/ch4-general-administration.md#p1903)
+  - Emeritus or Emerita — [¶1503:1c](/part-4/ch1-general-conference.md#p1503-1c); [¶1945](/part-4/ch4-general-administration.md#p1945)
+  - general regulations — [¶1903](/part-4/ch4-general-administration.md#p1903)
+  - spiritual, executive, and administrative leader — [¶1900](/part-4/ch4-general-administration.md#p1900)
+
+**General Treasurer/Chief Financial Officer — [¶1970–1976](/part-4/ch4-general-administration.md#p1970)**
+
+**Georgia. See South Coastal District**
+
+**Ghana — [¶80](/part-1/ch1-history.md#p80)**
+
+**gift of tongues — [¶265:10](/part-1/ch4-constitution.md#p265-10)**
+
+**gifts of the Spirit, Article of Religion — [¶238](/part-1/ch4-constitution.md#p238)**
+
+**Global Partners Division: [¶2258–2287](/part-4/ch6-global-partners.md#p2258)**
+
+  - Executive Director of — [¶2261](/part-4/ch6-global-partners.md#p2261)
+  - missionaries — [¶2272](/part-4/ch6-global-partners.md#p2272)
+  - organization of mission units — [¶2275–2287](/part-4/ch6-global-partners.md#p2275)
+  - purpose — 2259
+  - strategic directives — [¶2262](/part-4/ch6-global-partners.md#p2262)
+  - vision — [¶2258](/part-4/ch6-global-partners.md#p2258)
+
+**God:**
+
+  - attributes of — [¶210](/part-1/ch4-constitution.md#p210)
+  - name to be reverenced, [¶265:1](/part-1/ch4-constitution.md#p265-1). See also oaths purpose for man — [¶220](/part-1/ch4-constitution.md#p220)
+  - Trinity of — [¶210](/part-1/ch4-constitution.md#p210)
+
+**good works:**
+
+  - Article of Religion — [¶232](/part-1/ch4-constitution.md#p232)
+  - expected — [¶224](/part-1/ch4-constitution.md#p224); [¶265:11](/part-1/ch4-constitution.md#p265-11); [¶284](/part-1/ch4-constitution.md#p284)
+
+**grace — [¶216](/part-1/ch4-constitution.md#p216); [¶224](/part-1/ch4-constitution.md#p224); [¶228](/part-1/ch4-constitution.md#p228); [¶234](/part-1/ch4-constitution.md#p234); [¶236](/part-1/ch4-constitution.md#p236); [¶242](/part-1/ch4-constitution.md#p242)**
+
+  - [¶250](/part-1/ch4-constitution.md#p250); [¶265:9](/part-1/ch4-constitution.md#p265-9)
+
+**Grand Cayman — [¶35](/part-1/ch1-history.md#p35)**
+
+**Great Lakes District — [¶2403:6](/part-4/ch9-boundaries.md#p2403-6), [¶2430](/part-4/ch9-boundaries.md#p2430)**
+
+**Greater Ohio District — [¶2403:7](/part-4/ch9-boundaries.md#p2403-7); [¶2430](/part-4/ch9-boundaries.md#p2430)**
+
+**growth in grace — [¶236](/part-1/ch4-constitution.md#p236)**
+
+**Guides and Helps to Holy Living — [¶260–268](/part-1/ch4-constitution.md#p260); [¶557](/part-2/ch2-membership.md#p557)**
+
+**Guyana — [¶35](/part-1/ch1-history.md#p35); [¶80](/part-1/ch1-history.md#p80)**
 
 ## H {#h}
 
-**Haiti, 17:1; 18; 80**  
+**Haiti — [¶17:1](/part-1/ch1-history.md#p17-1); [¶18](/part-1/ch1-history.md#p18); [¶80](/part-1/ch1-history.md#p80)**
 
-**Hawaii, see Pacific Southwest District**  
+**Hawaii, see Pacific Southwest District**
 
-**healing, 430** [¶430](/part-1/ch5-special-directions.md#p430)  
+**healing — [¶430](/part-1/ch5-special-directions.md#p430)**
 
-**hearing, right to**  
+**hearing, right to for districts — [¶323:10](/part-1/ch4-constitution.md#p323-10)**
 
-**heaven, 250** [¶250](/part-1/ch4-constitution.md#p250)  
+  - for local churches — [¶315:8](/part-1/ch4-constitution.md#p315-8)
+  - for members — [¶302:5](/part-1/ch4-constitution.md#p302-5)
+  - for ministers — [¶313:7](/part-1/ch4-constitution.md#p313-7)
 
-**hell, 250** [¶250](/part-1/ch4-constitution.md#p250)  
+**heaven — [¶250](/part-1/ch4-constitution.md#p250)**
 
-**Hephzibah Ministries Inc., 4310:4** [¶4310:4](/part-7/ch4-subsidiary-corporations.md#p4310-4)  
+**hell — [¶250](/part-1/ch4-constitution.md#p250)**
 
-**Hephzibah Faith Missionary Society, 17:1**  
+**Hephzibah Ministries Inc. — [¶4310:4](/part-7/ch4-subsidiary-corporations.md#p4310-4)**
 
-**heresy, Gen. Bd. Policy on Ch. Disc. 5050:1; 5070:1; 5370:1** ¶5070:1 ¶5370:1  
+**Hephzibah Faith Missionary Society — [¶17:1](/part-1/ch1-history.md#p17-1)**
 
-**history of The Wesleyan Church, 1–80**  
+**heresy, Gen. Bd. Policy on Ch. Disc.**
 
-**Holiness Christian Church, 27**  
+  - 5050:1; 5070:1; 5370:1
 
-**Holiness Church, The, 32**  
+**history of The Wesleyan Church — [¶1–80](/part-1/ch1-history.md#p1)**
 
-**holiness, scriptural:**  
+**Holiness Christian Church — [¶27](/part-1/ch1-history.md#p27)**
 
-**Holy Ghost. See Holy Spirit.**  
+**Holiness Church, The — [¶32](/part-1/ch1-history.md#p32)**
 
-**Holy Scriptures:**  
+**holiness, scriptural:**
 
-**Holy Spirit, The, Article of Religion, 216; 230; 236–238.**  
+  - historical background — [¶1–60](/part-1/ch1-history.md#p1)
+  - mission of The Wesleyan Church — [¶100–105](/part-1/ch2-mission.md#p100)
+  - see also entire sanctification
 
-**Holy Trinity, Article of Religion, 210** [¶210](/part-1/ch4-constitution.md#p210)  
+**Holy Ghost. See Holy Spirit.**
 
-**homosexual behavior, 265:6; 410:5** [¶265:6](/part-1/ch4-constitution.md#p265-6) [¶410:5](/part-1/ch5-special-directions.md#p410-5)  
+**Holy Scriptures:**
 
-**Honduras, 18; 80**  
+  - Article of Religion — [¶218](/part-1/ch4-constitution.md#p218)
+  - basis for church rules — [¶280](/part-1/ch4-constitution.md#p280)
+  - in church hearings — [¶276](/part-1/ch4-constitution.md#p276)
+  - inerrancy — [¶218](/part-1/ch4-constitution.md#p218), [¶299](/part-1/ch4-constitution.md#p299); [¶5566](/part-10/ch2-reception.md#p5566); [¶5772](/part-10/ch6-ordination.md#p5772)
+  - only rule of faith and conduct — [¶270](/part-1/ch4-constitution.md#p270)
+  - reading as means of grace — [¶265:9](/part-1/ch4-constitution.md#p265-9)
 
-**honesty, 265:13** [¶265:13](/part-1/ch4-constitution.md#p265-13)  
+**Holy Spirit, The, Article of Religion, [¶216](/part-1/ch4-constitution.md#p216); [¶230](/part-1/ch4-constitution.md#p230); [¶236–238](/part-1/ch4-constitution.md#p236).**
 
-**Horton, Jotham, 7**  
+**Holy Trinity, Article of Religion — [¶210](/part-1/ch4-constitution.md#p210)**
 
-**Houghton College, 2365:1** [¶2365:1](/part-4/ch8-education-clergy.md#p2365-1)  
+**homosexual behavior — [¶265:6](/part-1/ch4-constitution.md#p265-6); [¶410:5](/part-1/ch5-special-directions.md#p410-5)**
 
-**human sexuality, 410:5** [¶410:5](/part-1/ch5-special-directions.md#p410-5)  
+**Honduras — [¶18](/part-1/ch1-history.md#p18); [¶80](/part-1/ch1-history.md#p80)**
+
+**honesty — [¶265:13](/part-1/ch4-constitution.md#p265-13)**
+
+**Horton, Jotham — [¶7](/part-1/ch1-history.md#p7)**
+
+**Houghton College — [¶2365:1](/part-4/ch8-education-clergy.md#p2365-1)**
+
+**human sexuality — [¶410:5](/part-1/ch5-special-directions.md#p410-5)**
 
 ## I {#i}
 
-**Idaho, 2403:19; see Northwest District**  
+**Idaho, [¶2403:19](/part-4/ch9-boundaries.md#p2403-19); see Northwest District**
 
-**Iglesia Wesleayana Peregrina, Peru, 80**  
+**Iglesia Wesleyana Peregrina, Peru — [¶80](/part-1/ch1-history.md#p80)**
 
-**Iglesia Evangelica de los Peregrinos, Mexico, 80**  
+**Iglesia Evangelica de los Peregrinos, Mexico — [¶80](/part-1/ch1-history.md#p80)**
 
-**Igreja Emmanuel Evangelica Wesleyana, Mozambique, 80**  
+**Igreja Emmanuel Evangelica Wesleyana, Mozambique — [¶80](/part-1/ch1-history.md#p80)**
 
-**Igreja Evangelica Wesleyana, Brazil, 80**  
+**Igreja Evangelica Wesleyana, Brazil — [¶80](/part-1/ch1-history.md#p80)**
 
-**Illinois, see Great Lakes District**  
+**Illinois, see Great Lakes District**
 
-**Immigrant Connection, Inc., 4310** [¶4310](/part-7/ch4-subsidiary-corporations.md#p4310)  
+**Immigrant Connection, Inc. — [¶4310](/part-7/ch4-subsidiary-corporations.md#p4310)**
 
-**immorality and restoration of ministers, Gen. Bd. Policy on Ch. Disc. 5180:3; 5370:5** ¶5370:5  
+**immorality and restoration of ministers, Gen. Bd. Policy on Ch. Disc. 5180:3;**
 
-**incest grounds for divorce, 265:6** [¶265:6](/part-1/ch4-constitution.md#p265-6)  
+  - 5370:5
 
-**incorporation, district, 4100–4150** [¶4100](/part-7/ch2-district-corporations.md#p4100) [¶4150](/part-7/ch2-district-corporations.md#p4150)  
+**incest grounds for divorce — [¶265:6](/part-1/ch4-constitution.md#p265-6)**
 
-**indemnification of officers, 4235** [¶4235](/part-7/ch3-twc-corporation.md#p4235)  
+**incorporation, district — [¶4100–4150](/part-7/ch2-district-corporations.md#p4100)**
 
-**India, 17:2; 18; 80**  
+**indemnification of officers — [¶4235](/part-7/ch3-twc-corporation.md#p4235)**
 
-**Indiana, see Crossroads and Indiana South Districts**  
+**India — [¶17:2](/part-1/ch1-history.md#p17-2); [¶18](/part-1/ch1-history.md#p18); [¶80](/part-1/ch1-history.md#p80)**
 
-**Indiana Wesleyan University, 2365:2; 2455** [¶2365:2](/part-4/ch8-education-clergy.md#p2365-2) [¶2455](/part-4/ch9-boundaries.md#p2455)  
+**Indiana, see Crossroads and Indiana South Districts**
 
-**Indianapolis, IN, 34**  
+**Indiana Wesleyan University — [¶2365:2](/part-4/ch8-education-clergy.md#p2365-2)**
 
-**Indiana South District, 2403:8** [¶2403:8](/part-4/ch9-boundaries.md#p2403-8)  
+  - [¶2455](/part-4/ch9-boundaries.md#p2455)
 
-**individual rights, respect for; membership commitment, 265:12** [¶265:12](/part-1/ch4-constitution.md#p265-12)  
+**Indianapolis, IN — [¶34](/part-1/ch1-history.md#p34)**
 
-**Indonesia, 80; 2560** [¶2560](/part-5/ch2-conferences.md#p2560)  
+**Indiana South District — [¶2403:8](/part-4/ch9-boundaries.md#p2403-8)**
 
-**inerrancy of Scriptures, 218; 299** [¶218](/part-1/ch4-constitution.md#p218) [¶299](/part-1/ch4-constitution.md#p299)  
+**individual rights, respect for;**
 
-**inherited depravity, 224** [¶224](/part-1/ch4-constitution.md#p224)  
+  - membership commitment — [¶265:12](/part-1/ch4-constitution.md#p265-12)
 
-**installation of:**  
+**Indonesia — [¶80](/part-1/ch1-history.md#p80), [¶2560](/part-5/ch2-conferences.md#p2560)**
 
-**institutional chaplains, 3330** [¶3330](/part-6/ch3-ministerial-appointments.md#p3330)  
+**inerrancy of Scriptures — [¶218](/part-1/ch4-constitution.md#p218); [¶299](/part-1/ch4-constitution.md#p299)**
 
-**insubordination, 4260** [¶4260](/part-7/ch3-twc-corporation.md#p4260)  
+**inherited depravity — [¶224](/part-1/ch4-constitution.md#p224)**
 
-**insurance, local property, and liability, 782:28; 856:6** [¶782:28](/part-2/ch5-local-board.md#p782-28) ¶856:6  
+**installation of:**
 
-**integrity, 265:13** [¶265:13](/part-1/ch4-constitution.md#p265-13)  
+  - college or university presidents — [¶5945](/part-10/ch9-installation.md#p5945)
+  - district superintendent — [¶5930](/part-10/ch9-installation.md#p5930)
+  - general officials — [¶5935](/part-10/ch9-installation.md#p5935)
+  - local church officials — [¶520:5](/part-2/ch1-organization.md#p520-5); 828; [¶5915–5925](/part-10/ch9-installation.md#p5915)
+  - pastor — [¶5905](/part-10/ch9-installation.md#p5905)
 
-**interchurch service, ministerial appointment to, 1240:1a6; 3335** [¶3335](/part-6/ch3-ministerial-appointments.md#p3335) ¶1240:1a6  
+**institutional chaplains — [¶3330](/part-6/ch3-ministerial-appointments.md#p3330)**
 
-**interdenominational relationships, 450; 3117** [¶450](/part-1/ch5-special-directions.md#p450) [¶3117](/part-6/ch1-ministerial-orders.md#p3117)  
+**insubordination — [¶4260](/part-7/ch3-twc-corporation.md#p4260)**
 
-**interim pastor, 3261; 6250** [¶3261](/part-6/ch3-ministerial-appointments.md#p3261) ¶6250  
+**insurance, local property, and liability — [¶782:28](/part-2/ch5-local-board.md#p782-28); 856:6**
 
-**International Apostolic Holiness Church, 26**  
+**integrity — [¶265:13](/part-1/ch4-constitution.md#p265-13)**
 
-**International Apostolic Holiness Union, 25**  
+**interchurch service, ministerial appointment to — [¶1240:1a](/part-3/ch3-board.md#p1240-1)6; [¶3335](/part-6/ch3-ministerial-appointments.md#p3335)**
 
-**International Apostolic Holiness Union and Churches, 26**  
+**interdenominational relationships — [¶450](/part-1/ch5-special-directions.md#p450); [¶3117](/part-6/ch1-ministerial-orders.md#p3117)**
 
-**International Conference of The Wesleyan Church:**  
+**interim pastor — [¶3261](/part-6/ch3-ministerial-appointments.md#p3261); 6250**
 
-**International Conference, Pilgrim Holiness, 50**  
+**International Apostolic Holiness Church — [¶26](/part-1/ch1-history.md#p26)**
 
-**International Holiness Church, 28**  
+**International Apostolic Holiness Union — [¶25](/part-1/ch1-history.md#p25)**
 
-**International Holiness Union and Prayer League, 24**  
+**International Apostolic Holiness Union and Churches — [¶26](/part-1/ch1-history.md#p26)**
 
-**interracial marriage, 360:3d** ¶360:3d  
+**International Conference of The Wesleyan Church:**
 
-**intervention, power of, 4250** [¶4250](/part-7/ch3-twc-corporation.md#p4250)  
+  - advancement of General Conferences by — [¶2610:11](/part-5/ch2-conferences.md#p2610-11); [¶2620](/part-5/ch2-conferences.md#p2620)
+  - Charter of, [¶125](/part-1/ch3-church-law.md#p125); 2640; [¶2680](/part-5/ch3-international.md#p2680); Appendix A composition of — [¶2660](/part-5/ch3-international.md#p2660)
+  - function — [¶2670](/part-5/ch3-international.md#p2670)
+  - history — [¶65–70](/part-1/ch1-history.md#p65)
+  - purpose — [¶2650](/part-5/ch3-international.md#p2650)
+  - representatives to — [¶2670](/part-5/ch3-international.md#p2670)
 
-**intoxicants, 8; 11; 265:4; 410:4** [¶265:4](/part-1/ch4-constitution.md#p265-4) [¶410:4](/part-1/ch5-special-directions.md#p410-4)  
+**International Conference, Pilgrim Holiness — [¶50](/part-1/ch1-history.md#p50)**
 
-**investigative committee, 970; Gen. Bd. Policy on Ch. Disc. 5012**  
+**International Holiness Church — [¶28](/part-1/ch1-history.md#p28)**
 
-**investigation, judicial, withdrawal while under, 592** [¶592](/part-2/ch2-membership.md#p592)  
+**International Holiness Union and Prayer League — [¶24](/part-1/ch1-history.md#p24)**
 
-**Investment Foundation, Wesleyan, 4310:5** [¶4310:5](/part-7/ch4-subsidiary-corporations.md#p4310-5)  
+**interracial marriage — [¶360:3d](/part-1/ch4-constitution.md#p360-3)**
 
-**Iowa-Minnesota District, 2403:9; 2445** [¶2403:9](/part-4/ch9-boundaries.md#p2403-9) [¶2445](/part-4/ch9-boundaries.md#p2445)  
+**intervention, power of — [¶4250](/part-7/ch3-twc-corporation.md#p4250)**
 
-**itinerant ministry, 360:3(b)**  
+**intoxicants — [¶8](/part-1/ch1-history.md#p8); [¶11](/part-1/ch1-history.md#p11); [¶265:4](/part-1/ch4-constitution.md#p265-4); [¶410:4](/part-1/ch5-special-directions.md#p410-4)**
+
+**investigative committee, 970; Gen. Bd.**
+
+  - Policy on Ch. Disc. 5012
+
+**investigation, judicial, withdrawal while under — [¶592](/part-2/ch2-membership.md#p592)**
+
+**Investment Foundation, Wesleyan — [¶4310:5](/part-7/ch4-subsidiary-corporations.md#p4310-5)**
+
+**Iowa-Minnesota District — [¶2403:9](/part-4/ch9-boundaries.md#p2403-9); [¶2445](/part-4/ch9-boundaries.md#p2445)**
+
+**itinerant ministry, [¶360:3](/part-1/ch4-constitution.md#p360-3)(b)**
 
 ## J {#j}
 
-**Jamaica, 17:2; 18; 35**  
+**Jamaica — [¶17:2](/part-1/ch1-history.md#p17-2); [¶18](/part-1/ch1-history.md#p18); [¶35](/part-1/ch1-history.md#p35)**
 
-**Japan, 18**  
+**Japan — [¶18](/part-1/ch1-history.md#p18)**
 
-**Jesus Korea Wesleyan Church, South Korea, 80**  
+**Jesus Korea Wesleyan Church, South Korea — [¶80](/part-1/ch1-history.md#p80)**
 
-**journal:**  
-  **   district conference, 1178** [¶1178](/part-3/ch2-conference.md#p1178)  
-  **   General Conference, 1585** [¶1585](/part-4/ch1-general-conference.md#p1585)  
+**journal:**
 
-**Judgment, the, Article of Religion, 248** [¶248](/part-1/ch4-constitution.md#p248)  
+  - district conference — [¶1178](/part-3/ch2-conference.md#p1178)
+  - General Conference — [¶1585](/part-4/ch1-general-conference.md#p1585)
 
-**judicial committee:**  
-  **   local, 970** ¶970  
+**Judgment, the, Article of Religion — [¶248](/part-1/ch4-constitution.md#p248)**
 
-**judicial oaths, 410:10** [¶410:10](/part-1/ch5-special-directions.md#p410-10)  
+**judicial committee:**
 
-**Judiciary, general principles, 5000–5004** [¶5000](/part-9/ch1-general-regulations.md#p5000) [¶5004](/part-9/ch1-general-regulations.md#p5004)  
-  **   administration of church discipline, 5002** [¶5002](/part-9/ch1-general-regulations.md#p5002)  
-  **   conflict resolution, 5004** [¶5004](/part-9/ch1-general-regulations.md#p5004)  
-  **   meaning and purpose of church discipline, 5000–5004.**  
+  - local — 970
 
-**justification, Article of Religion, 230** [¶230](/part-1/ch4-constitution.md#p230)  
+**judicial oaths — [¶410:10](/part-1/ch5-special-directions.md#p410-10)**
+
+**Judiciary, general principles — [¶5000–5004](/part-9/ch1-general-regulations.md#p5000)**
+
+  - administration of church discipline — [¶5002](/part-9/ch1-general-regulations.md#p5002)
+  - conflict resolution — [¶5004](/part-9/ch1-general-regulations.md#p5004)
+  - meaning and purpose of church discipline, [¶5000–5004](/part-9/ch1-general-regulations.md#p5000).
+
+**justification, Article of Religion — [¶230](/part-1/ch4-constitution.md#p230)**
 
 ## K {#k}
 
-**from another denomination, 3104** [¶3104](/part-6/ch1-ministerial-orders.md#p3104)  
+**Kansas District — [¶2403:10](/part-4/ch9-boundaries.md#p2403-10); [¶2445](/part-4/ch9-boundaries.md#p2445)**
 
-**identification, 3030** [¶3030](/part-6/ch1-ministerial-orders.md#p3030)  
+**Kentucky-Tennessee District — [¶2403:11](/part-4/ch9-boundaries.md#p2403-11)**
 
-**license form, 6260** ¶6260  
+  - [¶2440](/part-4/ch9-boundaries.md#p2440)
 
-**licensing of, 3033** [¶3033](/part-6/ch1-ministerial-orders.md#p3033)  
+**Kingswood University — [¶1870](/part-4/ch3-general-officials.md#p1870); [¶2365:3](/part-4/ch8-education-clergy.md#p2365-3)**
 
-**listing, 1240:3** [¶1240:3](/part-3/ch3-board.md#p1240-3)  
+**Knapp, Martin Wells — [¶24](/part-1/ch1-history.md#p24)**
 
-**membership in district conference, 317; 1083:2–3; 1090:3** [¶1083:2](/part-3/ch2-conference.md#p1083-2) [¶1090:3](/part-3/ch2-conference.md#p1090-3)  
-
-**regulations for, 3055, 3093** [¶3055](/part-6/ch1-ministerial-orders.md#p3055) [¶3093](/part-6/ch1-ministerial-orders.md#p3093)  
-
-**renewing license of, 3040** [¶3040](/part-6/ch1-ministerial-orders.md#p3040)  
-
-**rights of, 3044** [¶3044](/part-6/ch1-ministerial-orders.md#p3044)  
-
-**transfer of, 313:6; 3044:5; 3055:3; 3100:1; 6440** [¶313:6](/part-1/ch4-constitution.md#p313-6) [¶3044:5](/part-6/ch1-ministerial-orders.md#p3044-5) [¶3055:3](/part-6/ch1-ministerial-orders.md#p3055-3) [¶3100:1](/part-6/ch1-ministerial-orders.md#p3100-1) ¶6440  
-
-**licensed special worker, 1240:5c; 3460; 3480** [¶3460](/part-6/ch4-special-lay-ministries.md#p3460) [¶3480](/part-6/ch4-special-lay-ministries.md#p3480) ¶1240:5c  
-
-**loan guarantees, 4120:6; 4890** [¶4120:6](/part-7/ch2-district-corporations.md#p4120-6) [¶4890](/part-8/ch3-district-property.md#p4890)  
-
-**local advisory council, developing church, 510:2–3** [¶510:2](/part-2/ch1-organization.md#p510-2)  
-
-**local board of administration, 750–795** [¶750](/part-2/ch5-local-board.md#p750) [¶795](/part-2/ch5-local-board.md#p795)  
-  **  chair, 770** [¶770](/part-2/ch5-local-board.md#p770)  
-  **  duties and powers, 782** [¶782](/part-2/ch5-local-board.md#p782)  
-  **  evaluation session, 767** [¶767](/part-2/ch5-local-board.md#p767)  
-  **  function, 750** [¶750](/part-2/ch5-local-board.md#p750)  
-  **  governance philosophy, 781** [¶781](/part-2/ch5-local-board.md#p781)  
-  **  membership, 752–758** [¶752](/part-2/ch5-local-board.md#p752) [¶758](/part-2/ch5-local-board.md#p758)  
-  **  nomination of, 823** ¶823  
-  **  organizational options, 752** [¶752](/part-2/ch5-local-board.md#p752)  
-  **  quorum, 778** [¶778](/part-2/ch5-local-board.md#p778)  
-  **  secretary, 775** [¶775](/part-2/ch5-local-board.md#p775)  
-  **  sessions, 760–767** [¶760](/part-2/ch5-local-board.md#p760) [¶767](/part-2/ch5-local-board.md#p767)  
-  **  vice-chair, 773** [¶773](/part-2/ch5-local-board.md#p773)  
-  **  voting, 780** [¶780](/part-2/ch5-local-board.md#p780)  
-
-**local board of trustees, 315:6; 850–859** ¶850 ¶859  
-
-**local church:**  
-  **  assistant treasurer, 845:1** ¶845:1  
-  **  auditing committee or auditor, 863** ¶863  
-  **  board, 750–782** [¶750](/part-2/ch5-local-board.md#p750) [¶782](/part-2/ch5-local-board.md#p782)  
-  **  boundaries, 323:5; 1180:25** [¶323:5](/part-1/ch4-constitution.md#p323-5) [¶1180:25](/part-3/ch2-conference.md#p1180-25)  
-  **  building committee, 856:6** ¶856:6  
-  **  business meeting, 630–633** [¶630](/part-2/ch3-conference.md#p630) [¶633](/part-2/ch3-conference.md#p633)  
-  **  committees, 800** ¶800  
-  **  conference, 625–655** [¶625](/part-2/ch3-conference.md#p625) [¶655](/part-2/ch3-conference.md#p655)  
-  **  corporation, 4000–4070** [¶4000](/part-7/ch1-local-church-corporations.md#p4000) [¶4070](/part-7/ch1-local-church-corporations.md#p4070)  
-  **  day care and/or day school, 655:19; 782:33; 1233:32** [¶782:33](/part-2/ch5-local-board.md#p782-33) [¶1233:32](/part-3/ch3-board.md#p1233-32) ¶655:19  
-  **  definition, 240** [¶240](/part-1/ch4-constitution.md#p240)  
-  **  delegate to district conference, 965; 1086; 1100–1109** [¶1100](/part-3/ch2-conference.md#p1100) [¶1109](/part-3/ch2-conference.md#p1109)  
-  **  financial secretary, 845:2** ¶845:2  
-  **  function, 500** [¶500](/part-2/ch1-organization.md#p500)  
-  **  governance philosophy, 781** [¶781](/part-2/ch5-local-board.md#p781)  
-  **  governed by district, 323:1, 5**  
-  **  government, 500–970** [¶500](/part-2/ch1-organization.md#p500) ¶970  
-  **  judicial committee, 970; Gen. Bd. Policy on Ch. Disc. 5105:3; 5110** ¶5110  
-  **  jurisdiction, Gen. Bd. Policy on Ch. Disc. 5105; 5125** ¶5125  
-  **  loan guarantees by district, 4120:6; 4890** [¶4120:6](/part-7/ch2-district-corporations.md#p4120-6) [¶4890](/part-8/ch3-district-property.md#p4890)  
-  **  minimum organization, 807–810** ¶807 ¶810  
-  **  nominating committee, 820–823** ¶820 ¶823  
-  **  officers, 800; 815; 823. See also local church officers**  
-  **  organization, 500–542 developing district, in, 542** [¶542](/part-2/ch1-organization.md#p542)  
-  **  property, 315:6; 4650–4790** [¶4650](/part-8/ch2-local-church-property.md#p4650) [¶4790](/part-8/ch2-local-church-property.md#p4790)  
-  **  quarterly meeting, 630:2** ¶630:2  
-  **  relation to a circuit, 525** [¶525](/part-2/ch1-organization.md#p525)  
-  **  reorganization of, Gen. Bd. Policy on Ch. Disc. 5320–5325**  
-  **  rights of, 315** [¶315](/part-1/ch4-constitution.md#p315)  
-  **  secretary, 775; 830** [¶775](/part-2/ch5-local-board.md#p775) ¶830  
-  **  treasurer, 842** ¶842  
-  **  trustees, 850–859** ¶850 ¶859  
-  **  vice-chair of LBA, 773** [¶773](/part-2/ch5-local-board.md#p773)  
-  **  see also circuit; established church; mission; pastoral charge; developing church**  
-
-**local church conference, 625–655** [¶625](/part-2/ch3-conference.md#p625) [¶655](/part-2/ch3-conference.md#p655)  
-  **  chair, 635** [¶635](/part-2/ch3-conference.md#p635)  
-  **  characteristic of established church, 518** [¶518](/part-2/ch1-organization.md#p518)  
+**Korea, South — [¶80](/part-1/ch1-history.md#p80)**
 
 ## L {#l}
 
-**composition, 625** [¶625](/part-2/ch3-conference.md#p625)  
+**La Iglesia Wesleyana de Colombia — [¶80](/part-1/ch1-history.md#p80)**
 
-**duties and powers, 655** [¶655](/part-2/ch3-conference.md#p655)  
+**labor unions — [¶265:4](/part-1/ch4-constitution.md#p265-4)**
 
-**function, 625** [¶625](/part-2/ch3-conference.md#p625)  
+**Labrador: see Atlantic District**
 
-**membership, 625** [¶625](/part-2/ch3-conference.md#p625)  
+**law:**
 
-**notice of sessions, 630–633** [¶630](/part-2/ch3-conference.md#p630) [¶633](/part-2/ch3-conference.md#p633)  
+  - constitutional — [¶125–145](/part-1/ch3-church-law.md#p125)
+  - ritual — [¶175](/part-1/ch3-church-law.md#p175)
+  - statutory — [¶155–165](/part-1/ch3-church-law.md#p155)
 
-**order of business, 650** [¶650](/part-2/ch3-conference.md#p650)  
+**lay delegate. See Delegates**
 
-**quorum, 640** [¶640](/part-2/ch3-conference.md#p640)  
+**lay evangelist — [¶3210:5](/part-6/ch2-ministerial-education.md#p3210-5); [¶3450–3470](/part-6/ch4-special-lay-ministries.md#p3450)**
 
-**rules of order, 645** [¶645](/part-2/ch3-conference.md#p645)  
+  - 6360–6380
 
-**secretary, 638** [¶638](/part-2/ch3-conference.md#p638)  
+**lay minister:**
 
-**sessions, 520:5; 630–633** [¶630](/part-2/ch3-conference.md#p630) [¶633](/part-2/ch3-conference.md#p633)  
+  - course of study — [¶3210:4](/part-6/ch2-ministerial-education.md#p3210-4)
+  - duties — [¶3430](/part-6/ch4-special-lay-ministries.md#p3430)
+  - granting license to — [¶3410](/part-6/ch4-special-lay-ministries.md#p3410)
+  - identification — [¶3400](/part-6/ch4-special-lay-ministries.md#p3400)
+  - letter of standing — [¶3440:3](/part-6/ch4-special-lay-ministries.md#p3440-3); 6220
+  - license form — 6200
+  - regulations for — [¶3440](/part-6/ch4-special-lay-ministries.md#p3440)
+  - renewal of license — [¶3420](/part-6/ch4-special-lay-ministries.md#p3420)
 
-**voting, 643** [¶643](/part-2/ch3-conference.md#p643)  
+**lay ministries, special — [¶3400–3490](/part-6/ch4-special-lay-ministries.md#p3400)**
 
-**local church education:**  
-  **  Sunday school, 885** ¶885  
+**lay missionary, commissioned — [¶3490](/part-6/ch4-special-lay-ministries.md#p3490)**
 
-**local church officers:**  
-  **  definition and regulations, 815** ¶815  
-  **  installation ritual, 5915** [¶5915](/part-10/ch9-installation.md#p5915)  
-  **  list of, 800** ¶800  
-  **  nomination of, 823** ¶823  
+**leadership qualifications — [¶558](/part-2/ch2-membership.md#p558)**
 
-**local church organization, 500–548** [¶500](/part-2/ch1-organization.md#p500) [¶548](/part-2/ch1-organization.md#p548)  
+**Lee, Luther — [¶7](/part-1/ch1-history.md#p7)**
 
-**local laws, 4510** [¶4510](/part-8/ch1-general-principles.md#p4510)  
+**L’Eglise Wesleyenne d’Haiti — [¶80](/part-1/ch1-history.md#p80)**
 
-**local preacher. See lay minister**  
+**leisure time — [¶265:3](/part-1/ch4-constitution.md#p265-3); [¶410:12](/part-1/ch5-special-directions.md#p410-12)**
 
-**lodges. See secret societies**  
+**letters:**
 
-**Lord’s Day, 410:7** [¶410:7](/part-1/ch5-special-directions.md#p410-7)  
+  - acknowledgment of district letter of transfer — 6450
+  - acknowledgment of local letter of transfer — 6010
+  - basis for reception of members — [¶565](/part-2/ch2-membership.md#p565)
+  - notice of transfer — 6020
+  - recommendation from other denominations — [¶570](/part-2/ch2-membership.md#p570)
+  - recommendation to other denominations — [¶590](/part-2/ch2-membership.md#p590); 6030
+  - standing for lay minister — [¶3440:3](/part-6/ch4-special-lay-ministries.md#p3440-3); 6220
+  - standing for minister — [¶3100:3](/part-6/ch1-ministerial-orders.md#p3100-3), 5–6; 6460
+  - standing for special worker — [¶3480](/part-6/ch4-special-lay-ministries.md#p3480); 6460
+  - transfer for member — [¶575–580](/part-2/ch2-membership.md#p575); 6000–6020
+  - transfer for minister — [¶3100:1](/part-6/ch1-ministerial-orders.md#p3100-1), 5–6; 6440
+  - transfer for special worker — [¶3480](/part-6/ch4-special-lay-ministries.md#p3480); 6440
+  - withdrawal of member — [¶592](/part-2/ch2-membership.md#p592); 6040
 
-**sanctity of, 265:1** [¶265:1](/part-1/ch4-constitution.md#p265-1)  
+**Liberia — [¶80](/part-1/ch1-history.md#p80)**
 
-**Lord’s Supper:**  
-  **  administrants of, 313:1; 725:6; 3044:1; 3075:1** [¶313:1](/part-1/ch4-constitution.md#p313-1) [¶725:6](/part-2/ch4-pastors.md#p725-6) [¶3044:1](/part-6/ch1-ministerial-orders.md#p3044-1) [¶3075:1](/part-6/ch1-ministerial-orders.md#p3075-1)  
-  **  Article of Religion, 242** [¶242](/part-1/ch4-constitution.md#p242)  
-  **  frequency of observance, 293; 725:6** [¶293](/part-1/ch4-constitution.md#p293) [¶725:6](/part-2/ch4-pastors.md#p725-6)  
-  **  means of grace, 265:9** [¶265:9](/part-1/ch4-constitution.md#p265-9)  
-  **  right of access to, 302:2** [¶302:2](/part-1/ch4-constitution.md#p302-2)  
-  **  ritual of, 5600–5635** [¶5600](/part-10/ch3-lords-supper.md#p5600) ¶5635  
+**liberty, Christian — [¶440](/part-1/ch5-special-directions.md#p440)**
 
-**Louisiana. See Mountain Plains District**  
+**license:**
+
+  - district, ministerial — [¶3033–3040](/part-6/ch1-ministerial-orders.md#p3033); 6260
+  - lay minister’s — [¶3410–3420](/part-6/ch4-special-lay-ministries.md#p3410); 6200
+  - special worker’s — [¶3460](/part-6/ch4-special-lay-ministries.md#p3460); 6360
+
+**licensed minister:**
+
+  - church membership — [¶3097–3100](/part-6/ch1-ministerial-orders.md#p3097)
+  - course of study — [¶3210:1](/part-6/ch2-ministerial-education.md#p3210-1)
+  - credentials — [¶3055:2](/part-6/ch1-ministerial-orders.md#p3055-2)
+  - duties of — [¶3051](/part-6/ch1-ministerial-orders.md#p3051)
+  - from another denomination — [¶3104](/part-6/ch1-ministerial-orders.md#p3104)
+  - identification — [¶3030](/part-6/ch1-ministerial-orders.md#p3030)
+  - license form — 6260
+  - licensing of — [¶3033](/part-6/ch1-ministerial-orders.md#p3033)
+  - listing — [¶1240:3](/part-3/ch3-board.md#p1240-3)
+  - membership in district conference — [¶317](/part-1/ch4-constitution.md#p317); [¶1083:2–3](/part-3/ch2-conference.md#p1083-2); [¶1090:3](/part-3/ch2-conference.md#p1090-3)
+  - regulations for — [¶3055](/part-6/ch1-ministerial-orders.md#p3055), [¶3093](/part-6/ch1-ministerial-orders.md#p3093)
+  - renewing license of — [¶3040](/part-6/ch1-ministerial-orders.md#p3040)
+  - rights of — [¶3044](/part-6/ch1-ministerial-orders.md#p3044)
+  - transfer of — [¶313:6](/part-1/ch4-constitution.md#p313-6); [¶3044:5](/part-6/ch1-ministerial-orders.md#p3044-5); [¶3055:3](/part-6/ch1-ministerial-orders.md#p3055-3); [¶3100:1](/part-6/ch1-ministerial-orders.md#p3100-1); 6440
+
+**licensed special worker — [¶1240:5c](/part-3/ch3-board.md#p1240-5)**
+
+  - [¶3460](/part-6/ch4-special-lay-ministries.md#p3460); [¶3480](/part-6/ch4-special-lay-ministries.md#p3480)
+
+**loan guarantees — [¶4120:6](/part-7/ch2-district-corporations.md#p4120-6); [¶4890](/part-8/ch3-district-property.md#p4890)**
+
+**local advisory council, developing church — [¶510:2–3](/part-2/ch1-organization.md#p510-2)**
+
+**local board of administration — [¶750–795](/part-2/ch5-local-board.md#p750)**
+
+  - chair — [¶770](/part-2/ch5-local-board.md#p770)
+  - duties and powers — [¶782](/part-2/ch5-local-board.md#p782)
+  - evaluation session — [¶767](/part-2/ch5-local-board.md#p767)
+  - function — [¶750](/part-2/ch5-local-board.md#p750)
+  - governance philosophy — [¶781](/part-2/ch5-local-board.md#p781)
+  - membership — [¶752–758](/part-2/ch5-local-board.md#p752)
+  - nomination of — 823
+  - organizational options — [¶752](/part-2/ch5-local-board.md#p752)
+  - quorum — [¶778](/part-2/ch5-local-board.md#p778)
+  - secretary — [¶775](/part-2/ch5-local-board.md#p775)
+  - sessions — [¶760–767](/part-2/ch5-local-board.md#p760)
+  - vice-chair — [¶773](/part-2/ch5-local-board.md#p773)
+  - voting — [¶780](/part-2/ch5-local-board.md#p780)
+
+**local board of trustees — [¶315:6](/part-1/ch4-constitution.md#p315-6); 850–859**
+
+**local church:**
+
+  - assistant treasurer — 845:1
+  - auditing committee or auditor — 863
+  - board — [¶750–782](/part-2/ch5-local-board.md#p750)
+  - boundaries — [¶323:5](/part-1/ch4-constitution.md#p323-5); [¶1180:25](/part-3/ch2-conference.md#p1180-25)
+  - building committee — 856:6
+  - business meeting — [¶630–633](/part-2/ch3-conference.md#p630)
+  - committees — 800
+  - conference — [¶625–655](/part-2/ch3-conference.md#p625)
+  - corporation — [¶4000–4070](/part-7/ch1-local-church-corporations.md#p4000)
+  - day care and/or day school — 655:19; [¶782:33](/part-2/ch5-local-board.md#p782-33); [¶1233:32](/part-3/ch3-board.md#p1233-32)
+  - definition — [¶240](/part-1/ch4-constitution.md#p240)
+  - delegate to district conference — 965; [¶1086](/part-3/ch2-conference.md#p1086); [¶1100–1109](/part-3/ch2-conference.md#p1100)
+  - financial secretary — 845:2
+  - function — [¶500](/part-2/ch1-organization.md#p500)
+  - governance philosophy — [¶781](/part-2/ch5-local-board.md#p781)
+  - governed by district — [¶323:1](/part-1/ch4-constitution.md#p323-1), 5
+  - government — [¶500–970](/part-2/ch1-organization.md#p500)
+  - judicial committee, 970; Gen. Bd. Policy on Ch. Disc. 5105:3; 5110
+  - jurisdiction, Gen. Bd. Policy on Ch. Disc. 5105; 5125
+  - loan guarantees by district — [¶4120:6](/part-7/ch2-district-corporations.md#p4120-6); [¶4890](/part-8/ch3-district-property.md#p4890)
+  - minimum organization — 807–810
+  - nominating committee — 820–823
+  - officers, 800; 815; 823. See also local church officers organization, [¶500–542](/part-2/ch1-organization.md#p500) developing district, in — [¶542](/part-2/ch1-organization.md#p542)
+  - property — [¶315:6](/part-1/ch4-constitution.md#p315-6); [¶4650–4790](/part-8/ch2-local-church-property.md#p4650)
+  - quarterly meeting — 630:2
+  - relation to a circuit — [¶525](/part-2/ch1-organization.md#p525)
+  - reorganization of, Gen. Bd. Policy on Ch. Disc. 5320–5325
+  - rights of — [¶315](/part-1/ch4-constitution.md#p315)
+  - secretary — [¶775](/part-2/ch5-local-board.md#p775); 830
+  - treasurer — 842
+  - trustees — 850–859
+  - vice-chair of LBA — [¶773](/part-2/ch5-local-board.md#p773)
+  - see also circuit; established church; mission; pastoral charge; developing church
+
+**local church conference — [¶625–655](/part-2/ch3-conference.md#p625)**
+
+  - chair — [¶635](/part-2/ch3-conference.md#p635)
+  - characteristic of established church, composition — [¶625](/part-2/ch3-conference.md#p625)
+  - duties and powers — [¶655](/part-2/ch3-conference.md#p655)
+  - function — [¶625](/part-2/ch3-conference.md#p625)
+  - membership — [¶625](/part-2/ch3-conference.md#p625)
+  - notice of sessions — [¶630–633](/part-2/ch3-conference.md#p630)
+  - order of business — [¶650](/part-2/ch3-conference.md#p650)
+  - quorum — [¶640](/part-2/ch3-conference.md#p640)
+  - rules of order — [¶645](/part-2/ch3-conference.md#p645)
+  - secretary — [¶638](/part-2/ch3-conference.md#p638)
+  - sessions — [¶520:5](/part-2/ch1-organization.md#p520-5); [¶630–633](/part-2/ch3-conference.md#p630)
+  - voting — [¶643](/part-2/ch3-conference.md#p643)
+
+**local church education:**
+
+  - Sunday school — 885
+
+**local church officers:**
+
+  - definition and regulations — 815
+  - installation ritual — [¶5915](/part-10/ch9-installation.md#p5915)
+  - list of — 800
+  - nomination of — 823
+
+**local church organization — [¶500–548](/part-2/ch1-organization.md#p500)**
+
+**local laws — [¶4510](/part-8/ch1-general-principles.md#p4510)**
+
+**local preacher. See lay minister**
+
+**lodges. See secret societies**
+
+**Lord’s Day — [¶410:7](/part-1/ch5-special-directions.md#p410-7)**
+
+  - sanctity of — [¶265:1](/part-1/ch4-constitution.md#p265-1)
+
+**Lord’s Supper:**
+
+  - administrants of — [¶313:1](/part-1/ch4-constitution.md#p313-1); [¶725:6](/part-2/ch4-pastors.md#p725-6); [¶3044:1](/part-6/ch1-ministerial-orders.md#p3044-1); [¶3075:1](/part-6/ch1-ministerial-orders.md#p3075-1)
+  - Article of Religion — [¶242](/part-1/ch4-constitution.md#p242)
+  - frequency of observance — [¶293](/part-1/ch4-constitution.md#p293); [¶725:6](/part-2/ch4-pastors.md#p725-6)
+  - means of grace — [¶265:9](/part-1/ch4-constitution.md#p265-9)
+  - right of access to — [¶302:2](/part-1/ch4-constitution.md#p302-2)
+  - ritual of — [¶5600–5635](/part-10/ch3-lords-supper.md#p5600)
+
+**Louisiana. See Mountain Plains District**
 
 ## M {#m}
 
-**Maine. See Atlantic District**  
+**Maine. See Atlantic District**
 
-**Manitoba. See Central Canada District**  
+**Manitoba. See Central Canada District**
 
-**Marion, IN, 16**  
+**Marion, IN — [¶16](/part-1/ch1-history.md#p16)**
 
-**marriage:**  
-  **  Article of Religion, 222** [¶222](/part-1/ch4-constitution.md#p222)  
-  **  minister and, 3108–3112; Gen. Bd. Policy on Ch. Disc. 5251**  
-  **  ministerial orders and, 3012** [¶3012](/part-6/ch1-ministerial-orders.md#p3012)  
-  **  minister’s care in performing, 3111–3112** [¶3111](/part-6/ch1-ministerial-orders.md#p3111) [¶3112](/part-6/ch1-ministerial-orders.md#p3112)  
-  **  officiants, 725:7** [¶725:7](/part-2/ch4-pastors.md#p725-7)  
-  **  remarriage, 410:6; 3111** [¶410:6](/part-1/ch5-special-directions.md#p410-6) [¶3111](/part-6/ch1-ministerial-orders.md#p3111)  
-  **  ritual of, 5650–5680** [¶5650](/part-10/ch4-marriage.md#p5650) [¶5680](/part-10/ch4-marriage.md#p5680)  
-  **  see also divorce**  
+**marriage:**
 
-**Maryland. See Chesapeake District**  
+  - Article of Religion — [¶222](/part-1/ch4-constitution.md#p222)
+  - minister and, [¶3108–3112](/part-6/ch1-ministerial-orders.md#p3108); Gen. Bd. Policy on Ch. Disc. 5251
+  - ministerial orders and — [¶3012](/part-6/ch1-ministerial-orders.md#p3012)
+  - minister’s care in performing — [¶3111–3112](/part-6/ch1-ministerial-orders.md#p3111)
+  - officiants — [¶725:7](/part-2/ch4-pastors.md#p725-7)
+  - remarriage — [¶410:6](/part-1/ch5-special-directions.md#p410-6); [¶3111](/part-6/ch1-ministerial-orders.md#p3111)
+  - ritual of — [¶5650–5680](/part-10/ch4-marriage.md#p5650)
+  - see also divorce
 
-**Massachusetts. See Northeast District**  
+**Maryland. See Chesapeake District**
 
-**Matlack, Lucius C., 7**  
+**Massachusetts. See Northeast District**
 
-**matrimony, rite of, 5650–5680** [¶5650](/part-10/ch4-marriage.md#p5650) [¶5680](/part-10/ch4-marriage.md#p5680)  
+**Matlack, Lucius C. — [¶7](/part-1/ch1-history.md#p7)**
 
-**means of grace, 265:9** [¶265:9](/part-1/ch4-constitution.md#p265-9)  
+**matrimony, rite of — [¶5650–5680](/part-10/ch4-marriage.md#p5650)**
 
-**members, church. See church member, membership**  
+**means of grace — [¶265:9](/part-1/ch4-constitution.md#p265-9)**
 
-**membership:**  
-  **  of ministers, 3097–3100** [¶3097](/part-6/ch1-ministerial-orders.md#p3097) [¶3100](/part-6/ch1-ministerial-orders.md#p3100)  
-  **  of pastors and senior pastors 578:2 assistant pastors, 578:2** [¶578:2](/part-2/ch2-membership.md#p578-2)  
+**members, church. See church member, membership**
 
-**membership classes, 568; 725:11; Guides and Helps to Holy Living, 3; 260–268** [¶260](/part-1/ch4-constitution.md#p260) [¶268](/part-1/ch4-constitution.md#p268)  
+**membership:**
 
-**membership, 550–610** [¶550](/part-2/ch2-membership.md#p550) [¶610](/part-2/ch2-membership.md#p610)  
+  - of ministers — [¶3097–3100](/part-6/ch1-ministerial-orders.md#p3097)
+  - of pastors and senior pastors [¶578:2](/part-2/ch2-membership.md#p578-2)
+  - assistant pastors — [¶578:2](/part-2/ch2-membership.md#p578-2)
 
-**membership, reception ritual, 5550–5595** [¶5550](/part-10/ch2-reception.md#p5550) [¶5595](/part-10/ch2-reception.md#p5595)  
+**membership classes — [¶568](/part-2/ch2-membership.md#p568); [¶725:11](/part-2/ch4-pastors.md#p725-11)**
 
-**membership roll in:**  
-  **  affiliate church, 7005** ¶7005  
-  **  established churches, 610** [¶610](/part-2/ch2-membership.md#p610)  
-  **  developing church, 510:2** [¶510:2](/part-2/ch1-organization.md#p510-2)  
-  **  mission church, 537** [¶537](/part-2/ch1-organization.md#p537)  
+  - Guides and Helps to Holy Living — [¶3](/part-1/ch1-history.md#p3)
+  - [¶260–268](/part-1/ch4-constitution.md#p260)
 
-**membership, student, 564–565** [¶564](/part-2/ch2-membership.md#p564) [¶565](/part-2/ch2-membership.md#p565)  
+**membership — [¶550–610](/part-2/ch2-membership.md#p550)**
 
-**memorials:**  
-  **  by district conference, 1153** [¶1153](/part-3/ch2-conference.md#p1153)  
-  **  by local church conference, 655:8** [¶655:8](/part-2/ch3-conference.md#p655-8)  
-  **  Committee, General Conference, 1565** [¶1565](/part-4/ch1-general-conference.md#p1565)  
-  **  to the General Conference, 1557–1560** [¶1557](/part-4/ch1-general-conference.md#p1557) [¶1560](/part-4/ch1-general-conference.md#p1560)  
+**membership, reception ritual — [¶5550–5595](/part-10/ch2-reception.md#p5550)**
 
-**mentally incompetent, salvation of, 226** [¶226](/part-1/ch4-constitution.md#p226)  
+**membership roll in:**
 
-**merger:**  
-  **  basis, 50**  
-  **  historical, 50**  
-  **  of churches, 1233:31** [¶1233:31](/part-3/ch3-board.md#p1233-31)  
-  **  of districts, 1060–1065** [¶1060](/part-3/ch1-organization.md#p1060) [¶1065](/part-3/ch1-organization.md#p1065)  
+  - affiliate church — 7005
+  - established churches — [¶610](/part-2/ch2-membership.md#p610)
+  - developing church — [¶510:2](/part-2/ch1-organization.md#p510-2)
+  - mission church — [¶537](/part-2/ch1-organization.md#p537)
 
-**Methodist Episcopal Church, 4–7; 11**  
+**membership, student — [¶564–565](/part-2/ch2-membership.md#p564)**
 
-**Methodists, 2–6; 11–12. See also Wesleyan Methodist**  
+**memorials:**
 
-**Mexico, 18; 29; 35; 80**  
+  - by district conference — [¶1153](/part-3/ch2-conference.md#p1153)
+  - by local church conference — [¶655:8](/part-2/ch3-conference.md#p655-8)
+  - Committee, General Conference — [¶1565](/part-4/ch1-general-conference.md#p1565)
+  - to the General Conference — [¶1557–1560](/part-4/ch1-general-conference.md#p1557)
 
-**Michigan, 7, see East Michigan District, North Michigan District, and West Michigan District**  
+**mentally incompetent, salvation of — [¶226](/part-1/ch4-constitution.md#p226)**
 
-**military chaplains, 1240:1a5; 3330** [¶3330](/part-6/ch3-ministerial-appointments.md#p3330) ¶1240:1a5  
+**merger:**
 
-**military service, 410:3** [¶410:3](/part-1/ch5-special-directions.md#p410-3)  
+  - basis — [¶50](/part-1/ch1-history.md#p50)
+  - historical — [¶50](/part-1/ch1-history.md#p50)
+  - of churches — [¶1233:31](/part-3/ch3-board.md#p1233-31)
+  - of districts — [¶1060–1065](/part-3/ch1-organization.md#p1060)
 
-**minimum organization:**  
-  **  local church, 518; 810** [¶518](/part-2/ch1-organization.md#p518) ¶810  
-  **  mission, 537** [¶537](/part-2/ch1-organization.md#p537)  
-  **  developing church, 807** ¶807  
+**Methodist Episcopal Church — [¶4–7](/part-1/ch1-history.md#p4); [¶11](/part-1/ch1-history.md#p11)**
 
-**minister. See ministry, the**  
+**Methodists, [¶2–6](/part-1/ch1-history.md#p2); [¶11–12](/part-1/ch1-history.md#p11). See also Wesleyan Methodist**
 
-**minister of music, 870; 3210:2** [¶3210:2](/part-6/ch2-ministerial-education.md#p3210-2) ¶870  
+**Mexico — [¶18](/part-1/ch1-history.md#p18); [¶29](/part-1/ch1-history.md#p29); [¶35](/part-1/ch1-history.md#p35); [¶80](/part-1/ch1-history.md#p80)**
 
-**ministerial appointments, 3250–3390** [¶3250](/part-6/ch3-ministerial-appointments.md#p3250) [¶3390](/part-6/ch3-ministerial-appointments.md#p3390)  
-  **  administrator, 1240:1a4; 3230; 3335** [¶3335](/part-6/ch3-ministerial-appointments.md#p3335) ¶1240:1a4 ¶3230  
-  **  associate general evangelist, 1240:1a3; 3280** ¶1240:1a3 ¶3280  
-  **  categories of service, 3250** [¶3250](/part-6/ch3-ministerial-appointments.md#p3250)  
-  **  chaplains, military, 1240:1a5; 3330; 3335** [¶3330](/part-6/ch3-ministerial-appointments.md#p3330) [¶3335](/part-6/ch3-ministerial-appointments.md#p3335) ¶1240:1a5  
-  **  educator, 1240:1a4; 3310; 3335** [¶3310](/part-6/ch3-ministerial-appointments.md#p3310) [¶3335](/part-6/ch3-ministerial-appointments.md#p3335) ¶1240:1a4  
-  **  evangelist, 1240:1a3; 3280** ¶1240:1a3 ¶3280  
-  **  general evangelists, 1240:1a3; 3285:1** [¶3285:1](/part-6/ch3-ministerial-appointments.md#p3285-1) ¶1240:1a3  
-  **  interchurch service, 1240:1a6; 3335** [¶3335](/part-6/ch3-ministerial-appointments.md#p3335) ¶1240:1a6  
-  **  interim pastor, 1240:1a2; 3261** [¶3261](/part-6/ch3-ministerial-appointments.md#p3261) ¶1240:1a2  
-  **  minister in process of transfer, 1240:1f; g; 1240:2e; 1240:3d; 3104** [¶3104](/part-6/ch1-ministerial-orders.md#p3104) ¶1240:2e ¶1240:3d  
-  **  missionary, 1240:1a4; 3300; 3335** [¶3300](/part-6/ch3-ministerial-appointments.md#p3300) [¶3335](/part-6/ch3-ministerial-appointments.md#p3335) ¶1240:1a4  
-  **  ordained minister in process of transfer, denomination, 1240:1g; 3104** [¶3104](/part-6/ch1-ministerial-orders.md#p3104) ¶1240:1g  
-  **  ordained minister in process of transfer, district, 1240:1f** ¶1240:1f  
+**Michigan, [¶7](/part-1/ch1-history.md#p7), see East Michigan District, North Michigan District, and West Michigan District**
 
-**ordained minister on educational leave, 1240:1d; 3350:1** [¶3350:1](/part-6/ch3-ministerial-appointments.md#p3350-1) ¶1240:1d  
+**military chaplains — [¶1240:1a](/part-3/ch3-board.md#p1240-1)5; [¶3330](/part-6/ch3-ministerial-appointments.md#p3330)**
 
-**ordained minister on reserve, 1240:1c; 3360** [¶3360](/part-6/ch3-ministerial-appointments.md#p3360) ¶1240:1c  
+**military service — [¶410:3](/part-1/ch5-special-directions.md#p410-3)**
 
-**ordained minister without appointment, 1240:1e; 3380** [¶3380](/part-6/ch3-ministerial-appointments.md#p3380) ¶1240:1e  
+**minimum organization:**
 
-**pastor, 725; 735; 1240:1a2; 3255–3260** [¶3255](/part-6/ch3-ministerial-appointments.md#p3255) [¶3260](/part-6/ch3-ministerial-appointments.md#p3260)  
+  - local church — [¶518](/part-2/ch1-organization.md#p518); 810
+  - mission — [¶537](/part-2/ch1-organization.md#p537)
+  - developing church — 807
 
-**reserve general evangelist, 1240:1a3; 3285:2** [¶3285:2](/part-6/ch3-ministerial-appointments.md#p3285-2) ¶1240:1a3  
+**minister. See ministry, the**
 
-**retired ordained ministers, 1240:1b; 3370** [¶3370](/part-6/ch3-ministerial-appointments.md#p3370) ¶1240:1b  
+**minister of music — 870; [¶3210:2](/part-6/ch2-ministerial-education.md#p3210-2)**
 
-**special service, 1240:1a7; 3345** [¶3345](/part-6/ch3-ministerial-appointments.md#p3345) ¶1240:1a7  
+**ministerial appointments — [¶3250–3390](/part-6/ch3-ministerial-appointments.md#p3250)**
 
-**student, 1240:4; 3350** [¶1240:4](/part-3/ch3-board.md#p1240-4) [¶3350](/part-6/ch3-ministerial-appointments.md#p3350)  
+  - administrator — [¶1240:1a](/part-3/ch3-board.md#p1240-1)4; [¶3320](/part-6/ch3-ministerial-appointments.md#p3320); [¶3335](/part-6/ch3-ministerial-appointments.md#p3335)
+  - associate general evangelist — [¶1240:1a](/part-3/ch3-board.md#p1240-1)3; 3280
+  - categories of service — [¶3250](/part-6/ch3-ministerial-appointments.md#p3250)
+  - chaplains, military — [¶1240:1a](/part-3/ch3-board.md#p1240-1)5; [¶3330](/part-6/ch3-ministerial-appointments.md#p3330); [¶3335](/part-6/ch3-ministerial-appointments.md#p3335)
+  - educator — [¶1240:1a](/part-3/ch3-board.md#p1240-1)4; [¶3310](/part-6/ch3-ministerial-appointments.md#p3310); [¶3335](/part-6/ch3-ministerial-appointments.md#p3335)
+  - evangelist — [¶1240:1a](/part-3/ch3-board.md#p1240-1)3; 3280
+  - general evangelists — [¶1240:1a](/part-3/ch3-board.md#p1240-1)3; [¶3285:1](/part-6/ch3-ministerial-appointments.md#p3285-1)
+  - interchurch service — [¶1240:1a](/part-3/ch3-board.md#p1240-1)6; [¶3335](/part-6/ch3-ministerial-appointments.md#p3335)
+  - interim pastor — [¶1240:1a](/part-3/ch3-board.md#p1240-1)2; [¶3261](/part-6/ch3-ministerial-appointments.md#p3261)
+  - minister in process of transfer, [¶1240:1f](/part-3/ch3-board.md#p1240-1), g; [¶1240:2e](/part-3/ch3-board.md#p1240-2); [¶1240:3d](/part-3/ch3-board.md#p1240-3); [¶3104](/part-6/ch1-ministerial-orders.md#p3104)
+  - missionary — [¶1240:1a](/part-3/ch3-board.md#p1240-1)4; [¶3300](/part-6/ch3-ministerial-appointments.md#p3300); [¶3335](/part-6/ch3-ministerial-appointments.md#p3335)
+  - ordained minister in process of transfer, denomination — [¶1240:1g](/part-3/ch3-board.md#p1240-1); [¶3104](/part-6/ch1-ministerial-orders.md#p3104)
+  - ordained minister in process of transfer, district, [¶1240:1f](/part-3/ch3-board.md#p1240-1) ordained minister on educational leave — [¶1240:1d](/part-3/ch3-board.md#p1240-1); [¶3350:1](/part-6/ch3-ministerial-appointments.md#p3350-1)
+  - ordained minister on reserve — [¶1240:1c](/part-3/ch3-board.md#p1240-1); [¶3360](/part-6/ch3-ministerial-appointments.md#p3360)
+  - ordained minister without appointment — [¶1240:1e](/part-3/ch3-board.md#p1240-1); [¶3380](/part-6/ch3-ministerial-appointments.md#p3380)
+  - pastor — [¶725](/part-2/ch4-pastors.md#p725); [¶735](/part-2/ch4-pastors.md#p735); [¶1240:1a](/part-3/ch3-board.md#p1240-1)2; [¶3255–3260](/part-6/ch3-ministerial-appointments.md#p3255)
+  - reserve general evangelist — [¶1240:1a](/part-3/ch3-board.md#p1240-1)3; [¶3285:2](/part-6/ch3-ministerial-appointments.md#p3285-2)
+  - retired ordained ministers — [¶1240:1b](/part-3/ch3-board.md#p1240-1); [¶3370](/part-6/ch3-ministerial-appointments.md#p3370)
+  - special service — [¶1240:1a](/part-3/ch3-board.md#p1240-1)7; [¶3345](/part-6/ch3-ministerial-appointments.md#p3345)
+  - student — [¶1240:4](/part-3/ch3-board.md#p1240-4); [¶3350](/part-6/ch3-ministerial-appointments.md#p3350)
+  - supply pastor — [¶1240:5e](/part-3/ch3-board.md#p1240-5); [¶3260](/part-6/ch3-ministerial-appointments.md#p3260)
+  - without appointment — [¶1240:1e](/part-3/ch3-board.md#p1240-1); [¶3380](/part-6/ch3-ministerial-appointments.md#p3380)
+
+**ministerial credentials:**
+
+  - commissioned minister, [¶3059:1g](/part-6/ch1-ministerial-orders.md#p3059-1g) ordained minister — [¶3089:2](/part-6/ch1-ministerial-orders.md#p3089-2)
+  - licensed minister — [¶3055:2](/part-6/ch1-ministerial-orders.md#p3055-2)
+
+**ministerial development, district board of — [¶1375–1390](/part-3/ch6-ministerial.md#p1375)**
+
+**ministerial education — [¶3150–3240](/part-6/ch2-ministerial-education.md#p3150)**
+
+  - administration of — [¶310](/part-1/ch4-constitution.md#p310); [¶3160](/part-6/ch2-ministerial-education.md#p3160)
+  - college/university — [¶3170:2](/part-6/ch2-ministerial-education.md#p3170-2)
+  - continuing education — [¶3240](/part-6/ch2-ministerial-education.md#p3240)
+  - correspondence course — [¶3170:3](/part-6/ch2-ministerial-education.md#p3170-3)
+  - course of study — [¶3200–3210](/part-6/ch2-ministerial-education.md#p3200)
+  - priority of — [¶3150](/part-6/ch2-ministerial-education.md#p3150)
+  - programs of study — [¶3170](/part-6/ch2-ministerial-education.md#p3170)
+  - seminary — [¶3170:1](/part-6/ch2-ministerial-education.md#p3170-1)
+  - training outside The Wesleyan Church — [¶3170:4](/part-6/ch2-ministerial-education.md#p3170-4)
+  - types of — [¶3170–3240](/part-6/ch2-ministerial-education.md#p3170)
 
-**supply pastor, 1240:5e; 3260** [¶3260](/part-6/ch3-ministerial-appointments.md#p3260) ¶1240:5e  
+**ministerial membership — [¶310](/part-1/ch4-constitution.md#p310); [¶313:6](/part-1/ch4-constitution.md#p313-6)**
 
-**without appointment, 1240:1e; 3380** [¶3380](/part-6/ch3-ministerial-appointments.md#p3380) ¶1240:1e  
+  - [¶3097–3100](/part-6/ch1-ministerial-orders.md#p3097)
 
-**ministerial credentials:**  
-  **  commissioned minister, 3059:1g** [¶3059:1g](/part-6/ch1-ministerial-orders.md#p3059-1g)  
-  **  ordained minister, 3089:2** [¶3089:2](/part-6/ch1-ministerial-orders.md#p3089-2)  
-  **  special worker, 1240:1g; 3059:1e** [¶3059:1e](/part-6/ch1-ministerial-orders.md#p3059-1e) ¶1240:1g  
+**ministerial orders and regulations — [¶3000](/part-6/ch1-ministerial-orders.md#p3000)**
 
-**ministerial development, district board of, 1375–1390** [¶1375](/part-3/ch6-ministerial.md#p1375) [¶1390](/part-3/ch6-ministerial.md#p1390)  
+  - commissioned minister — [¶3059](/part-6/ch1-ministerial-orders.md#p3059)
+  - ordained minister — [¶3067](/part-6/ch1-ministerial-orders.md#p3067)
+  - licensed minister — [¶3030–3055](/part-6/ch1-ministerial-orders.md#p3030); [¶3093](/part-6/ch1-ministerial-orders.md#p3093)
 
-**ministerial education, 3150–3240** [¶3150](/part-6/ch2-ministerial-education.md#p3150) [¶3240](/part-6/ch2-ministerial-education.md#p3240)  
-  **  administration of, 310; 3160** [¶310](/part-1/ch4-constitution.md#p310) [¶3160](/part-6/ch2-ministerial-education.md#p3160)  
-  **  college/university, 3170:2** [¶3170:2](/part-6/ch2-ministerial-education.md#p3170-2)  
-  **  continuing education, 3240** [¶3240](/part-6/ch2-ministerial-education.md#p3240)  
-  **  correspondence course, 3170:3** [¶3170:3](/part-6/ch2-ministerial-education.md#p3170-3)  
-  **  course of study, 3200–3210** [¶3200](/part-6/ch2-ministerial-education.md#p3200) [¶3210](/part-6/ch2-ministerial-education.md#p3210)  
-  **  priority of, 3150** [¶3150](/part-6/ch2-ministerial-education.md#p3150)  
-  **  programs of study, 3170** [¶3170](/part-6/ch2-ministerial-education.md#p3170)  
-  **  seminary, 3170:1** [¶3170:1](/part-6/ch2-ministerial-education.md#p3170-1)  
-  **  training outside The Wesleyan Church, 3170:4** [¶3170:4](/part-6/ch2-ministerial-education.md#p3170-4)  
-  **  types of, 3170–3240** [¶3170](/part-6/ch2-ministerial-education.md#p3170) [¶3240](/part-6/ch2-ministerial-education.md#p3240)  
+**ministerial qualifications — [¶310](/part-1/ch4-constitution.md#p310)**
 
-**ministerial membership, 310; 313:6; 3097–3100** [¶3097](/part-6/ch1-ministerial-orders.md#p3097) [¶3100](/part-6/ch1-ministerial-orders.md#p3100)  
+  - [¶3003–3012](/part-6/ch1-ministerial-orders.md#p3003)
 
-**ministerial orders and regulations, 3000** [¶3000](/part-6/ch1-ministerial-orders.md#p3000)  
-  **  commissioned minister, 3059** [¶3059](/part-6/ch1-ministerial-orders.md#p3059)  
-  **  ordained minister, 3067** [¶3067](/part-6/ch1-ministerial-orders.md#p3067)  
-  **  licensed minister, 3030–3055; 3093** [¶3030](/part-6/ch1-ministerial-orders.md#p3030) [¶3055](/part-6/ch1-ministerial-orders.md#p3055) [¶3093](/part-6/ch1-ministerial-orders.md#p3093)  
+**ministerial relationships — [¶313:5](/part-1/ch4-constitution.md#p313-5); [¶3044:3](/part-6/ch1-ministerial-orders.md#p3044-3)**
 
-**ministerial qualifications, 310; 3003–3012** [¶3003](/part-6/ch1-ministerial-orders.md#p3003) [¶3012](/part-6/ch1-ministerial-orders.md#p3012)  
+  - [¶3075:4](/part-6/ch1-ministerial-orders.md#p3075-4); [¶3114–3117](/part-6/ch1-ministerial-orders.md#p3114)
 
-**ministerial relationships, 313:5; 3044:3; 3075:4; 3114–3117** [¶3114](/part-6/ch1-ministerial-orders.md#p3114) [¶3117](/part-6/ch1-ministerial-orders.md#p3117)  
+**ministerial rights — [¶313](/part-1/ch4-constitution.md#p313); [¶3044](/part-6/ch1-ministerial-orders.md#p3044); [¶3075](/part-6/ch1-ministerial-orders.md#p3075)**
 
-**ministerial rights, 313; 3044; 3075** [¶313](/part-1/ch4-constitution.md#p313) [¶3044](/part-6/ch1-ministerial-orders.md#p3044) [¶3075](/part-6/ch1-ministerial-orders.md#p3075)  
+**ministerial student — [¶3015:1](/part-6/ch1-ministerial-orders.md#p3015-1); [¶3350:2](/part-6/ch3-ministerial-appointments.md#p3350-2)**
 
-**ministerial student, 3015:1; 3350:2** [¶3015:1](/part-6/ch1-ministerial-orders.md#p3015-1) [¶3350:2](/part-6/ch3-ministerial-appointments.md#p3350-2)  
-  **  district license form, 6260** ¶6260  
-  **  district listing, 1240:4** [¶1240:4](/part-3/ch3-board.md#p1240-4)  
-  **  duties, 3015:4** [¶3015:4](/part-6/ch1-ministerial-orders.md#p3015-4)  
-  **  recommendation for, 6420** ¶6420  
-  **  regulations, 3015:5** [¶3015:5](/part-6/ch1-ministerial-orders.md#p3015-5)  
-  **  renewing license, 3015:2** [¶3015:2](/part-6/ch1-ministerial-orders.md#p3015-2)  
+  - district license form — 6260
+  - district listing — [¶1240:4](/part-3/ch3-board.md#p1240-4)
+  - duties — [¶3015:4](/part-6/ch1-ministerial-orders.md#p3015-4)
+  - recommendation for — 6420
+  - regulations — [¶3015:5](/part-6/ch1-ministerial-orders.md#p3015-5)
+  - renewing license — [¶3015:2](/part-6/ch1-ministerial-orders.md#p3015-2)
+  - rights — [¶3015:3](/part-6/ch1-ministerial-orders.md#p3015-3)
 
-**Ministerial Study Course Agency, 2385–2388** [¶2385](/part-4/ch8-education-clergy.md#p2385) [¶2388](/part-4/ch8-education-clergy.md#p2388)  
+**Ministerial Study Course Agency — [¶2385–2388](/part-4/ch8-education-clergy.md#p2385)**
 
-**ministerial study course certificate, 3033:3; 3059:1c; 3070:3; 3420; 6410** [¶3033:3](/part-6/ch1-ministerial-orders.md#p3033-3) [¶3059:1c](/part-6/ch1-ministerial-orders.md#p3059-1c) [¶3070:3](/part-6/ch1-ministerial-orders.md#p3070-3) [¶3420](/part-6/ch4-special-lay-ministries.md#p3420) ¶6410  
+**ministerial study course certificate — [¶3033:3](/part-6/ch1-ministerial-orders.md#p3033-3); [¶3059:1c](/part-6/ch1-ministerial-orders.md#p3059-1c); [¶3070:3](/part-6/ch1-ministerial-orders.md#p3070-3); [¶3420](/part-6/ch4-special-lay-ministries.md#p3420); 6410**
 
-**ministerial training. See ministerial education**  
+**ministerial training. See ministerial education**
 
-**ministry, the, 310–313; 3000–3490** [¶3000](/part-6/ch1-ministerial-orders.md#p3000) [¶3490](/part-6/ch4-special-lay-ministries.md#p3490)  
-  **  appointments, 3250–3391** [¶3250](/part-6/ch3-ministerial-appointments.md#p3250) [¶3391](/part-6/ch3-ministerial-appointments.md#p3391)  
-  **  call, 3000–3006** [¶3000](/part-6/ch1-ministerial-orders.md#p3000) ¶3006  
-  **  categories of service, 3250** [¶3250](/part-6/ch3-ministerial-appointments.md#p3250)  
-  **  church membership, 3097–3100** [¶3097](/part-6/ch1-ministerial-orders.md#p3097) [¶3100](/part-6/ch1-ministerial-orders.md#p3100)  
-  **  commissioned minister, 317; 1240:2; 3059** [¶317](/part-1/ch4-constitution.md#p317) [¶1240:2](/part-3/ch3-board.md#p1240-2) [¶3059](/part-6/ch1-ministerial-orders.md#p3059)  
-  **  district appointment of ministers, 323:1; 1180:11, 24; 1233:10; 1240** [¶1233:10](/part-3/ch3-board.md#p1233-10) [¶1240](/part-3/ch3-board.md#p1240)  
-  **  district supervision of ministers, 1180:22–28; 1310:22–26; 1390; 1402** [¶1310:22](/part-3/ch5-administration.md#p1310-22) [¶1390](/part-3/ch6-ministerial.md#p1390) [¶1402](/part-3/ch6-ministerial.md#p1402)  
-  **  education, 3150–3240** [¶3150](/part-6/ch2-ministerial-education.md#p3150) [¶3240](/part-6/ch2-ministerial-education.md#p3240)  
-  **  ordained minister, 317; 3067–3089; 3093** [¶3067](/part-6/ch1-ministerial-orders.md#p3067) [¶3089](/part-6/ch1-ministerial-orders.md#p3089) [¶3093](/part-6/ch1-ministerial-orders.md#p3093)  
-  **  Elementary Principles governing, 270–286** [¶270](/part-1/ch4-constitution.md#p270) [¶286](/part-1/ch4-constitution.md#p286)  
-  **  general regulations for, 3093** [¶3093](/part-6/ch1-ministerial-orders.md#p3093)  
-  **  lay minister, 3400–3440; 6200–6220** ¶6200 ¶6220  
-  **  licensed minister, 317; 3030–3055; 3093; 6260** [¶3030](/part-6/ch1-ministerial-orders.md#p3030) [¶3055](/part-6/ch1-ministerial-orders.md#p3055) [¶3093](/part-6/ch1-ministerial-orders.md#p3093) ¶6260  
+**ministry, the — [¶310–313](/part-1/ch4-constitution.md#p310); [¶3000–3490](/part-6/ch1-ministerial-orders.md#p3000)**
 
-**Minnesota. See Iowa-Minnesota District**  
+  - appointments — [¶3250–3391](/part-6/ch3-ministerial-appointments.md#p3250)
+  - call — [¶3000–3006](/part-6/ch1-ministerial-orders.md#p3000)
+  - categories of service — [¶3250](/part-6/ch3-ministerial-appointments.md#p3250)
+  - church membership — [¶3097–3100](/part-6/ch1-ministerial-orders.md#p3097)
+  - commissioned minister — [¶317](/part-1/ch4-constitution.md#p317); [¶1240:2](/part-3/ch3-board.md#p1240-2); [¶3059](/part-6/ch1-ministerial-orders.md#p3059)
+  - district appointment of ministers — [¶323:1](/part-1/ch4-constitution.md#p323-1); [¶1180:11](/part-3/ch2-conference.md#p1180-11), [¶24](/part-1/ch1-history.md#p24); [¶1233:10](/part-3/ch3-board.md#p1233-10); [¶1240](/part-3/ch3-board.md#p1240)
+  - district supervision of ministers — [¶1180:22–28](/part-3/ch2-conference.md#p1180-22); [¶1310:22–26](/part-3/ch5-administration.md#p1310-22); [¶1390](/part-3/ch6-ministerial.md#p1390); [¶1402](/part-3/ch6-ministerial.md#p1402)
+  - education — [¶3150–3240](/part-6/ch2-ministerial-education.md#p3150)
+  - ordained minister — [¶317](/part-1/ch4-constitution.md#p317); [¶3067–3089](/part-6/ch1-ministerial-orders.md#p3067); [¶3093](/part-6/ch1-ministerial-orders.md#p3093)
+  - Elementary Principles governing — [¶270–286](/part-1/ch4-constitution.md#p270)
+  - general regulations for — [¶3093](/part-6/ch1-ministerial-orders.md#p3093)
+  - lay minister — [¶3400–3440](/part-6/ch4-special-lay-ministries.md#p3400); 6200–6220
+  - licensed minister — [¶317](/part-1/ch4-constitution.md#p317); [¶3030–3055](/part-6/ch1-ministerial-orders.md#p3030); [¶3093](/part-6/ch1-ministerial-orders.md#p3093); 6260
+  - listing of ministers — [¶1240](/part-3/ch3-board.md#p1240)
+  - marriage and the minister — [¶3012](/part-6/ch1-ministerial-orders.md#p3012); [¶3108–3112](/part-6/ch1-ministerial-orders.md#p3108)
+  - meaning of — [¶3000](/part-6/ch1-ministerial-orders.md#p3000)
+  - membership of ministers — [¶3097–3100](/part-6/ch1-ministerial-orders.md#p3097)
+  - ministerial student — [¶1240:4](/part-3/ch3-board.md#p1240-4); [¶3015:1](/part-6/ch1-ministerial-orders.md#p3015-1); [¶3350:2](/part-6/ch3-ministerial-appointments.md#p3350-2); 6260; 6420
+  - ordained minister — [¶3067–3089](/part-6/ch1-ministerial-orders.md#p3067); [¶3093](/part-6/ch1-ministerial-orders.md#p3093)
+  - orders — [¶3000](/part-6/ch1-ministerial-orders.md#p3000)
+  - qualifications — [¶3000–3006](/part-6/ch1-ministerial-orders.md#p3000)
+  - reception from another denomination — [¶3104](/part-6/ch1-ministerial-orders.md#p3104)
+  - regulations — [¶3000](/part-6/ch1-ministerial-orders.md#p3000)
+  - relationship to other ministers and churches — [¶3114–3117](/part-6/ch1-ministerial-orders.md#p3114)
+  - reinstatement of ministers — [¶3120–3124](/part-6/ch1-ministerial-orders.md#p3120)
+  - restoration of ministers, Gen. Bd. Policy on Ch. Disc. 5230 — 5251
+  - special advice — [¶3093](/part-6/ch1-ministerial-orders.md#p3093)
+  - special lay ministers — [¶3400–3490](/part-6/ch4-special-lay-ministries.md#p3400)
+  - specialized minister — [¶3003–3006](/part-6/ch1-ministerial-orders.md#p3003)
 
-**Mision Metodista Zion, Honduras, 80**  
+**Minnesota. See Iowa-Minnesota District**
 
-**mission:**  
-  **  in a developing district, 542** [¶542](/part-2/ch1-organization.md#p542)  
-  **  local, 537; 655:14; 782:6; 1180:22** [¶537](/part-2/ch1-organization.md#p537) [¶655:14](/part-2/ch3-conference.md#p655-14) [¶782:6](/part-2/ch5-local-board.md#p782-6) [¶1180:22](/part-3/ch2-conference.md#p1180-22)  
-  **  of The Wesleyan Church, 100–105** [¶100](/part-1/ch2-mission.md#p100) [¶105](/part-1/ch2-mission.md#p105)  
+**minutes, district conference — [¶1178](/part-3/ch2-conference.md#p1178)**
 
-**missionary:**  
-  **  lay, commissioned, 1240:5d; 3490** [¶3490](/part-6/ch4-special-lay-ministries.md#p3490) ¶1240:5d  
-  **  ministerial appointment as, 3300** [¶3300](/part-6/ch3-ministerial-appointments.md#p3300)  
-  **  regulations governing a, 2272** [¶2272](/part-4/ch6-global-partners.md#p2272)  
+**Mision Methodista Zion, Honduras — [¶80](/part-1/ch1-history.md#p80)**
 
-**Missionary Bands of the World, 17:2**  
+**mission:**
 
-**Missionary Bands of the World, Inc., The, 4230** [¶4230](/part-7/ch3-twc-corporation.md#p4230)  
+  - in a developing district — [¶542](/part-2/ch1-organization.md#p542)
+  - local — [¶537](/part-2/ch1-organization.md#p537); [¶655:14](/part-2/ch3-conference.md#p655-14); [¶782:6](/part-2/ch5-local-board.md#p782-6); [¶1180:22](/part-3/ch2-conference.md#p1180-22)
+  - of The Wesleyan Church — [¶100–105](/part-1/ch2-mission.md#p100)
 
-**missionary objectives, 2258–2259; 2500** [¶2258](/part-4/ch6-global-partners.md#p2258) [¶2500](/part-5/ch1-basic-principles.md#p2500) ¶2259  
+**missionary:**
 
-**Missionary Society of The Wesleyan Methodist Church of America, Inc., The, 4230** [¶4230](/part-7/ch3-twc-corporation.md#p4230)  
+  - lay, commissioned — [¶1240:5d](/part-3/ch3-board.md#p1240-5); [¶3490](/part-6/ch4-special-lay-ministries.md#p3490)
+  - ministerial appointment as — [¶3300](/part-6/ch3-ministerial-appointments.md#p3300)
+  - regulations governing a — [¶2272](/part-4/ch6-global-partners.md#p2272)
 
-**Mississippi. See South Coastal District**  
+**Missionary Bands of the World — [¶17:2](/part-1/ch1-history.md#p17-2)**
 
-**Missouri. See Tri-State District**  
+**Missionary Bands of the World, Inc., The — [¶4230](/part-7/ch3-twc-corporation.md#p4230)**
 
-**modesty in attire, 410:13** ¶410:13  
+**missionary objectives — [¶2258–2259](/part-4/ch6-global-partners.md#p2258); [¶2500](/part-5/ch1-basic-principles.md#p2500)**
 
-**monogamy, 222; 265:6** [¶222](/part-1/ch4-constitution.md#p222) [¶265:6](/part-1/ch4-constitution.md#p265-6)  
+**Missionary Society of The Wesleyan Methodist Church of America, Inc., The — [¶4230](/part-7/ch3-twc-corporation.md#p4230)**
 
-**Montana. See Northwest District**  
+**Mississippi. See South Coastal District**
 
-**moral purity, 410:5** [¶410:5](/part-1/ch5-special-directions.md#p410-5)  
+**Missouri. See Tri-State District**
 
-**Mountain Plains District, 2403:12; 2445** [¶2403:12](/part-4/ch9-boundaries.md#p2403-12) [¶2445](/part-4/ch9-boundaries.md#p2445)  
+**modesty in attire — 410:13**
 
-**Mozambique, 33; 35; 80**  
+**monogamy, [¶222](/part-1/ch4-constitution.md#p222): [¶265:6](/part-1/ch4-constitution.md#p265-6)**
 
-**Myanmar, 80**  
+**Montana. See Northwest District**
+
+**moral purity — [¶410:5](/part-1/ch5-special-directions.md#p410-5)**
+
+**Mountain Plains District — [¶2403:12](/part-4/ch9-boundaries.md#p2403-12)**
+
+  - [¶2445](/part-4/ch9-boundaries.md#p2445)
+
+**Mozambique — [¶33](/part-1/ch1-history.md#p33); [¶35](/part-1/ch1-history.md#p35); [¶80](/part-1/ch1-history.md#p80)**
+
+**Myanmar — [¶80](/part-1/ch1-history.md#p80)**
 
 ## N {#n}
 
-**name adaptations, 80; 205; 340:2** [¶205](/part-1/ch4-constitution.md#p205) [¶340:2](/part-1/ch4-constitution.md#p340-2)  
+**name adaptations — [¶80](/part-1/ch1-history.md#p80); [¶205](/part-1/ch4-constitution.md#p205); [¶340:2](/part-1/ch4-constitution.md#p340-2)**
 
-**name of denomination, 205** [¶205](/part-1/ch4-constitution.md#p205)  
+**name of denomination — [¶205](/part-1/ch4-constitution.md#p205)**
 
-**narcotics, 410:4** [¶410:4](/part-1/ch5-special-directions.md#p410-4)  
+**narcotics — [¶410:4](/part-1/ch5-special-directions.md#p410-4)**
 
-**National Holiness Association, 12**  
+**National Holiness Association — [¶12](/part-1/ch1-history.md#p12)**
 
-**Nebraska. See Mountain Plains District**  
+**Nebraska. See Mountain Plains District**
 
-**neglect, persistent, 305:4; 585:4; 600–605. See also discontinue church members**  
+**neglect, persistent — [¶305:4](/part-1/ch4-constitution.md#p305-4); [¶585:4](/part-2/ch2-membership.md#p585-4)**
 
-**Nepal, 18**  
+  - [¶600–605](/part-2/ch2-membership.md#p600). See also discontinue church members
 
-**Nevada. See Pacific Southwest District**  
+**Nepal — [¶18](/part-1/ch1-history.md#p18)**
 
-**Nevis, 35**  
+**Nevada. See Pacific Southwest District**
 
-**new birth, 230** [¶230](/part-1/ch4-constitution.md#p230)  
+**Nevis — [¶35](/part-1/ch1-history.md#p35)**
 
-**New Brunswick, province of. See Atlantic District**  
+**new birth — [¶230](/part-1/ch4-constitution.md#p230)**
 
-**Newfoundland. See Atlantic District**  
+**New Brunswick, province of. See Atlantic District**
 
-**New Hampshire. See Northeast District**  
+**Newfoundland. See Atlantic District**
 
-**New Jersey. See Northeast District**  
+**New Hampshire. See Northeast District**
 
-**New Mexico. See Mountain Plains District**  
+**New Jersey. See Northeast District**
 
-**New Testament, Article of Religion, 218** [¶218](/part-1/ch4-constitution.md#p218)  
+**New Mexico. See Mountain Plains District**
 
-**New York, 8, 28, see Northeast, Penn York, and Western New York Districts**  
+**New Testament, Article of Religion — [¶218](/part-1/ch4-constitution.md#p218)**
 
-**New Zealand, 80**  
+**New York, [¶8](/part-1/ch1-history.md#p8), [¶28](/part-1/ch1-history.md#p28), see Northeast, Penn York, and Western New York Districts**
 
-**Nicaragua, 80**  
+**New Zealand — [¶80](/part-1/ch1-history.md#p80)**
 
-**nominating committee:**  
-  **  circuit, 535** [¶535](/part-2/ch1-organization.md#p535)  
-  **  consideration for diversity, 1175:2** [¶1175:2](/part-3/ch2-conference.md#p1175-2)  
-  **  district conference, 1172–1175** [¶1172](/part-3/ch2-conference.md#p1172) [¶1175](/part-3/ch2-conference.md#p1175)  
-  **  General Conference, 1563; 1580** [¶1563](/part-4/ch1-general-conference.md#p1563) [¶1580](/part-4/ch1-general-conference.md#p1580)  
+**Nicaragua — [¶80](/part-1/ch1-history.md#p80)**
 
-**North American General Conference, 2550** [¶2550](/part-5/ch2-conferences.md#p2550)  
+**nominating committee:**
 
-**North Carolina East District, 2403:13; 2440** [¶2403:13](/part-4/ch9-boundaries.md#p2403-13) [¶2440](/part-4/ch9-boundaries.md#p2440)  
+  - circuit — [¶535](/part-2/ch1-organization.md#p535)
+  - consideration for diversity — [¶1175:2](/part-3/ch2-conference.md#p1175-2)
+  - district conference — [¶1172–1175](/part-3/ch2-conference.md#p1172)
+  - General Conference — [¶1563](/part-4/ch1-general-conference.md#p1563); [¶1580](/part-4/ch1-general-conference.md#p1580)
 
-**North Carolina West District, 2403:14; 2440** [¶2403:14](/part-4/ch9-boundaries.md#p2403-14) [¶2440](/part-4/ch9-boundaries.md#p2440)  
+**North American General Conference — [¶2550](/part-5/ch2-conferences.md#p2550)**
 
-**North Central, Representative Area, 2430** [¶2430](/part-4/ch9-boundaries.md#p2430)  
+**North Carolina East District — [¶2403:13](/part-4/ch9-boundaries.md#p2403-13)**
 
-**North Dakota. See Northwest District**  
+  - [¶2440](/part-4/ch9-boundaries.md#p2440)
 
-**Northeast District, 2403:15; representative area, 2435** [¶2435](/part-4/ch9-boundaries.md#p2435)  
+**North Carolina West District — [¶2403:14](/part-4/ch9-boundaries.md#p2403-14)**
 
-**Northwest District, 2403:16; 2445** [¶2403:16](/part-4/ch9-boundaries.md#p2403-16) [¶2445](/part-4/ch9-boundaries.md#p2445)  
+  - [¶2440](/part-4/ch9-boundaries.md#p2440)
 
-**Northwest Territories, see Central Canada District**  
+**North Central, Representative Area — [¶2430](/part-4/ch9-boundaries.md#p2430)**
 
-**Nova Scotia, see Atlantic District**  
+**North Dakota. See Northwest District**
 
-**Nunavut. See Central Canada District**  
+**Northeast District — [¶2403:15](/part-4/ch9-boundaries.md#p2403-15)**
+
+  - representative area — [¶2435](/part-4/ch9-boundaries.md#p2435)
+
+**Northwest District — [¶2403:16](/part-4/ch9-boundaries.md#p2403-16); [¶2445](/part-4/ch9-boundaries.md#p2445)**
+
+**Northwest Territories, see Central Canada District**
+
+**Nova Scotia, see Atlantic District**
+
+**Nunavut. See Central Canada District**
 
 ## O {#o}
 
-**oaths:**  
-  **  judicial, 410:10** [¶410:10](/part-1/ch5-special-directions.md#p410-10)  
-  **  see also secret societies**  
+**oaths:**
 
-**observance of sacraments, 290–293** [¶290](/part-1/ch4-constitution.md#p290) [¶293](/part-1/ch4-constitution.md#p293)  
+  - judicial — [¶410:10](/part-1/ch5-special-directions.md#p410-10)
+  - see also secret societies
 
-**offenses, Gen. Bd. Policy on Ch. Disc. 5004; 5010** ¶5010  
+**observance of sacraments — [¶290–293](/part-1/ch4-constitution.md#p290)**
 
-**Office of the General Secretary. See Communication and Administration Division**  
+**offenses, Gen. Bd. Policy on Ch. Disc.**
 
-**Office of the General Treasurer/Chief Financial Officer, 1970–1976** [¶1970](/part-4/ch4-general-administration.md#p1970) [¶1976](/part-4/ch4-general-administration.md#p1976)  
+  - [¶5004](/part-9/ch1-general-regulations.md#p5004); 5010
 
-**Officers:**  
-  **  district, 1250** [¶1250](/part-3/ch4-officers.md#p1250)  
-  **  General Church, 1800** [¶1800](/part-4/ch3-general-officials.md#p1800)  
-  **  local church, 800; 815** ¶800 ¶815  
+**Office of the General Secretary. See Communication and Administration Division**
 
-**Ohio, see Greater Ohio District**  
+**Office of the General Treasurer/Chief Financial Officer — [¶1970–1976](/part-4/ch4-general-administration.md#p1970)**
 
-**Oklahoma. See Tri-State District**  
+**Officers:**
 
-**Oklahoma Wesleyan University, 2365:4** [¶2365:4](/part-4/ch8-education-clergy.md#p2365-4)  
+  - district — [¶1250](/part-3/ch4-officers.md#p1250)
+  - General Church — [¶1800](/part-4/ch3-general-officials.md#p1800)
+  - local church — 800; 815
 
-**Old Testament, Article of Religion, 218** [¶218](/part-1/ch4-constitution.md#p218)  
+**Ohio, see Greater Ohio District**
 
-**Ontario, province of. See Central Canada District**  
+**Oklahoma. See Tri-State District**
 
-**ordained ministers:**  
-  **  appointed, 317; 1240:1a; 3250–3345** [¶3250](/part-6/ch3-ministerial-appointments.md#p3250) [¶3345](/part-6/ch3-ministerial-appointments.md#p3345)  
+**Oklahoma Wesleyan University — [¶2365:4](/part-4/ch8-education-clergy.md#p2365-4)**
 
-**credentials of, 3089:2** [¶3089:2](/part-6/ch1-ministerial-orders.md#p3089-2)  
+**Old Testament, Article of Religion — [¶218](/part-1/ch4-constitution.md#p218)**
 
-**definition, 310; 3067** [¶310](/part-1/ch4-constitution.md#p310) [¶3067](/part-6/ch1-ministerial-orders.md#p3067)  
+**Ontario, province of. See Central Canada District**
 
-**duties of, 3085** [¶3085](/part-6/ch1-ministerial-orders.md#p3085)  
+**ordained ministers:**
 
-**educational leave, 1240:1d; 3350:1** [¶3350:1](/part-6/ch3-ministerial-appointments.md#p3350-1) ¶1240:1d  
+  - appointed — [¶317](/part-1/ch4-constitution.md#p317); [¶1240:1a](/part-3/ch3-board.md#p1240-1); [¶3250–3345](/part-6/ch3-ministerial-appointments.md#p3250)
+  - credentials of — [¶3089:2](/part-6/ch1-ministerial-orders.md#p3089-2)
+  - definition — [¶310](/part-1/ch4-constitution.md#p310); [¶3067](/part-6/ch1-ministerial-orders.md#p3067)
+  - duties of — [¶3085](/part-6/ch1-ministerial-orders.md#p3085)
+  - educational leave — [¶1240:1d](/part-3/ch3-board.md#p1240-1); [¶3350:1](/part-6/ch3-ministerial-appointments.md#p3350-1)
+  - from another denomination — [¶323:3](/part-1/ch4-constitution.md#p323-3); [¶3104](/part-6/ch1-ministerial-orders.md#p3104); 6320
+  - in process of transfer, [¶1240:1f](/part-3/ch3-board.md#p1240-1), g; [¶3104](/part-6/ch1-ministerial-orders.md#p3104); [¶3390](/part-6/ch3-ministerial-appointments.md#p3390)
+  - listing — [¶1240:1](/part-3/ch3-board.md#p1240-1)
+  - on loan — [¶1240:1a](/part-3/ch3-board.md#p1240-1)2; [¶3100:2](/part-6/ch1-ministerial-orders.md#p3100-2)
+  - ordination certificate — 6300
+  - ordination service — [¶3070:6](/part-6/ch1-ministerial-orders.md#p3070-6); [¶5750–5792](/part-10/ch6-ordination.md#p5750)
+  - qualifications for ordination — [¶323:3](/part-1/ch4-constitution.md#p323-3); [¶3070](/part-6/ch1-ministerial-orders.md#p3070)
+  - regulations for — [¶3089](/part-6/ch1-ministerial-orders.md#p3089)
+  - reserve — [¶317](/part-1/ch4-constitution.md#p317); [¶1240:1c](/part-3/ch3-board.md#p1240-1); [¶3360](/part-6/ch3-ministerial-appointments.md#p3360)
+  - retired — [¶317](/part-1/ch4-constitution.md#p317); [¶1240:1b](/part-3/ch3-board.md#p1240-1); [¶3370](/part-6/ch3-ministerial-appointments.md#p3370)
+  - rights of, [¶313](/part-1/ch4-constitution.md#p313); [¶3075](/part-6/ch1-ministerial-orders.md#p3075) transfer of — [¶313:6](/part-1/ch4-constitution.md#p313-6); [¶3075:6](/part-6/ch1-ministerial-orders.md#p3075-6); [¶3100:1](/part-6/ch1-ministerial-orders.md#p3100-1)
+  - voluntary filing of credentials — [¶3085:5](/part-6/ch1-ministerial-orders.md#p3085-5); [¶3124](/part-6/ch1-ministerial-orders.md#p3124)
+  - voluntary surrender of credentials — [¶3085:6](/part-6/ch1-ministerial-orders.md#p3085-6); [¶3089:4](/part-6/ch1-ministerial-orders.md#p3089-4)
+  - without appointment — [¶1240:1e](/part-3/ch3-board.md#p1240-1); [¶3380](/part-6/ch3-ministerial-appointments.md#p3380)
 
-**from another denomination, 323:3; 3104; 6320** [¶323:3](/part-1/ch4-constitution.md#p323-3) [¶3104](/part-6/ch1-ministerial-orders.md#p3104) ¶6320  
+**ordination:**
 
-**in process of transfer, 1240:1f, g; 3104; 3390** [¶3104](/part-6/ch1-ministerial-orders.md#p3104) [¶3390](/part-6/ch3-ministerial-appointments.md#p3390)  
+  - certificate — [¶3070:7](/part-6/ch1-ministerial-orders.md#p3070-7); 6300
+  - Council of — [¶1405](/part-3/ch6-ministerial.md#p1405)
+  - emergency — [¶3070:5](/part-6/ch1-ministerial-orders.md#p3070-5)
+  - in developing district — [¶1012](/part-3/ch1-organization.md#p1012)
+  - public service of — [¶3070:6](/part-6/ch1-ministerial-orders.md#p3070-6)
+  - qualification for — [¶3070](/part-6/ch1-ministerial-orders.md#p3070)
+  - regulated by General Conference — [¶310](/part-1/ch4-constitution.md#p310)
+  - ritual — [¶5750–5792](/part-10/ch6-ordination.md#p5750)
 
-**listing, 1240:1** [¶1240:1](/part-3/ch3-board.md#p1240-1)  
+**Oregon. See Northwest District**
 
-**on loan, 1240:1a2; 3100:2** [¶3100:2](/part-6/ch1-ministerial-orders.md#p3100-2) ¶1240:1a2  
-
-**ordination certificate, 6300** ¶6300  
-
-**ordination service, 3070:6; 5750–5792** [¶5750](/part-10/ch6-ordination.md#p5750) [¶5792](/part-10/ch6-ordination.md#p5792)  
-
-**qualifications for ordination, 323:3; 3070** [¶323:3](/part-1/ch4-constitution.md#p323-3) [¶3070](/part-6/ch1-ministerial-orders.md#p3070)  
-
-**regulations for, 3089** [¶3089](/part-6/ch1-ministerial-orders.md#p3089)  
-
-**reserve, 317; 1240:1c; 3360** [¶317](/part-1/ch4-constitution.md#p317) [¶3360](/part-6/ch3-ministerial-appointments.md#p3360) ¶1240:1c  
-
-**retired, 317; 1240:1b; 3370** [¶317](/part-1/ch4-constitution.md#p317) [¶3370](/part-6/ch3-ministerial-appointments.md#p3370) ¶1240:1b  
-
-**rights of, 313; 3075** [¶313](/part-1/ch4-constitution.md#p313) [¶3075](/part-6/ch1-ministerial-orders.md#p3075)  
-
-**transfer of, 313:6; 3075:6; 3100:1** [¶313:6](/part-1/ch4-constitution.md#p313-6) [¶3075:6](/part-6/ch1-ministerial-orders.md#p3075-6) [¶3100:1](/part-6/ch1-ministerial-orders.md#p3100-1)  
-
-**voluntary filing of credentials, 3085:5; 3124** [¶3085:5](/part-6/ch1-ministerial-orders.md#p3085-5) [¶3124](/part-6/ch1-ministerial-orders.md#p3124)  
-
-**voluntary surrender of credentials, 3085:6; 3089:4** [¶3085:6](/part-6/ch1-ministerial-orders.md#p3085-6) [¶3089:4](/part-6/ch1-ministerial-orders.md#p3089-4)  
-
-**without appointment, 1240:1e; 3380** [¶3380](/part-6/ch3-ministerial-appointments.md#p3380) ¶1240:1e  
-
-**ordination:**  
-  **  certificate, 3070:7; 6300** [¶3070:7](/part-6/ch1-ministerial-orders.md#p3070-7) ¶6300  
-  **  Council of, 1405** [¶1405](/part-3/ch6-ministerial.md#p1405)  
-  **  emergency, 3070:5** [¶3070:5](/part-6/ch1-ministerial-orders.md#p3070-5)  
-  **  in developing district, 1012** [¶1012](/part-3/ch1-organization.md#p1012)  
-  **  public service of, 3070:6** [¶3070:6](/part-6/ch1-ministerial-orders.md#p3070-6)  
-  **  qualification for, 3070** [¶3070](/part-6/ch1-ministerial-orders.md#p3070)  
-  **  regulated by General Conference, 310** [¶310](/part-1/ch4-constitution.md#p310)  
-  **  ritual, 5750–5792** [¶5750](/part-10/ch6-ordination.md#p5750) [¶5792](/part-10/ch6-ordination.md#p5792)  
-
-**Oregon. See Northwest District**  
-
-**original sin, 224** [¶224](/part-1/ch4-constitution.md#p224)  
+**original sin — [¶224](/part-1/ch4-constitution.md#p224)**
 
 ## P {#p}
 
-**Pacific Southwest District, 2403:17; 2445** [¶2403:17](/part-4/ch9-boundaries.md#p2403-17) [¶2445](/part-4/ch9-boundaries.md#p2445)  
+**Pacific Southwest District — [¶2403:17](/part-4/ch9-boundaries.md#p2403-17); [¶2445](/part-4/ch9-boundaries.md#p2445)**
 
-**Pakistan, 80**  
+**Pakistan — [¶80](/part-1/ch1-history.md#p80)**
 
-**Papua New Guinea, 18**  
+**Papua New Guinea — [¶18](/part-1/ch1-history.md#p18)**
 
-**parliamentary procedure, 360:1; 645; 1138; 1547; 1590:14** [¶360:1](/part-1/ch4-constitution.md#p360-1) [¶645](/part-2/ch3-conference.md#p645) [¶1138](/part-3/ch2-conference.md#p1138) [¶1547](/part-4/ch1-general-conference.md#p1547) [¶1590:14](/part-4/ch1-general-conference.md#p1590-14)  
+**parliamentary procedure — [¶360:1](/part-1/ch4-constitution.md#p360-1); [¶645](/part-2/ch3-conference.md#p645)**
 
-**parsonage, 313:4; 528:5; 532** [¶313:4](/part-1/ch4-constitution.md#p313-4) [¶528:5](/part-2/ch1-organization.md#p528-5) [¶532](/part-2/ch1-organization.md#p532)  
-  **  dedication ritual, 5975** [¶5975](/part-10/ch10-dedication.md#p5975)  
-  **  see also property, local church**  
+  - [¶1138](/part-3/ch2-conference.md#p1138); [¶1547](/part-4/ch1-general-conference.md#p1547); [¶1590:14](/part-4/ch1-general-conference.md#p1590-14)
 
-**pastor, 675–725** [¶675](/part-2/ch4-pastors.md#p675) [¶725](/part-2/ch4-pastors.md#p725)  
-  **  assistant, 678; 725:27; 741** [¶678](/part-2/ch4-pastors.md#p678) [¶725:27](/part-2/ch4-pastors.md#p725-27) [¶741](/part-2/ch4-pastors.md#p741)  
-  **  call, 705; 720** [¶705](/part-2/ch4-pastors.md#p705) [¶720](/part-2/ch4-pastors.md#p720)  
-  **  duties and powers, 725** [¶725](/part-2/ch4-pastors.md#p725)  
-  **  extended call, 720** [¶720](/part-2/ch4-pastors.md#p720)  
-  **  function, 675–678** [¶675](/part-2/ch4-pastors.md#p675) [¶678](/part-2/ch4-pastors.md#p678)  
-  **  initial call, 705–715** [¶705](/part-2/ch4-pastors.md#p705) [¶715](/part-2/ch4-pastors.md#p715)  
-  **  installation ritual, 5905** [¶5905](/part-10/ch9-installation.md#p5905)  
-  **  membership of, 578:2; 3097–3100** [¶3097](/part-6/ch1-ministerial-orders.md#p3097) [¶3100](/part-6/ch1-ministerial-orders.md#p3100)  
-  **  of a circuit, 503; 528:1; 530** [¶503](/part-2/ch1-organization.md#p503) [¶528:1](/part-2/ch1-organization.md#p528-1) [¶530](/part-2/ch1-organization.md#p530)  
-  **  of a developing church, 510:1–3** [¶510:1](/part-2/ch1-organization.md#p510-1)  
-  **  two or more pastoral charges, 503** [¶503](/part-2/ch1-organization.md#p503)  
-  **  regular pastoral service, 3255** [¶3255](/part-6/ch3-ministerial-appointments.md#p3255)  
-  **  removal, 782** [¶782](/part-2/ch5-local-board.md#p782)  
-  **  resignation, 710; 722:1** [¶710](/part-2/ch4-pastors.md#p710) [¶722:1](/part-2/ch4-pastors.md#p722-1)  
-  **  sabbatical, 724** [¶724](/part-2/ch4-pastors.md#p724)  
-  **  senior pastor, 678; 735** [¶678](/part-2/ch4-pastors.md#p678) [¶735](/part-2/ch4-pastors.md#p735)  
-  **  supply, 3260** [¶3260](/part-6/ch3-ministerial-appointments.md#p3260)  
-  **  termination, 722** [¶722](/part-2/ch4-pastors.md#p722)  
-  **  voting on, 690–722. See also pastoral vote, voting**  
+**parsonage — [¶313:4](/part-1/ch4-constitution.md#p313-4); [¶528:5](/part-2/ch1-organization.md#p528-5); [¶532](/part-2/ch1-organization.md#p532)**
 
-**pastoral agreement, 313:3; 315:2; 323:1–2; 697; 723; 1180:26** [¶323:1](/part-1/ch4-constitution.md#p323-1) [¶697](/part-2/ch4-pastors.md#p697) [¶723](/part-2/ch4-pastors.md#p723) [¶1180:26](/part-3/ch2-conference.md#p1180-26)  
+  - dedication ritual — [¶5975](/part-10/ch10-dedication.md#p5975)
+  - see also property, local church
 
-**pastoral appointment, 503; 3255** [¶503](/part-2/ch1-organization.md#p503) [¶3255](/part-6/ch3-ministerial-appointments.md#p3255)  
+**pastor — [¶675–725](/part-2/ch4-pastors.md#p675)**
 
-**pastoral, pastor call. See pastoral agreement**  
+  - assistant — [¶678](/part-2/ch4-pastors.md#p678); [¶725:27](/part-2/ch4-pastors.md#p725-27); [¶741](/part-2/ch4-pastors.md#p741)
+  - call — [¶705](/part-2/ch4-pastors.md#p705); [¶720](/part-2/ch4-pastors.md#p720)
+  - duties and powers — [¶725](/part-2/ch4-pastors.md#p725)
+  - extended call — [¶720](/part-2/ch4-pastors.md#p720)
+  - function — [¶675–678](/part-2/ch4-pastors.md#p675)
+  - initial call — [¶705–715](/part-2/ch4-pastors.md#p705)
+  - installation ritual — [¶5905](/part-10/ch9-installation.md#p5905)
+  - membership of — [¶578:2](/part-2/ch2-membership.md#p578-2); [¶3097–3100](/part-6/ch1-ministerial-orders.md#p3097)
+  - of a circuit — [¶503](/part-2/ch1-organization.md#p503); [¶528:1](/part-2/ch1-organization.md#p528-1); [¶530](/part-2/ch1-organization.md#p530)
+  - of a developing church — [¶510:1–3](/part-2/ch1-organization.md#p510-1)
+  - of two or more pastoral charges — [¶503](/part-2/ch1-organization.md#p503)
+  - regular pastoral service — [¶3255](/part-6/ch3-ministerial-appointments.md#p3255)
+  - removal — [¶782](/part-2/ch5-local-board.md#p782)
+  - resignation — [¶710](/part-2/ch4-pastors.md#p710); [¶722:1](/part-2/ch4-pastors.md#p722-1)
+  - sabbatical — [¶724](/part-2/ch4-pastors.md#p724)
+  - senior pastor — [¶678](/part-2/ch4-pastors.md#p678); [¶735](/part-2/ch4-pastors.md#p735)
+  - supply — [¶3260](/part-6/ch3-ministerial-appointments.md#p3260)
+  - termination — [¶722](/part-2/ch4-pastors.md#p722)
+  - voting on, [¶690–722](/part-2/ch4-pastors.md#p690). See also pastoral vote, voting
 
-**pastoral change, time of, 700** [¶700](/part-2/ch4-pastors.md#p700)  
+**pastoral agreement — [¶313:3](/part-1/ch4-constitution.md#p313-3); [¶315:2](/part-1/ch4-constitution.md#p315-2)**
 
-**pastoral charge, 315** [¶315](/part-1/ch4-constitution.md#p315)  
+  - [¶323:1–2](/part-1/ch4-constitution.md#p323-1); [¶697](/part-2/ch4-pastors.md#p697); [¶723](/part-2/ch4-pastors.md#p723); [¶1180:26](/part-3/ch2-conference.md#p1180-26)
 
-**pastoral service, 1240:1a2; 3255** [¶3255](/part-6/ch3-ministerial-appointments.md#p3255) ¶1240:1a2  
+**pastoral appointment — [¶503](/part-2/ch1-organization.md#p503); [¶3255](/part-6/ch3-ministerial-appointments.md#p3255)**
 
-**pastoral support, annual review of, 723** [¶723](/part-2/ch4-pastors.md#p723)  
+**pastoral, pastor call. See pastoral agreement**
 
-**pastoral vote, voting:**  
-  **  calling session of local church conference for, 633:3** ¶633:3  
-  **  extended call, 720** [¶720](/part-2/ch4-pastors.md#p720)  
+**pastoral change, time of — [¶700](/part-2/ch4-pastors.md#p700)**
 
-**general regulations, 692–695** [¶692](/part-2/ch4-pastors.md#p692) [¶695](/part-2/ch4-pastors.md#p695)  
+**pastoral charge — [¶315](/part-1/ch4-constitution.md#p315)**
 
-**initial call, 705–715** [¶705](/part-2/ch4-pastors.md#p705) [¶715](/part-2/ch4-pastors.md#p715)  
+**pastoral service — [¶1240:1a](/part-3/ch3-board.md#p1240-1)2; [¶3255](/part-6/ch3-ministerial-appointments.md#p3255)**
 
-**jurisdiction in, 690** [¶690](/part-2/ch4-pastors.md#p690)  
+**pastoral support, annual review of — [¶723](/part-2/ch4-pastors.md#p723)**
 
-**manner of, 690–722** [¶690](/part-2/ch4-pastors.md#p690) [¶722](/part-2/ch4-pastors.md#p722)  
+**pastoral vote, voting:**
 
-**renewal of call, 718–722** [¶718](/part-2/ch4-pastors.md#p718) [¶722](/part-2/ch4-pastors.md#p722)  
+  - calling session of local church conference for — 633:3
+  - extended call — [¶720](/part-2/ch4-pastors.md#p720)
+  - general regulations — [¶692–695](/part-2/ch4-pastors.md#p692)
+  - initial call — [¶705–715](/part-2/ch4-pastors.md#p705)
+  - jurisdiction in — [¶690](/part-2/ch4-pastors.md#p690)
+  - manner of — [¶690–722](/part-2/ch4-pastors.md#p690)
+  - renewal of call — [¶718–722](/part-2/ch4-pastors.md#p718)
 
-**peace, 410:2** [¶410:2](/part-1/ch5-special-directions.md#p410-2)  
+**peace — [¶410:2](/part-1/ch5-special-directions.md#p410-2)**
 
-**penalties, Gen. Bd. Policy on Ch. Disc. 5115–5120**  
+**penalties, Gen. Bd. Policy on Ch. Disc.**
 
-**Penn York District, 2403:18; 2435** [¶2403:18](/part-4/ch9-boundaries.md#p2403-18) [¶2435](/part-4/ch9-boundaries.md#p2435)  
+  - 5115–5120
 
-**Pennsylvania, see Northeast and Penn York Districts**  
+**Penn York District — [¶2403:18](/part-4/ch9-boundaries.md#p2403-18); [¶2435](/part-4/ch9-boundaries.md#p2435)**
 
-**pension. See Wesleyan Pension Fund Inc**  
+**Pennsylvania, see Northeast and Penn York Districts**
 
-**Pentecost Bands of the World, Inc., 4230** [¶4230](/part-7/ch3-twc-corporation.md#p4230)  
+**pension. See Wesleyan Pension Fund Inc**
 
-**Pentecostal Brethren in Christ, 30**  
+**Pentecost Bands of the World, Inc. — [¶4230](/part-7/ch3-twc-corporation.md#p4230)**
 
-**Pentecostal Rescue Mission, 28**  
+**Pentecostal Brethren in Christ — [¶30](/part-1/ch1-history.md#p30)**
 
-**People’s Mission Church, 31**  
+**Pentecostal Rescue Mission — [¶28](/part-1/ch1-history.md#p28)**
 
-**perfection, Christian, 1; 236** [¶236](/part-1/ch4-constitution.md#p236)  
+**People’s Mission Church — [¶31](/part-1/ch1-history.md#p31)**
 
-**persistent neglect, 305:4; 585:4; 600–605** [¶600](/part-2/ch2-membership.md#p600) [¶605](/part-2/ch2-membership.md#p605)  
+**perfection, Christian — [¶1](/part-1/ch1-history.md#p1); [¶236](/part-1/ch4-constitution.md#p236)**
 
-**personal choice, Article of Religion, 224, 220** [¶224](/part-1/ch4-constitution.md#p224) [¶220](/part-1/ch4-constitution.md#p220)  
+**persistent neglect — [¶305:4](/part-1/ch4-constitution.md#p305-4); [¶585:4](/part-2/ch2-membership.md#p585-4); [¶600–605](/part-2/ch2-membership.md#p600)**
 
-**personal grievances, 5004** [¶5004](/part-9/ch1-general-regulations.md#p5004)  
+**personal choice, Article of Religion — [¶224](/part-1/ch4-constitution.md#p224), [¶220](/part-1/ch4-constitution.md#p220)**
 
-**personnel records, 1387:3** [¶1387:3](/part-3/ch6-ministerial.md#p1387-3)  
+**personal grievances — [¶5004](/part-9/ch1-general-regulations.md#p5004)**
 
-**Peru, 32; 35; 80**  
+**personnel records — [¶1387:3](/part-3/ch6-ministerial.md#p1387-3)**
 
-**Philippines, 35; 65; 80; 2560; 6750:2** [¶2560](/part-5/ch2-conferences.md#p2560) ¶6750:2  
+**Peru — [¶32](/part-1/ch1-history.md#p32); [¶35](/part-1/ch1-history.md#p35); [¶80](/part-1/ch1-history.md#p80)**
 
-**Pilgrim Church, The, 29**  
+**Philippines — [¶35](/part-1/ch1-history.md#p35); [¶65](/part-1/ch1-history.md#p65); [¶80](/part-1/ch1-history.md#p80); [¶2560](/part-5/ch2-conferences.md#p2560); 6750:2**
 
-**Pilgrim Holiness Church Corp., 4230** [¶4230](/part-7/ch3-twc-corporation.md#p4230)  
+**Pilgrim Church, The — [¶29](/part-1/ch1-history.md#p29)**
 
-**Pilgrim Holiness Church, The, 23–50**  
+**Pilgrim Holiness Church Corp. — [¶4230](/part-7/ch3-twc-corporation.md#p4230)**
 
-**Pilgrim Pension Plan, Inc., The, 4410:1** [¶4410:1](/part-7/ch5-pension-corporation.md#p4410-1)  
+**Pilgrim Holiness Church, The — [¶23–50](/part-1/ch1-history.md#p23)**
 
-**Pilgrim Wesleyan Church, Zambia, 80**  
+**Pilgrim Pension Plan, Inc., The — [¶4410:1](/part-7/ch5-pension-corporation.md#p4410-1)**
 
-**planned gifts, 1995** [¶1995](/part-4/ch4-general-administration.md#p1995)  
+**Pilgrim Wesleyan Church, Zambia — [¶80](/part-1/ch1-history.md#p80)**
 
-**pocket certificate of standing, 6430** ¶6430  
+**planned gifts — [¶1995](/part-4/ch4-general-administration.md#p1995)**
 
-**policies. See financial policies; General Board policies**  
+**pocket certificate of standing — 6430**
 
-**pornography, 410:12** [¶410:12](/part-1/ch5-special-directions.md#p410-12)  
+**policies. See financial policies; General Board policies**
 
-**post-secondary education by local church, 655:17; 1180:25; 1655:36** [¶655:17](/part-2/ch3-conference.md#p655-17) [¶1180:25](/part-3/ch2-conference.md#p1180-25) [¶1655:36](/part-4/ch2-general-board.md#p1655-36)  
+**pornography — [¶410:12](/part-1/ch5-special-directions.md#p410-12)**
 
-**prayer:**  
-  **  in public schools, 410:8** [¶410:8](/part-1/ch5-special-directions.md#p410-8)  
-  **  means of grace, 265:9** [¶265:9](/part-1/ch4-constitution.md#p265-9)  
+**post-secondary education by local church — [¶655:17](/part-2/ch3-conference.md#p655-17); [¶1180:25](/part-3/ch2-conference.md#p1180-25); [¶1655:36](/part-4/ch2-general-board.md#p1655-36)**
 
-**preacher, local. See lay minister**  
+**prayer:**
 
-**preaching:**  
-  **  means of grace, 265:9** [¶265:9](/part-1/ch4-constitution.md#p265-9)  
-  **  right of ministers, 313:1; 3044:1; 3059:2; 3075:1** [¶313:1](/part-1/ch4-constitution.md#p313-1) [¶3044:1](/part-6/ch1-ministerial-orders.md#p3044-1) [¶3059:2](/part-6/ch1-ministerial-orders.md#p3059-2) [¶3075:1](/part-6/ch1-ministerial-orders.md#p3075-1)  
+  - in public schools — [¶410:8](/part-1/ch5-special-directions.md#p410-8)
+  - means of grace — [¶265:9](/part-1/ch4-constitution.md#p265-9)
 
-**preamble to North American Constitution, 200** [¶200](/part-1/ch4-constitution.md#p200)  
+**preacher, local. See lay minister**
 
-**precedent corporations, 4230; 4410:2** [¶4230](/part-7/ch3-twc-corporation.md#p4230) [¶4410:2](/part-7/ch5-pension-corporation.md#p4410-2)  
+**preaching:**
 
-**pre-ordination course of study, 3210:1** [¶3210:1](/part-6/ch2-ministerial-education.md#p3210-1)  
+  - means of grace — [¶265:9](/part-1/ch4-constitution.md#p265-9)
+  - right of ministers — [¶313:1](/part-1/ch4-constitution.md#p313-1); [¶3044:1](/part-6/ch1-ministerial-orders.md#p3044-1); [¶3059:2](/part-6/ch1-ministerial-orders.md#p3059-2); [¶3075:1](/part-6/ch1-ministerial-orders.md#p3075-1)
 
-**president pro tem of General Conference, 332** [¶332](/part-1/ch4-constitution.md#p332)  
+**preamble to North American Constitution — [¶200](/part-1/ch4-constitution.md#p200)**
 
-**Prince Edward Island. See Atlantic District**  
+**precedent corporations — [¶4230](/part-7/ch3-twc-corporation.md#p4230); [¶4410:2](/part-7/ch5-pension-corporation.md#p4410-2)**
 
-**private judgment, 274** [¶274](/part-1/ch4-constitution.md#p274)  
+**pre-ordination course of study — [¶3210:1](/part-6/ch2-ministerial-education.md#p3210-1)**
 
-**privileged communications, 725:9** [¶725:9](/part-2/ch4-pastors.md#p725-9)  
+**president pro tem of General Conference — [¶332](/part-1/ch4-constitution.md#p332)**
 
-**process of transfer:**  
-  **  commissioned minister, 1090:3; 1240:2e; 3104** [¶1090:3](/part-3/ch2-conference.md#p1090-3) [¶3104](/part-6/ch1-ministerial-orders.md#p3104) ¶1240:2e  
-  **  commissioned special worker, 1240:5b; 3470** [¶3470](/part-6/ch4-special-lay-ministries.md#p3470) ¶1240:5b  
-  **  ordained minister, 1090:2; 1240:1g; 3104** [¶1090:2](/part-3/ch2-conference.md#p1090-2) [¶3104](/part-6/ch1-ministerial-orders.md#p3104) ¶1240:1g  
-  **  licensed minister, 1090:3; 1240:3d; 3104** [¶1090:3](/part-3/ch2-conference.md#p1090-3) [¶3104](/part-6/ch1-ministerial-orders.md#p3104) ¶1240:3d  
+**Prince Edward Island. See Atlantic District**
 
-**profanity, 265:1** [¶265:1](/part-1/ch4-constitution.md#p265-1)  
+**private judgment — [¶274](/part-1/ch4-constitution.md#p274)**
 
-**Prohibition, 265:4; 410:4** [¶265:4](/part-1/ch4-constitution.md#p265-4) [¶410:4](/part-1/ch5-special-directions.md#p410-4)  
+**privileged communications — [¶725:9](/part-2/ch4-pastors.md#p725-9)**
 
-**property, district, 323:8; 4800–4890** [¶4800](/part-8/ch3-district-property.md#p4800) [¶4890](/part-8/ch3-district-property.md#p4890)  
-  **  board of trustees, 4855** [¶4855](/part-8/ch3-district-property.md#p4855)  
-  **  developing district, 4650; 4800** [¶4650](/part-8/ch2-local-church-property.md#p4650) [¶4800](/part-8/ch3-district-property.md#p4800)  
-  **  established district, 4660; 4830–4855** [¶4830](/part-8/ch3-district-property.md#p4830) [¶4855](/part-8/ch3-district-property.md#p4855)  
-  **  loan guarantees, 4890** [¶4890](/part-8/ch3-district-property.md#p4890)  
-  **  management and control, 4840** [¶4840](/part-8/ch3-district-property.md#p4840)  
-  **  ownership, 4680; 4830** [¶4680](/part-8/ch2-local-church-property.md#p4680) [¶4830](/part-8/ch3-district-property.md#p4830)  
-  **  rights to property, 4870–4880** [¶4870](/part-8/ch3-district-property.md#p4870) [¶4880](/part-8/ch3-district-property.md#p4880)  
+**process of transfer:**
 
-**property, General, 4500–4630** [¶4500](/part-8/ch1-general-principles.md#p4500) [¶4630](/part-8/ch1-general-principles.md#p4630)  
-  **  application of regulations, 4500** [¶4500](/part-8/ch1-general-principles.md#p4500)  
-  **  definition of terms, 4570–4580** [¶4570](/part-8/ch1-general-principles.md#p4570) [¶4580](/part-8/ch1-general-principles.md#p4580)  
-  **  local laws, 4510** [¶4510](/part-8/ch1-general-principles.md#p4510)  
-  **  restrictions, 4550, 4560** [¶4550](/part-8/ch1-general-principles.md#p4550) [¶4560](/part-8/ch1-general-principles.md#p4560)  
-  **  trust clause and release, 4590–4630** [¶4590](/part-8/ch1-general-principles.md#p4590) [¶4630](/part-8/ch1-general-principles.md#p4630)  
-  **  trustees, 4520–4560** [¶4520](/part-8/ch1-general-principles.md#p4520) [¶4560](/part-8/ch1-general-principles.md#p4560)  
+  - commissioned minister — [¶1090:3](/part-3/ch2-conference.md#p1090-3); [¶1240:2e](/part-3/ch3-board.md#p1240-2); [¶3104](/part-6/ch1-ministerial-orders.md#p3104)
+  - commissioned special worker — [¶1240:5b](/part-3/ch3-board.md#p1240-5); [¶3470](/part-6/ch4-special-lay-ministries.md#p3470)
+  - ordained minister — [¶1090:2](/part-3/ch2-conference.md#p1090-2); [¶1240:1g](/part-3/ch3-board.md#p1240-1); [¶3104](/part-6/ch1-ministerial-orders.md#p3104)
+  - licensed minister — [¶1090:3](/part-3/ch2-conference.md#p1090-3); [¶1240:3d](/part-3/ch3-board.md#p1240-3); [¶3104](/part-6/ch1-ministerial-orders.md#p3104)
 
-**property, General Church, 4900–4940** [¶4900](/part-8/ch4-general-church-property.md#p4900) [¶4940](/part-8/ch4-general-church-property.md#p4940)  
+**profanity — [¶265:1](/part-1/ch4-constitution.md#p265-1)**
 
-**bequests and devises, 4940** [¶4940](/part-8/ch4-general-church-property.md#p4940)  
+**Prohibition — [¶265:4](/part-1/ch4-constitution.md#p265-4), [¶410:4](/part-1/ch5-special-directions.md#p410-4)**
 
-**incorporation, 4900** [¶4900](/part-8/ch4-general-church-property.md#p4900)  
+**property, district — [¶323:8](/part-1/ch4-constitution.md#p323-8); [¶4800–4890](/part-8/ch3-district-property.md#p4800)**
 
-**ownership, 4920** [¶4920](/part-8/ch4-general-church-property.md#p4920)  
+  - board of trustees — [¶4855](/part-8/ch3-district-property.md#p4855)
+  - developing district — [¶4650](/part-8/ch2-local-church-property.md#p4650); [¶4800](/part-8/ch3-district-property.md#p4800)
+  - established district — [¶4660](/part-8/ch2-local-church-property.md#p4660); [¶4830–4855](/part-8/ch3-district-property.md#p4830)
+  - loan guarantees — [¶4890](/part-8/ch3-district-property.md#p4890)
+  - management and control — [¶4840](/part-8/ch3-district-property.md#p4840)
+  - ownership — [¶4680](/part-8/ch2-local-church-property.md#p4680); [¶4830](/part-8/ch3-district-property.md#p4830)
+  - rights to property — [¶4870–4880](/part-8/ch3-district-property.md#p4870)
 
-**property, local church, 315:6; 4650–4780** [¶4650](/part-8/ch2-local-church-property.md#p4650) [¶4780](/part-8/ch2-local-church-property.md#p4780)  
-  **  abandoned, 4730** [¶4730](/part-8/ch2-local-church-property.md#p4730)  
-  **  circuit, 528:5; 532; 4740–4750** [¶4740](/part-8/ch2-local-church-property.md#p4740) [¶4750](/part-8/ch2-local-church-property.md#p4750)  
-  **  developing church, 510:3–4; 4650–4670** [¶4650](/part-8/ch2-local-church-property.md#p4650) [¶4670](/part-8/ch2-local-church-property.md#p4670)  
-  **  established church, 518:4; 4680–4730** [¶4680](/part-8/ch2-local-church-property.md#p4680) [¶4730](/part-8/ch2-local-church-property.md#p4730)  
-  **  loan guarantees by district, 4120:6; 4890** [¶4120:6](/part-7/ch2-district-corporations.md#p4120-6) [¶4890](/part-8/ch3-district-property.md#p4890)  
-  **  ownership, 4680** [¶4680](/part-8/ch2-local-church-property.md#p4680)  
-  **  property transactions, 4700–4720** [¶4700](/part-8/ch2-local-church-property.md#p4700) [¶4720](/part-8/ch2-local-church-property.md#p4720)  
-  **  records, 4760** [¶4760](/part-8/ch2-local-church-property.md#p4760)  
-  **  rights to, 4770–4780** [¶4770](/part-8/ch2-local-church-property.md#p4770) [¶4780](/part-8/ch2-local-church-property.md#p4780)  
-  **  trust clause and release, 4690** [¶4690](/part-8/ch2-local-church-property.md#p4690)  
+**property, General — [¶4500–4630](/part-8/ch1-general-principles.md#p4500)**
 
-**public life, religion in, 410:8** [¶410:8](/part-1/ch5-special-directions.md#p410-8)  
+  - application of regulations — [¶4500](/part-8/ch1-general-principles.md#p4500)
+  - definition of terms — [¶4570–4580](/part-8/ch1-general-principles.md#p4570)
+  - local laws — [¶4510](/part-8/ch1-general-principles.md#p4510)
+  - restrictions — [¶4550](/part-8/ch1-general-principles.md#p4550), [¶4560](/part-8/ch1-general-principles.md#p4560)
+  - trust clause and release — [¶4590–4630](/part-8/ch1-general-principles.md#p4590)
+  - trustees — [¶4520–4560](/part-8/ch1-general-principles.md#p4520)
 
-**public morals and social concerns, 1655:45–47** [¶1655:45](/part-4/ch2-general-board.md#p1655-45)  
+**property, General Church — [¶4900–4940](/part-8/ch4-general-church-property.md#p4900)**
 
-**public schools:**  
-  **  Bible reading and prayer in, 410:8** [¶410:8](/part-1/ch5-special-directions.md#p410-8)  
-  **  questionable activities in, 410:9** [¶410:9](/part-1/ch5-special-directions.md#p410-9)  
+  - bequests and devises — [¶4940](/part-8/ch4-general-church-property.md#p4940)
+  - incorporation — [¶4900](/part-8/ch4-general-church-property.md#p4900)
+  - ownership — [¶4920](/part-8/ch4-general-church-property.md#p4920)
 
-**public worship. See worship, public**  
+**property, local church — [¶315:6](/part-1/ch4-constitution.md#p315-6); [¶4650–4780](/part-8/ch2-local-church-property.md#p4650)**
 
-**Publishing House, Wesleyan. See Wesleyan Publishing House**  
+  - abandoned — [¶4730](/part-8/ch2-local-church-property.md#p4730)
+  - circuit — [¶528:5](/part-2/ch1-organization.md#p528-5); [¶532](/part-2/ch1-organization.md#p532); [¶4740–4750](/part-8/ch2-local-church-property.md#p4740)
+  - developing church — [¶510:3–4](/part-2/ch1-organization.md#p510-3); [¶4650–4670](/part-8/ch2-local-church-property.md#p4650)
+  - established church — [¶518:4](/part-2/ch1-organization.md#p518-4); [¶4680–4730](/part-8/ch2-local-church-property.md#p4680)
+  - loan guarantees by district — [¶4120:6](/part-7/ch2-district-corporations.md#p4120-6); [¶4890](/part-8/ch3-district-property.md#p4890)
+  - ownership — [¶4680](/part-8/ch2-local-church-property.md#p4680)
+  - property transactions — [¶4700–4720](/part-8/ch2-local-church-property.md#p4700)
+  - records — [¶4760](/part-8/ch2-local-church-property.md#p4760)
+  - rights to — [¶4770–4780](/part-8/ch2-local-church-property.md#p4770)
+  - trust clause and release — [¶4690](/part-8/ch2-local-church-property.md#p4690)
 
-**Puerto Rico, 18; 80**  
+**public life, religion in — [¶410:8](/part-1/ch5-special-directions.md#p410-8)**
 
-**pulpit supply, 782:17** [¶782:17](/part-2/ch5-local-board.md#p782-17)  
+**public morals and social concerns — [¶1655:45–47](/part-4/ch2-general-board.md#p1655-45)**
 
-**purpose for man, God’s, 220** [¶220](/part-1/ch4-constitution.md#p220)  
+**public schools:**
+
+  - Bible reading and prayer in — [¶410:8](/part-1/ch5-special-directions.md#p410-8)
+  - questionable activities in — [¶410:9](/part-1/ch5-special-directions.md#p410-9)
+
+**public worship. See worship, public**
+
+**Publishing House, Wesleyan. See Wesleyan Publishing House**
+
+**Puerto Rico — [¶18](/part-1/ch1-history.md#p18); [¶80](/part-1/ch1-history.md#p80)**
+
+**pulpit supply — [¶782:17](/part-2/ch5-local-board.md#p782-17)**
+
+**purpose for man, God’s — [¶220](/part-1/ch4-constitution.md#p220)**
 
 ## Q {#q}
 
-**quadrennial review of extended call, 720:2** [¶720:2](/part-2/ch4-pastors.md#p720-2)  
+**quadrennial review of extended call — [¶720:2](/part-2/ch4-pastors.md#p720-2)**
 
-**qualifications:**  
-  **  for membership, 297** [¶297](/part-1/ch4-constitution.md#p297)  
-  **  of ministers. See ministerial qualifications**  
+**qualifications:**
 
-**Quebec. See Central Canada District**  
+  - for membership — [¶297](/part-1/ch4-constitution.md#p297)
+  - of ministers. See ministerial qualifications
 
-**Quorum:**  
+**Quebec. See Central Canada District**
 
-**Board of Review, Gen. Bd. Policy on Ch. Disc. 5425:3**  
+**Quorum:**
 
-**district board of administration, 1227** [¶1227](/part-3/ch3-board.md#p1227)  
-
-**district conference, 1129** [¶1129](/part-3/ch2-conference.md#p1129)  
-
-**Executive Board, 1775** [¶1775](/part-4/ch2-general-board.md#p1775)  
-
-**General Board, 1640** [¶1640](/part-4/ch2-general-board.md#p1640)  
-
-**General Conference, 336; 1543** [¶336](/part-1/ch4-constitution.md#p336) [¶1543](/part-4/ch1-general-conference.md#p1543)  
-
-**local board of administration, 778** [¶778](/part-2/ch5-local-board.md#p778)  
-
-**local church conference, 640** [¶640](/part-2/ch3-conference.md#p640)  
+  - Board of Review, Gen. Bd. Policy on Ch. Disc. 5425:3
+  - district board of administration — [¶1227](/part-3/ch3-board.md#p1227)
+  - district conference — [¶1129](/part-3/ch2-conference.md#p1129)
+  - Executive Board — [¶1775](/part-4/ch2-general-board.md#p1775)
+  - General Board — [¶1640](/part-4/ch2-general-board.md#p1640)
+  - General Conference — [¶336](/part-1/ch4-constitution.md#p336); [¶1543](/part-4/ch1-general-conference.md#p1543)
+  - local board of administration — [¶778](/part-2/ch5-local-board.md#p778)
+  - local church conference — [¶640](/part-2/ch3-conference.md#p640)
 
 ## R {#r}
 
-**racial equality, 265:12, 360:3d** [¶265:12](/part-1/ch4-constitution.md#p265-12) ¶360:3d  
+**racial equality — [¶265:12](/part-1/ch4-constitution.md#p265-12), [¶360:3d](/part-1/ch4-constitution.md#p360-3)**
 
-**realignment of districts, 1060–1065** [¶1060](/part-3/ch1-organization.md#p1060) [¶1065](/part-3/ch1-organization.md#p1065)  
+**realignment of districts — [¶1060–1065](/part-3/ch1-organization.md#p1060)**
 
-**reception of members, 566–570; 5550–5595** [¶5550](/part-10/ch2-reception.md#p5550) [¶5595](/part-10/ch2-reception.md#p5595)  
+**reception of members — [¶566–570](/part-2/ch2-membership.md#p566)**
 
-**reclassification:**  
-  **  of established district, 1042–1045** [¶1042](/part-3/ch1-organization.md#p1042) [¶1045](/part-3/ch1-organization.md#p1045)  
-  **  of local church, 518:7; 859:5** [¶518:7](/part-2/ch1-organization.md#p518-7) ¶859:5  
-  **  of member, 605** [¶605](/part-2/ch2-membership.md#p605)  
+  - [¶5550–5595](/part-10/ch2-reception.md#p5550)
 
-**recommendation by local church to district conference:**  
-  **  of local workers, 315:4** [¶315:4](/part-1/ch4-constitution.md#p315-4)  
-  **  of ministerial students, 655:7; 782:19; 3015:1; 6420** [¶655:7](/part-2/ch3-conference.md#p655-7) [¶782:19](/part-2/ch5-local-board.md#p782-19) [¶3015:1](/part-6/ch1-ministerial-orders.md#p3015-1) ¶6420  
-  **  of special workers, 315:4; 3460; 6420** [¶315:4](/part-1/ch4-constitution.md#p315-4) [¶3460](/part-6/ch4-special-lay-ministries.md#p3460) ¶6420  
+**reclassification:**
 
-**recommendation, letters of:**  
-  **  from other denominations, 570** [¶570](/part-2/ch2-membership.md#p570)  
-  **  to other denominations, 590; 6030** [¶590](/part-2/ch2-membership.md#p590) ¶6030  
+  - of established district — [¶1042–1045](/part-3/ch1-organization.md#p1042)
+  - of local church — [¶518:7](/part-2/ch1-organization.md#p518-7); 859:5
+  - of member — [¶605](/part-2/ch2-membership.md#p605)
 
-**reconvened session, district conference, 1115** [¶1115](/part-3/ch2-conference.md#p1115)  
+**recommendation by local church to**
 
-**record of membership, 610** [¶610](/part-2/ch2-membership.md#p610)  
+**district conference:**
 
-**records:**  
-  **  district, 1332:6; 4760** [¶1332:6](/part-3/ch5-administration.md#p1332-6) [¶4760](/part-8/ch2-local-church-property.md#p4760)  
-  **  local church, 830:5; 4760** [¶4760](/part-8/ch2-local-church-property.md#p4760) ¶830:5  
-  **  property, 4760** [¶4760](/part-8/ch2-local-church-property.md#p4760)  
+  - of local workers — [¶315:4](/part-1/ch4-constitution.md#p315-4)
+  - of ministerial students — [¶655:7](/part-2/ch3-conference.md#p655-7); [¶782:19](/part-2/ch5-local-board.md#p782-19); [¶3015:1](/part-6/ch1-ministerial-orders.md#p3015-1); 6420
+  - of special workers — [¶315:4](/part-1/ch4-constitution.md#p315-4); [¶3460](/part-6/ch4-special-lay-ministries.md#p3460); 6420
 
-**recourse, 313:7; 315:8; 323:10** [¶313:7](/part-1/ch4-constitution.md#p313-7) [¶315:8](/part-1/ch4-constitution.md#p315-8) [¶323:10](/part-1/ch4-constitution.md#p323-10)  
+**recommendation, letters of:**
 
-**Rees, Seth C., 24**  
+  - from other denominations — [¶570](/part-2/ch2-membership.md#p570)
+  - to other denominations — [¶590](/part-2/ch2-membership.md#p590); 6030
 
-**reform, social:**  
-  **  historical background, 8; 13; 23**  
-  **  see also social responsibilities**  
+**reconvened session, district conference — [¶1115](/part-3/ch2-conference.md#p1115)**
 
-**Reformed Baptist Church of Canada, 17:3**  
+**record of membership — [¶610](/part-2/ch2-membership.md#p610)**
 
-**regeneration:**  
-  **  Article of Religion, 230** [¶230](/part-1/ch4-constitution.md#p230)  
-  **  condition of membership, 297:1; 553:1** [¶297:1](/part-1/ch4-constitution.md#p297-1) [¶553:1](/part-2/ch2-membership.md#p553-1)  
-  **  historical background, 12–13; 24**  
+**records:**
 
-**reinstatement:**  
-  **  of ministers or special workers, 3120–3124** [¶3120](/part-6/ch1-ministerial-orders.md#p3120) [¶3124](/part-6/ch1-ministerial-orders.md#p3124)  
+  - district — [¶1332:6](/part-3/ch5-administration.md#p1332-6); [¶4760](/part-8/ch2-local-church-property.md#p4760)
+  - local church — 830:5; [¶4760](/part-8/ch2-local-church-property.md#p4760)
+  - property — [¶4760](/part-8/ch2-local-church-property.md#p4760)
 
-**relationship, pastoral. See agreement, pastoral**  
+**recourse — [¶313:7](/part-1/ch4-constitution.md#p313-7); [¶315:8](/part-1/ch4-constitution.md#p315-8); [¶323:10](/part-1/ch4-constitution.md#p323-10)**
 
-**Religion, Articles of, 210–250** [¶210](/part-1/ch4-constitution.md#p210) [¶250](/part-1/ch4-constitution.md#p250)  
-  **  summary of, 299** [¶299](/part-1/ch4-constitution.md#p299)  
+**Rees, Seth C. — [¶24](/part-1/ch1-history.md#p24)**
 
-**religion in public life, 410:8** [¶410:8](/part-1/ch5-special-directions.md#p410-8)  
+**reform, social:**
 
-**remarriage, 410:6; 3111; 3108** [¶410:6](/part-1/ch5-special-directions.md#p410-6) [¶3111](/part-6/ch1-ministerial-orders.md#p3111) [¶3108](/part-6/ch1-ministerial-orders.md#p3108)  
+  - historical background — [¶8](/part-1/ch1-history.md#p8); [¶13](/part-1/ch1-history.md#p13); [¶23](/part-1/ch1-history.md#p23)
+  - see also social responsibilities
 
-**removal:**  
-  **  of local church officers, 655:5; 782:3; 815:4** [¶655:5](/part-2/ch3-conference.md#p655-5) [¶782:3](/part-2/ch5-local-board.md#p782-3) ¶815:4  
-  **  of local officials, 782:7; 825:4** [¶782:7](/part-2/ch5-local-board.md#p782-7) ¶825:4  
-  **  of pastor, 712; 722:2–3** [¶722:2](/part-2/ch4-pastors.md#p722-2)  
-  **  power of, Gen. Bd. Policy on Ch. Disc. 5288**  
+**Reformed Baptist Church of Canada — [¶17:3](/part-1/ch1-history.md#p17-3)**
 
-**renewal of call, 718–722** [¶718](/part-2/ch4-pastors.md#p718) [¶722](/part-2/ch4-pastors.md#p722)  
+**regeneration:**
 
-**reorganization:**  
-  **  of districts, Gen. Bd. Policy on Ch. Disc. 5375**  
-  **  of local churches, Gen. Bd. Policy on Ch. Disc. 5320–5325; 5385** ¶5385  
+  - Article of Religion — [¶230](/part-1/ch4-constitution.md#p230)
+  - condition of membership — [¶297:1](/part-1/ch4-constitution.md#p297-1); [¶553:1](/part-2/ch2-membership.md#p553-1)
+  - historical background — [¶12–13](/part-1/ch1-history.md#p12); [¶24](/part-1/ch1-history.md#p24)
 
-**repentance:**  
-  **  Article of Religion on, 228** [¶228](/part-1/ch4-constitution.md#p228)  
-  **  for sin of divorce, 410:6** [¶410:6](/part-1/ch5-special-directions.md#p410-6)  
+**reinstatement:**
 
-**representative areas, 1590:12; 2430–2445** [¶2430](/part-4/ch9-boundaries.md#p2430) [¶2445](/part-4/ch9-boundaries.md#p2445)  
+  - of ministers or special workers — [¶3120–3124](/part-6/ch1-ministerial-orders.md#p3120)
 
-**reserve ordained minister, 317; 1240:1(c); 3360** [¶3360](/part-6/ch3-ministerial-appointments.md#p3360)  
+**relationship, pastoral. See agreement, pastoral**
 
-**reserve general evangelist, 3270–3275; 3285:2; 3286** [¶3270](/part-6/ch3-ministerial-appointments.md#p3270) [¶3275](/part-6/ch3-ministerial-appointments.md#p3275) [¶3285:2](/part-6/ch3-ministerial-appointments.md#p3285-2) [¶3286](/part-6/ch3-ministerial-appointments.md#p3286)  
+**Religion, Articles of — [¶210–250](/part-1/ch4-constitution.md#p210)**
 
-**resignation:**  
-  **  of local church officers, 815:2** ¶815:2  
-  **  of other local officials, 825:5** ¶825:5  
-  **  of pastor, 710; 722:1** [¶710](/part-2/ch4-pastors.md#p710) [¶722:1](/part-2/ch4-pastors.md#p722-1)  
+  - summary of — [¶299](/part-1/ch4-constitution.md#p299)
 
-**resolutions:**  
-  **  district conference, 1150–1156; 1233:9** [¶1150](/part-3/ch2-conference.md#p1150) [¶1156](/part-3/ch2-conference.md#p1156) [¶1233:9](/part-3/ch3-board.md#p1233-9)  
+**religion in public life — [¶410:8](/part-1/ch5-special-directions.md#p410-8)**
 
-**INDEX**  
+**remarriage — [¶410:6](/part-1/ch5-special-directions.md#p410-6); [¶3111](/part-6/ch1-ministerial-orders.md#p3111); [¶3108](/part-6/ch1-ministerial-orders.md#p3108)**
 
-**definition, 175** [¶175](/part-1/ch3-church-law.md#p175)  
+**removal:**
 
-**degree of flexibility in use, 175** [¶175](/part-1/ch3-church-law.md#p175)  
+  - of local church officers — [¶655:5](/part-2/ch3-conference.md#p655-5); [¶782:3](/part-2/ch5-local-board.md#p782-3); 815:4
+  - of local officials — [¶782:7](/part-2/ch5-local-board.md#p782-7); 825:4
+  - of pastor — [¶712](/part-2/ch4-pastors.md#p712); [¶722:2–3](/part-2/ch4-pastors.md#p722-2)
+  - power of, Gen. Bd. Policy on Ch. Disc. 5288
 
-**see also rites and ceremonies**  
+**renewal of call — [¶718–722](/part-2/ch4-pastors.md#p718)**
 
-**ritual of baptism, 5510–5530** [¶5510](/part-10/ch1-baptism.md#p5510) [¶5530](/part-10/ch1-baptism.md#p5530)  
-  **  adults, 290; 5515** [¶290](/part-1/ch4-constitution.md#p290) [¶5515](/part-10/ch1-baptism.md#p5515)  
-  **  affirmation of parental vows, 5530** [¶5530](/part-10/ch1-baptism.md#p5530)  
-  **  believers, 5515** [¶5515](/part-10/ch1-baptism.md#p5515)  
-  **  children, 290; 5515** [¶290](/part-1/ch4-constitution.md#p290) [¶5515](/part-10/ch1-baptism.md#p5515)  
-  **  infants, 5500** [¶5500](/part-10/ch1-baptism.md#p5500)  
+**reorganization:**
 
-**ritual of burial of dead, 5700–5725** [¶5700](/part-10/ch5-burial.md#p5700) [¶5725](/part-10/ch5-burial.md#p5725)  
+  - of districts, Gen. Bd. Policy on Ch. Disc. 5375
+  - of local churches, Gen. Bd. Policy on Ch. Disc. 5320–5325; 5385
 
-**ritual of commissioning lay workers, 5855** [¶5855](/part-10/ch8-commissioning-lay.md#p5855)  
+**repentance:**
 
-**ritual of commissioning ministers, 5800–5845** [¶5800](/part-10/ch7-commissioning.md#p5800) [¶5845](/part-10/ch7-commissioning.md#p5845)  
+  - Article of Religion on — [¶228](/part-1/ch4-constitution.md#p228)
+  - for sin of divorce — [¶410:6](/part-1/ch5-special-directions.md#p410-6)
 
-**ritual of dedication services, 5950–5975** [¶5950](/part-10/ch10-dedication.md#p5950) [¶5975](/part-10/ch10-dedication.md#p5975)  
-  **  church building, 5950** [¶5950](/part-10/ch10-dedication.md#p5950)  
-  **  parsonage, 5975** [¶5975](/part-10/ch10-dedication.md#p5975)  
+**representative areas — [¶1590:12](/part-4/ch1-general-conference.md#p1590-12)**
 
-**ritual of infant dedication, 5500** [¶5500](/part-10/ch1-baptism.md#p5500)  
+  - [¶2430–2445](/part-4/ch9-boundaries.md#p2430)
 
-**ritual of installation services, 5900–5945** [¶5900](/part-10/ch9-installation.md#p5900) [¶5945](/part-10/ch9-installation.md#p5945)  
-  **  college or university president, 5945** [¶5945](/part-10/ch9-installation.md#p5945)  
-  **  district superintendent, 5930** [¶5930](/part-10/ch9-installation.md#p5930)  
-  **  general officials, 5935** [¶5935](/part-10/ch9-installation.md#p5935)  
-  **  local church officers, 5915** [¶5915](/part-10/ch9-installation.md#p5915)  
-  **  pastor, 5905** [¶5905](/part-10/ch9-installation.md#p5905)  
+**reserve ordained minister — [¶317](/part-1/ch4-constitution.md#p317)**
 
-**ritual of Lord’s Supper, 5600–5635** [¶5600](/part-10/ch3-lords-supper.md#p5600) ¶5635  
+  - [¶1240:1](/part-3/ch3-board.md#p1240-1)(c); [¶3360](/part-6/ch3-ministerial-appointments.md#p3360)
 
-**ritual of marriage, 5650–5680** [¶5650](/part-10/ch4-marriage.md#p5650) [¶5680](/part-10/ch4-marriage.md#p5680)  
-  **  longer form, 5650** [¶5650](/part-10/ch4-marriage.md#p5650)  
-  **  shorter form, 5680** [¶5680](/part-10/ch4-marriage.md#p5680)  
+**reserve general evangelist — [¶3270–3275](/part-6/ch3-ministerial-appointments.md#p3270)**
 
-**ritual of ordination of ordained ministers, 5750–5792** [¶5750](/part-10/ch6-ordination.md#p5750) [¶5792](/part-10/ch6-ordination.md#p5792)  
+  - [¶3285:2](/part-6/ch3-ministerial-appointments.md#p3285-2); [¶3286](/part-6/ch3-ministerial-appointments.md#p3286)
 
-**ritual of reception of members, 5550–5595** [¶5550](/part-10/ch2-reception.md#p5550) [¶5595](/part-10/ch2-reception.md#p5595)  
-  **  members, 5565** [¶5565](/part-10/ch2-reception.md#p5565)  
-  **  student members, 5577** [¶5577](/part-10/ch2-reception.md#p5577)  
-  **  transfers, 5570** [¶5570](/part-10/ch2-reception.md#p5570)  
+**resignation:**
 
-**rules of a helper (John Wesley), 3093** [¶3093](/part-6/ch1-ministerial-orders.md#p3093)  
+  - of local church officers — 815:2
+  - of other local officials — 825:5
+  - of pastor — [¶710](/part-2/ch4-pastors.md#p710); [¶722:1](/part-2/ch4-pastors.md#p722-1)
 
-**rules of order:**  
-  **  established by General Conference, 360:1; 1590:1** [¶360:1](/part-1/ch4-constitution.md#p360-1) [¶1590:1](/part-4/ch1-general-conference.md#p1590-1)  
-  **  for district conference, 1138** [¶1138](/part-3/ch2-conference.md#p1138)  
-  **  for General Conference, 1547** [¶1547](/part-4/ch1-general-conference.md#p1547)  
-  **  for local church conference, 645** [¶645](/part-2/ch3-conference.md#p645)  
+**resolutions:**
+
+  - district conference — [¶1150–1156](/part-3/ch2-conference.md#p1150); [¶1233:9](/part-3/ch3-board.md#p1233-9)
+  - local church conference — [¶655:9](/part-2/ch3-conference.md#p655-9)
+
+**restart project — [¶510:6d](/part-2/ch1-organization.md#p510-6)**
+
+**restoration:**
+
+  - of backslider — [¶234](/part-1/ch4-constitution.md#p234)
+  - of church members — [¶268](/part-1/ch4-constitution.md#p268)
+  - of ministers, [¶3120–3124](/part-6/ch1-ministerial-orders.md#p3120); Gen. Bd. Policy on Ch. Disc. 5230–5251
+
+**resurrection:**
+
+  - of Christ, Article of Religion — [¶214](/part-1/ch4-constitution.md#p214)
+  - of the dead, Article of Religion — [¶246](/part-1/ch4-constitution.md#p246)
+
+**retired ordained minister — [¶317](/part-1/ch4-constitution.md#p317)**
+
+  - [¶1240:1b](/part-3/ch3-board.md#p1240-1); [¶3370](/part-6/ch3-ministerial-appointments.md#p3370)
+
+**Review:**
+
+  - district board of, [¶1370](/part-3/ch5-administration.md#p1370); Gen. Bd. Policy on Ch. Disc. 5218–5221
+  - General Board of, [¶370–380](/part-1/ch4-constitution.md#p370); Gen. Bd. Policy on Ch. Disc. 5400–5450
+
+**revitalization project — [¶510:6c](/part-2/ch1-organization.md#p510-6)**
+
+**Rhode Island. See Northeast District**
+
+**Rhodesia — [¶18](/part-1/ch1-history.md#p18)**
+
+**rights:**
+
+  - discrimination forbidden, [¶360:3d](/part-1/ch4-constitution.md#p360-3) equal — [¶410:1](/part-1/ch5-special-directions.md#p410-1)
+  - of members — [¶302](/part-1/ch4-constitution.md#p302); [¶555](/part-2/ch2-membership.md#p555)
+  - inherent individual — [¶265:12](/part-1/ch4-constitution.md#p265-12)
+  - of ministers, [¶313](/part-1/ch4-constitution.md#p313); [¶3044](/part-6/ch1-ministerial-orders.md#p3044); [¶3075](/part-6/ch1-ministerial-orders.md#p3075) commissioned — [¶3059:2](/part-6/ch1-ministerial-orders.md#p3059-2)
+  - of ministerial students — [¶3015:3](/part-6/ch1-ministerial-orders.md#p3015-3)
+  - natural — [¶220](/part-1/ch4-constitution.md#p220)
+
+**rights of property — [¶4770–4780](/part-8/ch2-local-church-property.md#p4770)**
+
+  - [¶4870–4880](/part-8/ch3-district-property.md#p4870)
+
+**rites and ceremonies — [¶420](/part-1/ch5-special-directions.md#p420)**
+
+**ritual:**
+
+  - current authority for — [¶185](/part-1/ch3-church-law.md#p185)
+  - definition — [¶175](/part-1/ch3-church-law.md#p175)
+  - degree of flexibility in use — [¶175](/part-1/ch3-church-law.md#p175)
+  - see also rites and ceremonies
+
+**ritual of baptism — [¶5510–5530](/part-10/ch1-baptism.md#p5510)**
+
+  - adults — [¶290](/part-1/ch4-constitution.md#p290); [¶5515](/part-10/ch1-baptism.md#p5515)
+  - affirmation of parental vows — [¶5530](/part-10/ch1-baptism.md#p5530)
+  - believers — [¶5515](/part-10/ch1-baptism.md#p5515)
+  - children — [¶290](/part-1/ch4-constitution.md#p290); [¶5515](/part-10/ch1-baptism.md#p5515)
+  - infants — [¶5500](/part-10/ch1-baptism.md#p5500)
+
+**ritual of burial of dead — [¶5700–5725](/part-10/ch5-burial.md#p5700)**
+
+**ritual of commissioning lay workers — [¶5855](/part-10/ch8-commissioning-lay.md#p5855)**
+
+**ritual of commissioning ministers — [¶5800–5845](/part-10/ch7-commissioning.md#p5800)**
+
+**ritual of dedication services — [¶5950–5975](/part-10/ch10-dedication.md#p5950)**
+
+  - church building — [¶5950](/part-10/ch10-dedication.md#p5950)
+  - parsonage — [¶5975](/part-10/ch10-dedication.md#p5975)
+
+**ritual of infant dedication — [¶5500](/part-10/ch1-baptism.md#p5500)**
+
+**ritual of installation services — [¶5900–5945](/part-10/ch9-installation.md#p5900)**
+
+  - college or university president — [¶5945](/part-10/ch9-installation.md#p5945)
+  - district superintendent — [¶5930](/part-10/ch9-installation.md#p5930)
+  - general officials — [¶5935](/part-10/ch9-installation.md#p5935)
+  - local church officers — [¶5915](/part-10/ch9-installation.md#p5915)
+  - pastor — [¶5905](/part-10/ch9-installation.md#p5905)
+
+**ritual of Lord’s Supper — [¶5600–5635](/part-10/ch3-lords-supper.md#p5600)**
+
+**ritual of marriage — [¶5650–5680](/part-10/ch4-marriage.md#p5650)**
+
+  - longer form — [¶5650](/part-10/ch4-marriage.md#p5650)
+  - shorter form — [¶5680](/part-10/ch4-marriage.md#p5680)
+
+**ritual of ordination of ordained ministers — [¶5750–5792](/part-10/ch6-ordination.md#p5750)**
+
+**ritual of reception of members — [¶5550–5595](/part-10/ch2-reception.md#p5550)**
+
+  - members — [¶5565](/part-10/ch2-reception.md#p5565)
+  - student members — [¶5577](/part-10/ch2-reception.md#p5577)
+  - transfers — [¶5570](/part-10/ch2-reception.md#p5570)
+
+**rules of a helper (John Wesley) — [¶3093](/part-6/ch1-ministerial-orders.md#p3093)**
+
+**rules of order:**
+
+  - established by General Conference — [¶360:1](/part-1/ch4-constitution.md#p360-1); [¶1590:1](/part-4/ch1-general-conference.md#p1590-1)
+  - for district conference — [¶1138](/part-3/ch2-conference.md#p1138)
+  - for General Conference — [¶1547](/part-4/ch1-general-conference.md#p1547)
+  - for local church conference — [¶645](/part-2/ch3-conference.md#p645)
 
 ## S {#s}
 
-**Saba, 35**  
+**Saba — [¶35](/part-1/ch1-history.md#p35)**
 
-**Sabbath observance:**  
-  **  membership commitment on, 265:1** [¶265:1](/part-1/ch4-constitution.md#p265-1)  
+**Sabbath observance:**
 
-**sabbatical, 724** [¶724](/part-2/ch4-pastors.md#p724)  
+  - membership commitment on — [¶265:1](/part-1/ch4-constitution.md#p265-1)
 
-**sacraments:**  
-  **  access to, 302:2** [¶302:2](/part-1/ch4-constitution.md#p302-2)  
-  **  Article of Religion, 242** [¶242](/part-1/ch4-constitution.md#p242)  
-  **  observance of, 290–293** [¶290](/part-1/ch4-constitution.md#p290) [¶293](/part-1/ch4-constitution.md#p293)  
-  **  see also baptism; Lord’s Supper**  
+**sabbatical — [¶724](/part-2/ch4-pastors.md#p724)**
 
-**St. Croix, 35**  
+**sacraments:**
 
-**St. Kitts, 35**  
+  - access to — [¶302:2](/part-1/ch4-constitution.md#p302-2)
+  - Article of Religion — [¶242](/part-1/ch4-constitution.md#p242)
+  - observance of — [¶290–293](/part-1/ch4-constitution.md#p290)
+  - see also baptism; Lord’s Supper
 
-**St. Thomas, 35**  
+**St. Croix — [¶35](/part-1/ch1-history.md#p35)**
 
-**St. Vincent, 35**  
+**St. Kitts — [¶35](/part-1/ch1-history.md#p35)**
 
-**salvation, 230; 297:1; 553:1** [¶230](/part-1/ch4-constitution.md#p230) [¶297:1](/part-1/ch4-constitution.md#p297-1) [¶553:1](/part-2/ch2-membership.md#p553-1)  
+**St. Thomas — [¶35](/part-1/ch1-history.md#p35)**
 
-**sanctification, 236** [¶236](/part-1/ch4-constitution.md#p236)  
+**St. Vincent — [¶35](/part-1/ch1-history.md#p35)**
 
-**Saskatchewan. See Central Canada District**  
+**salvation — [¶230](/part-1/ch4-constitution.md#p230); [¶297:1](/part-1/ch4-constitution.md#p297-1); [¶553:1](/part-2/ch2-membership.md#p553-1)**
 
-**school:**  
-  **  elementary, 655:17–19; 1233:32; 2306** [¶655:17](/part-2/ch3-conference.md#p655-17) [¶1233:32](/part-3/ch3-board.md#p1233-32) [¶2306](/part-4/ch7-multiplication-discipleship.md#p2306)  
-  **  postsecondary, 655:17; 1180:25** [¶655:17](/part-2/ch3-conference.md#p655-17) [¶1180:25](/part-3/ch2-conference.md#p1180-25)  
-  **  secondary, 655:17** [¶655:17](/part-2/ch3-conference.md#p655-17)  
-  **  see also educational institutions, general; public schools**  
+**sanctification — [¶236](/part-1/ch4-constitution.md#p236)**
 
-**Scott, Orange, 6–7**  
+**Saskatchewan. See Central Canada District**
 
-**Scriptures, 218; 270; 276; 280** [¶218](/part-1/ch4-constitution.md#p218) [¶270](/part-1/ch4-constitution.md#p270) [¶276](/part-1/ch4-constitution.md#p276) [¶280](/part-1/ch4-constitution.md#p280)  
-  **  inerrancy, 218; 299; 5566; 5772** [¶218](/part-1/ch4-constitution.md#p218) [¶299](/part-1/ch4-constitution.md#p299) [¶5566](/part-10/ch2-reception.md#p5566) [¶5772](/part-10/ch6-ordination.md#p5772)  
+**school:**
 
-**second coming of Christ, Article of Religion, 244** [¶244](/part-1/ch4-constitution.md#p244)  
+  - elementary — [¶655:17–19](/part-2/ch3-conference.md#p655-17); [¶1233:32](/part-3/ch3-board.md#p1233-32); [¶2306](/part-4/ch7-multiplication-discipleship.md#p2306)
+  - postsecondary — [¶655:17](/part-2/ch3-conference.md#p655-17); [¶1180:25](/part-3/ch2-conference.md#p1180-25)
+  - secondary — [¶655:17](/part-2/ch3-conference.md#p655-17)
+  - see also educational institutions, general; public schools
 
-**secondary schools, 2306** [¶2306](/part-4/ch7-multiplication-discipleship.md#p2306)  
-  **  post-secondary, 655:17; 1180:25** [¶655:17](/part-2/ch3-conference.md#p655-17) [¶1180:25](/part-3/ch2-conference.md#p1180-25)  
+**Scott, Orange — [¶6–7](/part-1/ch1-history.md#p6)**
 
-**secret societies:**  
-  **  historical background, 11**  
-  **  joining forfeits membership, 305:2; 585:2; 595** [¶305:2](/part-1/ch4-constitution.md#p305-2) [¶585:2](/part-2/ch2-membership.md#p585-2) [¶595](/part-2/ch2-membership.md#p595)  
+**Scriptures — [¶218](/part-1/ch4-constitution.md#p218); [¶270](/part-1/ch4-constitution.md#p270); [¶276](/part-1/ch4-constitution.md#p276); [¶280](/part-1/ch4-constitution.md#p280)**
 
-**secretary:**  
-  **  district, 1330–1332** [¶1330](/part-3/ch5-administration.md#p1330) [¶1332](/part-3/ch5-administration.md#p1332)  
-  **  general, see Executive Director of the Communication and Administration Division**  
-  **  local, 775; 830** [¶775](/part-2/ch5-local-board.md#p775) ¶830  
+  - inerrancy — [¶218](/part-1/ch4-constitution.md#p218); [¶299](/part-1/ch4-constitution.md#p299); [¶5566](/part-10/ch2-reception.md#p5566); [¶5772](/part-10/ch6-ordination.md#p5772)
 
-**secretary-treasurer:**  
-  **  of district, 1180:30** [¶1180:30](/part-3/ch2-conference.md#p1180-30)  
+**second coming of Christ, Article of Religion — [¶244](/part-1/ch4-constitution.md#p244)**
 
-**self-discipline, 265:3** [¶265:3](/part-1/ch4-constitution.md#p265-3)  
+**secondary schools — [¶2306](/part-4/ch7-multiplication-discipleship.md#p2306)**
 
-**seminary, 2368; 2382; 3170:1** [¶2368](/part-4/ch8-education-clergy.md#p2368) [¶2382](/part-4/ch8-education-clergy.md#p2382) [¶3170:1](/part-6/ch2-ministerial-education.md#p3170-1)  
-  **  Wesleyan Seminary Foundation, 2382** [¶2382](/part-4/ch8-education-clergy.md#p2382)  
+  - post-secondary — [¶655:17](/part-2/ch3-conference.md#p655-17); [¶1180:25](/part-3/ch2-conference.md#p1180-25)
 
-**senior pastor, 675; 678; 735. See also pastor**  
+**secret societies:**
 
-**service credentials, 6200–6460** ¶6200 ¶6460  
+  - historical background — [¶11](/part-1/ch1-history.md#p11)
+  - joining forfeits membership — [¶305:2](/part-1/ch4-constitution.md#p305-2); [¶585:2](/part-2/ch2-membership.md#p585-2); [¶595](/part-2/ch2-membership.md#p595)
 
-**service report, annual, 1402** [¶1402](/part-3/ch6-ministerial.md#p1402)  
+**secretary:**
 
-**sex:**  
-  **  biblical view, 410:5** [¶410:5](/part-1/ch5-special-directions.md#p410-5)  
-  **  discrimination forbidden, 360:3d** ¶360:3d  
-  **  God’s plan for, 222** [¶222](/part-1/ch4-constitution.md#p222)  
-  **  rights not dependent upon, 265:12** [¶265:12](/part-1/ch4-constitution.md#p265-12)  
-  **  sexual promiscuity deplored, 410:5** [¶410:5](/part-1/ch5-special-directions.md#p410-5)  
-  **  sexual sin, 265:6** [¶265:6](/part-1/ch4-constitution.md#p265-6)  
-  **  see also divorce, homosexuality**  
+  - district — [¶1330–1332](/part-3/ch5-administration.md#p1330)
+  - general, see Executive Director of the Communication and Administration Division local — [¶775](/part-2/ch5-local-board.md#p775); 830
 
-**Shenandoah District, 2403:19; 2440** [¶2403:19](/part-4/ch9-boundaries.md#p2403-19) [¶2440](/part-4/ch9-boundaries.md#p2440)  
+**secretary-treasurer:**
 
-**Sierra Leone, West Africa, 18; 80**  
+  - of district — [¶1180:30](/part-3/ch2-conference.md#p1180-30)
 
-**sin:**  
-  **  after regeneration, Article of Religion, 234** [¶234](/part-1/ch4-constitution.md#p234)  
-  **  Article of Religion, 225** [¶225](/part-1/ch4-constitution.md#p225)  
-  **  atonement for, 226** [¶226](/part-1/ch4-constitution.md#p226)  
-  **  responsibility for, 224** [¶224](/part-1/ch4-constitution.md#p224)  
+**self-discipline — [¶265:3](/part-1/ch4-constitution.md#p265-3)**
 
-**slavery, historical background, 6–11**  
+**seminary — [¶2368](/part-4/ch8-education-clergy.md#p2368); [¶2382](/part-4/ch8-education-clergy.md#p2382); [¶3170:1](/part-6/ch2-ministerial-education.md#p3170-1)**
 
-**social concern, Christian, 410** [¶410](/part-1/ch5-special-directions.md#p410)  
+  - Wesleyan Seminary Foundation — [¶2382](/part-4/ch8-education-clergy.md#p2382)
 
-**social responsibilities:**  
-  **  respecting rights of all, 265:12** [¶265:12](/part-1/ch4-constitution.md#p265-12)  
-  **  securing natural rights for all, 220** [¶220](/part-1/ch4-constitution.md#p220)  
-  **  special directions concerning, 410** [¶410](/part-1/ch5-special-directions.md#p410)  
+**senior pastor, [¶675](/part-2/ch4-pastors.md#p675); [¶678](/part-2/ch4-pastors.md#p678); [¶735](/part-2/ch4-pastors.md#p735). See also pastor**
 
-**social worker, 3210:5; 3450–3480; 6360–6380** ¶6360 ¶6380  
+**service credentials — 6200–6460**
 
-**Son of God, the, Article of Religion, 214** [¶214](/part-1/ch4-constitution.md#p214)  
+**service report, annual — [¶1402](/part-3/ch6-ministerial.md#p1402)**
 
-**song evangelist, 3210:5; 3450–3480; 6360–6380** ¶6360 ¶6380  
+**sex:**
 
-**South Africa, 18; 25; 33; 35; 80**  
+  - biblical view — [¶410:5](/part-1/ch5-special-directions.md#p410-5)
+  - discrimination forbidden, [¶360:3d](/part-1/ch4-constitution.md#p360-3) God’s plan for — [¶222](/part-1/ch4-constitution.md#p222)
+  - rights not dependent upon — [¶265:12](/part-1/ch4-constitution.md#p265-12)
+  - sexual promiscuity deplored — [¶410:5](/part-1/ch5-special-directions.md#p410-5)
+  - sexual sin — [¶265:6](/part-1/ch4-constitution.md#p265-6)
+  - see also divorce, homosexuality
 
-**South Africa Bantu, 80**  
+**Shenandoah District — [¶2403:19](/part-4/ch9-boundaries.md#p2403-19); [¶2440](/part-4/ch9-boundaries.md#p2440)**
 
-**South Carolina District, 2403:20; 2440** [¶2403:20](/part-4/ch9-boundaries.md#p2403-20) [¶2440](/part-4/ch9-boundaries.md#p2440)  
+**Sierra Leone, West Africa — [¶18](/part-1/ch1-history.md#p18); [¶80](/part-1/ch1-history.md#p80)**
 
-**South Coastal District, 2403:21; 2440** [¶2403:21](/part-4/ch9-boundaries.md#p2403-21) [¶2440](/part-4/ch9-boundaries.md#p2440)  
+**sin:**
 
-**South Dakota. See Northwest District**  
+  - after regeneration, Article of Religion, Article of Religion — [¶225](/part-1/ch4-constitution.md#p225)
+  - atonement for — [¶226](/part-1/ch4-constitution.md#p226)
+  - responsibility for — [¶224](/part-1/ch4-constitution.md#p224)
 
-**South Pacific. South Pacific Conference of The Wesleyan Methodist Church, 80**  
+**slavery, historical background — [¶6–11](/part-1/ch1-history.md#p6)**
 
-**Southern, Representative Area, 2440** [¶2440](/part-4/ch9-boundaries.md#p2440)  
+**social concern, Christian — [¶410](/part-1/ch5-special-directions.md#p410)**
 
-**Southern Wesleyan University, 2365:5** [¶2365:5](/part-4/ch8-education-clergy.md#p2365-5)  
+**social responsibilities:**
 
-**South Korea, 80**  
+  - respecting rights of all — [¶265:12](/part-1/ch4-constitution.md#p265-12)
+  - securing natural rights for all — [¶220](/part-1/ch4-constitution.md#p220)
+  - special directions concerning — [¶410](/part-1/ch5-special-directions.md#p410)
 
-**speaking in tongues, 265:10** [¶265:10](/part-1/ch4-constitution.md#p265-10)  
+**social worker — [¶3210:5](/part-6/ch2-ministerial-education.md#p3210-5); [¶3450–3480](/part-6/ch4-special-lay-ministries.md#p3450)**
 
-**special directions, 400–475** [¶400](/part-1/ch5-special-directions.md#p400) [¶475](/part-1/ch5-special-directions.md#p475)  
+  - 6360–6380
 
-**specialized minister, 3003–3012** [¶3003](/part-6/ch1-ministerial-orders.md#p3003) [¶3012](/part-6/ch1-ministerial-orders.md#p3012)  
+**Son of God, the, Article of Religion — [¶214](/part-1/ch4-constitution.md#p214)**
 
-**specialized ministries:**  
-  **  course of study for, 3210:2** [¶3210:2](/part-6/ch2-ministerial-education.md#p3210-2)  
+**song evangelist — [¶3210:5](/part-6/ch2-ministerial-education.md#p3210-5); [¶3450–3480](/part-6/ch4-special-lay-ministries.md#p3450)**
 
-**special lay ministries, 3400–3490** [¶3400](/part-6/ch4-special-lay-ministries.md#p3400) [¶3490](/part-6/ch4-special-lay-ministries.md#p3490)  
-  **  lay minister, 3400–3440** [¶3400](/part-6/ch4-special-lay-ministries.md#p3400) [¶3440](/part-6/ch4-special-lay-ministries.md#p3440)  
-  **  lay missionary, 3490** [¶3490](/part-6/ch4-special-lay-ministries.md#p3490)  
-  **  special worker, 3450–3480** [¶3450](/part-6/ch4-special-lay-ministries.md#p3450) [¶3480](/part-6/ch4-special-lay-ministries.md#p3480)  
+  - 6360–6380
 
-**special offerings, 2050:1, 3**  
+**South Africa — [¶18](/part-1/ch1-history.md#p18); [¶25](/part-1/ch1-history.md#p25); [¶33](/part-1/ch1-history.md#p33); [¶35](/part-1/ch1-history.md#p35); [¶80](/part-1/ch1-history.md#p80)**
 
-**Special Nominations, Committee on, 1580** [¶1580](/part-4/ch1-general-conference.md#p1580)  
+**South Africa Bantu — [¶80](/part-1/ch1-history.md#p80)**
 
-**special service, ministerial appointment, 1240:1a7; 3345** [¶3345](/part-6/ch3-ministerial-appointments.md#p3345) ¶1240:1a7  
+**South Carolina District — [¶2403:20](/part-4/ch9-boundaries.md#p2403-20)**
 
-**special worker, 3210:5; 3450–3480; 6360–6380** ¶6360 ¶6380  
-  **  courses of study, 3210:5** [¶3210:5](/part-6/ch2-ministerial-education.md#p3210-5)  
-  **  credentials, 6360–6400** ¶6360 ¶6400  
-  **  function, 3450** [¶3450](/part-6/ch4-special-lay-ministries.md#p3450)  
-  **  general regulations, 3480** [¶3480](/part-6/ch4-special-lay-ministries.md#p3480)  
-  **  in process of transfer, 1240:5b** ¶1240:5b  
+  - [¶2440](/part-4/ch9-boundaries.md#p2440)
 
-**listing, 1240:5a–c**  
+**South Coastal District — [¶2403:21](/part-4/ch9-boundaries.md#p2403-21); [¶2440](/part-4/ch9-boundaries.md#p2440)**
 
-**specification of charges, 5024 Gen. Bd. Policy on Ch. Disc.**  
+**South Dakota. See Northwest District**
 
-**Spirit, Holy, 210; 216; 230; 236; 238** [¶210](/part-1/ch4-constitution.md#p210) [¶216](/part-1/ch4-constitution.md#p216) [¶230](/part-1/ch4-constitution.md#p230) [¶236](/part-1/ch4-constitution.md#p236) [¶238](/part-1/ch4-constitution.md#p238)  
+**South Pacific. South Pacific Conference of The Wesleyan Methodist Church — [¶80](/part-1/ch1-history.md#p80)**
 
-**spiritism, 265:2** [¶265:2](/part-1/ch4-constitution.md#p265-2)  
+**Southern, Representative Area — [¶2440](/part-4/ch9-boundaries.md#p2440)**
 
-**spouse in ministry, 3450–3480** [¶3450](/part-6/ch4-special-lay-ministries.md#p3450) [¶3480](/part-6/ch4-special-lay-ministries.md#p3480)  
+**Southern Wesleyan University — [¶2365:5](/part-4/ch8-education-clergy.md#p2365-5)**
 
-**Standards of the General Board for Educational Institution, 2362:4** [¶2362:4](/part-4/ch8-education-clergy.md#p2362-4)  
+**South Korea — [¶80](/part-1/ch1-history.md#p80)**
 
-**statutory law:**  
-  **  current authority for, 185** [¶185](/part-1/ch3-church-law.md#p185)  
-  **  definition, 155** [¶155](/part-1/ch3-church-law.md#p155)  
-  **  time when effected, 165** [¶165](/part-1/ch3-church-law.md#p165)  
+**speaking in tongues — [¶265:10](/part-1/ch4-constitution.md#p265-10)**
 
-**stewardship:**  
-  **  definition of, 460** [¶460](/part-1/ch5-special-directions.md#p460)  
-  **  membership commitment on, 265:3** [¶265:3](/part-1/ch4-constitution.md#p265-3)  
-  **  methods of fund raising, 470** [¶470](/part-1/ch5-special-directions.md#p470)  
-  **  special directions concerning, 460–475** [¶460](/part-1/ch5-special-directions.md#p460) [¶475](/part-1/ch5-special-directions.md#p475)  
-  **  storehouse tithing, 465** [¶465](/part-1/ch5-special-directions.md#p465)  
-  **  wills, bequeaths, annuities, 475** [¶475](/part-1/ch5-special-directions.md#p475)  
+**special directions — [¶400–475](/part-1/ch5-special-directions.md#p400)**
 
-**student, ministerial, 3015:1; 3350:2** [¶3015:1](/part-6/ch1-ministerial-orders.md#p3015-1) [¶3350:2](/part-6/ch3-ministerial-appointments.md#p3350-2)  
+**specialized minister — [¶3003–3012](/part-6/ch1-ministerial-orders.md#p3003)**
 
-**Study Course Agency, Ministerial, 2385–2388** [¶2385](/part-4/ch8-education-clergy.md#p2385) [¶2388](/part-4/ch8-education-clergy.md#p2388)  
+**specialized ministries:**
 
-**study course certificate, ministerial, 6410** ¶6410  
+  - course of study for — [¶3210:2](/part-6/ch2-ministerial-education.md#p3210-2)
 
-**study courses. See courses of study**  
+**special lay ministries — [¶3400–3490](/part-6/ch4-special-lay-ministries.md#p3400)**
 
-**subsidiary corporations, 4300–4320** [¶4300](/part-7/ch4-subsidiary-corporations.md#p4300) [¶4320](/part-7/ch4-subsidiary-corporations.md#p4320)  
+  - lay minister — [¶3400–3440](/part-6/ch4-special-lay-ministries.md#p3400)
+  - lay missionary — [¶3490](/part-6/ch4-special-lay-ministries.md#p3490)
+  - special worker — [¶3450–3480](/part-6/ch4-special-lay-ministries.md#p3450)
 
-**substance abuse, 410:4. See also abstinence**  
+**special offerings — [¶2050:1](/part-4/ch4-general-administration.md#p2050-1), [¶3](/part-1/ch1-history.md#p3)**
 
-**Summary of Articles of Religion, 299** [¶299](/part-1/ch4-constitution.md#p299)  
+**Special Nominations, Committee on — [¶1580](/part-4/ch1-general-conference.md#p1580)**
 
-**Sunderland, LaRoy, 7**  
+**special service, ministerial appointment — [¶1240:1a](/part-3/ch3-board.md#p1240-1)7; [¶3345](/part-6/ch3-ministerial-appointments.md#p3345)**
 
-**Superannuated Ministers’ Aid Society, 4410:2** [¶4410:2](/part-7/ch5-pension-corporation.md#p4410-2)  
+**special worker — [¶3210:5](/part-6/ch2-ministerial-education.md#p3210-5); [¶3450–3480](/part-6/ch4-special-lay-ministries.md#p3450)**
 
-**superintendent:**  
-  **  district superintendent, 1300–1310** [¶1300](/part-3/ch5-administration.md#p1300) [¶1310](/part-3/ch5-administration.md#p1310)  
-  **  General Superintendent, 1900–1945** [¶1900](/part-4/ch4-general-administration.md#p1900) [¶1945](/part-4/ch4-general-administration.md#p1945)  
+  - 6360–6380
+  - courses of study — [¶3210:5](/part-6/ch2-ministerial-education.md#p3210-5)
+  - credentials — 6360–6400
+  - function — [¶3450](/part-6/ch4-special-lay-ministries.md#p3450)
+  - general regulations — [¶3480](/part-6/ch4-special-lay-ministries.md#p3480)
+  - in process of transfer, [¶1240:5b](/part-3/ch3-board.md#p1240-5) listing, [¶1240:5a](/part-3/ch3-board.md#p1240-5)–c
 
-**supply pastor, 3260** [¶3260](/part-6/ch3-ministerial-appointments.md#p3260)  
-  **  certificate of authorization form, 6240** ¶6240  
-  **  general regulations, 3260** [¶3260](/part-6/ch3-ministerial-appointments.md#p3260)  
-  **  in another district, 3100:2** [¶3100:2](/part-6/ch1-ministerial-orders.md#p3100-2)  
-  **  listing, 1240:5(e)**  
+**specification of charges, 5024 Gen. Bd.**
 
-**support of ministers, 286; 723; 782:14** [¶286](/part-1/ch4-constitution.md#p286) [¶723](/part-2/ch4-pastors.md#p723) [¶782:14](/part-2/ch5-local-board.md#p782-14)  
+  - Policy on Ch. Disc.
 
-**Suriname, 35; 80**  
+**Spirit, Holy — [¶210](/part-1/ch4-constitution.md#p210); [¶216](/part-1/ch4-constitution.md#p216); [¶230](/part-1/ch4-constitution.md#p230); [¶236](/part-1/ch4-constitution.md#p236); [¶238](/part-1/ch4-constitution.md#p238)**
 
-**suspension of rules:**  
-  **  in district conference, 1141** [¶1141](/part-3/ch2-conference.md#p1141)  
-  **  in General Conference, 1553** [¶1553](/part-4/ch1-general-conference.md#p1553)  
+**spiritism — [¶265:2](/part-1/ch4-constitution.md#p265-2)**
 
-**Swaziland, 35; 80**  
+**spouse in ministry — [¶3450–3480](/part-6/ch4-special-lay-ministries.md#p3450)**
 
-**Syracuse, NY, 16**  
+**Standards of the General Board for Educational Institution — [¶2362:4](/part-4/ch8-education-clergy.md#p2362-4)**
+
+**statutory law:**
+
+  - current authority for — [¶185](/part-1/ch3-church-law.md#p185)
+  - definition — [¶155](/part-1/ch3-church-law.md#p155)
+  - time when effected — [¶165](/part-1/ch3-church-law.md#p165)
+
+**stewardship:**
+
+  - definition of — [¶460](/part-1/ch5-special-directions.md#p460)
+  - membership commitment on — [¶265:3](/part-1/ch4-constitution.md#p265-3)
+  - methods of fund raising — [¶470](/part-1/ch5-special-directions.md#p470)
+  - special directions concerning — [¶460–475](/part-1/ch5-special-directions.md#p460)
+  - storehouse tithing — [¶465](/part-1/ch5-special-directions.md#p465)
+  - wills, bequeaths, annuities — [¶475](/part-1/ch5-special-directions.md#p475)
+
+**student, ministerial — [¶3015:1](/part-6/ch1-ministerial-orders.md#p3015-1); [¶3350:2](/part-6/ch3-ministerial-appointments.md#p3350-2)**
+
+**Study Course Agency, Ministerial — [¶2385–2388](/part-4/ch8-education-clergy.md#p2385)**
+
+**study course certificate, ministerial — 6410**
+
+**study courses. See courses of study**
+
+**subsidiary corporations — [¶4300–4320](/part-7/ch4-subsidiary-corporations.md#p4300)**
+
+**substance abuse, [¶410:4](/part-1/ch5-special-directions.md#p410-4). See also abstinence**
+
+**Summary of Articles of Religion — [¶299](/part-1/ch4-constitution.md#p299)**
+
+**Sunderland, LaRoy — [¶7](/part-1/ch1-history.md#p7)**
+
+**Superannuated Ministers’ Aid Society — [¶4410:2](/part-7/ch5-pension-corporation.md#p4410-2)**
+
+**superintendent:**
+
+  - district superintendent — [¶1300–1310](/part-3/ch5-administration.md#p1300)
+  - General Superintendent — [¶1900–1945](/part-4/ch4-general-administration.md#p1900)
+
+**supply pastor — [¶3260](/part-6/ch3-ministerial-appointments.md#p3260)**
+
+  - certificate of authorization form — 6240
+  - general regulations — [¶3260](/part-6/ch3-ministerial-appointments.md#p3260)
+  - in another district — [¶3100:2](/part-6/ch1-ministerial-orders.md#p3100-2)
+  - listing, [¶1240:5](/part-3/ch3-board.md#p1240-5)(e)
+
+**support of ministers — [¶286](/part-1/ch4-constitution.md#p286); [¶723](/part-2/ch4-pastors.md#p723); [¶782:14](/part-2/ch5-local-board.md#p782-14)**
+
+**Suriname — [¶35](/part-1/ch1-history.md#p35); [¶80](/part-1/ch1-history.md#p80)**
+
+**suspension of rules:**
+
+  - in district conference — [¶1141](/part-3/ch2-conference.md#p1141)
+  - in General Conference — [¶1553](/part-4/ch1-general-conference.md#p1553)
+
+**Swaziland — [¶35](/part-1/ch1-history.md#p35); [¶80](/part-1/ch1-history.md#p80)**
+
+**Syracuse, NY — [¶16](/part-1/ch1-history.md#p16)**
 
 ## T {#t}
 
-**Taiwan, 18**  
+**Taiwan — [¶18](/part-1/ch1-history.md#p18)**
 
-**temperance, 265:4** [¶265:4](/part-1/ch4-constitution.md#p265-4)  
+**temperance — [¶265:4](/part-1/ch4-constitution.md#p265-4)**
 
-**Tennessee, See Kentucky-Tennessee District**  
+**Tennessee, See Kentucky-Tennessee District**
 
-**termination of membership:**  
-  **  268; 585–605** [¶585](/part-2/ch2-membership.md#p585) [¶605](/part-2/ch2-membership.md#p605)  
-  **  discontinuance, 305:4; 315:1; 585:4; 600–605** [¶600](/part-2/ch2-membership.md#p600) [¶605](/part-2/ch2-membership.md#p605)  
-  **  dismissal, 276; 305:3; 315:1; 585:3; Gen. Bd. Policy on Ch. Disc. 5115:5; 5120:1, 4, 5**  
-  **  joining another body, 305:2; 585:2; 595** [¶305:2](/part-1/ch4-constitution.md#p305-2) [¶585:2](/part-2/ch2-membership.md#p585-2) [¶595](/part-2/ch2-membership.md#p595)  
-  **  reinstatement, Gen. Bd. Policy on Ch. Disc. 5048**  
-  **  withdrawal, 305:1; 575; 585:1; 590–595; Gen. Bd. Policy on Ch. Disc.; 5048; 6040** ¶5048 ¶6040  
+**termination of membership:**
 
-**Texas, See Mountain Plains District**  
+  - [¶268](/part-1/ch4-constitution.md#p268); [¶585–605](/part-2/ch2-membership.md#p585)
+  - discontinuance — [¶305:4](/part-1/ch4-constitution.md#p305-4); [¶315:1](/part-1/ch4-constitution.md#p315-1); [¶585:4](/part-2/ch2-membership.md#p585-4); [¶600–605](/part-2/ch2-membership.md#p600)
+  - dismissal, [¶276](/part-1/ch4-constitution.md#p276); [¶305:3](/part-1/ch4-constitution.md#p305-3); [¶315:1](/part-1/ch4-constitution.md#p315-1); [¶585:3](/part-2/ch2-membership.md#p585-3); Gen. Bd. Policy on Ch. Disc. 5115:5; 5120:1 — [¶4](/part-1/ch1-history.md#p4), 5
+  - joining another body — [¶305:2](/part-1/ch4-constitution.md#p305-2); [¶585:2](/part-2/ch2-membership.md#p585-2); [¶595](/part-2/ch2-membership.md#p595)
+  - reinstatement, Gen. Bd. Policy on Ch. Disc. 5130
+  - withdrawal, [¶305:1](/part-1/ch4-constitution.md#p305-1); [¶575](/part-2/ch2-membership.md#p575); [¶585:1](/part-2/ch2-membership.md#p585-1); [¶590–595](/part-2/ch2-membership.md#p590); Gen. Bd. Policy on Ch. Disc.; 5048; 6040
 
-**theological seminary, 2366; 2382; 3170:1** [¶2366](/part-4/ch8-education-clergy.md#p2366) [¶2382](/part-4/ch8-education-clergy.md#p2382) [¶3170:1](/part-6/ch2-ministerial-education.md#p3170-1)  
+**Texas, See Mountain Plains District**
 
-**time of pastoral changes, 700** [¶700](/part-2/ch4-pastors.md#p700)  
+**theological seminary — [¶2366](/part-4/ch8-education-clergy.md#p2366); [¶2382](/part-4/ch8-education-clergy.md#p2382); [¶3170:1](/part-6/ch2-ministerial-education.md#p3170-1)**
 
-**time, use of, 265:3; 410:12** [¶265:3](/part-1/ch4-constitution.md#p265-3) [¶410:12](/part-1/ch5-special-directions.md#p410-12)  
+**time of pastoral changes — [¶700](/part-2/ch4-pastors.md#p700)**
 
-**tithing, 465. See also stewardship**  
+**time, use of — [¶265:3](/part-1/ch4-constitution.md#p265-3); [¶410:12](/part-1/ch5-special-directions.md#p410-12)**
 
-**tobacco:**  
-  **  abstain from, 265:4** [¶265:4](/part-1/ch4-constitution.md#p265-4)  
-  **  special direction on, 410:4** [¶410:4](/part-1/ch5-special-directions.md#p410-4)  
+**tithing, [¶465](/part-1/ch5-special-directions.md#p465). See also stewardship**
 
-**Tobago, 35**  
+**tobacco:**
 
-**tongues, 265:10** [¶265:10](/part-1/ch4-constitution.md#p265-10)  
+  - abstain from — [¶265:4](/part-1/ch4-constitution.md#p265-4)
+  - special direction on — [¶410:4](/part-1/ch5-special-directions.md#p410-4)
 
-**trafficking, meaning of, 265:4** [¶265:4](/part-1/ch4-constitution.md#p265-4)  
+**Tobago — [¶35](/part-1/ch1-history.md#p35)**
 
-**training, ministerial. See ministerial education**  
+**tongues — [¶265:10](/part-1/ch4-constitution.md#p265-10)**
 
-**transfer:**  
-  **  letters of, 6000–6020; 6440–6450** ¶6440 ¶6450  
-  **  of commissioned minister between districts, 3059:2(f)**  
-  **  of commissioned minister from another denomination, 3104; 3390:2** [¶3104](/part-6/ch1-ministerial-orders.md#p3104) ¶3390:2  
-  **  of ordained minister between districts, 3100:1** [¶3100:1](/part-6/ch1-ministerial-orders.md#p3100-1)  
-  **  of ordained minister from another denomination, 3104; 3390** [¶3104](/part-6/ch1-ministerial-orders.md#p3104) [¶3390](/part-6/ch3-ministerial-appointments.md#p3390)  
-  **  of licensed ministers between districts, 3055:3; 3100:1** [¶3055:3](/part-6/ch1-ministerial-orders.md#p3055-3) [¶3100:1](/part-6/ch1-ministerial-orders.md#p3100-1)  
-  **  of licensed minister from another denomination, 3104; 3390** [¶3104](/part-6/ch1-ministerial-orders.md#p3104) [¶3390](/part-6/ch3-ministerial-appointments.md#p3390)  
-  **  of ministerial students between districts, 3015:3c; 3015:5d** [¶3015:3c](/part-6/ch1-ministerial-orders.md#p3015-3c) [¶3015:5d](/part-6/ch1-ministerial-orders.md#p3015-5d)  
-  **  of ministerial students from another denomination, 3015:5c** [¶3015:5c](/part-6/ch1-ministerial-orders.md#p3015-5c)  
-  **  of pastor, senior pastor, or assistant pastor’s church membership, 578:2** [¶578:2](/part-2/ch2-membership.md#p578-2)  
-  **  of special worker between districts, 3480** [¶3480](/part-6/ch4-special-lay-ministries.md#p3480)  
-  **  of special worker from another denomination, 3460–3470** [¶3460](/part-6/ch4-special-lay-ministries.md#p3460) [¶3470](/part-6/ch4-special-lay-ministries.md#p3470)  
+**trafficking, meaning of — [¶265:4](/part-1/ch4-constitution.md#p265-4)**
 
-**treasurer:**  
-  **  district, 1335–1337** [¶1335](/part-3/ch5-administration.md#p1335) [¶1337](/part-3/ch5-administration.md#p1337)  
-  **  General, 1970–1976** [¶1970](/part-4/ch4-general-administration.md#p1970) [¶1976](/part-4/ch4-general-administration.md#p1976)  
-  **  local, 842–845** ¶842 ¶845  
+**training, ministerial. See ministerial education**
 
-**Trinidad, 35**  
+**transfer:**
 
-**Trinity, The, Article of Religion, 210** [¶210](/part-1/ch4-constitution.md#p210)  
+  - letters of — 6000–6020; 6440–6450
+  - of commissioned minister between districts, [¶3059:2](/part-6/ch1-ministerial-orders.md#p3059-2)(f)
+  - of commissioned minister from another denomination — [¶3104](/part-6/ch1-ministerial-orders.md#p3104); 3390:2
+  - of ordained minister between districts — [¶3100:1](/part-6/ch1-ministerial-orders.md#p3100-1)
+  - of ordained minister from another denomination — [¶3104](/part-6/ch1-ministerial-orders.md#p3104); [¶3390](/part-6/ch3-ministerial-appointments.md#p3390)
+  - of licensed ministers between districts — [¶3055:3](/part-6/ch1-ministerial-orders.md#p3055-3); [¶3100:1](/part-6/ch1-ministerial-orders.md#p3100-1)
+  - of licensed minister from another denomination — [¶3104](/part-6/ch1-ministerial-orders.md#p3104); [¶3390](/part-6/ch3-ministerial-appointments.md#p3390)
+  - of ministerial students between districts, [¶3015:3c](/part-6/ch1-ministerial-orders.md#p3015-3c); [¶3015:5d](/part-6/ch1-ministerial-orders.md#p3015-5d) of ministerial students from another denomination, [¶3015:5c](/part-6/ch1-ministerial-orders.md#p3015-5c) of pastor, senior pastor, or assistant pastor’s church membership — [¶578:2](/part-2/ch2-membership.md#p578-2)
+  - of special worker between districts — [¶3480](/part-6/ch4-special-lay-ministries.md#p3480)
+  - of special worker from another denomination — [¶3460–3470](/part-6/ch4-special-lay-ministries.md#p3460)
 
-**Tri-State District, 2403:22; 2445** [¶2403:22](/part-4/ch9-boundaries.md#p2403-22) [¶2445](/part-4/ch9-boundaries.md#p2445)  
+**treasurer:**
 
-**True Wesleyan, The, 7**  
+  - district — [¶1335–1337](/part-3/ch5-administration.md#p1335)
+  - General — [¶1970–1976](/part-4/ch4-general-administration.md#p1970)
+  - local — 842–845
 
-**trust clause, 315:6; 323:8; 518:6; 4590–4630; 4680; 4690** [¶4590](/part-8/ch1-general-principles.md#p4590) [¶4630](/part-8/ch1-general-principles.md#p4630) [¶4680](/part-8/ch2-local-church-property.md#p4680) [¶4690](/part-8/ch2-local-church-property.md#p4690)  
+**Trinidad — [¶35](/part-1/ch1-history.md#p35)**
 
-**trustees:**  
-  **  circuit, 532** [¶532](/part-2/ch1-organization.md#p532)  
-  **  district, 323:8; 1180:20; 1360–1365; 4855** [¶1360](/part-3/ch5-administration.md#p1360) [¶1365](/part-3/ch5-administration.md#p1365) [¶4855](/part-8/ch3-district-property.md#p4855)  
-  **  educational institutions, 340:2; 2362** [¶340:2](/part-1/ch4-constitution.md#p340-2) [¶2362](/part-4/ch8-education-clergy.md#p2362)  
-  **  General Church, 340; 1655:15–21** [¶1655:15](/part-4/ch2-general-board.md#p1655-15)  
-  **  general regulations, 4520–4540** [¶4520](/part-8/ch1-general-principles.md#p4520) [¶4540](/part-8/ch1-general-principles.md#p4540)  
-  **  local church, 315:6; 850–859** ¶850 ¶859  
+**Trinity, The, Article of Religion — [¶210](/part-1/ch4-constitution.md#p210)**
+
+**Tri-State District — [¶2403:22](/part-4/ch9-boundaries.md#p2403-22); [¶2445](/part-4/ch9-boundaries.md#p2445)**
+
+**True Wesleyan, The — [¶7](/part-1/ch1-history.md#p7)**
+
+**trust clause — [¶315:6](/part-1/ch4-constitution.md#p315-6); [¶323:8](/part-1/ch4-constitution.md#p323-8); [¶518:6](/part-2/ch1-organization.md#p518-6)**
+
+  - [¶4590–4630](/part-8/ch1-general-principles.md#p4590); [¶4680](/part-8/ch2-local-church-property.md#p4680); [¶4690](/part-8/ch2-local-church-property.md#p4690)
+
+**trustees:**
+
+  - circuit — [¶532](/part-2/ch1-organization.md#p532)
+  - district — [¶323:8](/part-1/ch4-constitution.md#p323-8); [¶1180:20](/part-3/ch2-conference.md#p1180-20); [¶1360–1365](/part-3/ch5-administration.md#p1360); [¶4855](/part-8/ch3-district-property.md#p4855)
+  - educational institutions — [¶340:2](/part-1/ch4-constitution.md#p340-2); [¶2362](/part-4/ch8-education-clergy.md#p2362)
+  - General Church — [¶340](/part-1/ch4-constitution.md#p340); [¶1655:15–21](/part-4/ch2-general-board.md#p1655-15)
+  - general regulations — [¶4520–4540](/part-8/ch1-general-principles.md#p4520)
+  - local church — [¶315:6](/part-1/ch4-constitution.md#p315-6); 850–859
 
 ## U {#u}
 
-**under accusation, withdrawal while, 592; Gen. Bd. Policy on Ch. Disc. 5048**  
+**under accusation, withdrawal while, [¶592](/part-2/ch2-membership.md#p592); Gen. Bd. Policy on Ch. Disc. 5048**
 
-**under charges:**  
-  **  consequences of being, 575; 590** [¶575](/part-2/ch2-membership.md#p575) [¶590](/part-2/ch2-membership.md#p590)  
+**under charges:**
 
-**discipline, consequences of being under:**  
-  **  for districts, 323:9; 327:1; 360:3e; Gen. Bd. Policy on Ch. Disc. 5066; 5365; 5375** ¶5365 ¶5375  
-  **  for local churches, 315:7; Gen. Bd. Policy on Ch. Disc. 5066; 5310; 5320** ¶5310 ¶5320  
-  **  for members, 302:6; 575; 590; Gen. Bd. Policy on Ch. Disc. 5052; 5115** ¶5115  
-  **  for ministers, 313; Gen. Bd. Policy on Ch. Disc. 5052; 5115; 5212–5215; 5288** ¶5212 ¶5215 ¶5288  
+  - consequences of being — [¶575](/part-2/ch2-membership.md#p575); [¶590](/part-2/ch2-membership.md#p590)
+  - discipline, consequences of being under: for districts, [¶323:9](/part-1/ch4-constitution.md#p323-9); [¶327:1](/part-1/ch4-constitution.md#p327-1); [¶360:3e](/part-1/ch4-constitution.md#p360-3); Gen. Bd. Policy on Ch. Disc. 5066; 5365; 5375 for local churches, 315:7; Gen. Bd. Policy on Ch. Disc. 5066; 5310; 5320 for members, 302:6; 575; 590; Gen. Bd. Policy on Ch. Disc. 5052; 5115 for ministers, 313; Gen. Bd. Policy on Ch. Disc. 5052; 5115; 5212–5215; 5288
+  - withdrawal while, [¶592](/part-2/ch2-membership.md#p592); Gen. Bd. Policy on Ch. Disc. 5048
 
-**withdrawal while, 592; Gen. Bd. Policy on Ch. Disc. 5048**  
+**United Stewardship Fund (USF) — [¶2000–2045](/part-4/ch4-general-administration.md#p2000)**
 
-**United Stewardship Fund (USF), 2000–2045** [¶2000](/part-4/ch4-general-administration.md#p2000) [¶2045](/part-4/ch4-general-administration.md#p2045)  
-  **  district regulations, 2015–2030** [¶2015](/part-4/ch4-general-administration.md#p2015) [¶2030](/part-4/ch4-general-administration.md#p2030)  
-  **  General Church regulations, 2035–2045** [¶2035](/part-4/ch4-general-administration.md#p2035) [¶2045](/part-4/ch4-general-administration.md#p2045)  
-  **  local church regulations, 2025–2030** [¶2025](/part-4/ch4-general-administration.md#p2025) [¶2030](/part-4/ch4-general-administration.md#p2030)  
+  - district regulations — [¶2015–2030](/part-4/ch4-general-administration.md#p2015)
+  - General Church regulations — [¶2035–2045](/part-4/ch4-general-administration.md#p2035)
+  - local church regulations — [¶2025–2030](/part-4/ch4-general-administration.md#p2025)
 
-**uniting General Conference, 50**  
+**uniting General Conference — [¶50](/part-1/ch1-history.md#p50)**
 
-**university**  
-  **  by local churches, 655:16; 1180:25** [¶655:16](/part-2/ch3-conference.md#p655-16) [¶1180:25](/part-3/ch2-conference.md#p1180-25)  
-  **  president, ritual for installation, 5945** [¶5945](/part-10/ch9-installation.md#p5945)  
-  **  program of study for ministry, 3170:2** [¶3170:2](/part-6/ch2-ministerial-education.md#p3170-2)  
-  **  trustees, 2362** [¶2362](/part-4/ch8-education-clergy.md#p2362)  
-  **  see also educational institutions, general**  
+**university, by local churches — [¶655:16](/part-2/ch3-conference.md#p655-16); [¶1180:25](/part-3/ch2-conference.md#p1180-25)**
 
-**unity, Christian, 450** [¶450](/part-1/ch5-special-directions.md#p450)  
+  - president, ritual for installation — [¶5945](/part-10/ch9-installation.md#p5945)
+  - program of study for ministry — [¶3170:2](/part-6/ch2-ministerial-education.md#p3170-2)
+  - trustees — [¶2362](/part-4/ch8-education-clergy.md#p2362)
+  - see also educational institutions, general
 
-**unknown tongue, 265:10** [¶265:10](/part-1/ch4-constitution.md#p265-10)  
+**unity, Christian — [¶450](/part-1/ch5-special-directions.md#p450)**
 
-**urban missional church, 523; 1233:26; 2005:3g** [¶523](/part-2/ch1-organization.md#p523) [¶1233:26](/part-3/ch3-board.md#p1233-26) ¶2005:3g  
+**unknown tongue — [¶265:10](/part-1/ch4-constitution.md#p265-10)**
 
-**Utah. See Northwest District**  
+**urban missional church — [¶523](/part-2/ch1-organization.md#p523); [¶1233:26](/part-3/ch3-board.md#p1233-26)**
 
-**Utica, NY, 8**  
+  - [¶2005:3g](/part-4/ch4-general-administration.md#p2005-3)
+
+**Utah. See Northwest District**
+
+**Utica, NY — [¶8](/part-1/ch1-history.md#p8)**
 
 ## V {#v}
 
-**vacancies:**  
-  **  area representatives on General Board, 1605:2** [¶1605:2](/part-4/ch2-general-board.md#p1605-2)  
-  **  Board of Review, Gen. Bd. Policy on Ch. Disc. 5408**  
-  **  district officials, officers, 1272; 1292** [¶1272](/part-3/ch4-officers.md#p1272) [¶1292](/part-3/ch4-officers.md#p1292)  
-  **  district superintendent, 1303:6** [¶1303:6](/part-3/ch5-administration.md#p1303-6)  
-  **  district trustees, 1360** [¶1360](/part-3/ch5-administration.md#p1360)  
-  **  Executive Board, 1755** [¶1755](/part-4/ch2-general-board.md#p1755)  
-  **  General Board, 1605:2** [¶1605:2](/part-4/ch2-general-board.md#p1605-2)  
-  **  general officials, 1850** [¶1850](/part-4/ch3-general-officials.md#p1850)  
-  **  local church offices, 782:24; 815:2; 825:5** [¶782:24](/part-2/ch5-local-board.md#p782-24) ¶815:2 ¶825:5  
+**vacancies:**
 
-**Venezuela, 80**  
+  - area representatives on General Board — [¶1605:2](/part-4/ch2-general-board.md#p1605-2)
+  - Board of Review, Gen. Bd. Policy on Ch. Disc. 5408
+  - district officials, officers — [¶1272](/part-3/ch4-officers.md#p1272); [¶1292](/part-3/ch4-officers.md#p1292)
+  - district superintendent — [¶1303:6](/part-3/ch5-administration.md#p1303-6)
+  - district trustees — [¶1360](/part-3/ch5-administration.md#p1360)
+  - Executive Board — [¶1755](/part-4/ch2-general-board.md#p1755)
+  - General Board — [¶1605:2](/part-4/ch2-general-board.md#p1605-2)
+  - general officials — [¶1850](/part-4/ch3-general-officials.md#p1850)
+  - local church offices — [¶782:24](/part-2/ch5-local-board.md#p782-24); 815:2; 825:5
 
-**Vermont. See Northeast District**  
+**Venezuela — [¶80](/part-1/ch1-history.md#p80)**
 
-**vice-chair:**  
-  **  circuit advisory council, 530** [¶530](/part-2/ch1-organization.md#p530)  
-  **  General Board, 1630; 1765** [¶1630](/part-4/ch2-general-board.md#p1630) [¶1765](/part-4/ch2-general-board.md#p1765)  
-  **  local board of administration, 635; 773** [¶635](/part-2/ch3-conference.md#p635) [¶773](/part-2/ch5-local-board.md#p773)  
+**Vermont. See Northeast District**
 
-**Virginia. See Shenandoah and Chesapeake Districts.**  
+**vice-chair:**
 
-**voting:**  
-  **  by members, 302:3** [¶302:3](/part-1/ch4-constitution.md#p302-3)  
-  **  to receive new members, 553:2; 633:2** [¶553:2](/part-2/ch2-membership.md#p553-2) [¶633:2](/part-2/ch3-conference.md#p633-2)  
-  **  for pastor, 692** [¶692](/part-2/ch4-pastors.md#p692)  
-  **  at district conference, 1083; 1086** [¶1083](/part-3/ch2-conference.md#p1083) [¶1086](/part-3/ch2-conference.md#p1086)  
-  **  at General Conference, 1503:1** [¶1503:1](/part-4/ch1-general-conference.md#p1503-1)  
-  **  for district superintendent, 1303:1** [¶1303:1](/part-3/ch5-administration.md#p1303-1)  
-  **  for General Superintendent, 1590:15** [¶1590:15](/part-4/ch1-general-conference.md#p1590-15)  
+  - circuit advisory council — [¶530](/part-2/ch1-organization.md#p530)
+  - General Board — [¶1630](/part-4/ch2-general-board.md#p1630); [¶1765](/part-4/ch2-general-board.md#p1765)
+  - local board of administration — [¶635](/part-2/ch3-conference.md#p635)
+
+**Virginia. See Shenandoah and Chesapeake Districts.**
+
+**voting:**
+
+  - by members — [¶302:3](/part-1/ch4-constitution.md#p302-3)
+  - to receive new members — [¶553:2](/part-2/ch2-membership.md#p553-2); [¶633:2](/part-2/ch3-conference.md#p633-2)
+  - for pastor — [¶692](/part-2/ch4-pastors.md#p692)
+  - at district conference — [¶1083](/part-3/ch2-conference.md#p1083); [¶1086](/part-3/ch2-conference.md#p1086)
+  - at General Conference — [¶1503:1](/part-4/ch1-general-conference.md#p1503-1)
+  - for district superintendent — [¶1303:1](/part-3/ch5-administration.md#p1303-1)
+  - for General Superintendent — [¶1590:15](/part-4/ch1-general-conference.md#p1590-15)
 
 ## W {#w}
 
-**war, 410:2** [¶410:2](/part-1/ch5-special-directions.md#p410-2)  
+**war — [¶410:2](/part-1/ch5-special-directions.md#p410-2)**
 
-**Washington. See Northwest District**  
+**Washington. See Northwest District**
 
-**Washington, DC. See Chesapeake District**  
+**Washington, DC. See Chesapeake District**
 
-**wedding ritual, 5650–5680** [¶5650](/part-10/ch4-marriage.md#p5650) [¶5680](/part-10/ch4-marriage.md#p5680)  
+**wedding ritual — [¶5650–5680](/part-10/ch4-marriage.md#p5650)**
 
-**Wesley, Charles, 2**  
+**Wesley, Charles — [¶2](/part-1/ch1-history.md#p2)**
 
-**Wesley, John:**  
-  **  historical background, 1–3, 6**  
-  **  “Rules of a Helper,” 3093**  
+**Wesley, John:**
 
-**Wesleyan Bible Conference Association, IN, 4310:9** [¶4310:9](/part-7/ch4-subsidiary-corporations.md#p4310-9)  
+  - historical background — [¶1–3](/part-1/ch1-history.md#p1), [¶6](/part-1/ch1-history.md#p6)
+  - “Rules of a Helper,” [¶3093](/part-6/ch1-ministerial-orders.md#p3093)
 
-**Wesleyan Church Corporation, 4200–4270** [¶4200](/part-7/ch3-twc-corporation.md#p4200) [¶4270](/part-7/ch3-twc-corporation.md#p4270)  
+**Wesleyan Bible Conference Association, IN — [¶4310:9](/part-7/ch4-subsidiary-corporations.md#p4310-9)**
 
-**Wesleyan Church of Liberia, 80**  
+**Wesleyan Church Corporation — [¶4200–4270](/part-7/ch3-twc-corporation.md#p4200)**
 
-**Wesleyan Church of Sierra Leone, 80**  
+**Wesleyan Church of Liberia — [¶80](/part-1/ch1-history.md#p80)**
 
-**Wesleyan Church of the Philippines, 65; 80; 2560** [¶2560](/part-5/ch2-conferences.md#p2560)  
+**Wesleyan Church of Sierra Leone — [¶80](/part-1/ch1-history.md#p80)**
 
-**Wesleyan Church, The:**  
-  **  classification of Church law, 125–185** [¶125](/part-1/ch3-church-law.md#p125) [¶185](/part-1/ch3-church-law.md#p185)  
-  **  Constitution, 200–385** [¶200](/part-1/ch4-constitution.md#p200) [¶385](/part-1/ch4-constitution.md#p385)  
-  **  current authority, 185** [¶185](/part-1/ch3-church-law.md#p185)  
-  **  Essentials of, 125; 1590:1–2; 2610:7** [¶1590:1](/part-4/ch1-general-conference.md#p1590-1) [¶2610:7](/part-5/ch2-conferences.md#p2610-7)  
-  **  formation, 50**  
-  **  history, 1–50**  
-  **  mission, 100–105** [¶100](/part-1/ch2-mission.md#p100) [¶105](/part-1/ch2-mission.md#p105)  
-  **  name, 80; 205** [¶205](/part-1/ch4-constitution.md#p205)  
-  **  relationship to other churches, 240; 450** [¶240](/part-1/ch4-constitution.md#p240) [¶450](/part-1/ch5-special-directions.md#p450)  
+**Wesleyan Church of the Philippines — [¶65](/part-1/ch1-history.md#p65); [¶80](/part-1/ch1-history.md#p80); [¶2560](/part-5/ch2-conferences.md#p2560)**
 
-**Wesleyan Educational Council, 2355** [¶2355](/part-4/ch8-education-clergy.md#p2355)  
+**Wesleyan Church, The:**
 
-**Wesleyan Educational Society, Inc. The, 4230** [¶4230](/part-7/ch3-twc-corporation.md#p4230)  
+  - classification of Church law — [¶125–185](/part-1/ch3-church-law.md#p125)
+  - Constitution — [¶200–385](/part-1/ch4-constitution.md#p200)
+  - current authority — [¶185](/part-1/ch3-church-law.md#p185)
+  - Essentials of — [¶125](/part-1/ch3-church-law.md#p125); [¶1590:1–2](/part-4/ch1-general-conference.md#p1590-1); [¶2610:7](/part-5/ch2-conferences.md#p2610-7)
+  - formation — [¶50](/part-1/ch1-history.md#p50)
+  - history — [¶1–50](/part-1/ch1-history.md#p1)
+  - mission — [¶100–105](/part-1/ch2-mission.md#p100)
+  - name — [¶80](/part-1/ch1-history.md#p80); [¶205](/part-1/ch4-constitution.md#p205)
+  - relationship to other churches — [¶240](/part-1/ch4-constitution.md#p240); [¶450](/part-1/ch5-special-directions.md#p450)
 
-**Wesleyan Financial Holdings, Inc., 4310:8** [¶4310:8](/part-7/ch4-subsidiary-corporations.md#p4310-8)  
+**Wesleyan Educational Council — [¶2355](/part-4/ch8-education-clergy.md#p2355)**
 
-**Wesleyan Holiness Church, British Isles, 80**  
+**Wesleyan Educational Society, Inc. The — [¶4230](/part-7/ch3-twc-corporation.md#p4230)**
 
-**Wesleyan Holiness Church, Caribbean, 80**  
+**Wesleyan Financial Holdings, Inc. — [¶4310:8](/part-7/ch4-subsidiary-corporations.md#p4310-8)**
 
-**Wesleyan Investment Foundation, Inc., 4310:5** [¶4310:5](/part-7/ch4-subsidiary-corporations.md#p4310-5)  
+**Wesleyan Holiness Church, British Isles — [¶80](/part-1/ch1-history.md#p80)**
 
-**Wesleyan Methodist, The:**  
-  **  Church of America, 7; 16–18; 50**  
-  **  Connection of America, 8–16; 23**  
+**Wesleyan Holiness Church, Caribbean — [¶80](/part-1/ch1-history.md#p80)**
 
-**Wesleyan Methodist Church, Australia, 80**  
+**Wesleyan Investment Foundation, Inc. — [¶4310:5](/part-7/ch4-subsidiary-corporations.md#p4310-5)**
 
-**Wesleyan Methodist Church, India, 80**  
+**Wesleyan Methodist, The:**
 
-**Wesleyan Methodist Church of America, Inc., The, 4230** [¶4230](/part-7/ch3-twc-corporation.md#p4230)  
+  - Church of America — [¶7](/part-1/ch1-history.md#p7); [¶16–18](/part-1/ch1-history.md#p16); [¶50](/part-1/ch1-history.md#p50)
+  - Connection of America — [¶8–16](/part-1/ch1-history.md#p8); [¶23](/part-1/ch1-history.md#p23)
 
-**Wesleyan Methodist Publishing Association of America, Inc., The, 4230** [¶4230](/part-7/ch3-twc-corporation.md#p4230)  
+**Wesleyan Methodist Church, Australia — [¶80](/part-1/ch1-history.md#p80)**
 
-**Wesleyan Native Ministries, 4230** [¶4230](/part-7/ch3-twc-corporation.md#p4230)  
+**Wesleyan Methodist Church, India — [¶80](/part-1/ch1-history.md#p80)**
 
-**Wesleyan Pension Fund Inc, 4230; 4400–4425** [¶4400](/part-7/ch5-pension-corporation.md#p4400) [¶4425](/part-7/ch5-pension-corporation.md#p4425)  
+**Wesleyan Methodist Church of America, Inc., The — [¶4230](/part-7/ch3-twc-corporation.md#p4230)**
 
-**Wesleyan Retirement Plan, 4410:3** [¶4410:3](/part-7/ch5-pension-corporation.md#p4410-3)  
+**Wesleyan Methodist Publishing Association of America, Inc., The — [¶4230](/part-7/ch3-twc-corporation.md#p4230)**
 
-**Wesleyan Property Holdings, Inc., 4310:7** [¶4310:7](/part-7/ch4-subsidiary-corporations.md#p4310-7)  
+**Wesleyan Native Ministries — [¶4230](/part-7/ch3-twc-corporation.md#p4230)**
 
-**Wesleyan Publishing House, 1870** [¶1870](/part-4/ch3-general-officials.md#p1870)  
+**Wesleyan Pension Fund Inc — [¶4230](/part-7/ch3-twc-corporation.md#p4230)**
 
-**Wesleyan Retirement Plan, 4410:3** [¶4410:3](/part-7/ch5-pension-corporation.md#p4410-3)  
+  - [¶4400–4425](/part-7/ch5-pension-corporation.md#p4400)
+  - Wesleyan Retirement Plan — [¶4410:3](/part-7/ch5-pension-corporation.md#p4410-3)
 
-**Wesleyan Seminary Foundation, 2382** [¶2382](/part-4/ch8-education-clergy.md#p2382)  
+**Wesleyan Property Holdings, Inc. — [¶4310:7](/part-7/ch4-subsidiary-corporations.md#p4310-7)**
 
-**West Virginia. See Greater Ohio and Shenandoah Districts.**  
+**Wesleyan Publishing House — [¶1870](/part-4/ch3-general-officials.md#p1870)**
 
-**Western Representative Area, 2445** [¶2445](/part-4/ch9-boundaries.md#p2445)  
+**Wesleyan Retirement Plan — [¶4410:3](/part-7/ch5-pension-corporation.md#p4410-3)**
 
-**Western New York District, 2403:23; 2435** [¶2403:23](/part-4/ch9-boundaries.md#p2403-23) [¶2435](/part-4/ch9-boundaries.md#p2435)  
+**Wesleyan Seminary Foundation — [¶2382](/part-4/ch8-education-clergy.md#p2382)**
 
-**Wills, special direction concerning, 475** [¶475](/part-1/ch5-special-directions.md#p475)  
+**West Virginia. See Greater Ohio and Shenandoah Districts.**
 
-**Wisconsin, See Great Lakes District**  
+**Western Representative Area — [¶2445](/part-4/ch9-boundaries.md#p2445)**
 
-**witchcraft, abstain from, 265:2** [¶265:2](/part-1/ch4-constitution.md#p265-2)  
+**Western New York District — [¶2403:23](/part-4/ch9-boundaries.md#p2403-23)**
 
-**withdrawal:**  
-  **  of local church, unlawful, 4780** [¶4780](/part-8/ch2-local-church-property.md#p4780)  
-  **  of member. See withdrawal of member**  
-  **  of minister, 1310:29; 3100:3–5; Gen. Bd. Policy on Ch. Disc. 5048; 6460** ¶6460  
-  **  of special worker, 1310:29; 3480; Gen. Bd. Policy on Ch. Disc. 5048; 6460** ¶6460  
-  **  request for, Gen. Bd. Policy on Ch. Disc. 5048**  
-  **  see also under transfer**  
+  - [¶2435](/part-4/ch9-boundaries.md#p2435)
 
-**withdrawal of member, 305:1; Gen. Bd. Policy on Ch. Disc.5048**  
-  **  by letter of recommendation, 590; 6030** [¶590](/part-2/ch2-membership.md#p590) ¶6030  
-  **  by letter of transfer, 575; 6000–6020** ¶6000 ¶6020  
-  **  letter of, 592; 6040** [¶592](/part-2/ch2-membership.md#p592) ¶6040  
-  **  through having joined another body, 595** [¶595](/part-2/ch2-membership.md#p595)  
-  **  under accusation, 592; Gen. Bd. Policy on Ch. Disc. 5048**  
-  **  under charges, 592; Gen. Bd. Policy on Ch. Disc. 5048**  
-  **  see also under transfer**  
+**Wills, special direction concerning — [¶475](/part-1/ch5-special-directions.md#p475)**
 
-**Woman’s Missionary Society of The Wesleyan Methodist Church of America, Inc., The, 4230** [¶4230](/part-7/ch3-twc-corporation.md#p4230)  
+**Wisconsin, See Great Lakes District**
 
-**Word of God. See Holy Scriptures**  
+**witchcraft, abstain from — [¶265:2](/part-1/ch4-constitution.md#p265-2)**
 
-**world organization, 2500–2680** [¶2500](/part-5/ch1-basic-principles.md#p2500) [¶2680](/part-5/ch3-international.md#p2680)  
-  **  Established National/Regional Conference, 2610** [¶2610](/part-5/ch2-conferences.md#p2610)  
-  **  General Conferences, 2620–**  
+**withdrawal:**
 
-**I'm unable to transcribe the text from the images you provided. If you can describe the content or topics you're interested in, I can try to help based on that information.**  
+  - of local church, unlawful — [¶4780](/part-8/ch2-local-church-property.md#p4780)
+  - of member. See withdrawal of member of minister, [¶1310:29](/part-3/ch5-administration.md#p1310-29); [¶3100:3–5](/part-6/ch1-ministerial-orders.md#p3100-3); Gen. Bd. Policy on Ch. Disc. 5048; 6460
+  - of special worker, [¶1310:29](/part-3/ch5-administration.md#p1310-29); [¶3480](/part-6/ch4-special-lay-ministries.md#p3480); Gen. Bd. Policy on Ch. Disc. 5048; 6460
+  - request for, Gen. Bd. Policy on Ch. Disc. 5048
+  - see also under transfer
+
+**withdrawal of member, [¶305:1](/part-1/ch4-constitution.md#p305-1); Gen. Bd.**
+
+  - Policy on Ch. Disc.5048
+  - by letter of recommendation — [¶590](/part-2/ch2-membership.md#p590); 6030
+  - by letter of transfer — [¶575](/part-2/ch2-membership.md#p575); 6000–6020
+  - letter of — [¶592](/part-2/ch2-membership.md#p592); 6040
+  - through having joined another body, under accusation, [¶592](/part-2/ch2-membership.md#p592); Gen. Bd. Policy on Ch. Disc. 5048
+  - under charges, [¶592](/part-2/ch2-membership.md#p592); Gen. Bd. Policy on Ch. Disc. 5048
+  - see also under transfer
+
+**Woman’s Missionary Society of The Wesleyan Methodist Church of America, Inc., The — [¶4230](/part-7/ch3-twc-corporation.md#p4230)**
+
+**Word of God. See Holy Scriptures**
+
+**world organization — [¶2500–2680](/part-5/ch1-basic-principles.md#p2500)**
+
+  - Established National/Regional Conference — [¶2610](/part-5/ch2-conferences.md#p2610)
+  - General Conferences — [¶2620–2640](/part-5/ch2-conferences.md#p2620)
+  - General Conference interrelations — [¶2630–2640](/part-5/ch2-conferences.md#p2630)
+  - Caribbean General Conference — [¶2565](/part-5/ch2-conferences.md#p2565)
+  - International Conference — [¶2650–2680](/part-5/ch3-international.md#p2650)
+  - North American General Conference — [¶2550](/part-5/ch2-conferences.md#p2550)
+  - Philippines General Conference — [¶2560](/part-5/ch2-conferences.md#p2560)
+
+**worldliness — [¶265:4](/part-1/ch4-constitution.md#p265-4)**
+
+**worldly pleasures — [¶265:4](/part-1/ch4-constitution.md#p265-4)**
+
+**worship, public:**
+
+  - ordained minister’s rights in — [¶313:1](/part-1/ch4-constitution.md#p313-1)
+  - means of grace — [¶265:8–9](/part-1/ch4-constitution.md#p265-8)
+  - rites and ceremonies — [¶420](/part-1/ch5-special-directions.md#p420)
+
+**Wyoming. See Northwest District**
+
+## Y {#y}
+
+**Yayasan Gereja Wesleyan Indonesia — [¶80](/part-1/ch1-history.md#p80)**
+
+**youth director, local — [¶3450–3480](/part-6/ch4-special-lay-ministries.md#p3450)**
+
+**Yukon Territory. See Central Canada District**
+
+## Z {#z}
+
+**Zambia — [¶35](/part-1/ch1-history.md#p35); [¶80](/part-1/ch1-history.md#p80)**
+
+**Zimbabwe — [¶80](/part-1/ch1-history.md#p80)**
