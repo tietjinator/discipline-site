@@ -13,6 +13,9 @@
 #### ¶3000 {#p3000-x2}
  The Wesleyan Church believes that four marks will concur in the person whom God has called: grace, gifts, fruit, and an abiding sense of a divine call. All candidates for ministerial license, commission, or ordination shall be examined concerning each of these marks as to:
 
+#### ¶3006 {#p3006}
+ The Wesleyan Church believes that four marks will concur in the person whom God has called: grace, gifts, fruit, and an abiding sense of a divine call. All candidates for ministerial license, commission, or ordination shall be examined concerning each of these marks as to:
+
 ##### ¶3006:1 {#p3006-1}
 Grace, are they converted? are they entirely sanctified? are they manifesting the fruit of the Spirit? are they worthy examples to the church and to the world?
 

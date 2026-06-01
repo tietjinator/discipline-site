@@ -241,6 +241,18 @@ Set and enact policy related to the governance of networks only in regard to leg
 
 ### 1. Function
 
+
+#### ¶1660 {#p1660}
+##### ¶1660:11 {#p1660-11}
+ Fill, for the unexpired term, vacancies occurring among the general officials elected by the General Conference (1800; 1850) or the area representatives of the General Board (1605:2), by a two-thirds majority of the members of the General Board present and voting or by a majority of all the members of the General Board, whichever is greater (1850); and to fill vacancies occurring among the general officials elected by the General Board by majority vote; all in such a manner as to fulfill all the requirements for such offices and positions (1605:2; 1800–1810; 1903).
+##### ¶1660:12 {#p1660-12}
+ Elect by majority vote, from among the area representatives of its own membership, three ordained ministers and three lay members to be members of the Executive Board and an ordained minister as vice-chair of the General Board (1755), who will also serve as vice-chair of the Executive Board.
+##### ¶1660:13 {#p1660-13}
+ Refer such matters to the Executive Board as shall be deemed wise (1785); to review such actions of the Executive Board as are not final (1785:2, 6); and to receive and act upon its recommendations.
+
+#### ¶1670 {#p1670}
+##### ¶1670:14 {#p1670-14}
+ Recommend to the General Conference the number of representative areas and the boundaries of such areas for the election of representatives to the General Board (1590:12); and in the interim of General Conference sessions to assign new districts to the proper area.
 #### ¶1750 {#p1750}
  The Executive Board carries out the will of the General Board, serving as necessary in the interim of General Board sessions.
 

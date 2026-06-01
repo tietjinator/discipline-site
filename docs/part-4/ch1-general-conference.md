@@ -82,6 +82,9 @@ The established districts shall be considered in alphabetical order, and each el
 
 #### b. Lay Delegates
 
+
+#### ¶1522 {#p1522}
+ Whenever a ministerial delegate-elect shall transfer membership to another district, the right to represent the district shall be vacated and an alternate ministerial delegate shall be certified (1332:5; 1516).
 #### ¶1524 {#p1524}
  A lay delegate must be a lay person who is a member with the leadership qualifications ([¶260-268](/part-1/ch4-constitution.md#p260); [¶558](/part-2/ch2-membership.md#p558)) of a local church in the district represented, both at the time of election and at the time of the General Conference ([¶327:3](/part-1/ch4-constitution.md#p327-3)).
 
