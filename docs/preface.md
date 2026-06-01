@@ -10,11 +10,11 @@ THE WESLEYAN CHURCH 2022
 
 WESLEYAN PUBLISHING HOUSE
 
-INDIANAPOLIS, INDIANA
+FISHERS, INDIANA
 
  
 
-Published by authority of the Fourtheenth General Conference of The Wesleyan Church, held in St. Louis, Missouri May 22-25, 2022
+Published by authority of the Fourteenth General Conference of The Wesleyan Church, held in St. Louis, Missouri May 22–25, 2022
 
 Return to Wesleyan Discipline
 
