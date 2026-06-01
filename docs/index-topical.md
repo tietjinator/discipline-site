@@ -1707,8 +1707,7 @@ This index covers the main topics and subtopics of *The Discipline of The Wesley
 
 **membership classes — [¶568](/part-2/ch2-membership.md#p568); [¶725:11](/part-2/ch4-pastors.md#p725-11)**
 
-  - Guides and Helps to Holy Living — [¶3](/part-1/ch1-history.md#p3)
-  - [¶260–268](/part-1/ch4-constitution.md#p260)
+  - Guides and Helps to Holy Living — [¶260–268](/part-1/ch4-constitution.md#p260)
 
 **membership — [¶550–610](/part-2/ch2-membership.md#p550)**
 
