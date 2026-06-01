@@ -12,48 +12,11 @@ church secretary (¶830)
 church treasurer or business manager (¶842)—appointment may be delegated to the local board of administration
 delegates to district conference (¶965; [¶1086](/part-3/ch2-conference.md#p1086); [¶1100-1109](/part-3/ch2-conference.md#p1100))
 pastor ([¶675-725](/part-2/ch4-pastors.md#p675))
-trustees (¶850-859), unless delegated to the local board of administration
 ##### ¶800:2 {#p800-2}
  The church shall have the following officers and personnel, elected by the local board of administration:
 auditor or auditing committee (¶863)
 offering teller (¶845:3)
 vice-chair of local board of administration ([¶773](/part-2/ch5-local-board.md#p773))
-##### ¶800:3 {#p800-3}
- The church may have additional ministry leaders and personnel, as it deems necessary, elected by the local church conference, such as:
-associate pastor ([¶738](/part-2/ch4-pastors.md#p738))—elected by the local church conference
-lay leader (¶833)—elected by the local church conference
-spiritual formation director or Sunday school superintendent (¶887-890)
-nominating committee (¶820-823) —up to four additional committee members who are not local board of administration members to serve with the pastor and two members elected by the local board of administration from among its membership
-##### ¶800:4 {#p800-4}
- The church may have additional ministry leaders and personnel, as it deems necessary, elected by the local board of administration, such as:
-adult ministry director, staff and team (¶924)
-assistant treasurer (¶845:1)
-assistant pastor ([¶741](/part-2/ch4-pastors.md#p741))
-building committee (¶856:6)
-children’s ministry director, staff, and team (¶880:2, 7-8)
-communion committee (¶873)
-custodial staff ([¶782:17](/part-2/ch5-local-board.md#p782-17); ¶856:5)
-day care and/or day school committee (655:19-20; 782:36-37; [¶1233:35](/part-3/ch3-board.md#p1233-35))
-educational director (¶926)
-evangelism director and committee (¶935; ¶960)
-fellowship committee (¶880:19)
-finance and stewardship committee (¶865-868)
-financial or tithing secretary (¶845:2)
-judicial committee (¶970; ¶5110)
-lay assistant to the pastor ([¶744](/part-2/ch4-pastors.md#p744))
-literature secretary (¶928)
-missions director and committee (¶930; ¶955)
-music committee (¶873)
-music minister or director (¶870)
-nominating committee (¶820-823)—two members elected by the local board of administration from its membership
-office staff ([¶725:29](/part-2/ch4-pastors.md#p725-29); [¶782:17](/part-2/ch5-local-board.md#p782-17))
-pastor’s advisory committee ([¶795](/part-2/ch5-local-board.md#p795))
-spiritual formation leadership team (¶875-880)
-Sunday school staff and committee (¶895-903)
-ushering committee (¶873)
-witness and membership committee (¶835-837)
-women’s ministry officers and committees (¶945)
-Wesleyan Youth adult leader, officers, and committees (¶922)
 
 ## B. General Regulations
 
@@ -127,28 +90,6 @@ Wesleyan Youth adult leader, officers, and committees (¶922)
  Send to the district secretary a certified list of lay delegates to the district conference duly elected by the local church conference, immediately upon their election, and subsequently to certify an alternate delegate (¶965; [¶1100-1109](/part-3/ch2-conference.md#p1100)).
 ##### ¶830:5 {#p830-5}
  Have custody of all records, and take whatever steps are necessary to preserve them and other historical records and materials, as directed by the pastor and the local board of administration.
-
-### 2. Lay Leader
-
-#### ¶833 {#p833}
- The local church conference, at its annual session, may elect by ballot, from among its members who meet the leadership qualifications ([¶260-268](/part-1/ch4-constitution.md#p260); [¶558](/part-2/ch2-membership.md#p558)) a lay leader (cf. ¶820–823), who shall serve for one year or until a successor is elected, and whose function shall be to assist the pastor in such manner as the pastor shall recommend and the local church conference shall approve. General regulations concerning this office are given in ¶815. The duties of the lay leader may include any or all of the following: member ex officio of the local board of administration ([¶752](/part-2/ch5-local-board.md#p752)), leader under the pastor’s direction of church prayer meetings or of small groups, classes or neighborhood prayer cells for the deepening of spiritual life and home evangelism.
-
-### 3. Committee on Witness and Membership
-
-#### ¶835 {#p835}
- The local board of administration may establish a committee on witness and membership, composed of the pastor, the vice-chair of the local board of administration, the local church secretary, the lay leader (if any), and such other members as the local board of administration shall elect. The local board of administration shall name a board member as chair of the committee, and the committee shall choose its own vice-chair and secretary. General regulations governing membership on this committee are given in ¶825.
-
-#### ¶837 {#p837}
- The local board of administration shall assign such duties to the committee on witness and membership as it deems best, including any or all of the following:
-
-##### ¶837:1 {#p837-1}
- To conduct the examination of candidates for membership; to counsel with members concerning any failure to observe the Membership Commitments ([¶265](/part-1/ch4-constitution.md#p265)); to have initial responsibility in the annual revision of the membership roll; to assist the pastor in any attempts to restore members who have ceased to attend or support the church; and to make recommendations concerning all these matters to the local board of administration in accordance with the principles of Christian discipline ([¶268](/part-1/ch4-constitution.md#p268); [782:8-13](/part-2/ch5-local-board.md#p782-8)).
-##### ¶837:2 {#p837-2}
- To make recommendations to the local board of administration concerning revivals and other evangelistic efforts.
-##### ¶837:3 {#p837-3}
- To alert the local church to its responsibilities in the area of community social and political reform, recommending courses of action it deems necessary to the local board of administration (cf. [¶410](/part-1/ch5-special-directions.md#p410)).
-##### ¶837:4 {#p837-4}
- To nominate, for election by the local board of administration, such standing or special subcommittees as the local board of administration shall approve, with a member of the committee as chair of each.
 
 ## D. Finance and Stewardship
 
