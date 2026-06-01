@@ -28,7 +28,7 @@ vice-chair of local board of administration ([¶773](/part-2/ch5-local-board.md#
 
 #### ¶810 {#p810}
  Church.
- An established church, in addition to the local church conference and the local board of administration, shall have a minimum organization consisting of a local church secretary (¶830), a local church treasurer (¶842), an offering teller (¶845:3), an auditing committee (¶863), and a board of trustees consisting of at least three members (¶850-859). Normally it would have a Sunday school superintendent and staff (¶889-910). Additional offices, positions, and committees may be added as provided herewith by the local church conference and the local board of administration as need requires and as qualified personnel are available.
+ An established church, in addition to the local church conference and the local board of administration, shall have a minimum organization consisting of a local church secretary (¶830), a local church treasurer (¶842), an offering teller (¶845:3), an auditing committee (¶863), and a board of trustees consisting of at least three members (¶850-859).
 
 ### Church Officers
 
@@ -149,10 +149,6 @@ vice-chair of local board of administration ([¶773](/part-2/ch5-local-board.md#
  Make recommendations to the local board of administration concerning sufficient property and liability insurance on the property and for any vehicles owned and operated by the local church, and to carry out the instructions of the local board of administration in securing such insurance ([¶782:26](/part-2/ch5-local-board.md#p782-26)).
 ##### ¶856:7 {#p856-7}
  Make such reports as are requested by the local church conference or the local board of administration.
-##### ¶856:8 {#p856-8}
- To make recommendations to the local board of administration concerning sufficient property and liability insurance on the property and for any vehicles owned and operated by the local church, and to carry out the instructions of the local board of administration in securing such insurance ([¶782:29](/part-2/ch5-local-board.md#p782-29)).
-##### ¶856:9 {#p856-9}
- To make such reports as are requested by the local church conference or the local board of administration.
 
 #### ¶859 {#p859}
  Restrictions.
