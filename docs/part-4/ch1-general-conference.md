@@ -7,7 +7,7 @@
 
 ## B. Membership
 
-### 1. Plan of Representation
+### 1. Plan of Representation {#plan-of-representation}
 
 #### ¶1503 {#p1503}
  The General Conference shall be composed of voting and nonvoting members as follows:
@@ -34,12 +34,12 @@ The following, when they are not voting members by some other right, shall be se
 ##### ¶1503:3 {#p1503-3}
 The General Board shall designate the number of nonvoting members from mission units under the Global Partners Division, upon recommendation of the Executive Director of Global Partners.
 
-### 2. Forfeiture of Representation
+### 2. Forfeiture of Representation {#forfeiture}
 
 #### ¶1506 {#p1506}
  A district or developing district which has been placed under discipline as provided for in the *General Board Policy on Church Discipline* (¶5365-5370) shall forfeit all rights to any representation in the General Conference ([¶323:9](/part-1/ch4-constitution.md#p323-9)). The delegates, including the district superintendent and any delegate-at-large from that district, shall not be recognized or seated until the district or developing district they represent is officially reinstated (*Gen. Bd. Policy on Ch. Disc.* ¶5365).
 
-### 3. Election of Delegates
+### 3. Election of Delegates {#election}
 
 #### a. Delegates-at-Large
 
@@ -71,7 +71,7 @@ The established districts shall be considered in alphabetical order, and each el
 #### ¶1518 {#p1518}
  Whenever the district superintendent, who is an ex officio member of the General Conference ([¶1503:1a](#p1503-1a)), is unable to attend, the place of the district superintendent shall be filled by the assistant district superintendent (if any). If the assistant district superintendent is an elected delegate to the General Conference, the place of the assistant district superintendent shall then be filled like any other vacancy by an alternate ministerial delegate.
 
-### 4. Qualifications of Delegates
+### 4. Qualifications of Delegates {#qualifications}
 
 #### a. Ministerial Delegates
 
@@ -90,7 +90,7 @@ The established districts shall be considered in alphabetical order, and each el
 
 ## C. Sessions
 
-### 1. Regular Sessions
+### 1. Regular Sessions {#regular-sessions}
 
 #### ¶1528 {#p1528}
  The General Conference shall meet quadrennially, in the spring season at a place, date, and hour determined by the General Board ([¶330:1](/part-1/ch4-constitution.md#p330-1); [¶1655:4](/part-4/ch2-general-board.md#p1655-4)).
@@ -98,7 +98,7 @@ The established districts shall be considered in alphabetical order, and each el
 #### ¶1530 {#p1530}
  Whenever an emergency shall require a change in the plans of the General Conference for the time of the next regular session, the General Board may, by a two-thirds vote, declare that such an emergency exists and authorize the necessary changes ([¶330:1](/part-1/ch4-constitution.md#p330-1); [¶1655:5](/part-4/ch2-general-board.md#p1655-5)).
 
-### 2. Special Sessions
+### 2. Special Sessions {#special-sessions}
 
 #### ¶1532 {#p1532}
  A special session of the General Conference shall be called by the General Superintendent whenever authorized to do so by a two-thirds vote of the General Board ([¶1655:6](/part-4/ch2-general-board.md#p1655-6)), or when requested to do so by two-thirds of the established district conferences ([¶330:2](/part-1/ch4-constitution.md#p330-2); [¶1180:6](/part-3/ch2-conference.md#p1180-6)). The time and place for the special session shall be decided by the General Board ([¶1655:5](/part-4/ch2-general-board.md#p1655-5)), or, in the interim of its sessions, by the Executive Board. The time shall always be later than the next session of each district conference ([¶330:2](/part-1/ch4-constitution.md#p330-2)).
@@ -108,17 +108,17 @@ The established districts shall be considered in alphabetical order, and each el
 
 ## D. Organization and Procedure
 
-### 1. Officers
+### 1. Officers {#officers}
 
 #### ¶1536 The Presidency {#p1536}
  ([¶332](/part-1/ch4-constitution.md#p332)). The General Superintendent shall preside over the General Conference. When no General Superintendent is present, the General Conference shall elect by ballot an ordained minister as president pro tem.
 
 #### ¶1539 The Secretary {#p1539}
-. The Executive Director of Communication and Administration shall be the secretary of the General Conference and shall accurately record the proceedings, preserve them in permanent form, and perform any other such duties as shall be required by the General Conference.
+ The Executive Director of Communication and Administration shall be the secretary of the General Conference and shall accurately record the proceedings, preserve them in permanent form, and perform any other such duties as shall be required by the General Conference.
 
-### 2. Procedure
+### 2. Procedure {#procedure}
 
-#### ¶1542 Delegates. {#p1542}
+#### ¶1541 Delegates. {#p1541}
  Once a delegate has been seated at the General Conference, an alternate delegate cannot thereafter be seated in place of the seated delegate ([¶1514](#p1514)).
 
 #### ¶1543 Quorum {#p1543}
@@ -136,7 +136,7 @@ The established districts shall be considered in alphabetical order, and each el
 #### ¶1553 Suspension of Rules. {#p1553}
  The General Conference may suspend for a particular session any statutory law ([¶155](/part-1/ch3-church-law.md#p155)) set forth in *The Discipline* governing the procedures of the General Conference, by a two-thirds majority vote.
 
-### 3. Memorials
+### 3. Memorials {#memorials}
 
 #### ¶1557 {#p1557}
  Memorials to the General Conference, including proposed changes to *The Discipline* other than the Constitution ([¶200-385](/part-1/ch4-constitution.md#p200)), may be submitted by a district conference, a district board of administration, the General Board, a General Conference committee, the governing board of an educational or benevolent institution, the governing board of a subsidiary corporation, the general executive committee of an auxiliary organization, or any ten members of the General Conference.
@@ -144,7 +144,7 @@ The established districts shall be considered in alphabetical order, and each el
 #### ¶1560 {#p1560}
  Memorials proposing an amendment to the Constitution ([¶200–385](/part-1/ch4-constitution.md#p200)) may be submitted to the General Conference only by a district conference by a two-thirds vote ([¶1180:1](/part-3/ch2-conference.md#p1180-1)), or by the General Board ([¶1655:8](/part-4/ch2-general-board.md#p1655-8)).
 
-### 4. Committees
+### 4. Committees {#committees}
 
 #### ¶1563 {#p1563}
  The General Conference shall have such committees as it may deem necessary. The committees shall be nominated by the General Board, unless ordered otherwise in *The Discipline* or by the General Conference, and elected by the General Conference.
