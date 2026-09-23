@@ -6,3 +6,6 @@ dist
 BUILD-PLAN.md
 *.pdf
 custom.css.backup
+__pycache__/
+*.py[cod]
+$py.class

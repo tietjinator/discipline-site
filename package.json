@@ -1,7 +1,7 @@
 {
   "name": "discipline-site",
   "version": "1.0.0",
-  "description": "The Discipline of The Wesleyan Church 2022 — navigable web edition",
+  "description": "The Discipline of The Wesleyan Church 2026 — navigable web edition",
   "type": "module",
   "scripts": {
     "docs:dev": "vitepress dev docs",

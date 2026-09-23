@@ -1,8 +1,6 @@
 # Part 11 — Forms
 
-*¶6000–6499*
-
-| Chapter | Paragraphs |
-|---------|-----------|
-| [Ch. 1 — Church Letters](ch1-church-letters) | ¶6000–6249 |
-| [Ch. 2 — Service Credentials](ch2-service-credentials) | ¶6250–6499 |
+| Chapter | File | Records |
+|---|---:|---:|
+| [Ch. 1 — Church Letters](ch1-church-letters) | `ch1-church-letters.md` | 36 |
+| [Ch. 2 — Service Credentials](ch2-service-credentials) | `ch2-service-credentials.md` | 76 |

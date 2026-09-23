@@ -1,0 +1,192 @@
+# Chapter 6 — Local Church Officers and Committees
+
+## A. List of Local Church Officers, Boards, and Committees
+
+#### ¶800 {#p800}
+ The following summarizes for quick reference the various officers, boards, and committees of the local church:
+
+##### ¶800:1 {#p800-1}
+ The church shall have the following officers and personnel, elected by the local church conference:
+board of administration, local ([¶750-782](/2022/part-2/ch5-local-board#p750))
+church secretary ([¶830](#p830))
+church treasurer or business manager ([¶842](#p842))—appointment may be delegated to the local board of administration
+delegates to district conference ([¶965](#p965); [¶1086](/2022/part-3/ch2-conference#p1086); [¶1100-1109](/2022/part-3/ch2-conference#p1100))
+pastor ([¶675-725](/2022/part-2/ch4-pastors#p675))
+##### ¶800:2 {#p800-2}
+ The church shall have the following officers and personnel, elected by the local board of administration:
+auditor or auditing committee ([¶863](#p863))
+offering teller ([¶845:3](#p845-3))
+vice-chair of local board of administration ([¶773](/2022/part-2/ch5-local-board#p773))
+
+## B. General Regulations
+
+### Minimum Organization of Local Church Officers, Boards and Committees
+
+#### ¶807 {#p807}
+ Developing Church.
+ A developing church may operate without any regularly constituted officers other than the pastor, but will ordinarily have a local advisory council of three to five members appointed by the district superintendent in cooperation with the pastor. The pastor and these members will form the local advisory council. This council may then appoint such other officers and committees as are needed and for which qualified personnel are available (cf. [¶510:3](/2022/part-2/ch1-organization#p510-3)).
+
+#### ¶810 {#p810}
+ Church.
+ An established church, in addition to the local church conference and the local board of administration, shall have a minimum organization consisting of a local church secretary ([¶830](#p830)), a local church treasurer ([¶842](#p842)), an offering teller ([¶845:3](#p845-3)), an auditing committee ([¶863](#p863)), and a board of trustees consisting of at least three members ([¶850-859](#p850)).
+
+### Church Officers
+
+#### ¶815 {#p815}
+ The church officers shall include all members of the local board of administration, and delegates to district conference who shall serve subject to the following regulations:
+
+##### ¶815:1 {#p815-1}
+ They must be members of the local Wesleyan church electing them ([¶302:4](/2022/part-1/ch4-constitution#p302-4); [¶558](/2022/part-2/ch2-membership#p558)) and members who meet the leadership qualifications ([¶260-268](/2022/part-1/ch4-constitution#p260); [¶558](/2022/part-2/ch2-membership#p558)).
+##### ¶815:2 {#p815-2}
+ They shall be elected by the local church conference at its annual session ([¶315:5-7](/2022/part-1/ch4-constitution#p315-5); [¶820-823](#p820)). Vacancies occurring between annual sessions of the local church conference shall be filled for the unexpired term by the local board of administration.
+##### ¶815:3 {#p815-3}
+ They shall carry out their duties as given in *The Discipline* and as further defined by the local church conference and the local board of administration.
+##### ¶815:4 {#p815-4}
+ They shall be under the general supervision of the pastor, shall be amenable to the local church conference, and may be removed for cause or when the best interests of the church so require, by a majority vote of the local board of administration ([¶752:1](/2022/part-2/ch5-local-board#p752-1); [¶815:2](#p815-2); [¶825:4](#p825-4)).
+
+### Nominating Committee
+
+#### ¶820 {#p820}
+ Each established church may have a nominating committee consisting of the pastor as chair and two members who meet the leadership qualifications ([¶260-268](/2022/part-1/ch4-constitution#p260); [¶558](/2022/part-2/ch2-membership#p558)) elected by the local board of administration from its membership ([¶782:20](/2022/part-2/ch5-local-board#p782-20)). The local board of administration shall elect two or more additional members with the leadership qualifications, who are not members of the local board of administration.
+
+#### ¶823 {#p823}
+ When a nominating committee has been established, it shall present to the local church conference, at its annual session, nominations for each of the following officers: local church secretary and local church treasurer (if any), the Sunday school superintendent (if any). One or more names shall be presented for each office ([¶755](/2022/part-2/ch5-local-board#p755). The nominating committee shall present, at the properly announced session of the local church conference ([¶965](#p965); [¶1103](/2022/part-3/ch2-conference#p1103)), nominations for as many delegates to the district conference as the district board of administration shall determine ([¶1100](/2022/part-3/ch2-conference#p1100)). The nominating committee may be used for other nominations as ordered by the local church conference, or as ordered by the local board of administration for positions elected by the board ([¶825](#p825)).
+
+### Other Positions
+
+#### ¶825 {#p825}
+ Persons holding positions of service within the local church, other than those specifically designated as church officers in [¶815](#p815), and including membership on committees, shall be governed by the following regulations:
+
+##### ¶825:1 {#p825-1}
+ They shall be members of the local Wesleyan church electing them.
+##### ¶825:2 {#p825-2}
+ They shall be elected annually by the local board of administration ([¶782:22-23](/2022/part-2/ch5-local-board#p782-22)), or as otherwise provided.
+##### ¶825:3 {#p825-3}
+ They shall carry out their duties as given in The *Discipline* and as further defined by the local church conference and local board of administration.
+##### ¶825:4 {#p825-4}
+ They shall be under the general supervision of the pastor, shall be amenable to the local board of administration, and may be removed for cause or when the best interests of the church so require, by a majority vote of the local board of administration.
+##### ¶825:5 {#p825-5}
+ Vacancies shall be filled for the unexpired term by the local board of administration.
+
+### General Regulations for Installation Service
+
+#### ¶828 {#p828}
+ Those elected to church offices and to other positions of service within the local church may be installed in office at an annual installation service following the ritual given in [¶5915-5925](/2022/part-10/ch9-installation#p5915).
+
+## C. Witness and Membership
+
+### 1. Church Secretary
+
+#### ¶830 {#p830}
+ The local church conference, at its annual session, shall elect by ballot, from among its members who meet the leadership qualifications ([¶260-268](/2022/part-1/ch4-constitution#p260); [¶558](/2022/part-2/ch2-membership#p558)), a church secretary ([¶820-823](#p820)), to serve for one year or until a successor is elected. The church secretary shall be an ex officio member of the local board of administration ([¶775](/2022/part-2/ch5-local-board#p775)). General regulations covering this office are given in [¶815](#p815). The duties and powers of the local church secretary shall be to:
+
+##### ¶830:1 {#p830-1}
+ Record correctly and to preserve faithfully the minutes of all sessions of the local church conference and the local board of administration.
+##### ¶830:2 {#p830-2}
+ Maintain the local church’s record of membership, record of baptisms, marriages, and pastoral terms, and other information essential to a permanent written record of the life and ministry of the church ([¶610](/2022/part-2/ch2-membership#p610)).
+##### ¶830:3 {#p830-3}
+ Issue, in conjunction with the pastor, all letters of transfer, recommendation, and withdrawal ([¶575](/2022/part-2/ch2-membership#p575); [¶590-592](/2022/part-2/ch2-membership#p590); [¶6000-6040](/2022/part-11/ch1-church-letters#p6000)); and to sign, in conjunction with the pastor ([¶725:26](/2022/part-2/ch4-pastors#p725-26)), licenses for lay ministers granted by the local church conference ([¶655:7](/2022/part-2/ch3-conference#p655-7); [¶782:18](/2022/part-2/ch5-local-board#p782-18)).
+##### ¶830:4 {#p830-4}
+ Send to the district secretary a certified list of lay delegates to the district conference duly elected by the local church conference, immediately upon their election, and subsequently to certify an alternate delegate ([¶965](#p965); [¶1100-1109](/2022/part-3/ch2-conference#p1100)).
+##### ¶830:5 {#p830-5}
+ Have custody of all records, and take whatever steps are necessary to preserve them and other historical records and materials, as directed by the pastor and the local board of administration.
+
+## D. Finance and Stewardship
+
+### 1. Church Treasurer
+
+#### ¶842 {#p842}
+ The local church shall have either a local church treasurer or a business manager. If there is a church treasurer, that officer shall be elected by the local church conference at its annual election, by ballot, from among the members who meet the leadership qualifications ([¶260–268](/2022/part-1/ch4-constitution#p260); [¶558](/2022/part-2/ch2-membership#p558)), to serve for one year or until a successor is elected. Or the local church conference may authorize the local board of administration to appoint a treasurer or to appoint or employ a business manager who will assume the duties of the treasurer. The duties and powers of the person charged with the local church treasury are to:
+
+##### ¶842:1 {#p842-1}
+ Receive, hold, and disburse, as ordered by the local church conference or the local board of administration, all moneys of the local church, including such of the departments and auxiliary organizations as the local board of administration shall order.
+##### ¶842:2 {#p842-2}
+ Keep complete and accurate records of all moneys raised and of the manner in which they are disbursed, and provide the pastor with information concerning the same as the pastor shall require.
+##### ¶842:3 {#p842-3}
+ Make monthly reports to the local board of administration, which shall be available upon request to any member of the local church, and make reports to all regular sessions of the local church conference.
+##### ¶842:4 {#p842-4}
+ Make monthly remittances of all USF and district funds to the district treasurer or directly to the general department for which the funds are intended.
+##### ¶842:5 {#p842-5}
+ Issue receipts annually to all contributors showing their total tithes and offerings and the various items of giving, and issue other receipts as requested or by order of the local board of administration.
+##### ¶842:6 {#p842-6}
+ Submit all books for audit by the auditing committee annually ([¶863](#p863)), or as ordered by the local board of administration, and submit to the local board of administration the complete treasurer’s records at such time as the person shall cease to hold the office of treasurer.
+
+#### ¶845 {#p845}
+ Assistants for the local church treasurer are provided for as follows:
+
+##### ¶845:1 {#p845-1}
+ An assistant treasurer may be elected by the local board of administration, with authority to sign checks when the treasurer is unable to do so.
+##### ¶845:2 {#p845-2}
+ A financial secretary or tithing secretary may be elected by the local board of administration to assist the treasurer in keeping the record of individual tithes and offerings ([¶842:5](#p842-5)).
+##### ¶845:3 {#p845-3}
+ One or more tellers shall be elected by the local board of administration to assist the treasurer in the counting of all tithes and offerings, all moneys being counted by two or more persons and recorded as to date of reception, purpose of the offering, and amount. These records shall be preserved and made available to the auditor or auditing committee.
+
+### 2. Board of Trustees
+
+#### ¶850 {#p850}
+ Election.
+ The local board of administration, shall serve as the board of trustees. If the local board of administration so chooses, it may from its membership elect from three to seven to serve as the board of trustees.
+
+#### ¶853 {#p853}
+ Organization and Procedure.
+ If the local board of administration chooses to elect the board of trustees from its members, the board of trustees shall meet following the annual session of the local church conference to elect a chair, vice-chair, and secretary, and shall meet at such other times as ordered by the local board of administration or as made necessary by their duties.
+
+#### ¶856 {#p856}
+ Duties and Powers.
+ The local board of trustees shall carry out their duties as required by *The Discipline* ([¶4500–4780](/2022/part-8/ch1-general-principles#p4500)) and shall be responsible to:
+
+##### ¶856:1 {#p856-1}
+ Carry out the instructions of the local church conference and the local board of administration in supervising, controlling, maintaining, and improving all church property ([¶315:6](/2022/part-1/ch4-constitution#p315-6); [¶655:13](/2022/part-2/ch3-conference#p655-13); [¶782:25](/2022/part-2/ch5-local-board#p782-25)).
+##### ¶856:2 {#p856-2}
+ Supervise such expenditures as have been approved by the local church conference or the local board of administration for repairs, improvements, and alterations.
+##### ¶856:3 {#p856-3}
+ Attend to all legal matters regarding the acquisition, purchase, sale, mortgage, transfer, or other disposition of property as properly authorized ([¶4700–4728](/2022/part-8/ch2-local-church-property#p4700)); to see that titles are correct, contain the proper trust clause ([¶4610](/2022/part-8/ch1-general-principles#p4610)), are approved by the district superintendent ([¶1310:11](/2022/part-3/ch5-administration#p1310-11); [¶4700:5](/2022/part-8/ch2-local-church-property#p4700-5)), and are recorded ([¶4540](/2022/part-8/ch1-general-principles#p4540)); and to see that property and legal records are properly stored ([¶4760](/2022/part-8/ch2-local-church-property#p4760)).
+##### ¶856:4 {#p856-4}
+ Attend to all other legal matters pertaining to the local church, as authorized and directed by the local church conference or the local board of administration, including renting property, borrowing money, and receiving and administering bequests and trusts.
+##### ¶856:5 {#p856-5}
+ Carry out the directions of the local church conference or local board of administration concerning the purchase, sale, mortgage, transfer, or other disposition of property, provided that such transactions have been approved by the district board of administration as set forth in [¶4700–4790](/2022/part-8/ch2-local-church-property#p4700).
+##### ¶856:6 {#p856-6}
+ Make recommendations to the local board of administration concerning sufficient property and liability insurance on the property and for any vehicles owned and operated by the local church, and to carry out the instructions of the local board of administration in securing such insurance ([¶782:26](/2022/part-2/ch5-local-board#p782-26)).
+##### ¶856:7 {#p856-7}
+ Make such reports as are requested by the local church conference or the local board of administration.
+
+#### ¶859 {#p859}
+ Restrictions.
+ The local board of trustees shall be subject to the following restrictions:
+
+##### ¶859:1 {#p859-1}
+ The local board of trustees must carry out the instructions of the local board of administration, the local church conference, and the district board of administration. If a local trustee refuses to carry out such instructions when the instructions meet all the requirements of local laws and of *The Discipline*, the trustee may be removed from office as given in [¶815:4](#p815-4) ([¶4530](/2022/part-8/ch1-general-principles#p4530)).
+##### ¶859:2 {#p859-2}
+ The local board of trustees cannot mortgage or otherwise encumber local church property without the express authorization of the local church conference and the approval of the district board of administration as set forth in [¶4700–4720](/2022/part-8/ch2-local-church-property#p4700).
+##### ¶859:3 {#p859-3}
+ The local board of trustees cannot deny the use of the parsonage, church building or other local church buildings, to the pastor who has been duly appointed by the district conference or district board of administration, nor the use of the church building to the membership of the local church and duly elected officials of The Wesleyan Church (cf. [¶4770](/2022/part-8/ch2-local-church-property#p4770)).
+##### ¶859:4 {#p859-4}
+ The local board of trustees cannot divert church property from The Wesleyan Church ([¶4550](/2022/part-8/ch1-general-principles#p4550); [¶4780](/2022/part-8/ch2-local-church-property#p4780)).
+##### ¶859:5 {#p859-5}
+ When a church is reclassified as a developing church (cf. [¶518:7](/2022/part-2/ch1-organization#p518-7); [¶1233:30](/2022/part-3/ch3-board#p1233-30)), the office and power of the local board of trustees shall cease, and all property shall pass directly under the control of the district board of administration ([¶4670](/2022/part-8/ch2-local-church-property#p4670)).
+
+### 3. Auditing Committee
+
+#### ¶863 {#p863}
+ The local board of administration shall be responsible to provide for the annual internal or external auditing of the books of the local church treasurer and of all departmental and auxiliary treasurers, either through the election of an auditing committee or the employment of an auditor. If an auditing committee is used for some or all of the treasuries, it shall consist of one to three persons. A report to certify the results of the annual audit shall be presented to the local board of administration. General regulations concerning committee members are given in [¶825](#p825).
+
+## E. Worship
+
+#### ¶870 {#p870}
+ The worship ministry of the church falls under the authority of the pastor ([¶725:5](/2022/part-2/ch4-pastors#p725-5)).
+
+## F. Spiritual Formation
+
+#### ¶885 {#p885}
+ Each local church shall provide for systematic Bible study. Sunday school, small group Bible studies, and other programs or events that promote making more and better disciples of Jesus Christ are to be considered by the local church.
+
+## G. Lay Delegates to District Conference
+
+#### ¶965 {#p965}
+ The local church conference, at one of its officially announced sessions, shall elect by ballot ([¶820–823](#p820)), from among its members who meet the leadership qualifications ([¶260-268](/2022/part-1/ch4-constitution#p260); [¶558](/2022/part-2/ch2-membership#p558)), the number of lay delegates to the district conference assigned by the district board of administration and a sufficient number of alternate delegates who shall serve for the regular annual session and for any reconvened session. General regulations covering this office are given in [¶815](#p815) and in [¶1100–1109](/2022/part-3/ch2-conference#p1100).
+
+## H. Judicial Committees
+
+#### ¶970 {#p970}
+ The local board of administration shall elect, when it deems it necessary and in accordance with the regulations of the *General Board Policy on Church Discipline*, a committee of investigation or a local judicial committee. Complete regulations concerning the qualifications, procedures, and duties of such committees are given in the *General Board Policy on Church Discipline* (¶5012; ¶5110).
+

@@ -1,0 +1,646 @@
+/* Raleway TWC 2.0 is self-hosted at /fonts/ - already compiled into theme */
+
+/* ==========================================================================
+   TWC DISCIPLINE WIKI - DESIGN TASTE-SKILL REFINEMENTS
+   Dials: DESIGN_VARIANCE: 4 | MOTION_INTENSITY: 3 | VISUAL_DENSITY: 5
+   ========================================================================== */
+
+:root {
+  /* Layout Options */
+  --vp-sidebar-width: 256px;
+
+  /* Font Family Overrides (Banning Inter as base font) */
+  --vp-font-family-base: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  --vp-font-family-headings: "Raleway", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --vp-font-family-mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Monaco, Consolas, monospace;
+
+  /* TWC Brand Color Palette */
+  --twc-dark-blue: #0B496F;
+  --twc-light-blue: #39AAE1;
+  --twc-dark-gray: #333132;
+  --twc-mid-gray: #B8B9B9;
+  --twc-light-gray: #E7E7E7;
+  --twc-light-blue-lt: #BDE6FA;
+  --twc-aqua: #40BCBC;
+  --twc-green: #83B841;
+  --twc-yellow: #FDBF51;
+  --twc-red: #EA6351;
+
+  /* VitePress Semantic Color Overrides */
+  --vp-c-brand-1: var(--twc-dark-blue);
+  --vp-c-brand-2: var(--twc-light-blue);
+  --vp-c-brand-3: var(--twc-aqua);
+  --vp-c-text-1: var(--twc-dark-gray);
+  --vp-c-bg-selection: var(--twc-light-blue-lt);
+  --vp-c-divider: var(--twc-light-gray);
+  --vp-c-gutter: var(--twc-light-gray);
+  --vp-c-border: var(--twc-mid-gray);
+
+  /* Light background: warm light gray to reduce glare */
+  --vp-c-bg: #E7E7E7;
+  --vp-c-bg-alt: #DBDBDB;
+  --vp-c-bg-elv: #EDEDED;
+  --vp-c-bg-soft: #EEEEEE;
+
+  /* Easing Presets */
+  --ease-fluid: cubic-bezier(0.16, 1, 0.3, 1);
+  --transition-smooth: all 0.3s var(--ease-fluid);
+
+  /* Corner Radius Scale */
+  --radius-interactive: 8px;
+  --radius-container: 12px;
+  
+  /* Scrollbars default */
+  --scrollbar-thumb-color: var(--twc-mid-gray);
+  --scrollbar-thumb-hover-color: var(--twc-dark-blue);
+}
+
+/* ==========================================================================
+   DARK MODE OVERRIDES (Scoped to .dark class selector)
+   ========================================================================== */
+.dark {
+  /* Proper dark background: deep charcoal/navy, not pure black */
+  --vp-c-bg: #0E1622; /* Primary page background */
+  --vp-c-bg-alt: #080D14; /* Sidebar, footer, code blocks, alternate bg */
+  --vp-c-bg-elv: #172334; /* Card backgrounds, dropdowns, dialogs */
+  --vp-c-bg-soft: #121C2A; /* Blockquotes, admonitions, soft containers */
+
+  /* Borders, dividers and gutters in dark mode */
+  --vp-c-border: #22344B; /* Slate navy borders */
+  --vp-c-divider: #1A283A; /* Fine line dividers */
+  --vp-c-gutter: #080D14;
+
+  /* Typography Colors in dark mode (high contrast slate/gray, never pure white) */
+  --vp-c-text-1: #E2E8F0; /* Main body text */
+  --vp-c-text-2: #94A3B8; /* Muted text */
+  --vp-c-text-3: #64748B; /* Secondary muted labels/metadata */
+
+  /* Text Selection color */
+  --vp-c-bg-selection: rgba(57, 170, 225, 0.25);
+
+  /* Dark mode brand/accent colors: vibrant light blues */
+  --vp-c-brand-1: #39AAE1; /* Vibrant light blue for links, toggles */
+  --vp-c-brand-2: #5CBBEA; /* Hover light blue */
+  --vp-c-brand-3: #BDE6FA; /* Active/focus state */
+  --vp-c-brand-soft: rgba(57, 170, 225, 0.12); /* Soft transparent background */
+
+  /* Nav bar and sidebar specific colors */
+  --vp-nav-bg-color: rgba(14, 22, 34, 0.85); /* Glassmorphic nav bg */
+  --vp-sidebar-bg-color: #080D14; /* Solid sidebar bg */
+
+  /* Scrollbar thumb colors in dark mode */
+  --scrollbar-thumb-color: #22344B;
+  --scrollbar-thumb-hover-color: #39AAE1;
+}
+
+/* ==========================================================================
+   1. TYPOGRAPHY AND LETTER SPACING
+   ========================================================================== */
+
+/* Headings typography override */
+h1, h2, h3, h4, h5, h6,
+.vp-doc h1, .vp-doc h2, .vp-doc h3, .vp-doc h4, .vp-doc h5, .vp-doc h6,
+.VPNavBarTitle,
+.VPNavBarMenuLink,
+.VPButton,
+.VPHero .name,
+.VPHero .text,
+.VPFeature .title {
+  font-family: var(--vp-font-family-headings) !important;
+}
+
+/* Body and paragraphs typography override */
+body,
+p,
+li,
+span,
+.vp-doc p,
+.vp-doc li {
+  font-family: var(--vp-font-family-base);
+}
+
+/* Sidebar: Open Sans bold -- Raleway is too condensed at this size */
+.VPSidebarItem .text {
+  font-family: var(--vp-font-family-base) !important;
+  font-weight: 700 !important;
+}
+
+/* Right sidebar outline: Open Sans bold instead of Raleway */
+.VPDocOutline,
+.outline-title,
+.outline-link {
+  font-family: var(--vp-font-family-base) !important;
+  font-weight: 700 !important;
+}
+
+/* Headings spacing, line-height and letter-spacing refinements */
+h1, .vp-doc h1 {
+  font-weight: 800 !important;
+  letter-spacing: -0.025em !important;
+  line-height: 1.15 !important;
+}
+
+h2, .vp-doc h2 {
+  font-weight: 700 !important;
+  letter-spacing: -0.02em !important;
+  line-height: 1.2 !important;
+}
+
+h3, .vp-doc h3 {
+  font-weight: 600 !important;
+  letter-spacing: -0.015em !important;
+  line-height: 1.25 !important;
+}
+
+h4, .vp-doc h4 {
+  font-weight: 600 !important;
+  letter-spacing: -0.01em !important;
+  line-height: 1.3 !important;
+}
+
+/* Elegant spacing for paragraphs and list items */
+.vp-doc p {
+  line-height: 1.75 !important;
+  margin-top: 1.25rem !important;
+  margin-bottom: 1.25rem !important;
+}
+
+.vp-doc li {
+  line-height: 1.75 !important;
+  margin-top: 0.5rem !important;
+  margin-bottom: 0.5rem !important;
+}
+
+/* Dark mode heading colors */
+.dark h1, .dark .vp-doc h1 {
+  color: #5CBBEA !important;
+  border-bottom: 1px solid var(--vp-c-brand-1) !important;
+}
+.dark h2, .dark .vp-doc h2 {
+  color: #5CBBEA !important;
+  border-bottom: 1px solid var(--vp-c-divider) !important;
+}
+.dark h3, .dark .vp-doc h3 {
+  color: #BDE6FA !important;
+}
+.dark h4, .dark .vp-doc h4 {
+  color: #E2E8F0 !important;
+}
+
+/* ==========================================================================
+   2. TRANSITIONS AND INTERACTIVE STATES
+   ========================================================================== */
+
+a,
+button,
+select,
+input,
+textarea,
+.VPButton,
+.VPLink,
+.VPFeature,
+.VPSidebarItem .text,
+.VPNavBarMenuLink,
+.VPNavBarHamburger {
+  transition: background-color 0.3s var(--ease-fluid),
+              border-color 0.3s var(--ease-fluid),
+              color 0.3s var(--ease-fluid),
+              box-shadow 0.3s var(--ease-fluid),
+              transform 0.3s var(--ease-fluid),
+              opacity 0.3s var(--ease-fluid);
+}
+
+.VPButton:active,
+button:active {
+  transform: scale(0.97) !important;
+}
+
+/* In-text link enhancements */
+.vp-doc a {
+  color: var(--twc-dark-blue);
+  text-decoration: underline;
+  text-decoration-color: rgba(11, 73, 111, 0.3);
+  text-underline-offset: 3px;
+  font-weight: 600;
+}
+
+.vp-doc a:hover {
+  color: var(--twc-light-blue);
+  text-decoration-color: var(--twc-light-blue);
+}
+
+/* Dark mode links override */
+.dark .vp-doc a {
+  color: var(--vp-c-brand-1) !important;
+  text-decoration-color: rgba(57, 170, 225, 0.3) !important;
+}
+
+.dark .vp-doc a:hover {
+  color: var(--vp-c-brand-2) !important;
+  text-decoration-color: var(--vp-c-brand-2) !important;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--scrollbar-thumb-color);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--scrollbar-thumb-hover-color);
+}
+
+/* ==========================================================================
+   3. ACCESSIBILITY FOCUS STYLES
+   ========================================================================== */
+
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+textarea:focus-visible,
+select:focus-visible,
+[tabindex]:focus-visible {
+  outline: 2px solid var(--twc-light-blue) !important;
+  outline-offset: 2px !important;
+  box-shadow: 0 0 0 4px rgba(57, 170, 225, 0.25) !important;
+}
+
+.dark a:focus-visible,
+.dark button:focus-visible,
+.dark input:focus-visible,
+.dark textarea:focus-visible,
+.dark select:focus-visible,
+.dark [tabindex]:focus-visible {
+  outline: 2px solid var(--vp-c-brand-2) !important;
+  box-shadow: 0 0 0 4px rgba(189, 230, 250, 0.25) !important;
+}
+
+.DocSearch-Button {
+  border-radius: var(--radius-interactive) !important;
+  border: 1px solid var(--twc-light-gray) !important;
+}
+
+.DocSearch-Button:hover {
+  border-color: var(--twc-light-blue) !important;
+}
+
+.DocSearch-Button:focus {
+  border-color: var(--twc-dark-blue) !important;
+  box-shadow: 0 0 0 3px rgba(11, 73, 111, 0.15) !important;
+}
+
+.dark .DocSearch-Button {
+  border-color: var(--vp-c-border) !important;
+}
+
+.dark .DocSearch-Button:hover {
+  border-color: var(--vp-c-brand-1) !important;
+}
+
+/* ==========================================================================
+   4. SPACING, CARDS AND CORNER RADIUS REFINEMENTS
+   ========================================================================== */
+
+.VPHero {
+  padding-top: 6rem !important;
+  padding-bottom: 6rem !important;
+}
+
+@media (max-width: 768px) {
+  .VPHero {
+    padding-top: 4rem !important;
+    padding-bottom: 4rem !important;
+  }
+}
+
+.VPFeature {
+  border: 1px solid var(--twc-light-gray) !important;
+  background: var(--vp-c-bg-elv) !important;
+  border-radius: var(--radius-container) !important;
+  padding: 2rem !important;
+}
+
+.VPFeature:hover {
+  transform: translateY(-4px) !important;
+  border-color: var(--twc-light-blue) !important;
+  box-shadow: 0 12px 24px -10px rgba(11, 73, 111, 0.12) !important;
+}
+
+/* Dark mode card refinements */
+.dark .VPFeature {
+  background-color: var(--vp-c-bg-elv) !important;
+  border-color: var(--vp-c-border) !important;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15) !important;
+}
+
+.dark .VPFeature:hover {
+  border-color: var(--vp-c-brand-1) !important;
+  box-shadow: 0 12px 24px -10px rgba(57, 170, 225, 0.25) !important;
+}
+
+.VPButton {
+  border-radius: var(--radius-interactive) !important;
+  font-weight: 600 !important;
+}
+
+.VPButton.brand {
+  background: linear-gradient(135deg, var(--twc-dark-blue) 0%, #15557E 100%) !important;
+  box-shadow: 0 4px 14px 0 rgba(11, 73, 111, 0.25) !important;
+}
+
+.VPButton.brand:hover {
+  background: linear-gradient(135deg, var(--twc-light-blue) 0%, #2A93C7 100%) !important;
+  box-shadow: 0 6px 20px 0 rgba(57, 170, 225, 0.35) !important;
+}
+
+.VPButton.alt {
+  background: var(--twc-light-gray) !important;
+  color: var(--twc-dark-gray) !important;
+  border: 1px solid var(--twc-mid-gray) !important;
+}
+
+.VPButton.alt:hover {
+  background: var(--twc-mid-gray) !important;
+  color: var(--twc-dark-gray) !important;
+}
+
+/* Dark mode buttons override */
+.dark .VPButton.brand {
+  background: linear-gradient(135deg, var(--twc-dark-blue) 0%, #15557E 100%) !important;
+  border-color: var(--twc-dark-blue) !important;
+  box-shadow: 0 4px 14px 0 rgba(11, 73, 111, 0.4) !important;
+}
+
+.dark .VPButton.brand:hover {
+  background: linear-gradient(135deg, var(--vp-c-brand-1) 0%, #2A93C7 100%) !important;
+  border-color: var(--vp-c-brand-1) !important;
+  box-shadow: 0 6px 20px 0 rgba(57, 170, 225, 0.4) !important;
+}
+
+.dark .VPButton.alt {
+  background-color: var(--vp-c-bg-elv) !important;
+  color: var(--vp-c-text-1) !important;
+  border: 1px solid var(--vp-c-border) !important;
+}
+
+.dark .VPButton.alt:hover {
+  background-color: var(--vp-c-bg-soft) !important;
+  border-color: var(--vp-c-brand-1) !important;
+}
+
+/* Sidebar structure and styles */
+.VPSidebar {
+  padding-left: 2rem !important;
+  padding-right: 2rem !important;
+}
+
+.VPSidebarItem.level-0 > .item > .text {
+  font-weight: 700 !important;
+  color: var(--twc-dark-blue) !important;
+  letter-spacing: -0.01em !important;
+}
+
+.dark .VPSidebarItem.level-0 > .item > .text {
+  color: var(--vp-c-text-1) !important;
+}
+
+.VPSidebarItem.is-active > .item > .text {
+  color: var(--twc-light-blue) !important;
+  font-weight: 700 !important;
+}
+
+.VPSidebarItem.is-link > .item:hover > .text {
+  color: var(--twc-light-blue) !important;
+}
+
+/* Dark mode active/hover states for sidebar */
+.dark .VPSidebarItem.is-active > .item > .text {
+  color: var(--vp-c-brand-1) !important;
+}
+
+.dark .VPSidebarItem.is-link > .item:hover > .text {
+  color: var(--vp-c-brand-2) !important;
+}
+
+/* Dark mode Navigation Bar and Sidebar structure */
+.dark .VPNavBar {
+  background-color: var(--vp-nav-bg-color) !important;
+  backdrop-filter: blur(12px) !important;
+  -webkit-backdrop-filter: blur(12px) !important;
+  border-bottom: 1px solid var(--vp-c-divider) !important;
+}
+
+.dark .VPSidebar {
+  background-color: var(--vp-sidebar-bg-color) !important;
+  border-right: 1px solid var(--vp-c-divider) !important;
+  box-shadow: 4px 0 24px rgba(0, 0, 0, 0.2) !important;
+}
+
+/* Active navigation link in dark mode */
+.dark .VPNavBarMenuLink:hover,
+.dark .VPNavBarMenuLink.active,
+.dark .VPNavBarMenuGroup .VPLink:hover {
+  color: var(--vp-c-brand-1) !important;
+}
+
+/* ==========================================================================
+   5. CALLOUTS AND ADMONITIONS
+   ========================================================================== */
+
+.custom-block {
+  border-radius: var(--radius-interactive) !important;
+  border-left-width: 4px !important;
+  padding: 1rem 1.25rem !important;
+  margin: 1.5rem 0 !important;
+}
+
+.custom-block.tip {
+  border-color: var(--twc-green) !important;
+  background-color: rgba(131, 184, 65, 0.06) !important;
+}
+
+.custom-block.tip .custom-block-title {
+  color: var(--twc-green) !important;
+  font-weight: 700 !important;
+}
+
+.custom-block.info {
+  border-color: var(--twc-aqua) !important;
+  background-color: rgba(64, 188, 188, 0.06) !important;
+}
+
+.custom-block.info .custom-block-title {
+  color: var(--twc-aqua) !important;
+  font-weight: 700 !important;
+}
+
+.custom-block.warning {
+  border-color: var(--twc-yellow) !important;
+  background-color: rgba(253, 191, 81, 0.06) !important;
+}
+
+.custom-block.warning .custom-block-title {
+  color: #DDA02A !important;
+  font-weight: 700 !important;
+}
+
+.custom-block.danger {
+  border-color: var(--twc-red) !important;
+  background-color: rgba(234, 99, 81, 0.06) !important;
+}
+
+.custom-block.danger .custom-block-title {
+  color: var(--twc-red) !important;
+  font-weight: 700 !important;
+}
+
+/* Dark mode Callouts override */
+.dark .custom-block.tip {
+  background-color: rgba(131, 184, 65, 0.08) !important;
+  border-color: var(--twc-green) !important;
+}
+.dark .custom-block.tip .custom-block-title {
+  color: #92C650 !important;
+}
+
+.dark .custom-block.info {
+  background-color: rgba(64, 188, 188, 0.08) !important;
+  border-color: var(--twc-aqua) !important;
+}
+.dark .custom-block.info .custom-block-title {
+  color: #55CDCD !important;
+}
+
+.dark .custom-block.warning {
+  background-color: rgba(253, 191, 81, 0.08) !important;
+  border-color: var(--twc-yellow) !important;
+}
+.dark .custom-block.warning .custom-block-title {
+  color: var(--twc-yellow) !important;
+}
+
+.dark .custom-block.danger {
+  background-color: rgba(234, 99, 81, 0.08) !important;
+  border-color: var(--twc-red) !important;
+}
+.dark .custom-block.danger .custom-block-title {
+  color: #F07E6F !important;
+}
+
+/* ==========================================================================
+   6. SCROLL REVEAL AND PAGE LOAD ANIMATIONS
+   ========================================================================== */
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.VPHero .name {
+  animation: fadeInUp 0.8s var(--ease-fluid) both;
+}
+
+.VPHero .text {
+  animation: fadeInUp 0.8s var(--ease-fluid) both;
+  animation-delay: 0.1s;
+}
+
+.VPHero .tagline {
+  animation: fadeInUp 0.8s var(--ease-fluid) both;
+  animation-delay: 0.2s;
+}
+
+.VPHero .actions {
+  animation: fadeInUp 0.8s var(--ease-fluid) both;
+  animation-delay: 0.3s;
+}
+
+.VPFeatures {
+  animation: fadeInUp 1s var(--ease-fluid) both;
+  animation-delay: 0.4s;
+}
+
+/* ==========================================================================
+   7. TOPICAL INDEX & FOOTNOTES (Dark mode refinements)
+   ========================================================================== */
+.dark .topical-index-page .topical-alpha {
+  background: rgba(57, 170, 225, 0.08) !important;
+  border-color: rgba(91, 184, 232, 0.25) !important;
+}
+.dark .topical-index-page .topical-alpha a {
+  color: #E2E8F0 !important;
+  background: #141F2D !important;
+  border-color: var(--vp-c-border) !important;
+}
+.dark .topical-index-page .topical-alpha a:hover {
+  color: #FFF !important;
+  background: var(--vp-c-brand-1) !important;
+  border-color: var(--vp-c-brand-1) !important;
+}
+.dark .topical-index-page .vp-doc h2 {
+  color: #5CBBEA !important;
+  border-top-color: rgba(91, 184, 232, 0.2) !important;
+}
+.dark .topical-index-page .vp-doc p:has(>strong:first-child),
+.dark .topical-index-page .vp-doc p:has(>strong:first-child)>strong:first-child {
+  color: #E2E8F0 !important;
+}
+.dark .topical-index-page .vp-doc ul {
+  border-left-color: rgba(91, 184, 232, 0.2) !important;
+}
+.dark .topical-index-page .vp-doc ul>li:before {
+  background: var(--vp-c-brand-1) !important;
+}
+.dark .footnotes {
+  border-color: var(--vp-c-divider) !important;
+  color: var(--vp-c-text-2) !important;
+}
+.dark .footnote-ref a,
+.dark .footnote-backref {
+  color: var(--vp-c-brand-1) !important;
+}
+.dark .footnote-ref a:hover,
+.dark .footnote-backref:hover {
+  color: var(--vp-c-brand-2) !important;
+}
+
+/* ==========================================================================
+   8. REDUCED MOTION SUPPORT
+   ========================================================================== */
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  ::before,
+  ::after {
+    animation-delay: -1ms !important;
+    animation-duration: 1ms !important;
+    animation-iteration-count: 1 !important;
+    background-attachment: initial !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0s !important;
+    transition-delay: 0s !important;
+  }
+}
+
+/* Hide tagline on homepage */
+.VPHero .tagline {
+  display: none !important;
+}
+
+/* 2026 cutover: preserve the approved reader-facing edition tagline. */
+.VPHero .tagline { display: block !important; }

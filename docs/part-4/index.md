@@ -1,15 +1,13 @@
 # Part 4 — General Church Government
 
-*[¶1500–2499](/part-4/ch1-general-conference.md#p1500)*
-
-| Chapter | Paragraphs |
-|---------|-----------|
-| [Ch. 1 — General Conference](ch1-general-conference) | [¶1500–1599](/part-4/ch1-general-conference.md#p1500) |
-| [Ch. 2 — General Board](ch2-general-board) | [¶1600–1799](/part-4/ch2-general-board.md#p1600) |
-| [Ch. 3 — General Officials of the Church](ch3-general-officials) | [¶1800–1899](/part-4/ch3-general-officials.md#p1800) |
-| [Ch. 4 — General Administration](ch4-general-administration) | [¶1900–2099](/part-4/ch4-general-administration.md#p1900) |
-| [Ch. 5 — Communication and Administration Division](ch5-communication-admin) | [¶2100–2199](/part-4/ch5-communication-admin.md#p2100) |
-| [Ch. 6 — Global Partners Division](ch6-global-partners) | ¶2200–2299 |
-| [Ch. 7 — Church Multiplication and Discipleship Division](ch7-multiplication-discipleship) | ¶2300–2337 |
-| [Ch. 8 — Education and Clergy Development Division](ch8-education-clergy) | [¶2338–2399](/part-4/ch8-education-clergy.md#p2338) |
-| [Ch. 9 — Boundaries](ch9-boundaries) | [¶2400–2499](/part-4/ch9-boundaries.md#p2400) |
+| Chapter | File | Records |
+|---|---:|---:|
+| [Ch. 1 — General Conference](ch1-general-conference) | `ch1-general-conference.md` | 101 |
+| [Ch. 2 — General Board](ch2-general-board) | `ch2-general-board.md` | 119 |
+| [Ch. 3 — General Officials of the Church](ch3-general-officials-of-the-church) | `ch3-general-officials-of-the-church.md` | 24 |
+| [Ch. 4 — General Administration](ch4-general-administration) | `ch4-general-administration.md` | 90 |
+| [Ch. 5 — Communications](ch5-communications) | `ch5-communications.md` | 5 |
+| [Ch. 6 — Global Partners](ch6-global-partners) | `ch6-global-partners.md` | 22 |
+| [Ch. 7 — Church Multiplication and Discipleship](ch7-church-multiplication-and-discipleship) | `ch7-church-multiplication-and-discipleship.md` | 5 |
+| [Ch. 8 — Wesleyan Higher Education](ch8-wesleyan-higher-education) | `ch8-wesleyan-higher-education.md` | 44 |
+| [Ch. 9 — Boundaries](ch9-boundaries) | `ch9-boundaries.md` | 31 |
